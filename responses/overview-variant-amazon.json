@@ -1,0 +1,172 @@
+{
+  "id": "38694",
+  "internalId": "PRV-281-38694",
+  "sku": "55252223219787294959",
+  "name": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+  "identityType": null,
+  "identityValue": null,
+  "asin": "B0DZXGNKR7",
+  "readinessValue": "60",
+  "orderCount": "4",
+  "totalRevenue": "16.00",
+  "images": [
+    {
+      "id": 416301,
+      "isExist": true,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 1,
+      "channelId": 630,
+      "isBaseValue": false,
+      "isMainImage": true,
+      "languageCode": null,
+      "digitalAssetId": 148910,
+      "fileUniqueName": "4ac3c640-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 416300,
+      "isExist": null,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 1,
+      "channelId": null,
+      "isBaseValue": true,
+      "isMainImage": true,
+      "languageCode": null,
+      "digitalAssetId": 148910,
+      "fileUniqueName": "4ac3c640-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 417907,
+      "isExist": null,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 2,
+      "channelId": null,
+      "isBaseValue": true,
+      "isMainImage": false,
+      "languageCode": null,
+      "digitalAssetId": 149413,
+      "fileUniqueName": "ea246730-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 417908,
+      "isExist": true,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 2,
+      "channelId": 630,
+      "isBaseValue": false,
+      "isMainImage": false,
+      "languageCode": null,
+      "digitalAssetId": 149413,
+      "fileUniqueName": "ea246730-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 417910,
+      "isExist": true,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 3,
+      "channelId": 630,
+      "isBaseValue": false,
+      "isMainImage": false,
+      "languageCode": null,
+      "digitalAssetId": 149414,
+      "fileUniqueName": "ea691150-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 417909,
+      "isExist": null,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 3,
+      "channelId": null,
+      "isBaseValue": true,
+      "isMainImage": false,
+      "languageCode": null,
+      "digitalAssetId": 149414,
+      "fileUniqueName": "ea691150-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 417912,
+      "isExist": true,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 4,
+      "channelId": 630,
+      "isBaseValue": false,
+      "isMainImage": false,
+      "languageCode": null,
+      "digitalAssetId": 149415,
+      "fileUniqueName": "eacb5590-ed56-11f0-b61e-d999a5d27586.jpg"
+    },
+    {
+      "id": 417911,
+      "isExist": null,
+      "filePath": "uploads/281/product/11668/",
+      "sequence": 4,
+      "channelId": null,
+      "isBaseValue": true,
+      "isMainImage": false,
+      "languageCode": null,
+      "digitalAssetId": 149415,
+      "fileUniqueName": "eacb5590-ed56-11f0-b61e-d999a5d27586.jpg"
+    }
+  ],
+  "mediaInfo": {
+    "value": "isInherited",
+    "attributeId": 418367,
+    "isInherited": true
+  },
+  "attributes": [
+    {
+      "value": ["11oz"],
+      "attributeId": 470939,
+      "attributeName": "AM_DRINKING_CUP_size_value",
+      "fallbackValue": ["11oz"],
+      "attributeLabel": "Size",
+      "productVariantAttributeId": 24193
+    }
+  ],
+  "stock": 0,
+  "prices": [
+    {
+      "id": 217720,
+      "price": 9.99,
+      "currency": {
+        "id": 808,
+        "currency": "USD"
+      },
+      "channelId": 630,
+      "productId": 11668,
+      "variantId": 38694,
+      "currencyId": 808,
+      "isInherited": true,
+      "amazonMarketplaceId": 2
+    },
+    {
+      "id": 217717,
+      "price": 9.99,
+      "currency": {
+        "id": 808,
+        "currency": "USD"
+      },
+      "channelId": null,
+      "productId": 11668,
+      "variantId": 38694,
+      "currencyId": 808,
+      "isInherited": false,
+      "amazonMarketplaceId": null
+    }
+  ],
+  "variantMarketplace": {
+    "id": 49419,
+    "asin": "B0DZXGNKR7",
+    "status": true,
+    "amazonStock": 0,
+    "syncStatus;": "ERROR",
+    "conditionType": "new_new",
+    "listingErrors": [],
+    "externalStatus": ["DISCOVERABLE"],
+    "shippingTemplate": {
+      "id": 273,
+      "name": "Migrated Template",
+      "externalId": "legacy-template-id"
+    },
+    "shippingTemplateId": 273
+  }
+}

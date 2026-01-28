@@ -1,0 +1,60 @@
+{
+  "payload": [
+    {
+      "ASIN": "B09XC9S9Y2",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [
+            {
+              "belongsToRequester": false,
+              "condition": "New",
+              "subcondition": "New",
+              "Price": {
+                "LandedPrice": {
+                  "CurrencyCode": "USD",
+                  "Amount": 49.99
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "USD",
+                  "Amount": 49.99
+                },
+                "Shipping": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0
+                }
+              },
+              "CompetitivePriceId": "1"
+            }
+          ],
+          "NumberOfOfferListings": [
+            {
+              "condition": "New",
+              "Count": 2
+            },
+            {
+              "condition": "Any",
+              "Count": 2
+            }
+          ]
+        },
+        "Identifiers": {
+          "MarketplaceASIN": {
+            "MarketplaceId": "ATVPDKIKX0DER",
+            "ASIN": "B09XC9S9Y2"
+          }
+        },
+        "SalesRankings": [
+          {
+            "ProductCategoryId": "fashion_display_on_website",
+            "Rank": 1315026
+          },
+          {
+            "ProductCategoryId": "7454934011",
+            "Rank": 22876
+          }
+        ]
+      },
+      "status": "Success"
+    }
+  ]
+}

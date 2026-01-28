@@ -1,0 +1,15 @@
+{
+  "channelId": "517",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2025-12-01T11:29:57.251Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 170,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1
+  }
+}

@@ -1,0 +1,512 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1344",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1
+        },
+        "userCurrency": {
+          "id": "677"
+        }
+      },
+      "attributes": {
+        "variation_theme": [
+          {
+            "name": "COLOR"
+          }
+        ],
+        "included_components": [
+          {
+            "value": "On-Off Switch",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "lamp_type": [
+          {
+            "value": "Mood Light",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "skip_offer": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "switch_type": [
+          {
+            "value": "Foot",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "Anker",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_name": [
+          {
+            "value": "FSXTFL00",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "floor lamp",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_dimensions": [
+          {
+            "width": {
+              "unit": "inches",
+              "value": 12
+            },
+            "length": {
+              "unit": "inches",
+              "value": 10
+            },
+            "height": {
+              "unit": "inches",
+              "value": 65
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_number": [
+          {
+            "value": "FSXTFL00",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "floor lamp",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "Aekenr",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "shade": [
+          {
+            "color": [
+              {
+                "value": "Beige",
+                "language_tag": "en_US"
+              }
+            ],
+            "material": [
+              {
+                "value": "Polyvinyl Chloride",
+                "language_tag": "en_US"
+              }
+            ],
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "Aekenr Floor Lamp for Living Room and Bedroom",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Floor Lamps",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2025-07-17T03:03:25.699Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_depth_width_height": [
+          {
+            "depth": {
+              "unit": "inches",
+              "value": 10
+            },
+            "height": {
+              "unit": "inches",
+              "value": 65
+            },
+            "width": {
+              "unit": "inches",
+              "value": 12
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "material": [
+          {
+            "value": "Polyvinyl Chloride",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "warranty_description": [
+          {
+            "value": "2 year.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "part_number": [
+          {
+            "value": "FSXTFL00",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "BR",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "list_price": [
+          {
+            "currency": "USD",
+            "value": 5000,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_suggested_asin": [
+          {
+            "value": "B0FHVRJ1MD",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "parent"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childSkus": [
+                "7895203685985203-V2",
+                "7895203685985203-V4",
+                "7895203685985203-V1",
+                "7895203685985203-V3"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childAsins": [
+                "B0FHVZ667H",
+                "B0FHVJ4Z68",
+                "B0FHTKKM9Q",
+                "B0FHVJB9LQ"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "LAMP",
+          "status": [],
+          "createdDate": "2025-11-05T13:33:16.161Z",
+          "lastUpdatedDate": "2025-11-05T13:38:39.527Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "Aekenr",
+          "browseClassification": {
+            "displayName": "Floor Lamps",
+            "classificationId": "1063294"
+          },
+          "itemClassification": "VARIATION_PARENT",
+          "itemName": "Aekenr Floor Lamp for Living Room and Bedroom",
+          "manufacturer": "Anker",
+          "memorabilia": false,
+          "modelNumber": "FSXTFL00",
+          "partNumber": "FSXTFL00",
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "lighting_display_on_website",
+          "websiteDisplayGroupName": "Lighting"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/71GWsws8xeL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41eUnsqS+kL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41eUnsqS+kL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/71qpWSkKVEL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/41RWuJmIm1L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/41RWuJmIm1L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/714fXghSOFL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51CfWjZTi3L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51CfWjZTi3L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71Qirf1LeGL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/41GPaJ3mrEL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/41GPaJ3mrEL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/616b3yhbocL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/41Ex2LVnXIL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/41Ex2LVnXIL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/612rQLC-pnL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41FsQUGhjxL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41FsQUGhjxL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/81jYLK+TXZL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/51yZ5CvERaL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/51yZ5CvERaL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/61WUiTk0bmL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/41koB4A+leL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/41koB4A+leL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "5461",
+          "message": "You may not create new ASINs for the brand Aekenr. If you believe the product you want to sell is not currently in the Amazon catalog and should be added as a new ASIN, please copy and paste the following URL in a separate window and complete the form: https://sellercentral.amazon.com/hz/approvalrequest?restrictionScope=CONTRIBUTION&brandName=Aekenr&brandId=15425059&operationFilter=create_asin",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "7895203685985203"
+        },
+        {
+          "code": "20015",
+          "message": "Your image file type isn't supported. Image must use HTTP protocol (not HTTPS, FTP, or \"file\"), and be in JPEG, TIFF, PNG, or non-animated GIF format (JPEG preferred). Use RGB or CMYK color (RGB preferred). Images should be clear, unpixelated, at least 72 dpi, and between 1,000 and 10,000 pixels on the longest side to enable zoom functionality.",
+          "severity": "ERROR",
+          "categories": ["INVALID_IMAGE", "INVALID_ATTRIBUTE"],
+          "sku": "7895203685985203"
+        },
+        {
+          "code": "8007",
+          "message": "We found some issues with your parent SKU [7895203685985203] that need to be fixed before you can work on any child SKUs. Please correct the product errors in your parent SKU first. For more details please check https://sellercentral.amazon.com/gp/help/202135320",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "7895203685985203"
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "LAMP"
+        }
+      ]
+    }
+  }
+]

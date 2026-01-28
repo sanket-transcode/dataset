@@ -1,0 +1,273 @@
+[
+  {
+    "sku": "25895874100",
+    "asin": "B0G1TCTST1",
+    "winnerSku": "25895874100",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER", "A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "EARRING",
+    "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+    "wrappers": [
+      {
+        "sku": "25895874100",
+        "asin": "B0G1TCTST1",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "asin": "B0G1TCTST1",
+              "productType": "EARRING",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+              "createdDate": "2025-11-11T10:41:56.224Z",
+              "lastUpdatedDate": "2025-11-11T13:01:41.250Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/31HD7G1pvKL.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Drop & Dangle",
+                "classificationId": "7454922011"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+              "memorabilia": false,
+              "partNumber": "001",
+              "size": "17.5*14.5mm",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "jewelry_display_on_website",
+              "websiteDisplayGroupName": "Jewelry"
+            }
+          ],
+          "attributes": {
+            "jewelry_material_categorization": [
+              {
+                "value": "fashion",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "STYLE_NAME"
+              },
+              {
+                "name": "STYLE"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Add a touch of sophistication to your look with these elegant dangle earrings. Perfect for any occasion, these earrings feature a timeless design that complements both casual and formal outfits. Crafted with high-quality materials, they offer durability and lasting shine. Lightweight and comfortable to wear, these earrings are a must-have addition to your jewelry collection.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "department": [
+              {
+                "value": "womens",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "cpsia_cautionary_statement": [
+              {
+                "value": "no_warning_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "currency": "USD",
+                "value": 500,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Drop & Dangle",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-04-20T06:18:00.471Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "material": [
+              {
+                "value": "Iron",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "size": [
+              {
+                "value": "17.5*14.5mm",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "metal_type": [
+              {
+                "value": "No Metal Type",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "gem_type": [
+              {
+                "value": "No Gemstone",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "001",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0G1TCTST1",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+        "variationTheme": "STYLE_NAME",
+        "variants": [
+          {
+            "sku": "785241036-V3",
+            "asin": "B0G1TNGPPR"
+          },
+          {
+            "sku": "25895874100-V2",
+            "asin": "B0G1T7M89Q"
+          },
+          {
+            "sku": "25895874100-V1",
+            "asin": "B0G1TGBVVF"
+          }
+        ],
+        "score": 39,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "523",
+        "wrapperId": "4199"
+      },
+      {
+        "sku": "25895874100",
+        "asin": "B0G2GKQNP9",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Elegant Dangle Earrings",
+        "variationTheme": "STYLE",
+        "variants": [
+          {
+            "sku": "25895874100-V2",
+            "asin": "B0G1T7M89Q"
+          }
+        ],
+        "score": 12,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "523",
+        "wrapperId": "4200"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-process-media",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "7767"
+  }
+]

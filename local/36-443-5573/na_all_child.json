@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "truck-toy-for-kid Yellow",
+    "asin": "B0G2XMZXTK",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "NON_RIDING_TOY_VEHICLE",
+    "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers Yellow",
+    "isEnriched": false,
+    "variantId": "23616"
+  },
+  {
+    "sku": "truck-toy-for-kid black",
+    "asin": "B0G341LKZL",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "NON_RIDING_TOY_VEHICLE",
+    "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers Black",
+    "isEnriched": false,
+    "variantId": "23618"
+  }
+]

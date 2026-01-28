@@ -1,0 +1,235 @@
+{
+  "pesticide_marking": [
+    {
+      "marking_type": "epa_establishment_number",
+      "registration_status": "fifra_not_considered_pesticide",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "color": [
+    {
+      "language_tag": "en_US",
+      "value": "Multiple",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "variation_theme": [
+    {
+      "name": "SIZE",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "included_components": [
+    {
+      "language_tag": "en_US",
+      "value": "Handle",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "capacity": [
+    {
+      "unit": "ounces",
+      "value": 11.0,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "manufacturer": [
+    {
+      "language_tag": "en_US",
+      "value": "Generic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_weight": [
+    {
+      "unit": "pounds",
+      "value": 0.749572,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "model_name": [
+    {
+      "language_tag": "en_US",
+      "value": "Generic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "bullet_point": [
+    {
+      "language_tag": "en_US",
+      "value": "Glossy ceramic finish for a sleek look",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Vibrant colors that pop with every design",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Microwave-safe for convenient heating",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Dishwasher-safe for easy cleanup",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Available in two sizes: 11oz and 15oz",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_dimensions": [
+    {
+      "width": {
+        "unit": "inches",
+        "value": 3.15
+      },
+      "length": {
+        "unit": "inches",
+        "value": 3.15
+      },
+      "height": {
+        "unit": "inches",
+        "value": 3.74
+      },
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "model_number": [
+    {
+      "value": "Generic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "product_description": [
+    {
+      "language_tag": "en_US",
+      "value": "Introducing a vibrant Ceramic Mug that brings a splash of joy to your daily routine! This colorful mug is perfect for coffee lovers, tea enthusiasts, or anyone who appreciates a great beverage. Its glossy finish and lively designs make it a fantastic addition to your kitchen or office, creating an uplifting atmosphere. Whether you're sipping your morning brew or enjoying a cozy evening tea, this mug elevates every sip into a delightful experience. Ideal for gifting on special occasions like birthdays, holidays, or just because – it’s a perfect fit for anyone who loves fun and unique home decor. Product features - Glossy ceramic finish for a sleek look. - Vibrant colors that pop with every design. - Microwave-safe for convenient heating. - Dishwasher-safe for easy cleanup. - Available in two sizes: 11oz and 15oz. Care instructions - Clean in dishwasher or wash by hand with warm water and dish soap",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "brand": [
+    {
+      "language_tag": "en_US",
+      "value": "GENERIC",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "value": "not_applicable",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "unspsc_code": [
+    {
+      "value": "52150000",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "special_feature": [
+    {
+      "language_tag": "en_US",
+      "value": "Dishwasher Safe",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "value": false,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_name": [
+    {
+      "language_tag": "en_US",
+      "value": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "list_price": [
+    {
+      "currency": "USD",
+      "value": 9.99,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "batteries_required": [
+    {
+      "value": false,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "value": "Coffee Cups & Mugs",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "product_site_launch_date": [
+    {
+      "value": "2025-03-10T09:01:52.379Z",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "number_of_items": [
+    {
+      "value": 1,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "size": [
+    {
+      "language_tag": "en_US",
+      "value": "11 Ounces",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "material": [
+    {
+      "language_tag": "en_US",
+      "value": "Ceramic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_width_height": [
+    {
+      "width": {
+        "unit": "inches",
+        "value": 3.15
+      },
+      "height": {
+        "unit": "inches",
+        "value": 3.74
+      },
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "style": [
+    {
+      "language_tag": "en_US",
+      "value": "Classic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "care_instructions": [
+    {
+      "language_tag": "en_US",
+      "value": "Dishwasher Safe",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "unit_count": [
+    {
+      "type": {
+        "language_tag": "en_US",
+        "value": "Count"
+      },
+      "value": 1.0,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ]
+}

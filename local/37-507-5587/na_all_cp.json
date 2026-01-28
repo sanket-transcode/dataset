@@ -1,0 +1,1937 @@
+[
+  {
+    "sku": "2105236520",
+    "asin": "B0FS149WC6",
+    "winnerSku": "2105236520",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "PLACEMAT",
+    "productName": "50 Pcs Round Placemats (Brown)",
+    "productId": "7303",
+    "wrappers": [
+      {
+        "sku": "2105236520",
+        "asin": "B0FS149WC6",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "PLACEMAT",
+              "status": [],
+              "createdDate": "2025-11-13T07:05:10.641Z",
+              "lastUpdatedDate": "2025-11-13T10:21:47.499Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "CHAROUP",
+              "browseClassification": {
+                "displayName": "Place Mats",
+                "classificationId": "3742001"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "50 Pcs Round Placemats",
+              "manufacturer": "CHAROUP",
+              "memorabilia": false,
+              "modelNumber": "Placemats",
+              "packageQuantity": 1,
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR_NAME"
+              }
+            ],
+            "occasion_type": [
+              {
+                "value": "Baby Shower",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_length_width": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 1
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 1
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "CHAROUP",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_pieces": [
+              {
+                "value": 50,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "Placemats",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_shape": [
+              {
+                "value": "Round",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Placemats",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_package_quantity": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 1
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 1
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 0.1
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "Placemats",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "PlacematsPlacematsPlacemats",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "CHAROUP",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "50 Pcs Round Placemats",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Place Mats",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-09-22T02:52:45.096Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 50,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Unwashable",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "value": "Count",
+                  "language_tag": "en_US"
+                },
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "BR",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "2be65c4c-75bc-42c8-900c-0d21c18510d4",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0FS149WC6",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "50 Pcs Round Placemats (Brown)",
+        "variationTheme": "COLOR_NAME",
+        "variants": [
+          {
+            "sku": "2105236520-V1",
+            "asin": "B0FWR6KCYR"
+          }
+        ],
+        "score": 29,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507",
+        "wrapperId": "3883"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  },
+  {
+    "sku": "MR-WH-97",
+    "asin": "B0DT6Q2R57",
+    "winnerSku": "MR-WH-97",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "HOME_MIRROR",
+    "productName": "CLSEVXY Vanity Makeup Mirror with Stand, 1X/15X Magnification Double Sided 360 Degree Swivel, Portable Table Desk Counter top Magnifying Mirror, Tabletop Bathroom Shaving Mirror, 6.25 Inch",
+    "productId": "7304",
+    "wrappers": [
+      {
+        "sku": "MR-WH-97",
+        "asin": "B0DT6Q2R57",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "HOME_MIRROR",
+              "status": [],
+              "createdDate": "2025-11-06T09:15:58.523Z",
+              "lastUpdatedDate": "2025-11-06T09:36:04.639Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "CLSEVXY",
+              "browseClassification": {
+                "displayName": "Makeup Mirrors",
+                "classificationId": "3785121"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "CLSEVXY Makeup Mirror",
+              "manufacturer": "CLSEVXY",
+              "memorabilia": false,
+              "partNumber": "CLS-0511",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR_NAME/SIZE_NAME"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "CLSEVXY Makeup Mirror",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "CLSEVXY",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Makeup Mirrors",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2022-09-14T14:59:44.173Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "CLS-0511",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "CLSEVXY",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "mirror",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_length_width": [
+              {
+                "length": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 12
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_shape": [
+              {
+                "value": "Round",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Achieve flawless makeup application with our Double Sided Vanity Makeup Mirror. This 6.25-inch mirror features 1X and 15X magnification, perfect for detailed work. The 360-degree swivel design and sturdy stand make it ideal for any tabletop or bathroom countertop. Its portable design allows for easy travel and versatile use.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "storage",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "special_feature": [
+              {
+                "value": "Double-sided, 1/15X Magnifying, 6.25 Inches",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "CN",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "currency": "USD",
+                "value": 20,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "Glass, Acrylic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0DT6Q2R57",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "material": [
+              {
+                "value": "glass",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "mounting_type": [
+              {
+                "value": "Tabletop Mount",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "room_type": [
+              {
+                "value": "Bedroom",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "frame": [
+              {
+                "color": [
+                  {
+                    "value": "Transparent",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "material": [
+                  {
+                    "value": "Polystyrene (PS)",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "CLSEVXY Vanity Makeup Mirror with Stand, 1X/15X Magnification Double Sided 360 Degree Swivel, Portable Table Desk Counter top Magnifying Mirror, Tabletop Bathroom Shaving Mirror, 6.25 Inch",
+        "variationTheme": "COLOR_NAME/SIZE_NAME",
+        "variants": [
+          {
+            "sku": "MR-WH-97-V1",
+            "asin": "B0B527J8WC"
+          },
+          {
+            "sku": "MR-WH-97-V2",
+            "asin": "B0D3FD7WW6"
+          }
+        ],
+        "score": 34,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507",
+        "wrapperId": "3884"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  },
+  {
+    "sku": "69520145236",
+    "asin": "B0FMQK864B",
+    "winnerSku": "69520145236",
+    "isStandaloneProduct": false,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "GARLAND",
+    "productName": "6FT Artificial Norfolk Pine Garland, Realistic Christmas Greenery Garland for Mantle, Staircase, Banister, Fireplace, Wall, Door, Table, Indoor & Outdoor Holiday Winter Decortions",
+    "productId": "7305",
+    "wrappers": [
+      {
+        "sku": "69520145236",
+        "asin": "B0FMQK864B",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A2EUQ1WTGCTBG2",
+              "productType": "GARLAND",
+              "status": [],
+              "createdDate": "2025-11-06T12:37:04.241Z",
+              "lastUpdatedDate": "2025-11-06T12:40:49.574Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A2EUQ1WTGCTBG2",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "FLAGLY",
+              "browseClassification": {
+                "displayName": "Garlands",
+                "classificationId": "23573610011"
+              },
+              "color": "Green",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Norfolk Pine Garlands",
+              "manufacturer": "FLAGLY",
+              "memorabilia": false,
+              "modelNumber": "XD901",
+              "partNumber": "XD901",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "value": "Green",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "SIZE"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "pine",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "FLAGLY",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "XD901",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_shape": [
+              {
+                "value": "Long shape",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "23573610011",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Norfolk Pine Garlands",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "XD901",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Bring the festive spirit to your home with this lush 9-foot Artificial Norfolk Pine Garland. Perfect for draping across mantles, staircases, banisters, or adorning walls and doorways, this garland adds a touch of holiday cheer to any space. Its realistic greenery creates a warm and inviting atmosphere, suitable for both indoor and outdoor use. Enjoy hassle-free holiday decorating with this beautiful and durable Xmas decoration.",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "brand": [
+              {
+                "value": "FLAGLY",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "is_artificial_garland": [
+              {
+                "value": true,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Norfolk Pine Garlands",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "Polyethylene (Pe)",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-08-17T20:02:20.349Z",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "material": [
+              {
+                "value": "Polyethylene (PE)",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "is_lighted": [
+              {
+                "value": false,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "XD901",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "NL",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0F8QPS9SJ",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "A2EUQ1WTGCTBG2",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "A2EUQ1WTGCTBG2",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "6FT Artificial Norfolk Pine Garland, Realistic Christmas Greenery Garland for Mantle, Staircase, Banister, Fireplace, Wall, Door, Table, Indoor & Outdoor Holiday Winter Decortions",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "69520145236-V3",
+            "asin": "B0F8QTHGX1"
+          },
+          {
+            "sku": "69520145236-V1",
+            "asin": "B0F8QQZSD3"
+          },
+          {
+            "sku": "69520145236-V2",
+            "asin": "B0F8QPS9SJ"
+          }
+        ],
+        "score": 32,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507",
+        "wrapperId": "3885"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "PT-TY-01",
+    "asin": "B0BLBHH55H",
+    "winnerSku": "PT-TY-01",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "ARTIFICIAL_PLANT",
+    "productName": "Karlliu Artificial Plants Succulent Flowers in Ceramic Planter 2 Pack Small Fake Plants Potted for Home Office Desk Decor Farmhouse Living Room Bedroom Shelves Decoration",
+    "productId": "7306",
+    "wrappers": [
+      {
+        "sku": "PT-TY-01",
+        "asin": "B0BLBHH55H",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "ARTIFICIAL_PLANT",
+              "status": [],
+              "createdDate": "2025-11-04T07:36:56.146Z",
+              "lastUpdatedDate": "2025-11-04T09:46:07.749Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Karlliu",
+              "browseClassification": {
+                "displayName": "Artificial Plants & Greenery",
+                "classificationId": "17833726011"
+              },
+              "color": "Red With Blue",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Karlliu Artificial Plants Mini Succulent Flowers in Ceramic Pot",
+              "manufacturer": "Karlliu",
+              "memorabilia": false,
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "value": "Red With Blue",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "COLOR_NAME"
+              }
+            ],
+            "item_package_weight": [
+              {
+                "value": 0.5,
+                "unit": "pounds",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Karlliu",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "indoor_outdoor_usage": [
+              {
+                "value": "indoor",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 2.4
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 2.4
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 3.2
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Karlliu",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Karlliu Artificial Plants Mini Succulent Flowers in Ceramic Pot",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "currency": "USD",
+                "value": 11.99,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Artificial Plants & Greenery",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2022-11-03T06:16:17.718Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_depth_width_height": [
+              {
+                "depth": {
+                  "value": 2.4,
+                  "unit": "inches"
+                },
+                "width": {
+                  "value": 2.4,
+                  "unit": "inches"
+                },
+                "height": {
+                  "value": 3.2,
+                  "unit": "inches"
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 2,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "recommended_uses_for_product": [
+              {
+                "value": "indoor and outdoor",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_package_dimensions": [
+              {
+                "width": {
+                  "value": 2.75,
+                  "unit": "inches"
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 4
+                },
+                "height": {
+                  "value": 3.75,
+                  "unit": "inches"
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "material": [
+              {
+                "value": "Plastic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "specific_uses_for_product": [
+              {
+                "value": "Home Decor",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "container": [
+              {
+                "shape": [
+                  {
+                    "value": "Cylinder",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "material": [
+                  {
+                    "value": "Ceramic",
+                    "language_tag": "en_US",
+                    "marketplace_id": "ATVPDKIKX0DER"
+                  }
+                ],
+                "type": [
+                  {
+                    "value": "Ceramic Planter",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "Container",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "item_shape": [
+              {
+                "value": "Cylinder",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Perfect Design and Color Coordination: Carefully selected trio of colorful artificial succulents paired with the marble-patterned ceramic flower pot creates a perfect artistic decoration, Their lifelike appearance brings a touch of greenery and freshness to your home or office space, infusing it with boundless vitality",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Perpetually Maintains Freshness: Flower pot of this artificial plant is made of ceramic material, while the succulent plants are crafted from safe PE material, faux succulents within the pot can maintain their freshness over extended periods, no unpleasant odors associated, poses no health risks to humans or pets,ensuring safety and reliability",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Versatile for Various Scenarios: Faux succulent planter is exceptionally well-suited for various settings, such as your office desk, living room, bedroom, bathroom, kitchen, modern home office, dining area, coffee table, side table, wall shelves, bookshelves, study desk or TV area, serving as the perfect decoration, equally fitting to place on bedside tables, window sills or mantelpieces, can be used individually or in multiple combinations for added impact",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Bring a touch of nature indoors with our delightful collection of tiny succulent plants. These miniature succulents are perfect for adding a touch of greenery to your home, office, or any small space. Each plant is carefully selected and grown to ensure vibrant color and unique texture. Ideal for beginners, these low-maintenance plants require minimal care and are perfect for creating a stunning miniature garden or terrarium. Enjoy the beauty of nature without the hassle!",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "other",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "IT",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "50% Plastic & 50% Ceramic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0BLBHH55H",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Karlliu Artificial Plants Succulent Flowers in Ceramic Planter 2 Pack Small Fake Plants Potted for Home Office Desk Decor Farmhouse Living Room Bedroom Shelves Decoration",
+        "variationTheme": "COLOR_NAME",
+        "variants": [
+          {
+            "sku": "PT-TY-01-V3",
+            "asin": "B0839HPCST"
+          },
+          {
+            "sku": "PT-TY-01-V4",
+            "asin": "B0BLBH3NLV"
+          },
+          {
+            "sku": "PT-TY-01-V1",
+            "asin": "B0CD1QF387"
+          },
+          {
+            "sku": "PT-TY-01-V2",
+            "asin": "B087JSWDZT"
+          }
+        ],
+        "score": 44,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507",
+        "wrapperId": "3886"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  },
+  {
+    "sku": "7895203685985203",
+    "asin": "B0FHVRJ1MD",
+    "winnerSku": "7895203685985203",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "LAMP",
+    "productName": "Aekenr Floor lamp (Black & Beige Shade)",
+    "wrappers": [
+      {
+        "sku": "7895203685985203",
+        "asin": "B0FHVRJ1MD",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "LAMP",
+              "status": [],
+              "createdDate": "2025-11-05T13:33:16.161Z",
+              "lastUpdatedDate": "2025-11-05T13:38:39.527Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Aekenr",
+              "browseClassification": {
+                "displayName": "Floor Lamps",
+                "classificationId": "1063294"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Aekenr Floor Lamp for Living Room and Bedroom",
+              "manufacturer": "Anker",
+              "memorabilia": false,
+              "modelNumber": "FSXTFL00",
+              "partNumber": "FSXTFL00",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "lighting_display_on_website",
+              "websiteDisplayGroupName": "Lighting"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "On-Off Switch",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "lamp_type": [
+              {
+                "value": "Mood Light",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "switch_type": [
+              {
+                "value": "Foot",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Anker",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "FSXTFL00",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "floor lamp",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 12
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 65
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "FSXTFL00",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "floor lamp",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Aekenr",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "shade": [
+              {
+                "color": [
+                  {
+                    "value": "Beige",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "material": [
+                  {
+                    "value": "Polyvinyl Chloride",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Aekenr Floor Lamp for Living Room and Bedroom",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Floor Lamps",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-07-17T03:03:25.699Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_depth_width_height": [
+              {
+                "depth": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 65
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 12
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "material": [
+              {
+                "value": "Polyvinyl Chloride",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "warranty_description": [
+              {
+                "value": "2 year.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "FSXTFL00",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "BR",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "currency": "USD",
+                "value": 5000,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0FHVRJ1MD",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Aekenr Floor lamp (Black & Beige Shade)",
+        "variationTheme": "COLOR",
+        "variants": [
+          {
+            "sku": "7895203685985203-V3",
+            "asin": "B0FHTKKM9Q"
+          },
+          {
+            "sku": "7895203685985203-V4",
+            "asin": "B0FHVJB9LQ"
+          },
+          {
+            "sku": "7895203685985203-V1",
+            "asin": "B0FHVZ667H"
+          },
+          {
+            "sku": "7895203685985203-V2",
+            "asin": "B0FHVJ4Z68"
+          }
+        ],
+        "score": 44,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  },
+  {
+    "sku": "8852036985201452",
+    "asin": "B0FVSFNJJM",
+    "winnerSku": "8852036985201452",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "SCULPTURE",
+    "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+    "productId": "7307",
+    "wrappers": [
+      {
+        "sku": "8852036985201452",
+        "asin": "B0FVSFNJJM",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "PRODUCT",
+              "status": [],
+              "createdDate": "2025-11-03T06:21:29.700Z",
+              "lastUpdatedDate": "2025-11-03T06:22:13.896Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "MIXFOSAHN",
+              "browseClassification": {
+                "displayName": "Statues",
+                "classificationId": "3735201"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "MIXFOSAHN Holiday Statues Figurines",
+              "memorabilia": false,
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR_NAME",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "en_US",
+                "value": "MIXFOSAHN Holiday Statues Figurines",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "statues",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-10-11T06:56:13.571Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "en_US",
+                "value": "MIXFOSAHN",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ]
+          }
+        },
+        "name": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+        "variationTheme": "COLOR_NAME",
+        "variants": [
+          {
+            "sku": "8852036985201452-V3",
+            "asin": "B0FP2TQSRF"
+          },
+          {
+            "sku": "8852036985201452-V5",
+            "asin": "B0FS7VZLDF"
+          },
+          {
+            "sku": "8852036985201452-V4",
+            "asin": "B0FP2TV373"
+          },
+          {
+            "sku": "8852036985201452-V1",
+            "asin": "B0FP2VSM6H"
+          },
+          {
+            "sku": "8852036985201452-V2",
+            "asin": "B0FS7TR9ZQ"
+          }
+        ],
+        "score": 49,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507",
+        "wrapperId": "3887"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  },
+  {
+    "sku": "874521036",
+    "asin": "B0B1JC6Y1G",
+    "winnerSku": "874521036",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "VASE",
+    "productName": "Ceramic Vases Set of 2,Moder White Round Vase Rustic Home Decor，Frosted Ceramic Vase Apply to Living Room、 Kitchen、Mantle、Bedroom、Dining Table、Office",
+    "productId": "7308",
+    "wrappers": [
+      {
+        "sku": "874521036",
+        "asin": "B0B1JC6Y1G",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "VASE",
+              "status": [],
+              "createdDate": "2025-11-03T07:31:43.102Z",
+              "lastUpdatedDate": "2025-11-03T09:12:30.970Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "QLOFEI",
+              "browseClassification": {
+                "displayName": "Vases",
+                "classificationId": "3745451"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "White Ceramic Vases - Round Ceramic Vases for Minimalist Home Decor, Decorative Matte Pampas Grass Modern Style for Wedding Dinner Table Living Room, Nordic Boho Design as Gift",
+              "manufacturer": "QLOFEI",
+              "memorabilia": false,
+              "packageQuantity": 1,
+              "style": "Country Rustic",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "home_display_on_website",
+              "websiteDisplayGroupName": "Home"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR_NAME/SIZE_NAME"
+              }
+            ],
+            "occasion_type": [
+              {
+                "value": "Women's Day",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Wedding And Engagement",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Mother's Day",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Father's Day",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Christmas",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "QLOFEI",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_shape": [
+              {
+                "value": "Round",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "🌷【UNIQUE SHAPE】The surface of the ceramic vase is unglazed frosted texture, the hollow center design and white color add a modern geometric beauty to your home decoration, the unique shape reflects the simple European and bohemian style, and can be integrated with any home decoration.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "🌷【VASE SIZE】You will receive a beautiful white ceramic vase, it is handmade, it matches your home decor perfectly, the vase size is 7.08''*6.7''*1.3'', the dimensions are all measured by hand, So there may be some small deviations.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "🌷【Applicable Scenes】This rustic ceramic frosted vase is suitable for living room, bedroom, dining table, bathroom, office, bookshelf, mantelpiece, etc. It's also a great gift for wedding housewarmings and holidays, adding some simplicity.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "🌷【Design Concept】This hollow ceramic flower vase is made with a bisque crafting The surface is unglazed matte texture，Although it comes in different sizes, it is essential for your interior decoration and can be matched with any dried flower pampas grass. It is not only a vase, but a piece artwork.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "🌷【Worry-free after sale】We provide 100% customer service to make sure you get the perfect home decoration vase, if you don't like it, please contact us, we will provide you with a satisfactory solution.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_package_quantity": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Looking for a decor piece to compliment your vanity, coffee table or dining table? Look no further! This is a gorgeous, stylish and heavy-weighted centerpiece. The minimalist design and soft, neutral color ensure that this Elegant decor accent will fit in seamlessly with your current interior design theme. It exudes a simplistic, carefree style and will help transform any room in and around your home. Add a touch of modern Art into any room around your apartment, house, dorm, or office. The Face Design Flower Vase is an excellent addition to a living room, kitchen, bedroom, mantle, desk, coffee table, and any other place you want to add a subtle, chic touch.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "QLOFEI",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "White Ceramic Vases - Round Ceramic Vases for Minimalist Home Decor, Decorative Matte Pampas Grass Modern Style for Wedding Dinner Table Living Room, Nordic Boho Design as Gift",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Vases",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2022-05-17T11:31:19.079Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "style": [
+              {
+                "value": "Country Rustic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_length_width_height": [
+              {
+                "height": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 15
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "required_product_compliance_certificate": [
+              {
+                "value": "Not Applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "KM",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0B1JDF6RM",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "USD",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 0
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Ceramic Vases Set of 2,Moder White Round Vase Rustic Home Decor，Frosted Ceramic Vase Apply to Living Room、 Kitchen、Mantle、Bedroom、Dining Table、Office",
+        "variationTheme": "COLOR_NAME/SIZE_NAME",
+        "variants": [
+          {
+            "sku": "874521036-V15",
+            "asin": "B0B1JFNJ1V"
+          },
+          {
+            "sku": "874521036-V12",
+            "asin": "B0B1JDF6RM"
+          },
+          {
+            "sku": "874521036-V13",
+            "asin": "B09TT9QYJK"
+          },
+          {
+            "sku": "874521036-V10",
+            "asin": "B0B1JCDQ8W"
+          },
+          {
+            "sku": "874521036-V11",
+            "asin": "B0B1JFKBKV"
+          },
+          {
+            "sku": "874521036-V9",
+            "asin": "B09TTBQ1QV"
+          },
+          {
+            "sku": "874521036-V4",
+            "asin": "B09TTBZD33"
+          },
+          {
+            "sku": "874521036-V3",
+            "asin": "B0B1JB9L36"
+          },
+          {
+            "sku": "874521036-V1",
+            "asin": "B09TTC52YC"
+          },
+          {
+            "sku": "874521036-V2",
+            "asin": "B0B1JFK3J6"
+          }
+        ],
+        "score": 74,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "507",
+        "wrapperId": "3888"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  }
+]

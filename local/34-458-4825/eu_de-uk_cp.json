@@ -1,0 +1,80 @@
+[
+  {
+    "sku": null,
+    "asin": null,
+    "winnerSku": null,
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "MOBILE_APPLICATION",
+    "productName": "123123",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {},
+        "name": "123123",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "123123",
+            "asin": "B0F1FG4WQ4"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "458",
+        "wrapperId": "3472"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-process-media",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "6434"
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "winnerSku": null,
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Midweight T-shirt, Made in US",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {},
+        "name": "Biking Unisex Midweight T-shirt, Made in US",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "66fbb09992ead167af0148a3",
+            "asin": "B0DJBNCW5H"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "458",
+        "wrapperId": "3473"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-process-media",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "6435"
+  }
+]

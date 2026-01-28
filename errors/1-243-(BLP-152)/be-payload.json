@@ -1,0 +1,281 @@
+{
+  "item_name": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Classic Black Genuine Leather Purse – Elegant Everyday Handbag for Women"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Generic"
+    }
+  ],
+  "externally_assigned_product_identifier": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": ""
+    }
+  ],
+  "merchant_suggested_asin": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "B0FS1YGNZZ"
+    }
+  ],
+  "recommended_browse_nodes": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": ""
+    }
+  ],
+  "model_name": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Classic Black Leather Purse"
+    }
+  ],
+  "manufacturer": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Elegance Leatherworks Pvt. Ltd."
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "fulfillment_channel_code": "DEFAULT",
+      "lead_time_to_ship_max_days": 0,
+      "restock_date": "",
+      "quantity": 0
+    }
+  ],
+  "condition_type": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "new_new"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Elevate your everyday style with this timeless black leather purse, crafted from premium genuine leather for durability and sophistication. Designed with a sleek finish and versatile look, this handbag is perfect for both casual outings and formal occasions."
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Spacious interior with multiple compartments to keep essentials organized\n\nSecure zipper closure for added safety\n\nAdjustable shoulder strap for comfort and versatility\n\nElegant black finish that complements any outfit"
+    }
+  ],
+  "style": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Elegant Everyday Shoulder Bag"
+    }
+  ],
+  "department": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Women"
+    }
+  ],
+  "target_gender": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "female"
+    }
+  ],
+  "age_range_description": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Adult"
+    }
+  ],
+  "number_of_items": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": 1
+    }
+  ],
+  "item_type_name": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Handbag / Purse"
+    }
+  ],
+  "strap_type": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Adjustable & Detachable Shoulder Strap"
+    }
+  ],
+  "color": [
+    {
+      "language_tag": "en_IN",
+      "value": ""
+    }
+  ],
+  "part_number": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "PURS-BLK-01"
+    }
+  ],
+  "size_info": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "display_name": [
+        {
+          "language_tag": "en_IN",
+          "value": "Game Ae"
+        }
+      ]
+    }
+  ],
+  "rtip_manufacturer_contact_information": [
+    {
+      "value": "Elegance Leatherworks Pvt. Ltd., Street No. 14"
+    }
+  ],
+  "capacity": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "120.0",
+      "unit": "centiliters_per_second"
+    }
+  ],
+  "external_product_information": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "entity": "HSN Code",
+      "value": "42022110",
+      "key": ""
+    }
+  ],
+  "number_of_compartments": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": 3
+    }
+  ],
+  "number_of_pockets": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": 4
+    }
+  ],
+  "importer_contact_information": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": ""
+    }
+  ],
+  "packer_contact_information": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Elegance Packaging & Logistics, Street No. 9"
+    }
+  ],
+  "closure": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "type": [
+        {
+          "language_tag": "en_IN",
+          "value": "Zipper"
+        }
+      ]
+    }
+  ],
+  "country_of_origin": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "IN"
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "other"
+    }
+  ],
+  "item_weight": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "unit": "kilograms",
+      "value": 0.45
+    }
+  ],
+  "outer": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "material": [
+        {
+          "language_tag": "en_IN",
+          "value": "Genuine Leather"
+        }
+      ]
+    }
+  ],
+  "inner": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "material": [
+        {
+          "language_tag": "en_IN",
+          "value": "Leather"
+        }
+      ]
+    }
+  ],
+  "item_dimensions": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "length": {
+        "unit": "feet",
+        "value": "12.0"
+      },
+      "width": {
+        "unit": "feet",
+        "value": "123.0"
+      },
+      "height": {
+        "unit": "feet",
+        "value": "12.0"
+      }
+    }
+  ],
+  "item_package_dimensions": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "height": {
+        "value": ""
+      },
+      "length": {
+        "value": ""
+      },
+      "width": {
+        "value": ""
+      }
+    }
+  ],
+  "item_package_weight": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": ""
+    }
+  ]
+}

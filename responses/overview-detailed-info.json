@@ -1,0 +1,19 @@
+{
+  "id": "11710",
+  "tags": [],
+  "createdAt": "2026-01-09T12:27:01.074Z",
+  "updatedAt": "2026-01-19T04:35:41.442Z",
+  "family": null,
+  "channelProductWarehouse": [],
+  "createdByUser": {
+    "id": "286",
+    "firstName": "Arpit",
+    "lastName": "Arpit"
+  },
+  "updatedByUser": {
+    "id": "286",
+    "firstName": "Arpit",
+    "lastName": "Arpit"
+  },
+  "warehouses": []
+}

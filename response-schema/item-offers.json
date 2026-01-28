@@ -1,0 +1,169 @@
+{
+  "payload": {
+    "MarketplaceID": "string",
+    "ASIN": "string",
+    "SKU": "string",
+    "ItemCondition": "New",
+    "status": "string",
+    "Identifier": {
+      "MarketplaceId": "string",
+      "ASIN": "string",
+      "SellerSKU": "string",
+      "ItemCondition": "New"
+    },
+    "Summary": {
+      "TotalOfferCount": 0,
+      "NumberOfOffers": [
+        {
+          "condition": "string",
+          "fulfillmentChannel": "Amazon",
+          "OfferCount": 0
+        }
+      ],
+      "LowestPrices": [
+        {
+          "condition": "string",
+          "fulfillmentChannel": "string",
+          "offerType": "B2C",
+          "quantityTier": 0,
+          "quantityDiscountType": "QUANTITY_DISCOUNT",
+          "LandedPrice": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "ListingPrice": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "Shipping": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "Points": {
+            "PointsNumber": 0,
+            "PointsMonetaryValue": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            }
+          }
+        }
+      ],
+      "BuyBoxPrices": [
+        {
+          "condition": "string",
+          "offerType": "B2C",
+          "quantityTier": 0,
+          "quantityDiscountType": "QUANTITY_DISCOUNT",
+          "LandedPrice": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "ListingPrice": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "Shipping": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "Points": {
+            "PointsNumber": 0,
+            "PointsMonetaryValue": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            }
+          },
+          "sellerId": "string"
+        }
+      ],
+      "ListPrice": {
+        "CurrencyCode": "string",
+        "Amount": 0
+      },
+      "CompetitivePriceThreshold": {
+        "CurrencyCode": "string",
+        "Amount": 0
+      },
+      "SuggestedLowerPricePlusShipping": {
+        "CurrencyCode": "string",
+        "Amount": 0
+      },
+      "SalesRankings": [
+        {
+          "ProductCategoryId": "string",
+          "Rank": 0
+        }
+      ],
+      "BuyBoxEligibleOffers": [
+        {
+          "condition": "string",
+          "fulfillmentChannel": "Amazon",
+          "OfferCount": 0
+        }
+      ],
+      "OffersAvailableTime": "2026-01-23T05:41:09.118Z"
+    },
+    "Offers": [
+      {
+        "MyOffer": true,
+        "offerType": "B2C",
+        "SubCondition": "string",
+        "SellerId": "string",
+        "ConditionNotes": "string",
+        "SellerFeedbackRating": {
+          "SellerPositiveFeedbackRating": 0,
+          "FeedbackCount": 0
+        },
+        "ShippingTime": {
+          "minimumHours": 0,
+          "maximumHours": 0,
+          "availableDate": "string",
+          "availabilityType": "NOW"
+        },
+        "ListingPrice": {
+          "CurrencyCode": "string",
+          "Amount": 0
+        },
+        "quantityDiscountPrices": [
+          {
+            "quantityTier": 0,
+            "quantityDiscountType": "QUANTITY_DISCOUNT",
+            "listingPrice": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            }
+          }
+        ],
+        "Points": {
+          "PointsNumber": 0,
+          "PointsMonetaryValue": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          }
+        },
+        "Shipping": {
+          "CurrencyCode": "string",
+          "Amount": 0
+        },
+        "ShipsFrom": {
+          "State": "string",
+          "Country": "string"
+        },
+        "IsFulfilledByAmazon": true,
+        "PrimeInformation": {
+          "IsPrime": true,
+          "IsNationalPrime": true
+        },
+        "IsBuyBoxWinner": true,
+        "IsFeaturedMerchant": true
+      }
+    ]
+  },
+  "errors": [
+    {
+      "code": "string",
+      "message": "string",
+      "details": "string"
+    }
+  ]
+}

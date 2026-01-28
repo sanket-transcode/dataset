@@ -1,0 +1,872 @@
+[
+  {
+    "sku": "O3-013G-1QI7",
+    "asin": "B0FSDYBFV5",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "E0-2UUC-38DL",
+        "asin": "B0FSF3DMV7",
+        "isNotActive": false
+      },
+      {
+        "sku": "8W-K3JO-855S",
+        "asin": "B0FSF1GHBV",
+        "isNotActive": false
+      },
+      {
+        "sku": "0A-8OQU-6AQG",
+        "asin": "B0FSF5GHXQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "KM-8YJ4-NIXB",
+        "asin": "B0FSF321YR",
+        "isNotActive": false
+      },
+      {
+        "sku": "WG-ZY7K-MEFZ",
+        "asin": "B0FSF3GP3M",
+        "isNotActive": false
+      },
+      {
+        "sku": "HH-LR7R-DDR9",
+        "asin": "B0FSF1VNQZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "9S-I111-68TT",
+        "asin": "B0FSF6G3G1",
+        "isNotActive": false
+      },
+      {
+        "sku": "49-WRAS-J9Z4",
+        "asin": "B0FSF6562L",
+        "isNotActive": false
+      },
+      {
+        "sku": "HW-MCQP-ZLBX",
+        "asin": "B0FSF1S79M",
+        "isNotActive": false
+      },
+      {
+        "sku": "5C-HWTG-RCNG",
+        "asin": "B0FSDYT41J",
+        "isNotActive": false
+      },
+      {
+        "sku": "8G-1U6V-552I",
+        "asin": "B0FSF2Y98C",
+        "isNotActive": false
+      },
+      {
+        "sku": "7D-7OC8-66V8",
+        "asin": "B0FSDXQ754",
+        "isNotActive": false
+      },
+      {
+        "sku": "U0-UUA9-6B42",
+        "asin": "B0FSF2CHWN",
+        "isNotActive": false
+      },
+      {
+        "sku": "UL-JJX0-3GZL",
+        "asin": "B0FSF1VNR2",
+        "isNotActive": false
+      },
+      {
+        "sku": "6C-3JZM-DM3D",
+        "asin": "B0FSDZSCFN",
+        "isNotActive": false
+      },
+      {
+        "sku": "42-4BNO-3PBM",
+        "asin": "B0FSF2FSPK",
+        "isNotActive": false
+      },
+      {
+        "sku": "SP-01A3-PHO0",
+        "asin": "B0FSF1MYNC",
+        "isNotActive": false
+      },
+      {
+        "sku": "K3-MC7N-VOMH",
+        "asin": "B0FSF4HNM5",
+        "isNotActive": false
+      },
+      {
+        "sku": "LX-7Q2L-9ENP",
+        "asin": "B0FSF147ZF",
+        "isNotActive": false
+      },
+      {
+        "sku": "K6-1U3Y-T3FL",
+        "asin": "B0FSF2TMNB",
+        "isNotActive": false
+      },
+      {
+        "sku": "LG-0UR2-PWUD",
+        "asin": "B0FSDYFFGG",
+        "isNotActive": false
+      },
+      {
+        "sku": "WW-XWD9-PSWQ",
+        "asin": "B0FSF248JG",
+        "isNotActive": false
+      },
+      {
+        "sku": "FS-731V-8IAU",
+        "asin": "B0FSF37YD8",
+        "isNotActive": false
+      },
+      {
+        "sku": "H7-8JGZ-XO0W",
+        "asin": "B0FSDXRT8X",
+        "isNotActive": false
+      },
+      {
+        "sku": "NE-CMYU-GVQL",
+        "asin": "B0FSF3CDHR",
+        "isNotActive": false
+      },
+      {
+        "sku": "8T-264N-QBUR",
+        "asin": "B0FSF23RRF",
+        "isNotActive": false
+      },
+      {
+        "sku": "4L-P1GW-K84M",
+        "asin": "B0FSDZWPJ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "LZ-5DLS-U3RN",
+        "asin": "B0FSDYHKS3",
+        "isNotActive": false
+      },
+      {
+        "sku": "W8-KWAR-8APO",
+        "asin": "B0FSF1JP66",
+        "isNotActive": false
+      },
+      {
+        "sku": "06-DSP7-XK29",
+        "asin": "B0FSF1VK2L",
+        "isNotActive": false
+      },
+      {
+        "sku": "J8-7LZT-Y3DC",
+        "asin": "B0FSF1JGPV",
+        "isNotActive": false
+      },
+      {
+        "sku": "EN-P90T-WWUT",
+        "asin": "B0FSF2WQF2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "ComfyCore Hoodie",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "2J-HKIU-MQQB",
+    "asin": "B0FV8RY6XH",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "I2-EUWN-8CSF",
+        "asin": "B0FV8NBLFF",
+        "isNotActive": false
+      },
+      {
+        "sku": "5T-YSK1-T28R",
+        "asin": "B0FV8PKCS4",
+        "isNotActive": false
+      },
+      {
+        "sku": "3J-K8KJ-J2NX",
+        "asin": "B0FV8MXYLP",
+        "isNotActive": false
+      },
+      {
+        "sku": "HA-YD2I-ZOXZ",
+        "asin": "B0FV8S2NXV",
+        "isNotActive": false
+      },
+      {
+        "sku": "M4-HYHU-1XC4",
+        "asin": "B0FV8PB49G",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HANDBAG",
+    "productName": "ModeMate Everyday Bag",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "91-7PCA-V2GH",
+    "asin": "B0FSDJTD6Q",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "LM-IAA2-7V01",
+        "asin": "B0FSDHHSRQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "OJ-1XPR-59WL",
+        "asin": "B0FSDD3QJQ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Everyday Comfort T-Shirt",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "L4-4XXF-GFP9",
+    "asin": "B0FV8NMH5G",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "ITEM_PACKAGE_QUANTITY/COLOR",
+    "variants": [
+      {
+        "sku": "WN-3A11-JJZS",
+        "asin": "B0FV8RYWCB",
+        "isNotActive": false
+      },
+      {
+        "sku": "BO-KOS4-B03O",
+        "asin": "B0FV8QG3ZT",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "THERMOS",
+    "productName": "VivaSteel Insulated Flask",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "VF-5WZR-SRRS",
+    "asin": "B0FV8R67FF",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "SPECIAL_SIZE_TYPE/SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "1T-KAIP-MTWU",
+        "asin": "B0FV8XMKPS",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BLAZER",
+    "productName": "Elista Vogue Fit Blazer",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "BLP-152",
+    "asin": "B0FS1YGNZZ",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "CT-EHEN-IR8J",
+        "asin": "B0FS235ZZ6",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HANDBAG",
+    "productName": "Classic Black Genuine Leather Purse – Elegant Everyday Handbag for Women",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0C9DLW92V",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "cd24",
+        "asin": "B084M7R9XX",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "diollo Analog Mechanical Movement Luxury Automatic Men's Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "cd23",
+        "asin": "B07ZQ3WPXP",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Men Digital Quartz Dual Display 22 mm Stainless Steel Watch Band Watches (RED)",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "BAND_COLOR",
+    "variants": [
+      {
+        "sku": "cd26",
+        "asin": "B07ZQ363NS",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Men Digital Quartz Watch Leather Strap LCD Back Light Digital Watch for Men Brown",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "BAND_COLOR",
+    "variants": [
+      {
+        "sku": "cd13",
+        "asin": "B07ZQ2CPPM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS men Digital Quartz Watch Leather Strap LCD Back Light Digital Watch For Men Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "cd19",
+        "asin": "B07ZQ2MJDK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Men Digital Quartz Dual Display 22 mm Stainless Steel Watch Band Watches (Yellow)",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "LST-SILVER-101",
+    "asin": "B0FS6J9F2B",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "PORTABLE_ELECTRONIC_DEVICE_STAND",
+    "productName": "Adjustable Laptop Stand gen",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "GR-F98J-X85R",
+    "asin": "B0FV8RHQ5S",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "RECREATION_BALL",
+    "productName": "VictoryCore Training Ball",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "QW-0O78-K20H",
+    "asin": "B0FTV4SYWM",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "ClassicCeramic Coffee Mug",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "RU-QDVG-P0OV",
+    "asin": "B0FV8KYNW1",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "COOKING_POT",
+    "productName": "CookNique Deep Sauce Pot",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "RE-V9EE-79LA",
+    "asin": "B0FV8S5CZD",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variationTheme": "LENS_COLOR",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SUNGLASSES",
+    "productName": "ZenShade Drift Series",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd6",
+    "asin": "B085X2V24X",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 10,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO Attractive White Dial Stainless Steel Mesh Belt with Hardlex Glass Waterproof Wrist Watch for Man",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd5",
+    "asin": "B085WY1V5Q",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 10,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO Attractive Blue Dial Stainless Steel Mesh Belt with Hardlex Glass Waterproof Watch for Man",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd1",
+    "asin": "B07ZTMFHCZ",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Mens Quartz Digital Sport Watches Fashion Waterproof Men Wrist Watch Man Watch(Gold)",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd22",
+    "asin": "B0845N42WJ",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "FNGEEN Black Stainless Steel Luxury Waterproof Quartz Hands Wristwatches for Mens",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd20",
+    "asin": "B084632S13",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "FNGEEN Fashion Mechanical Watch Men Skeleton Design Luxury Golden Mesh Strap Waterproof Male Automatic Clock",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd10",
+    "asin": "B08472DCFD",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "MEGIR Mens Watches Top Luxury Quartz Watch Waterproof Leather Military Date Chronograph Sport Wrist Watch Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd21",
+    "asin": "B08463LYNQ",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Fngeen Belt Male Automatic Transparent Luminous Diamond Hollow Tourbillon Mechanical Watch Steel",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd8",
+    "asin": "B0862CG7NY",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO White Dial Luxury Men Stainless Steel Mesh Band with Day/Date,Moon Face, Seprate Minute and Second Dial and Attractive Round Dial Wrist Watch for Man",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd27",
+    "asin": "B083RH5HBT",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Watch Genuine Leather LED Digital & Analog Watches Men Multifunction LCD Display Watch RISTOS",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd25",
+    "asin": "B07ZTLTN16",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Men Digital Quartz Wrist Watches Day Date Black Leather Watch(Black)",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd16",
+    "asin": "B0848SKXGK",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO-Reward Business Watch Men Fashion Casual Brown Leather Strap Mens Watches Top Brand Luxury Unique Quartz Wristwatch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd28",
+    "asin": "B084F92Y6R",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Shenhua Shenhua vintage affordable skeleton Analog Watch - For Men Automatic watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd15",
+    "asin": "B083RHDG5P",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WALL_ART",
+    "productName": "RISTOS Men Digital Quartz Watch Leather Multifunction Back Light Men's Chronograph Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd3",
+    "asin": "B08472J2TV",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Bagari High Class Stainless Steel Watch 3ATM Water Resistance Functional Watch for Men",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd14",
+    "asin": "B084725N9P",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 15,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Black Male Watches Military Stainless Steel Men Quartz Sport Fashion Wristwatch Watch for Man",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd2",
+    "asin": "B084739TDT",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Bagari High Class Stainless Steel Watch 3ATM Water Resistance Functional Watch for Men",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd11",
+    "asin": "B0845W93VH",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "MEGIR Creative White Dial with Blue Ring Chronograph Sport Watch Men Clock Leather Quartz Men Wrist Watches Time Hour Army Military Wristwatches",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd17",
+    "asin": "B0848PY3QK",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO-Reward Business White dial Watch Men Fashion Casual Blue Leather Strap Mens Watches Top Luxury Unique Quartz Wristwatch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd7",
+    "asin": "B0862C71PM",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO Black DialLuxury Moon face and Attractive dial Wrist Watch for Man",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd4",
+    "asin": "B083H135SS",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "CIVO Fashion Brand Watches for Men Black Waterproof Genuine Leather Quartz Wristwatches Sport Calendar Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd12",
+    "asin": "B0848PMDBG",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "DIOLLO Blue Design with White dial Reward Sport Brand Luxury Quartz Analog Casual Steel Men's Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd9",
+    "asin": "B08472NVST",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Megir Creative Chronograph Men's Clock Leather Quartz Time Hour Army Military Analog Sport Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd30",
+    "asin": "B07ZRLKT6Q",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Men Digital Wrist Watch Business Mesh Stainless Steel Strap Digital Men Watch",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd29",
+    "asin": "B07ZTKL173",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "RISTOS Men Digital Hand Watch Business Leather Digital Men Watch (Black)",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "cd18",
+    "asin": "B085X3FQ9J",
+    "marketplaces": ["A21TJRUUN4KGV"],
+    "allMarketplaces": ["A21TJRUUN4KGV"],
+    "sourceMarketplace": "A21TJRUUN4KGV",
+    "variants": [],
+    "score": 14,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WEARABLE_COMPUTER",
+    "productName": "Diollo Intelligent smartwatch Smart Bracelet Sport Fitness Watch with Pedometer Monitor",
+    "isEnriched": false,
+    "isProcessed": true
+  }
+]

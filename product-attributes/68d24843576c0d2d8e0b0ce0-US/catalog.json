@@ -1,0 +1,259 @@
+{
+  "variation_theme": [
+    {
+      "name": "COLOR/SIZE",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_length_width_height": [
+    {
+      "length": {
+        "unit": "inches",
+        "value": 16.0
+      },
+      "width": {
+        "unit": "inches",
+        "value": 3.0
+      },
+      "height": {
+        "unit": "inches",
+        "value": 16.0
+      },
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "skip_offer": [
+    {
+      "value": false,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "capacity": [
+    {
+      "unit": "ounces",
+      "value": 13.0,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_weight": [
+    {
+      "unit": "pounds",
+      "value": 0.599658,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "number_of_compartments": [
+    {
+      "value": 1,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "model_name": [
+    {
+      "language_tag": "en_US",
+      "value": "Generic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "age_range_description": [
+    {
+      "language_tag": "en_US",
+      "value": "Adult",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "bullet_point": [
+    {
+      "language_tag": "en_US",
+      "value": "100% polyester body for durability and quick-drying properties",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Reinforced stitching on handles enhances strength",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Boxed corners provide extra space for storage",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Available in multiple sizes to suit different needs",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Five color handle options for a personalized touch",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_dimensions": [
+    {
+      "width": {
+        "unit": "inches",
+        "value": 3.0
+      },
+      "length": {
+        "unit": "inches",
+        "value": 16.0
+      },
+      "height": {
+        "unit": "inches",
+        "value": 16.0
+      },
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "product_description": [
+    {
+      "language_tag": "en_US",
+      "value": "Elevate your everyday style with this vibrant tote bag, featuring a charming design that instantly brings a smile. Perfect for nature enthusiasts and book lovers alike, this bag is not only a practical accessory but also a fun conversation starter. Whether you’re heading to the library, a picnic, or just running errands, its durable polyester fabric ensures it can handle all your essentials. The tote’s cheerful vibe makes it an excellent gift for occasions like birthdays, holidays, or just as a thoughtful surprise for a friend. With multiple color handle options and sizes, it’s versatile enough to fit anyone's needs while adding a touch of whimsy to their day. Product features - 100% polyester body for durability and quick-drying properties - Reinforced stitching on handles enhances strength - Boxed corners provide extra space for storage - Available in multiple sizes to suit different needs - Five color handle options for a personalized touch Care instructions - Remove all items from the bag before cleaning. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or a soft bristle brush. Let the bag air dry.",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "department": [
+    {
+      "language_tag": "en_US",
+      "value": "Unisex",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "brand": [
+    {
+      "language_tag": "en_US",
+      "value": "GENERIC",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "closure": [
+    {
+      "type": [
+        {
+          "language_tag": "en_US",
+          "value": "Buckle"
+        }
+      ],
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "value": "not_applicable",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "value": true,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "import_designation": [
+    {
+      "language_tag": "en_US",
+      "value": "Imported",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "lining_description": [
+    {
+      "language_tag": "en_US",
+      "value": "Polyester",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "outer": [
+    {
+      "material": [
+        {
+          "language_tag": "en_US",
+          "value": "Polyester"
+        }
+      ],
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_name": [
+    {
+      "language_tag": "en_US",
+      "value": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "list_price": [
+    {
+      "currency": "USD",
+      "value": 19.05,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "strap_type": [
+    {
+      "language_tag": "en_US",
+      "value": "Shoulder",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "batteries_required": [
+    {
+      "value": false,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "inner": [
+    {
+      "material": [
+        {
+          "language_tag": "en_US",
+          "value": "Polyester"
+        }
+      ],
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "fabric_type": [
+    {
+      "language_tag": "en_US",
+      "value": "Polyester",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "value": "tote-bags",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "product_site_launch_date": [
+    {
+      "value": "2025-09-23T07:16:05.883Z",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "style": [
+    {
+      "language_tag": "en_US",
+      "value": "Regular",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "size_info": [
+    {
+      "display_name": [
+        {
+          "language_tag": "en_US",
+          "value": "Multiple sizes"
+        }
+      ],
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "target_gender": [
+    {
+      "value": "unisex",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ]
+}

@@ -1,0 +1,2522 @@
+[
+  {
+    "value": "-1",
+    "label": "Ungrouped",
+    "attributesLinked": [
+      {
+        "attribute": {
+          "value": "418403",
+          "label": "SP-Size-12648415166811",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418402",
+          "label": "SP-Color-12648415134043",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418404",
+          "label": "SP-size-12687056372059",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "506867",
+          "label": "SP-Title-9363151716454",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418399",
+          "label": "SP-Color-12687036678491",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418400",
+          "label": "SP-size-12687036711259",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "506858",
+          "label": "SP-Color-9363151224934",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "506874",
+          "label": "SP-Color-10012916678758",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418382",
+          "label": "SP-Color-12648414806363",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418369",
+          "label": "SP-Denominations-12648414478683",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418401",
+          "label": "SP-fabric-12687038906715",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "506873",
+          "label": "SP-mt_test-9871830745190",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "506859",
+          "label": "SP-Denominations-9363151421542",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "attribute": {
+          "value": "418383",
+          "label": "SP-Title-12648414839131",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3611",
+    "label": "SP-Apparel-&-Accessories(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407120",
+        "attributeGroupId": "3611",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:46.109Z",
+        "updatedAt": "2025-12-18T06:56:46.109Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407123",
+        "attributeGroupId": "3611",
+        "attributeId": "418392",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:46.109Z",
+        "updatedAt": "2025-12-18T06:56:46.109Z",
+        "attribute": {
+          "value": "418392",
+          "label": "SP-custom_attribute_color(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407122",
+        "attributeGroupId": "3611",
+        "attributeId": "418391",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:46.109Z",
+        "updatedAt": "2025-12-18T06:56:46.109Z",
+        "attribute": {
+          "value": "418391",
+          "label": "SP-categra_custom_attributes(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407121",
+        "attributeGroupId": "3611",
+        "attributeId": "418386",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:46.109Z",
+        "updatedAt": "2025-12-18T06:56:46.109Z",
+        "attribute": {
+          "value": "418386",
+          "label": "SP-target-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3610",
+    "label": "SP-Ball-Pits(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407116",
+        "attributeGroupId": "3610",
+        "attributeId": "418432",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:31.828Z",
+        "updatedAt": "2025-12-18T06:56:31.828Z",
+        "attribute": {
+          "value": "418432",
+          "label": "SP-shape(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407118",
+        "attributeGroupId": "3610",
+        "attributeId": "418434",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:31.828Z",
+        "updatedAt": "2025-12-18T06:56:31.828Z",
+        "attribute": {
+          "value": "418434",
+          "label": "SP-toy-game-material(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407117",
+        "attributeGroupId": "3610",
+        "attributeId": "418433",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:31.828Z",
+        "updatedAt": "2025-12-18T06:56:31.828Z",
+        "attribute": {
+          "value": "418433",
+          "label": "SP-recommended-age-group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407119",
+        "attributeGroupId": "3610",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:31.828Z",
+        "updatedAt": "2025-12-18T06:56:31.828Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3607",
+    "label": "SP-Beanies(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407083",
+        "attributeGroupId": "3607",
+        "attributeId": "418416",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418416",
+          "label": "SP-headwear-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407085",
+        "attributeGroupId": "3607",
+        "attributeId": "418385",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418385",
+          "label": "SP-fabric(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407084",
+        "attributeGroupId": "3607",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407086",
+        "attributeGroupId": "3607",
+        "attributeId": "418386",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418386",
+          "label": "SP-target-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407087",
+        "attributeGroupId": "3607",
+        "attributeId": "418391",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418391",
+          "label": "SP-categra_custom_attributes(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407088",
+        "attributeGroupId": "3607",
+        "attributeId": "418392",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418392",
+          "label": "SP-custom_attribute_color(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407089",
+        "attributeGroupId": "3607",
+        "attributeId": "418394",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418394",
+          "label": "SP-age-group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407082",
+        "attributeGroupId": "3607",
+        "attributeId": "418415",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:49.337Z",
+        "updatedAt": "2025-12-18T06:54:49.337Z",
+        "attribute": {
+          "value": "418415",
+          "label": "SP-accessory-size(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3612",
+    "label": "SP-Chocolate(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407130",
+        "attributeGroupId": "3612",
+        "attributeId": "418438",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:25.637Z",
+        "updatedAt": "2025-12-18T06:57:25.637Z",
+        "attribute": {
+          "value": "418438",
+          "label": "SP-flavor(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407129",
+        "attributeGroupId": "3612",
+        "attributeId": "418437",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:25.637Z",
+        "updatedAt": "2025-12-18T06:57:25.637Z",
+        "attribute": {
+          "value": "418437",
+          "label": "SP-allergen-information(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407128",
+        "attributeGroupId": "3612",
+        "attributeId": "418436",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:25.637Z",
+        "updatedAt": "2025-12-18T06:57:25.637Z",
+        "attribute": {
+          "value": "418436",
+          "label": "SP-dietary-preferences(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407127",
+        "attributeGroupId": "3612",
+        "attributeId": "418435",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:25.637Z",
+        "updatedAt": "2025-12-18T06:57:25.637Z",
+        "attribute": {
+          "value": "418435",
+          "label": "SP-country(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407131",
+        "attributeGroupId": "3612",
+        "attributeId": "418439",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:25.637Z",
+        "updatedAt": "2025-12-18T06:57:25.637Z",
+        "attribute": {
+          "value": "418439",
+          "label": "SP-chocolate-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3613",
+    "label": "SP-Dolls(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407133",
+        "attributeGroupId": "3613",
+        "attributeId": "418441",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:48.229Z",
+        "updatedAt": "2025-12-18T06:57:48.229Z",
+        "attribute": {
+          "value": "418441",
+          "label": "SP-doll-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407136",
+        "attributeGroupId": "3613",
+        "attributeId": "418434",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:48.229Z",
+        "updatedAt": "2025-12-18T06:57:48.229Z",
+        "attribute": {
+          "value": "418434",
+          "label": "SP-toy-game-material(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407135",
+        "attributeGroupId": "3613",
+        "attributeId": "418433",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:48.229Z",
+        "updatedAt": "2025-12-18T06:57:48.229Z",
+        "attribute": {
+          "value": "418433",
+          "label": "SP-recommended-age-group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407134",
+        "attributeGroupId": "3613",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:48.229Z",
+        "updatedAt": "2025-12-18T06:57:48.229Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407132",
+        "attributeGroupId": "3613",
+        "attributeId": "418440",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:48.229Z",
+        "updatedAt": "2025-12-18T06:57:48.229Z",
+        "attribute": {
+          "value": "418440",
+          "label": "SP-doll-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "4439",
+    "label": "SP-Electronics(categratest)",
+    "attributesLinked": [
+      {
+        "id": "494969",
+        "attributeGroupId": "4439",
+        "attributeId": "506870",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:38.287Z",
+        "updatedAt": "2026-01-13T04:25:38.287Z",
+        "attribute": {
+          "value": "506870",
+          "label": "SP-sim-card-capability(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494971",
+        "attributeGroupId": "4439",
+        "attributeId": "506872",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:38.287Z",
+        "updatedAt": "2026-01-13T04:25:38.287Z",
+        "attribute": {
+          "value": "506872",
+          "label": "SP-data-network(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494972",
+        "attributeGroupId": "4439",
+        "attributeId": "506860",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:38.287Z",
+        "updatedAt": "2026-01-13T04:25:38.287Z",
+        "attribute": {
+          "value": "506860",
+          "label": "SP-color-pattern(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494967",
+        "attributeGroupId": "4439",
+        "attributeId": "506868",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:38.287Z",
+        "updatedAt": "2026-01-13T04:25:38.287Z",
+        "attribute": {
+          "value": "506868",
+          "label": "SP-cosmetic-condition(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494968",
+        "attributeGroupId": "4439",
+        "attributeId": "506869",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:38.287Z",
+        "updatedAt": "2026-01-13T04:25:38.287Z",
+        "attribute": {
+          "value": "506869",
+          "label": "SP-operating-system(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494970",
+        "attributeGroupId": "4439",
+        "attributeId": "506871",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:38.287Z",
+        "updatedAt": "2026-01-13T04:25:38.287Z",
+        "attribute": {
+          "value": "506871",
+          "label": "SP-subscription-type(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3603",
+    "label": "SP-General-Metafields(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407047",
+        "attributeGroupId": "3603",
+        "attributeId": "418381",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:33.430Z",
+        "updatedAt": "2025-12-18T06:52:33.430Z",
+        "attribute": {
+          "value": "418381",
+          "label": "SP-description_tag(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407078",
+        "attributeGroupId": "3603",
+        "attributeId": "418411",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:20.516Z",
+        "updatedAt": "2025-12-18T06:54:20.516Z",
+        "attribute": {
+          "value": "418411",
+          "label": "SP-age_group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407077",
+        "attributeGroupId": "3603",
+        "attributeId": "418410",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:20.516Z",
+        "updatedAt": "2025-12-18T06:54:20.516Z",
+        "attribute": {
+          "value": "418410",
+          "label": "SP-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407076",
+        "attributeGroupId": "3603",
+        "attributeId": "418409",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:20.516Z",
+        "updatedAt": "2025-12-18T06:54:20.516Z",
+        "attribute": {
+          "value": "418409",
+          "label": "SP-google_product_category(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407079",
+        "attributeGroupId": "3603",
+        "attributeId": "418412",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:20.516Z",
+        "updatedAt": "2025-12-18T06:54:20.516Z",
+        "attribute": {
+          "value": "418412",
+          "label": "SP-MPN(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407046",
+        "attributeGroupId": "3603",
+        "attributeId": "418380",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:33.430Z",
+        "updatedAt": "2025-12-18T06:52:33.430Z",
+        "attribute": {
+          "value": "418380",
+          "label": "SP-title_tag(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407045",
+        "attributeGroupId": "3603",
+        "attributeId": "418379",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:33.430Z",
+        "updatedAt": "2025-12-18T06:52:33.430Z",
+        "attribute": {
+          "value": "418379",
+          "label": "SP-snowboard_weight(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "number"
+        }
+      },
+      {
+        "id": "407081",
+        "attributeGroupId": "3603",
+        "attributeId": "418414",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:20.516Z",
+        "updatedAt": "2025-12-18T06:54:20.516Z",
+        "attribute": {
+          "value": "418414",
+          "label": "SP-custom_product(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "checkbox"
+        }
+      },
+      {
+        "id": "407080",
+        "attributeGroupId": "3603",
+        "attributeId": "418413",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:20.516Z",
+        "updatedAt": "2025-12-18T06:54:20.516Z",
+        "attribute": {
+          "value": "418413",
+          "label": "SP-condition(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3609",
+    "label": "SP-Hoodies(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407115",
+        "attributeGroupId": "3609",
+        "attributeId": "418408",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418408",
+          "label": "SP-clothing-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407114",
+        "attributeGroupId": "3609",
+        "attributeId": "418407",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418407",
+          "label": "SP-top-length-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407113",
+        "attributeGroupId": "3609",
+        "attributeId": "418406",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418406",
+          "label": "SP-neckline(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407126",
+        "attributeGroupId": "3609",
+        "attributeId": "418405",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:11.568Z",
+        "updatedAt": "2025-12-18T06:57:11.568Z",
+        "attribute": {
+          "value": "418405",
+          "label": "SP-sleeve-length-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407112",
+        "attributeGroupId": "3609",
+        "attributeId": "418394",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418394",
+          "label": "SP-age-group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407111",
+        "attributeGroupId": "3609",
+        "attributeId": "418392",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418392",
+          "label": "SP-custom_attribute_color(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407110",
+        "attributeGroupId": "3609",
+        "attributeId": "418391",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418391",
+          "label": "SP-categra_custom_attributes(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407125",
+        "attributeGroupId": "3609",
+        "attributeId": "418390",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:11.568Z",
+        "updatedAt": "2025-12-18T06:57:11.568Z",
+        "attribute": {
+          "value": "418390",
+          "label": "SP-activewear-clothing-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407109",
+        "attributeGroupId": "3609",
+        "attributeId": "418389",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418389",
+          "label": "SP-size(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407124",
+        "attributeGroupId": "3609",
+        "attributeId": "418388",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:57:11.568Z",
+        "updatedAt": "2025-12-18T06:57:11.568Z",
+        "attribute": {
+          "value": "418388",
+          "label": "SP-activity(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407108",
+        "attributeGroupId": "3609",
+        "attributeId": "418386",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418386",
+          "label": "SP-target-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407107",
+        "attributeGroupId": "3609",
+        "attributeId": "418385",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418385",
+          "label": "SP-fabric(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407106",
+        "attributeGroupId": "3609",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:56:20.319Z",
+        "updatedAt": "2025-12-18T06:56:20.319Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3615",
+    "label": "SP-Keyboards(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407149",
+        "attributeGroupId": "3615",
+        "attributeId": "418453",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418453",
+          "label": "SP-keyboard-switch-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407152",
+        "attributeGroupId": "3615",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407144",
+        "attributeGroupId": "3615",
+        "attributeId": "418448",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418448",
+          "label": "SP-power-source(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407145",
+        "attributeGroupId": "3615",
+        "attributeId": "418449",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418449",
+          "label": "SP-connection-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407146",
+        "attributeGroupId": "3615",
+        "attributeId": "418450",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418450",
+          "label": "SP-keyboard-format(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407147",
+        "attributeGroupId": "3615",
+        "attributeId": "418451",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418451",
+          "label": "SP-keyboard-language(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407148",
+        "attributeGroupId": "3615",
+        "attributeId": "418452",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418452",
+          "label": "SP-keyboard-layout(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407150",
+        "attributeGroupId": "3615",
+        "attributeId": "418454",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418454",
+          "label": "SP-pointing-device(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407151",
+        "attributeGroupId": "3615",
+        "attributeId": "418455",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T07:28:30.830Z",
+        "updatedAt": "2025-12-18T07:28:30.830Z",
+        "attribute": {
+          "value": "418455",
+          "label": "SP-keyboard-specialized-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3608",
+    "label": "SP-Mobile-&-Smart-Phones(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407104",
+        "attributeGroupId": "3608",
+        "attributeId": "418431",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418431",
+          "label": "SP-wireless-charging-standard(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407103",
+        "attributeGroupId": "3608",
+        "attributeId": "418430",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418430",
+          "label": "SP-mobile-phone-form-factor(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407102",
+        "attributeGroupId": "3608",
+        "attributeId": "418429",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418429",
+          "label": "SP-biometric-authentication-method(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407090",
+        "attributeGroupId": "3608",
+        "attributeId": "418417",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418417",
+          "label": "SP-display-resolution(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407105",
+        "attributeGroupId": "3608",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407101",
+        "attributeGroupId": "3608",
+        "attributeId": "418428",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418428",
+          "label": "SP-charging-interface-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407100",
+        "attributeGroupId": "3608",
+        "attributeId": "418427",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418427",
+          "label": "SP-ingress-protection-ip-rating(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407099",
+        "attributeGroupId": "3608",
+        "attributeId": "418426",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418426",
+          "label": "SP-subscription-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407098",
+        "attributeGroupId": "3608",
+        "attributeId": "418425",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418425",
+          "label": "SP-sim-card-type-2(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407097",
+        "attributeGroupId": "3608",
+        "attributeId": "418424",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418424",
+          "label": "SP-sim-card-type-1(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407096",
+        "attributeGroupId": "3608",
+        "attributeId": "418423",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418423",
+          "label": "SP-sim-card-capability(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407095",
+        "attributeGroupId": "3608",
+        "attributeId": "418422",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418422",
+          "label": "SP-removable-storage-formats-supported(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407094",
+        "attributeGroupId": "3608",
+        "attributeId": "418421",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418421",
+          "label": "SP-data-network(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407093",
+        "attributeGroupId": "3608",
+        "attributeId": "418420",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418420",
+          "label": "SP-cosmetic-condition(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407092",
+        "attributeGroupId": "3608",
+        "attributeId": "418419",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418419",
+          "label": "SP-battery-technology(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407091",
+        "attributeGroupId": "3608",
+        "attributeId": "418418",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:55:50.768Z",
+        "updatedAt": "2025-12-18T06:55:50.768Z",
+        "attribute": {
+          "value": "418418",
+          "label": "SP-operating-system(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3614",
+    "label": "SP-Pen-&-Pencil-Cases(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407143",
+        "attributeGroupId": "3614",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407140",
+        "attributeGroupId": "3614",
+        "attributeId": "418445",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418445",
+          "label": "SP-bag-case-material(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407139",
+        "attributeGroupId": "3614",
+        "attributeId": "418444",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418444",
+          "label": "SP-carry-options(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407138",
+        "attributeGroupId": "3614",
+        "attributeId": "418443",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418443",
+          "label": "SP-bag-case-closure(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407137",
+        "attributeGroupId": "3614",
+        "attributeId": "418442",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418442",
+          "label": "SP-care-instructions(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407142",
+        "attributeGroupId": "3614",
+        "attributeId": "418447",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418447",
+          "label": "SP-bag-case-storage-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407141",
+        "attributeGroupId": "3614",
+        "attributeId": "418446",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:58:09.972Z",
+        "updatedAt": "2025-12-18T06:58:09.972Z",
+        "attribute": {
+          "value": "418446",
+          "label": "SP-bag-case-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "4438",
+    "label": "SP-Ski-&-Snowboard-Glide-Wax(categratest)",
+    "attributesLinked": [
+      {
+        "id": "494964",
+        "attributeGroupId": "4438",
+        "attributeId": "506866",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:18.126Z",
+        "updatedAt": "2026-01-13T04:25:18.126Z",
+        "attribute": {
+          "value": "506866",
+          "label": "SP-wax-application-method(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494965",
+        "attributeGroupId": "4438",
+        "attributeId": "506860",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:18.126Z",
+        "updatedAt": "2026-01-13T04:25:18.126Z",
+        "attribute": {
+          "value": "506860",
+          "label": "SP-color-pattern(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494966",
+        "attributeGroupId": "4438",
+        "attributeId": "506861",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:18.126Z",
+        "updatedAt": "2026-01-13T04:25:18.126Z",
+        "attribute": {
+          "value": "506861",
+          "label": "SP-material(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494961",
+        "attributeGroupId": "4438",
+        "attributeId": "506863",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:18.126Z",
+        "updatedAt": "2026-01-13T04:25:18.126Z",
+        "attribute": {
+          "value": "506863",
+          "label": "SP-sport(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494962",
+        "attributeGroupId": "4438",
+        "attributeId": "506864",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:18.126Z",
+        "updatedAt": "2026-01-13T04:25:18.126Z",
+        "attribute": {
+          "value": "506864",
+          "label": "SP-application-method(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494963",
+        "attributeGroupId": "4438",
+        "attributeId": "506865",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:25:18.126Z",
+        "updatedAt": "2026-01-13T04:25:18.126Z",
+        "attribute": {
+          "value": "506865",
+          "label": "SP-skiing-style(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3605",
+    "label": "SP-Snowboards(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407058",
+        "attributeGroupId": "3605",
+        "attributeId": "418394",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418394",
+          "label": "SP-age-group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407064",
+        "attributeGroupId": "3605",
+        "attributeId": "418386",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418386",
+          "label": "SP-target-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407059",
+        "attributeGroupId": "3605",
+        "attributeId": "418395",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418395",
+          "label": "SP-recommended-skill-level(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407060",
+        "attributeGroupId": "3605",
+        "attributeId": "418396",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418396",
+          "label": "SP-snowboarding-style(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407061",
+        "attributeGroupId": "3605",
+        "attributeId": "418397",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418397",
+          "label": "SP-snowboard-design(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407062",
+        "attributeGroupId": "3605",
+        "attributeId": "418398",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418398",
+          "label": "SP-snowboard-construction(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407063",
+        "attributeGroupId": "3605",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:42.706Z",
+        "updatedAt": "2025-12-18T06:53:42.706Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3606",
+    "label": "SP-T-Shirts(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407071",
+        "attributeGroupId": "3606",
+        "attributeId": "418386",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418386",
+          "label": "SP-target-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407069",
+        "attributeGroupId": "3606",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407070",
+        "attributeGroupId": "3606",
+        "attributeId": "418385",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418385",
+          "label": "SP-fabric(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407072",
+        "attributeGroupId": "3606",
+        "attributeId": "418389",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418389",
+          "label": "SP-size(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407073",
+        "attributeGroupId": "3606",
+        "attributeId": "418391",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418391",
+          "label": "SP-categra_custom_attributes(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407074",
+        "attributeGroupId": "3606",
+        "attributeId": "418392",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418392",
+          "label": "SP-custom_attribute_color(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407075",
+        "attributeGroupId": "3606",
+        "attributeId": "418394",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418394",
+          "label": "SP-age-group(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407065",
+        "attributeGroupId": "3606",
+        "attributeId": "418405",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418405",
+          "label": "SP-sleeve-length-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407066",
+        "attributeGroupId": "3606",
+        "attributeId": "418406",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418406",
+          "label": "SP-neckline(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407067",
+        "attributeGroupId": "3606",
+        "attributeId": "418407",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418407",
+          "label": "SP-top-length-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407068",
+        "attributeGroupId": "3606",
+        "attributeId": "418408",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:54:16.638Z",
+        "updatedAt": "2025-12-18T06:54:16.638Z",
+        "attribute": {
+          "value": "418408",
+          "label": "SP-clothing-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3604",
+    "label": "SP-Track-Pants(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407054",
+        "attributeGroupId": "3604",
+        "attributeId": "418390",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418390",
+          "label": "SP-activewear-clothing-features(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407053",
+        "attributeGroupId": "3604",
+        "attributeId": "418389",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418389",
+          "label": "SP-size(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407052",
+        "attributeGroupId": "3604",
+        "attributeId": "418388",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418388",
+          "label": "SP-activity(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407051",
+        "attributeGroupId": "3604",
+        "attributeId": "418387",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418387",
+          "label": "SP-pants-length-type(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407050",
+        "attributeGroupId": "3604",
+        "attributeId": "418386",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418386",
+          "label": "SP-target-gender(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407049",
+        "attributeGroupId": "3604",
+        "attributeId": "418385",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418385",
+          "label": "SP-fabric(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407048",
+        "attributeGroupId": "3604",
+        "attributeId": "418384",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418384",
+          "label": "SP-color-pattern(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407057",
+        "attributeGroupId": "3604",
+        "attributeId": "418393",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418393",
+          "label": "SP-waist-rise(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407056",
+        "attributeGroupId": "3604",
+        "attributeId": "418392",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418392",
+          "label": "SP-custom_attribute_color(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "407055",
+        "attributeGroupId": "3604",
+        "attributeId": "418391",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:53:13.471Z",
+        "updatedAt": "2025-12-18T06:53:13.471Z",
+        "attribute": {
+          "value": "418391",
+          "label": "SP-categra_custom_attributes(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "4437",
+    "label": "SP-Uncategorized(categratest)",
+    "attributesLinked": [
+      {
+        "id": "494960",
+        "attributeGroupId": "4437",
+        "attributeId": "506862",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:24:59.580Z",
+        "updatedAt": "2026-01-13T04:24:59.580Z",
+        "attribute": {
+          "value": "506862",
+          "label": "SP-closure-type(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494959",
+        "attributeGroupId": "4437",
+        "attributeId": "506861",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:24:59.580Z",
+        "updatedAt": "2026-01-13T04:24:59.580Z",
+        "attribute": {
+          "value": "506861",
+          "label": "SP-material(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      },
+      {
+        "id": "494958",
+        "attributeGroupId": "4437",
+        "attributeId": "506860",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:24:59.580Z",
+        "updatedAt": "2026-01-13T04:24:59.580Z",
+        "attribute": {
+          "value": "506860",
+          "label": "SP-color-pattern(categratest)",
+          "isVariantKey": false,
+          "attributeType": "amazonMultiSelect"
+        }
+      }
+    ]
+  },
+  {
+    "value": "4436",
+    "label": "SP-Uncategorized(categratest)",
+    "attributesLinked": [
+      {
+        "id": "494955",
+        "attributeGroupId": "4436",
+        "attributeId": "506855",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:24:06.765Z",
+        "updatedAt": "2026-01-13T04:24:06.765Z",
+        "attribute": {
+          "value": "506855",
+          "label": "SP-snowboard_length(categratest)",
+          "isVariantKey": false,
+          "attributeType": "number"
+        }
+      },
+      {
+        "id": "494957",
+        "attributeGroupId": "4436",
+        "attributeId": "506857",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:24:06.765Z",
+        "updatedAt": "2026-01-13T04:24:06.765Z",
+        "attribute": {
+          "value": "506857",
+          "label": "SP-sp_dolls_brand_new_categra_store(categratest)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "494956",
+        "attributeGroupId": "4436",
+        "attributeId": "506856",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2026-01-13T04:24:06.765Z",
+        "updatedAt": "2026-01-13T04:24:06.765Z",
+        "attribute": {
+          "value": "506856",
+          "label": "SP-binding_mount(categratest)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3602",
+    "label": "SP-Uncategorized(new-categra-store)",
+    "attributesLinked": [
+      {
+        "id": "407036",
+        "attributeGroupId": "3602",
+        "attributeId": "418370",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418370",
+          "label": "SP-snowboard_length(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "number"
+        }
+      },
+      {
+        "id": "407037",
+        "attributeGroupId": "3602",
+        "attributeId": "418371",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418371",
+          "label": "SP-care_instructions(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407038",
+        "attributeGroupId": "3602",
+        "attributeId": "418372",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418372",
+          "label": "SP-color(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407039",
+        "attributeGroupId": "3602",
+        "attributeId": "418373",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418373",
+          "label": "SP-binding_mount(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407040",
+        "attributeGroupId": "3602",
+        "attributeId": "418374",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418374",
+          "label": "SP-sp_material_new_categra_store(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407041",
+        "attributeGroupId": "3602",
+        "attributeId": "418375",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418375",
+          "label": "SP-chocolate_candy_brand(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407042",
+        "attributeGroupId": "3602",
+        "attributeId": "418376",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418376",
+          "label": "SP-chocolate_candy_weight(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407043",
+        "attributeGroupId": "3602",
+        "attributeId": "418377",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418377",
+          "label": "SP-dolls_brand(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407044",
+        "attributeGroupId": "3602",
+        "attributeId": "418378",
+        "sequence": null,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T06:52:21.645Z",
+        "updatedAt": "2025-12-18T06:52:21.645Z",
+        "attribute": {
+          "value": "418378",
+          "label": "SP-t_shirts_material(new-categra-store)",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      }
+    ]
+  },
+  {
+    "value": "3616",
+    "label": "Wristwatch-General",
+    "attributesLinked": [
+      {
+        "id": "407159",
+        "attributeGroupId": "3616",
+        "attributeId": "418471",
+        "sequence": 7,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418471",
+          "label": "Wristwatch-Dial Color",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "id": "407153",
+        "attributeGroupId": "3616",
+        "attributeId": "418465",
+        "sequence": 1,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418465",
+          "label": "Wristwatch-Case Material",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407154",
+        "attributeGroupId": "3616",
+        "attributeId": "418466",
+        "sequence": 2,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418466",
+          "label": "Wristwatch-Movement",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407155",
+        "attributeGroupId": "3616",
+        "attributeId": "418467",
+        "sequence": 3,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418467",
+          "label": "Wristwatch-Water Resistance",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407156",
+        "attributeGroupId": "3616",
+        "attributeId": "418468",
+        "sequence": 4,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418468",
+          "label": "Wristwatch-Display Type",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407157",
+        "attributeGroupId": "3616",
+        "attributeId": "418469",
+        "sequence": 5,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418469",
+          "label": "Wristwatch-Clasp Type",
+          "isVariantKey": false,
+          "attributeType": "text"
+        }
+      },
+      {
+        "id": "407158",
+        "attributeGroupId": "3616",
+        "attributeId": "418470",
+        "sequence": 6,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418470",
+          "label": "Wristwatch-Band Color",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      },
+      {
+        "id": "407160",
+        "attributeGroupId": "3616",
+        "attributeId": "418472",
+        "sequence": 8,
+        "createdBy": 286,
+        "updatedBy": 286,
+        "createdAt": "2025-12-18T08:42:32.001Z",
+        "updatedAt": "2025-12-18T08:42:32.001Z",
+        "attribute": {
+          "value": "418472",
+          "label": "Wristwatch-Case Size",
+          "isVariantKey": true,
+          "attributeType": "dropdownList"
+        }
+      }
+    ]
+  }
+]

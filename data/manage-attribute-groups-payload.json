@@ -1,0 +1,76 @@
+{
+  "attributeGroups": [
+    {
+      "attributeGroupId": null,
+      "attributes": [
+        {
+          "id": "333716",
+          "isChecked": false
+        },
+        {
+          "id": "333454",
+          "isChecked": false
+        },
+        {
+          "id": "333330",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "attributeGroupId": "3079",
+      "attributes": [
+        {
+          "id": "331520",
+          "isChecked": true
+        },
+        {
+          "id": "331530",
+          "isChecked": false
+        },
+        {
+          "id": "331531",
+          "isChecked": false
+        }
+      ]
+    },
+    {
+      "attributeGroupId": "3078",
+      "attributes": [
+        {
+          "id": "331517",
+          "isChecked": false
+        },
+        {
+          "id": "331518",
+          "isChecked": false
+        },
+        {
+          "id": "331514",
+          "isChecked": false
+        },
+        {
+          "id": "331520",
+          "isChecked": false
+        },
+        {
+          "id": "331530",
+          "isChecked": false
+        },
+        {
+          "id": "331519",
+          "isChecked": false
+        },
+        {
+          "id": "331515",
+          "isChecked": false
+        },
+        {
+          "id": "331516",
+          "isChecked": false
+        }
+      ]
+    }
+  ],
+  "languageCode": "en_CA"
+}

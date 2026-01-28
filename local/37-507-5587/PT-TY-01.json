@@ -1,0 +1,550 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1344",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1
+        },
+        "userCurrency": {
+          "id": "677"
+        }
+      },
+      "attributes": {
+        "color": [
+          {
+            "value": "Red With Blue",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "COLOR_NAME"
+          }
+        ],
+        "item_package_weight": [
+          {
+            "value": 0.5,
+            "unit": "pounds",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "Karlliu",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "indoor_outdoor_usage": [
+          {
+            "value": "indoor",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_dimensions": [
+          {
+            "width": {
+              "unit": "inches",
+              "value": 2.4
+            },
+            "length": {
+              "unit": "inches",
+              "value": 2.4
+            },
+            "height": {
+              "unit": "inches",
+              "value": 3.2
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "Karlliu",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "Karlliu Artificial Plants Mini Succulent Flowers in Ceramic Pot",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "list_price": [
+          {
+            "currency": "USD",
+            "value": 11.99,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Artificial Plants & Greenery",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2022-11-03T06:16:17.718Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_depth_width_height": [
+          {
+            "depth": {
+              "value": 2.4,
+              "unit": "inches"
+            },
+            "width": {
+              "value": 2.4,
+              "unit": "inches"
+            },
+            "height": {
+              "value": 3.2,
+              "unit": "inches"
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 2,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "recommended_uses_for_product": [
+          {
+            "value": "indoor and outdoor",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_dimensions": [
+          {
+            "width": {
+              "value": 2.75,
+              "unit": "inches"
+            },
+            "length": {
+              "unit": "inches",
+              "value": 4
+            },
+            "height": {
+              "value": 3.75,
+              "unit": "inches"
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "material": [
+          {
+            "value": "Plastic",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "specific_uses_for_product": [
+          {
+            "value": "Home Decor",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "container": [
+          {
+            "shape": [
+              {
+                "value": "Cylinder",
+                "language_tag": "en_US"
+              }
+            ],
+            "material": [
+              {
+                "value": "Ceramic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "type": [
+              {
+                "value": "Ceramic Planter",
+                "language_tag": "en_US"
+              }
+            ],
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "included_components": [
+          {
+            "value": "Container",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0
+          }
+        ],
+        "item_shape": [
+          {
+            "value": "Cylinder",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "Perfect Design and Color Coordination: Carefully selected trio of colorful artificial succulents paired with the marble-patterned ceramic flower pot creates a perfect artistic decoration, Their lifelike appearance brings a touch of greenery and freshness to your home or office space, infusing it with boundless vitality",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Perpetually Maintains Freshness: Flower pot of this artificial plant is made of ceramic material, while the succulent plants are crafted from safe PE material, faux succulents within the pot can maintain their freshness over extended periods, no unpleasant odors associated, poses no health risks to humans or pets,ensuring safety and reliability",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Versatile for Various Scenarios: Faux succulent planter is exceptionally well-suited for various settings, such as your office desk, living room, bedroom, bathroom, kitchen, modern home office, dining area, coffee table, side table, wall shelves, bookshelves, study desk or TV area, serving as the perfect decoration, equally fitting to place on bedside tables, window sills or mantelpieces, can be used individually or in multiple combinations for added impact",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Bring a touch of nature indoors with our delightful collection of tiny succulent plants. These miniature succulents are perfect for adding a touch of greenery to your home, office, or any small space. Each plant is carefully selected and grown to ensure vibrant color and unique texture. Ideal for beginners, these low-maintenance plants require minimal care and are perfect for creating a stunning miniature garden or terrarium. Enjoy the beauty of nature without the hassle!",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "other",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "IT",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fabric_type": [
+          {
+            "value": "50% Plastic & 50% Ceramic",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_suggested_asin": [
+          {
+            "value": "B0BLBHH55H",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "parent"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childSkus": [
+                "PT-TY-01-V2",
+                "PT-TY-01-V4",
+                "PT-TY-01-V1",
+                "PT-TY-01-V3"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childAsins": [
+                "B0CD1QF387",
+                "B087JSWDZT",
+                "B0839HPCST",
+                "B0BLBH3NLV"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "ARTIFICIAL_PLANT",
+          "status": [],
+          "createdDate": "2025-11-04T07:36:56.146Z",
+          "lastUpdatedDate": "2025-11-04T09:46:07.749Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "Karlliu",
+          "browseClassification": {
+            "displayName": "Artificial Plants & Greenery",
+            "classificationId": "17833726011"
+          },
+          "color": "Red With Blue",
+          "itemClassification": "VARIATION_PARENT",
+          "itemName": "Karlliu Artificial Plants Mini Succulent Flowers in Ceramic Pot",
+          "manufacturer": "Karlliu",
+          "memorabilia": false,
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "kitchen_display_on_website",
+          "websiteDisplayGroupName": "Kitchen"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/71jprebp99L.jpg",
+              "height": 1650,
+              "width": 1650
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41Ur04Us+BL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41Ur04Us+BL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/715h-Upkb0L.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51jwfM6dyoL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51jwfM6dyoL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/71++S-ec3bL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51CmqJFgO3L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51CmqJFgO3L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71BFN1k8C4L.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/51CNbk87-VL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/51CNbk87-VL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/7183Zrmw1LL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51KVWwIap2L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51KVWwIap2L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/7179+hm0JsL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41Nlfv1R7wL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41Nlfv1R7wL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/61QeDSikH4L.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41ckUovowPL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41ckUovowPL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "8042",
+          "message": "To maintain a safe and trustworthy shopping experience, Amazon may restrict catalog contributions for certain products. At this time, Amazon has determined it is in the best interest of customers to restrict the creation of ASIN variations for this brand. Please visit Amazon’s ASIN creation policy for more information- https://sellercentral.amazon.com/help/hub/reference/G201844590.",
+          "severity": "WARNING",
+          "categories": [],
+          "sku": "PT-TY-01-V4"
+        },
+        {
+          "code": "8042",
+          "message": "To maintain a safe and trustworthy shopping experience, Amazon may restrict catalog contributions for certain products. At this time, Amazon has determined it is in the best interest of customers to restrict the creation of ASIN variations for this brand. Please visit Amazon’s ASIN creation policy for more information- https://sellercentral.amazon.com/help/hub/reference/G201844590.",
+          "severity": "WARNING",
+          "categories": [],
+          "sku": "PT-TY-01-V2"
+        },
+        {
+          "code": "5464",
+          "message": "To ensure a great shopping experience, we will review your ASIN suggestion for Karlliu and email you a decision within 7 days. Learn more https://sellercentral.amazon.com/help/hub/reference/external/G201844590.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "PT-TY-01"
+        },
+        {
+          "code": "8042",
+          "message": "To maintain a safe and trustworthy shopping experience, Amazon may restrict catalog contributions for certain products. At this time, Amazon has determined it is in the best interest of customers to restrict the creation of ASIN variations for this brand. Please visit Amazon’s ASIN creation policy for more information- https://sellercentral.amazon.com/help/hub/reference/G201844590.",
+          "severity": "WARNING",
+          "categories": [],
+          "sku": "PT-TY-01-V1"
+        },
+        {
+          "code": "20015",
+          "message": "Your image file type isn't supported. Image must use HTTP protocol (not HTTPS, FTP, or \"file\"), and be in JPEG, TIFF, PNG, or non-animated GIF format (JPEG preferred). Use RGB or CMYK color (RGB preferred). Images should be clear, unpixelated, at least 72 dpi, and between 1,000 and 10,000 pixels on the longest side to enable zoom functionality.",
+          "severity": "ERROR",
+          "categories": ["INVALID_IMAGE", "INVALID_ATTRIBUTE"],
+          "sku": "PT-TY-01"
+        },
+        {
+          "code": "8042",
+          "message": "To maintain a safe and trustworthy shopping experience, Amazon may restrict catalog contributions for certain products. At this time, Amazon has determined it is in the best interest of customers to restrict the creation of ASIN variations for this brand. Please visit Amazon’s ASIN creation policy for more information- https://sellercentral.amazon.com/help/hub/reference/G201844590.",
+          "severity": "WARNING",
+          "categories": [],
+          "sku": "PT-TY-01-V3"
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "ARTIFICIAL_PLANT"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "info": {
+    "sku": "1767961620803-TP",
+    "name": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "identityType": null,
+    "identityValue": null,
+    "productImage": {
+      "id": "416673",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": null,
+      "digitalAssetsId": "149036",
+      "isMainImage": true,
+      "sequence": null,
+      "amazonUrl": "https://m.media-amazon.com/images/I/31XGQW2phPL.jpg",
+      "shopifyExternalId": null,
+      "digitalAssetId": "149036",
+      "type": "amazon",
+      "fileOriginalName": "7fe0e1a0-ed56-11f0-b61e-d999a5d27586.jpg",
+      "filePath": "uploads/281/product/11710/",
+      "fileUniqueName": "7fe0e1a0-ed56-11f0-b61e-d999a5d27586.jpg",
+      "fileType": null,
+      "fileSize": "13357",
+      "isBaseValue": false
+    }
+  },
+  "mertrices": {
+    "averageRating": 0,
+    "totalReviews": 0,
+    "orderCount": 0,
+    "totalRevenue": 0
+  }
+}

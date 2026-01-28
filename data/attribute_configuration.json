@@ -1,0 +1,560 @@
+{
+  "isMandatory": "recommended",
+  "customTextAllowed": true,
+  "options": [
+    {
+      "label": "Acetato",
+      "value": "Acetato",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Acrilonitrilo butadieno estireno",
+      "value": "Acrilonitrilo butadieno estireno",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Acrílico",
+      "value": "Acrílico",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Algodón",
+      "value": "Algodón",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Alumida",
+      "value": "Alumida",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Ante sintético",
+      "value": "Ante sintético",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Arcilla polimérica",
+      "value": "Arcilla polimérica",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Bambú", "value": "Bambú", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Bodhi",
+      "value": "Bodhi",
+      "marketplaceLanguage": ["es_MX", "en_US", "en_CA"]
+    },
+    { "label": "Caucho", "value": "Caucho", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Cerámica",
+      "value": "Cerámica",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Cloruro de polivinilo",
+      "value": "Cloruro de polivinilo",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Concha", "value": "Concha", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Concha de cauri",
+      "value": "Concha de cauri",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Concha de puka",
+      "value": "Concha de puka",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Coral",
+      "value": "Coral",
+      "marketplaceLanguage": ["es_MX", "en_US", "en_CA"]
+    },
+    { "label": "corcho", "value": "corcho", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Cristal",
+      "value": "Cristal",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Cuerno", "value": "Cuerno", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Cuero", "value": "Cuero", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Cuero sintético",
+      "value": "Cuero sintético",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Cáñamo", "value": "Cáñamo", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Diamante de imitación",
+      "value": "Diamante de imitación",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Epoxi", "value": "Epoxi", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Esmalte",
+      "value": "Esmalte",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Esparto",
+      "value": "Esparto",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "estaño", "value": "estaño", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Fibra natural",
+      "value": "Fibra natural",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Fibra sintética",
+      "value": "Fibra sintética",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Gamuza", "value": "Gamuza", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Gema", "value": "Gema", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Hueso", "value": "Hueso", "marketplaceLanguage": ["es_MX"] },
+    { "label": "lana", "value": "lana", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Lino", "value": "Lino", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Madera", "value": "Madera", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Madera de agar",
+      "value": "Madera de agar",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Madera de haya",
+      "value": "Madera de haya",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Madera de sándalo",
+      "value": "Madera de sándalo",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Madreperla",
+      "value": "Madreperla",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Metal",
+      "value": "Metal",
+      "marketplaceLanguage": ["es_MX", "en_US", "en_CA"]
+    },
+    { "label": "Nailon", "value": "Nailon", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Palisandro",
+      "value": "Palisandro",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Papel", "value": "Papel", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Pelaje", "value": "Pelaje", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Pelaje sintético",
+      "value": "Pelaje sintético",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Piedra", "value": "Piedra", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Plástico",
+      "value": "Plástico",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Poliamida",
+      "value": "Poliamida",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "policarbonato",
+      "value": "policarbonato",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Poliuretano",
+      "value": "Poliuretano",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Poliuretano termoplástico (TPU)",
+      "value": "Poliuretano termoplástico (TPU)",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Poliéster",
+      "value": "Poliéster",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Polvo mineral",
+      "value": "Polvo mineral",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Porcelana",
+      "value": "Porcelana",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Ratán", "value": "Ratán", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Rayón", "value": "Rayón", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Resina", "value": "Resina", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Resina sintética",
+      "value": "Resina sintética",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Rudraksha",
+      "value": "Rudraksha",
+      "marketplaceLanguage": ["es_MX", "en_US", "en_CA"]
+    },
+    { "label": "Seda", "value": "Seda", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Silicona",
+      "value": "Silicona",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Tela", "value": "Tela", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Vidrio", "value": "Vidrio", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Vidrio de mar",
+      "value": "Vidrio de mar",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    {
+      "label": "Vidrio templado",
+      "value": "Vidrio templado",
+      "marketplaceLanguage": ["es_MX"]
+    },
+    { "label": "Vinilo", "value": "Vinilo", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Yeso", "value": "Yeso", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Ámbar", "value": "Ámbar", "marketplaceLanguage": ["es_MX"] },
+    { "label": "Ébano", "value": "Ébano", "marketplaceLanguage": ["es_MX"] },
+    {
+      "label": "Acetate",
+      "value": "Acetate",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Acrylic",
+      "value": "Acrylic",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Acrylonitrile Butadiene Styrene",
+      "value": "Acrylonitrile Butadiene Styrene",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Agarwood",
+      "value": "Agarwood",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Alumide",
+      "value": "Alumide",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Amber",
+      "value": "Amber",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Bamboo",
+      "value": "Bamboo",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Beech",
+      "value": "Beech",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Bone",
+      "value": "Bone",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Ceramic",
+      "value": "Ceramic",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Cork",
+      "value": "Cork",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Cotton",
+      "value": "Cotton",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Cowrie Shell",
+      "value": "Cowrie Shell",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Crystal",
+      "value": "Crystal",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Ebony",
+      "value": "Ebony",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Enamel",
+      "value": "Enamel",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Epoxy",
+      "value": "Epoxy",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Fabric",
+      "value": "Fabric",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Faux Fur",
+      "value": "Faux Fur",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Faux Leather",
+      "value": "Faux Leather",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Faux Suede",
+      "value": "Faux Suede",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Fur",
+      "value": "Fur",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Gemstone",
+      "value": "Gemstone",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Glass",
+      "value": "Glass",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Hemp",
+      "value": "Hemp",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Horn",
+      "value": "Horn",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Leather",
+      "value": "Leather",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Linen",
+      "value": "Linen",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Mineral Powder",
+      "value": "Mineral Powder",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Mother Of Pearl",
+      "value": "Mother Of Pearl",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Natural Fiber",
+      "value": "Natural Fiber",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Nylon",
+      "value": "Nylon",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Paper",
+      "value": "Paper",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Plaster",
+      "value": "Plaster",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Plastic",
+      "value": "Plastic",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Polyamide",
+      "value": "Polyamide",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Polycarbonate",
+      "value": "Polycarbonate",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Polyester",
+      "value": "Polyester",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Polymer Clay",
+      "value": "Polymer Clay",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Polyurethane",
+      "value": "Polyurethane",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Polyvinyl Chloride",
+      "value": "Polyvinyl Chloride",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Porcelain",
+      "value": "Porcelain",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Puka Shell",
+      "value": "Puka Shell",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Rattan",
+      "value": "Rattan",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Rayon",
+      "value": "Rayon",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Resin",
+      "value": "Resin",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Rhinestone",
+      "value": "Rhinestone",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Rosewood",
+      "value": "Rosewood",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Rubber",
+      "value": "Rubber",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Sandalwood",
+      "value": "Sandalwood",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Sea Glass",
+      "value": "Sea Glass",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Shell",
+      "value": "Shell",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Silicone",
+      "value": "Silicone",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Silk",
+      "value": "Silk",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Stone",
+      "value": "Stone",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Straw",
+      "value": "Straw",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Suede",
+      "value": "Suede",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Synthetic Fiber",
+      "value": "Synthetic Fiber",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Synthetic Resin",
+      "value": "Synthetic Resin",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Tempered Glass",
+      "value": "Tempered Glass",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Thermoplastic Polyurethane",
+      "value": "Thermoplastic Polyurethane",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Tin",
+      "value": "Tin",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Vinyl",
+      "value": "Vinyl",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Wood",
+      "value": "Wood",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    },
+    {
+      "label": "Wool",
+      "value": "Wool",
+      "marketplaceLanguage": ["en_US", "en_CA"]
+    }
+  ]
+}

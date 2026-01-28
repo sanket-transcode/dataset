@@ -1,0 +1,260 @@
+[
+  {
+    "instancePath": "/item_package_weight/0",
+    "schemaPath": "#/properties/item_package_weight/items/required",
+    "keyword": "required",
+    "params": {
+      "missingProperty": "unit"
+    },
+    "message": "must have required property 'unit'",
+    "schema": ["unit", "value"],
+    "parentSchema": {
+      "type": "object",
+      "required": ["unit", "value"],
+      "properties": {
+        "unit": {
+          "enum": ["grams", "kilograms", "milligrams", "ounces", "pounds"],
+          "type": "string",
+          "title": "Package Weight Unit",
+          "hidden": false,
+          "editable": true,
+          "examples": ["Pounds"],
+          "enumNames": ["Grams", "Kilograms", "Milligrams", "Ounces", "Pounds"],
+          "description": "Select the unit of measure for Package Weight. If a value is provided for Package Weight, you must also enter the corresponding unit."
+        },
+        "value": {
+          "type": "number",
+          "title": "Package Weight",
+          "hidden": false,
+          "maximum": 1000000000,
+          "minimum": 0,
+          "editable": true,
+          "examples": ["0.65"],
+          "description": "This attribute represents the weight of the item plus the packaging. If your item is shipped to the customer in multiple packages, enter the dimensions of the heaviest package",
+          "exclusiveMinimum": 0
+        },
+        "marketplace_id": {
+          "$ref": "#/$defs/marketplace_id"
+        }
+      },
+      "additionalProperties": false
+    },
+    "data": {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": ""
+    }
+  },
+  {
+    "instancePath": "/item_package_dimensions/0/width",
+    "schemaPath": "#/properties/item_package_dimensions/items/properties/width/required",
+    "keyword": "required",
+    "params": {
+      "missingProperty": "unit"
+    },
+    "message": "must have required property 'unit'",
+    "schema": ["unit", "value"],
+    "parentSchema": {
+      "type": "object",
+      "title": "Package Width",
+      "examples": ["2"],
+      "required": ["unit", "value"],
+      "properties": {
+        "unit": {
+          "enum": [
+            "centimeters",
+            "feet",
+            "inches",
+            "meters",
+            "millimeters",
+            "yards"
+          ],
+          "type": "string",
+          "title": "Package Width Unit",
+          "hidden": false,
+          "editable": true,
+          "examples": ["Centimetres, Millimetres"],
+          "enumNames": [
+            "Centimetres",
+            "Feet",
+            "Inches",
+            "Metres",
+            "Millimetres",
+            "Yards"
+          ],
+          "description": "Select the unit of measure for Package Width. If a value is provided for Package Width, you must also enter the corresponding unit."
+        },
+        "value": {
+          "type": "number",
+          "title": "Item Package Width",
+          "hidden": false,
+          "maximum": 1000000000,
+          "minimum": 0,
+          "editable": true,
+          "examples": ["2"],
+          "description": "Provide the package width as a numeric value."
+        }
+      },
+      "description": "Provide the package width",
+      "additionalProperties": false
+    },
+    "data": {
+      "value": ""
+    }
+  },
+  {
+    "instancePath": "/item_package_dimensions/0/height",
+    "schemaPath": "#/properties/item_package_dimensions/items/properties/height/required",
+    "keyword": "required",
+    "params": {
+      "missingProperty": "unit"
+    },
+    "message": "must have required property 'unit'",
+    "schema": ["unit", "value"],
+    "parentSchema": {
+      "type": "object",
+      "title": "Package Height",
+      "examples": ["2.7"],
+      "required": ["unit", "value"],
+      "properties": {
+        "unit": {
+          "enum": [
+            "centimeters",
+            "feet",
+            "inches",
+            "meters",
+            "millimeters",
+            "yards"
+          ],
+          "type": "string",
+          "title": "Package Height Unit",
+          "hidden": false,
+          "editable": true,
+          "examples": ["Centimetres, Millimetres"],
+          "enumNames": [
+            "Centimetres",
+            "Feet",
+            "Inches",
+            "Metres",
+            "Millimetres",
+            "Yards"
+          ],
+          "description": "Select the unit of measure for Package Height. If a value is provided for Package Height, you must also enter the corresponding unit."
+        },
+        "value": {
+          "type": "number",
+          "title": "Item Package Height",
+          "hidden": false,
+          "maximum": 1000000000,
+          "minimum": 0,
+          "editable": true,
+          "examples": ["2.7"],
+          "description": "Provide the package height as a numeric value."
+        }
+      },
+      "description": "Provide the package height",
+      "additionalProperties": false
+    },
+    "data": {
+      "value": ""
+    }
+  },
+  {
+    "instancePath": "/item_package_dimensions/0/length",
+    "schemaPath": "#/properties/item_package_dimensions/items/properties/length/required",
+    "keyword": "required",
+    "params": {
+      "missingProperty": "unit"
+    },
+    "message": "must have required property 'unit'",
+    "schema": ["unit", "value"],
+    "parentSchema": {
+      "type": "object",
+      "title": "Package Length",
+      "examples": ["10"],
+      "required": ["unit", "value"],
+      "properties": {
+        "unit": {
+          "enum": [
+            "centimeters",
+            "feet",
+            "inches",
+            "meters",
+            "millimeters",
+            "yards"
+          ],
+          "type": "string",
+          "title": "Package Length Unit",
+          "hidden": false,
+          "editable": true,
+          "examples": ["Centimetres, Millimetres"],
+          "enumNames": [
+            "Centimetres",
+            "Feet",
+            "Inches",
+            "Metres",
+            "Millimetres",
+            "Yards"
+          ],
+          "description": "Select the unit of measure for Package Length. If a value is provided for Package Length, you must also enter the corresponding unit."
+        },
+        "value": {
+          "type": "number",
+          "title": "Item Package Length",
+          "hidden": false,
+          "maximum": 1000000000,
+          "minimum": 0,
+          "editable": true,
+          "examples": ["10"],
+          "description": "Provide the package length as a numeric value."
+        }
+      },
+      "description": "Provide the package length",
+      "additionalProperties": false
+    },
+    "data": {
+      "value": ""
+    }
+  },
+  {
+    "instancePath": "/externally_assigned_product_identifier/0",
+    "schemaPath": "#/properties/externally_assigned_product_identifier/items/required",
+    "keyword": "required",
+    "params": {
+      "missingProperty": "type"
+    },
+    "message": "must have required property 'type'",
+    "schema": ["type", "value"],
+    "parentSchema": {
+      "type": "object",
+      "required": ["type", "value"],
+      "properties": {
+        "type": {
+          "enum": ["ean", "gtin", "upc"],
+          "type": "string",
+          "title": "External Product ID Type",
+          "hidden": false,
+          "editable": false,
+          "examples": ["UPC"],
+          "enumNames": ["EAN", "GTIN", "UPC"],
+          "description": "Select the type of external ID (barcode) that is being used to identify this product"
+        },
+        "value": {
+          "type": "string",
+          "title": "External Product ID",
+          "hidden": false,
+          "editable": false,
+          "examples": ["714532191586"],
+          "description": "Provide the corresponding external product id value based on the type that was selected"
+        },
+        "marketplace_id": {
+          "$ref": "#/$defs/marketplace_id"
+        }
+      },
+      "additionalProperties": false
+    },
+    "data": {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": ""
+    }
+  }
+]

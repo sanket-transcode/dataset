@@ -1,0 +1,53 @@
+{
+  "item_name": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Product name"
+    }
+  ],
+  "condition_type": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "new_new"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": true
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "quantity": 0
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "merchant_shipping_group": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "temp-value"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Product Description"
+    }
+  ]
+}

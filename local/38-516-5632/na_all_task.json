@@ -1,0 +1,1591 @@
+{
+  "channelId": "516",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2025-11-29T10:08:46.115Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 249,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 80
+  },
+  "productTracker": {
+    "123123": {
+      "hasErrors": false,
+      "productId": "7629",
+      "productName": "123123",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "5524103": {
+      "hasErrors": false,
+      "productId": "7593",
+      "productName": "Resident Evil Requiem Deluxe Edition + Steelbook - PlayStation 5",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7896521": {
+      "hasErrors": false,
+      "productId": "7582",
+      "productName": "Citizen Men's Eco-Drive Weekender Avion Field Watch in Stainless Steel with Khaki Nylon Strap, Black Dial (Model: BM7550-01E)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7898520": {
+      "hasErrors": false,
+      "productId": "7643",
+      "productName": "Casio G-Shock GW6900-1 Men's Tough Solar Black Resin Sport Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": false,
+      "productId": "7550",
+      "productName": "Dangle Golden Earrings for Classic Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit-2": {
+      "hasErrors": false,
+      "productId": "7553",
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "skin-serum": {
+      "hasErrors": false,
+      "productId": "7555",
+      "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "glue-gun-final-try-inport-sku": {
+      "hasErrors": false,
+      "productId": "7556",
+      "productName": "Gorilla Hot Glue Gun (Pack of 1) - Dual Temp Full Size Hot Glue Gun with Precision Nozzle, Easy Squeeze Trigger, and Enhanced Safety Features for DIY, Craft, Repairs, and More",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SKU-Cowboy-cap-with-images": {
+      "hasErrors": false,
+      "productId": "7559",
+      "productName": "Cowboy Cap",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "B0-8YOH-L1ED": {
+      "hasErrors": false,
+      "productId": "7561",
+      "productName": "dunia",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4V-TQBK-5JI3": {
+      "hasErrors": false,
+      "productId": "7562",
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "JX-8ODT-WYWA": {
+      "hasErrors": false,
+      "productId": "7564",
+      "productName": "Car Vinyl Decal Yellow",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "sku-t-shirt-b-1": {
+      "hasErrors": false,
+      "productId": "7566",
+      "productName": "T-Shirt-b Blue",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2J-BYFP-C4KH": {
+      "hasErrors": false,
+      "productId": "7568",
+      "productName": "White Snickers Without Any Stripes or Model",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RB-ECO-001": {
+      "hasErrors": false,
+      "productId": "7570",
+      "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GLS-01": {
+      "hasErrors": false,
+      "productId": "7572",
+      "productName": "Classic Unisex Sunglasses - UV400 Protection",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CLIP-CL-01": {
+      "hasErrors": false,
+      "productId": "7574",
+      "productName": "Elegant Hair Clip for Women - Secure Hold Fashion Accessory",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt": {
+      "hasErrors": false,
+      "productId": "7576",
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SW-HB-001": {
+      "hasErrors": false,
+      "productId": "7578",
+      "productName": "Professional Hair Brush for All Hair Types",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EA-AS-01": {
+      "hasErrors": false,
+      "productId": "7580",
+      "productName": "Aretes colgantes tradicionales hechos a mano para mujeres",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99652036985": {
+      "hasErrors": false,
+      "productId": "7584",
+      "productName": "Hlukana Vintage Hobnail Drinking Glasses Set of 8, 12 oz Highball Glasses & 10 oz Cocktail Glasses Set, Kitchen Water Glasses Cup, Bar Tumbler Glassware Set for Beer, Juice, Cocktail, Whiskey, Milk",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4C-SWI8-MG3Y": {
+      "hasErrors": false,
+      "productId": "7586",
+      "productName": "Classic Cotton T-Shirt, Crew Neck, Short Sleeve, Relaxed Fit, Machine Washable",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": "7587",
+      "productName": "Bean Essence Serum – Snail Mucin Alternative for Glass Skin – Hydrating Glow Boost – Deeper Moisture Than Hyaluronic – Flawless Primer – Strengthens Skin Barrier – 1.01 fl.oz",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PG-LTKX-94L9": {
+      "hasErrors": false,
+      "productId": "7589",
+      "productName": "My Super Shirt Beige Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "donut-pan": {
+      "hasErrors": false,
+      "productId": "7591",
+      "productName": "GEEOOLLAH Nonstick Donut Pan Set – 2-Piece Bakeware with 6-Cavity Mini and 12-Cavity Standard Molds, Durable Carbon Steel, Scratch-Resistant, Even Heating",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "brown-hoodie-for-men": {
+      "hasErrors": false,
+      "productId": "7595",
+      "productName": "Men's Brown Fleece Pullover Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": "7596",
+      "productName": "Highlighter Marker Pen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "party suit": {
+      "hasErrors": false,
+      "productId": "7598",
+      "productName": "2 piece party suit for men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "dark-chocolate": {
+      "hasErrors": false,
+      "productId": "7599",
+      "productName": "Barra de Chocolate Negro Premium",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Premium White Eraser": {
+      "hasErrors": false,
+      "productId": "7601",
+      "productName": "Premium White Eraser for Pencils and Markers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": "7603",
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Ice-Cream-Maker": {
+      "hasErrors": false,
+      "productId": "7604",
+      "productName": "Máquina de helados eléctrica de primera calidad",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Eyelashes": {
+      "hasErrors": false,
+      "productId": "7606",
+      "productName": "Pestañas Postizas Premium - Aspecto Natural",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "watch": {
+      "hasErrors": false,
+      "productId": "7608",
+      "productName": "Elegant Men's Luxury Automatic Watch - Stainless Steel, Sapphire Crystal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "1234567890123456789012345678901234567890": {
+      "hasErrors": false,
+      "productId": "7610",
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mojito-glass": {
+      "hasErrors": false,
+      "productId": "7611",
+      "productName": "Vasos de mojito con hojas Melbify - Juego de 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": "7613",
+      "productName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "wooden-bench": {
+      "hasErrors": false,
+      "productId": "7615",
+      "productName": "Artissance Home Vintage Noodle Bench, Weathered Natural Wood Finish (Size & Color Vary)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7859632058741": {
+      "hasErrors": false,
+      "productId": "7616",
+      "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "men's-shirt": {
+      "hasErrors": false,
+      "productId": "7619",
+      "productName": "Men's Premium Cotton Crew Neck T-Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20950906538424039047": {
+      "hasErrors": false,
+      "productId": "7620",
+      "productName": "The Giant Leap Unisex Heavy Cotton Tee",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14444053310336374819": {
+      "hasErrors": false,
+      "productId": "7622",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32242345023357025715": {
+      "hasErrors": false,
+      "productId": "7624",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "74599968013643921960": {
+      "hasErrors": false,
+      "productId": "7626",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16661825059693052327": {
+      "hasErrors": false,
+      "productId": "7628",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "fsdfdsghjjjjjjjjgh current": {
+      "hasErrors": false,
+      "productId": "7631",
+      "productName": "Essential current",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "94292994261163396712": {
+      "hasErrors": false,
+      "productId": "7632",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22039449774746896506": {
+      "hasErrors": false,
+      "productId": "7634",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20005483504707723209": {
+      "hasErrors": false,
+      "productId": "7636",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "78030572374848186482": {
+      "hasErrors": false,
+      "productId": "7637",
+      "productName": "Generic Love Phone Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "86116983703179682472": {
+      "hasErrors": false,
+      "productId": "7638",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30979367391677307111": {
+      "hasErrors": false,
+      "productId": "7640",
+      "productName": "Unisex Heavy Cotton Tee",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67cec2c032fb796da203d29f": {
+      "hasErrors": false,
+      "productId": "7641",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "66fbb09992ead167af0148a3": {
+      "hasErrors": false,
+      "productId": "7642",
+      "productName": "Biking Unisex Midweight T-shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2105236520-V1": {
+      "hasErrors": false,
+      "productId": "7644",
+      "productName": "50 Pcs Round Placemats (Brown)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CND-WRM-V2": {
+      "hasErrors": false,
+      "productId": "7646",
+      "productName": "Electric Vacuum Coffee Canister, 1.3L Glass Airtight Food Storage Containers with Smart Pressure Sensor, Automatic Coffee Bean Container Rechargeable with LED Display Window for Kitchen Food Storage",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CND-WRM-V1": {
+      "hasErrors": false,
+      "productId": "7647",
+      "productName": "Automatic Vacuum Coffee Canister, 1.3L Airtight Food Storage Containers with Smart Pressure Sensor, Electric Coffee Bean Container Rechargeable with LED Display Window for Home Kitchen Food Storage",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "784585741201 Black": {
+      "hasErrors": false,
+      "productId": "7648",
+      "productName": "Modern Matte Black Ceramic Vase - Large Decorative Flower Vase",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt for women": {
+      "hasErrors": false,
+      "productId": "7649",
+      "productName": "HOWALOOK Women’s Stretch Cotton Sweatshirt Dress V-Neck Cap Sleeve Quarter Zip Pullover Casual Tunic Athletic Mini Dress",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "disney-necklace": {
+      "hasErrors": false,
+      "productId": "7700",
+      "productName": "Disney Womens Stitch Sterling Silver Necklace 18\" - 3D Pendant Enamel-Plated Stitch Necklace Official License",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "88520025-V2": {
+      "hasErrors": false,
+      "productId": "7650",
+      "productName": "Miracurl Professional Curl Machine",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "88520025-V1": {
+      "hasErrors": false,
+      "productId": "7650",
+      "productName": "Miracurl Professional Curl Machine",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25688997547984720320": {
+      "hasErrors": false,
+      "productId": "7651",
+      "productName": "car Vinil Decal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10284470610055147746": {
+      "hasErrors": false,
+      "productId": "7651",
+      "productName": "car Vinil Decal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MR-WH-97-V1": {
+      "hasErrors": false,
+      "productId": "7653",
+      "productName": "CLSEVXY Vanity Makeup Mirror with Stand, 1X/15X Magnification Double Sided 360 Degree Swivel, Portable Table Desk Counter top Magnifying Mirror, Tabletop Bathroom Shaving Mirror, 6.25 Inch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MR-WH-97-V2": {
+      "hasErrors": false,
+      "productId": "7653",
+      "productName": "CLSEVXY Vanity Makeup Mirror with Stand, 1X/15X Magnification Double Sided 360 Degree Swivel, Portable Table Desk Counter top Magnifying Mirror, Tabletop Bathroom Shaving Mirror, 6.25 Inch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22598520147852-V2": {
+      "hasErrors": false,
+      "productId": "7654",
+      "productName": "Homedics Tabletop Water Fountain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22598520147852-V1": {
+      "hasErrors": false,
+      "productId": "7654",
+      "productName": "Homedics Tabletop Water Fountain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "VR-NE-6": {
+      "hasErrors": false,
+      "productId": "7655",
+      "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-54 5 White Gold": {
+      "hasErrors": false,
+      "productId": "7655",
+      "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case black": {
+      "hasErrors": false,
+      "productId": "7656",
+      "productName": "Love Heart Phone Case - Protective & Stylish",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case Pink": {
+      "hasErrors": false,
+      "productId": "7656",
+      "productName": "Love Heart Phone Case - Protective & Stylish",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-green": {
+      "hasErrors": false,
+      "productId": "7657",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-yellow": {
+      "hasErrors": false,
+      "productId": "7657",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "truck-toy-for-kid black": {
+      "hasErrors": false,
+      "productId": "7658",
+      "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "truck-toy-for-kid Yellow": {
+      "hasErrors": false,
+      "productId": "7658",
+      "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V3": {
+      "hasErrors": false,
+      "productId": "7659",
+      "productName": "6FT Artificial Norfolk Pine Garland, Realistic Christmas Greenery Garland for Mantle, Staircase, Banister, Fireplace, Wall, Door, Table, Indoor & Outdoor Holiday Winter Decortions",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V1": {
+      "hasErrors": false,
+      "productId": "7659",
+      "productName": "6FT Artificial Norfolk Pine Garland, Realistic Christmas Greenery Garland for Mantle, Staircase, Banister, Fireplace, Wall, Door, Table, Indoor & Outdoor Holiday Winter Decortions",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V2": {
+      "hasErrors": false,
+      "productId": "7659",
+      "productName": "6FT Artificial Norfolk Pine Garland, Realistic Christmas Greenery Garland for Mantle, Staircase, Banister, Fireplace, Wall, Door, Table, Indoor & Outdoor Holiday Winter Decortions",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "785241036-V3": {
+      "hasErrors": false,
+      "productId": "7660",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25895874100-V2": {
+      "hasErrors": false,
+      "productId": "7660",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25895874100-V1": {
+      "hasErrors": false,
+      "productId": "7660",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "889652036985": {
+      "hasErrors": false,
+      "productId": "7661",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26014986315503632044": {
+      "hasErrors": false,
+      "productId": "7661",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "55252223219787294959": {
+      "hasErrors": false,
+      "productId": "7661",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V4": {
+      "hasErrors": false,
+      "productId": "7662",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V1": {
+      "hasErrors": false,
+      "productId": "7662",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V2": {
+      "hasErrors": false,
+      "productId": "7662",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V3": {
+      "hasErrors": false,
+      "productId": "7663",
+      "productName": "Kitsch Mini Claw Clips for Women - Stylish Small Hair Clips for Kids | Stays In Place Without Pulling or Snagging | Durable & Sturdy Plastic | Ideal Gifts for Women - Tortoise & Black, 16 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V1": {
+      "hasErrors": false,
+      "productId": "7663",
+      "productName": "Kitsch Mini Claw Clips for Women - Stylish Small Hair Clips for Kids | Stays In Place Without Pulling or Snagging | Durable & Sturdy Plastic | Ideal Gifts for Women - Tortoise & Black, 16 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V2": {
+      "hasErrors": false,
+      "productId": "7663",
+      "productName": "Kitsch Mini Claw Clips for Women - Stylish Small Hair Clips for Kids | Stays In Place Without Pulling or Snagging | Durable & Sturdy Plastic | Ideal Gifts for Women - Tortoise & Black, 16 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17413368743738459909": {
+      "hasErrors": false,
+      "productId": "7664",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26485797266076578247": {
+      "hasErrors": false,
+      "productId": "7664",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "28864020670788674751": {
+      "hasErrors": false,
+      "productId": "7664",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67762835364228201899": {
+      "hasErrors": false,
+      "productId": "7664",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V3": {
+      "hasErrors": false,
+      "productId": "7665",
+      "productName": "Karlliu Artificial Plants Succulent Flowers in Ceramic Planter 2 Pack Small Fake Plants Potted for Home Office Desk Decor Farmhouse Living Room Bedroom Shelves Decoration",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V4": {
+      "hasErrors": false,
+      "productId": "7665",
+      "productName": "Karlliu Artificial Plants Succulent Flowers in Ceramic Planter 2 Pack Small Fake Plants Potted for Home Office Desk Decor Farmhouse Living Room Bedroom Shelves Decoration",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V1": {
+      "hasErrors": false,
+      "productId": "7665",
+      "productName": "Karlliu Artificial Plants Succulent Flowers in Ceramic Planter 2 Pack Small Fake Plants Potted for Home Office Desk Decor Farmhouse Living Room Bedroom Shelves Decoration",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V2": {
+      "hasErrors": false,
+      "productId": "7665",
+      "productName": "Karlliu Artificial Plants Succulent Flowers in Ceramic Planter 2 Pack Small Fake Plants Potted for Home Office Desk Decor Farmhouse Living Room Bedroom Shelves Decoration",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V3": {
+      "hasErrors": false,
+      "productId": "7666",
+      "productName": "Aekenr Floor lamp (Black & Beige Shade)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V4": {
+      "hasErrors": false,
+      "productId": "7666",
+      "productName": "Aekenr Floor lamp (Black & Beige Shade)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V1": {
+      "hasErrors": false,
+      "productId": "7666",
+      "productName": "Aekenr Floor lamp (Black & Beige Shade)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V2": {
+      "hasErrors": false,
+      "productId": "7666",
+      "productName": "Aekenr Floor lamp (Black & Beige Shade)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V4": {
+      "hasErrors": false,
+      "productId": "7667",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V1": {
+      "hasErrors": false,
+      "productId": "7667",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V3": {
+      "hasErrors": false,
+      "productId": "7667",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V2": {
+      "hasErrors": false,
+      "productId": "7667",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V1": {
+      "hasErrors": false,
+      "productId": "7668",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V3": {
+      "hasErrors": false,
+      "productId": "7668",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V5": {
+      "hasErrors": false,
+      "productId": "7668",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V2": {
+      "hasErrors": false,
+      "productId": "7668",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V3": {
+      "hasErrors": false,
+      "productId": "7669",
+      "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V5": {
+      "hasErrors": false,
+      "productId": "7669",
+      "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V4": {
+      "hasErrors": false,
+      "productId": "7669",
+      "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V1": {
+      "hasErrors": false,
+      "productId": "7669",
+      "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V2": {
+      "hasErrors": false,
+      "productId": "7669",
+      "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V1": {
+      "hasErrors": false,
+      "productId": "7670",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V4": {
+      "hasErrors": false,
+      "productId": "7670",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V5": {
+      "hasErrors": false,
+      "productId": "7670",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V2": {
+      "hasErrors": false,
+      "productId": "7670",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V3": {
+      "hasErrors": false,
+      "productId": "7670",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}

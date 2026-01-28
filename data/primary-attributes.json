@@ -1,0 +1,373 @@
+[
+  {
+    "id": "5208244",
+    "attributeId": "173236",
+    "productAttributeGroupId": "9584",
+    "variantId": null,
+    "languageCode": "es_MX",
+    "channelId": null,
+    "isActive": true,
+    "isInherited": true,
+    "sequence": "3",
+    "createdAt": "2025-10-27T08:50:06.364Z",
+    "updatedAt": "2025-10-30T10:47:10.144Z",
+    "valueVarchar": "68d24843576c0d2d8e0b0ce0",
+    "valueText": null,
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null,
+    "unitOfMeasure": null,
+    "displayLabel": "SKU",
+    "attribute": {
+      "id": 173236,
+      "name": "SKU",
+      "label": "",
+      "displayLabel": "SKU",
+      "attributeType": "text",
+      "isPrimaryAttribute": true,
+      "attributeTranslations": [
+        {
+          "key": "label",
+          "translation": "SKU",
+          "languageCode": "en_US"
+        }
+      ],
+      "attributeConfiguration": {
+        "maxLength": "255",
+        "isMandatory": "mandatory"
+      }
+    },
+    "productGroupsAndAttributesSequence": {
+      "id": 5208244,
+      "sequence": 3
+    },
+    "baseValues": {
+      "valueVarchar": "68d24843576c0d2d8e0b0ce0",
+      "valueText": "68d24843576c0d2d8e0b0ce0",
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null
+    },
+    "isBase": true
+  },
+  {
+    "id": "5647463",
+    "attributeId": "173237",
+    "productAttributeGroupId": "9584",
+    "variantId": null,
+    "languageCode": "es_MX",
+    "channelId": null,
+    "isActive": true,
+    "isInherited": true,
+    "sequence": "4",
+    "createdAt": "2025-10-27T08:50:06.376Z",
+    "updatedAt": "2025-10-30T10:47:13.470Z",
+    "valueVarchar": "",
+    "valueText": "",
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null,
+    "unitOfMeasure": null,
+    "baseValues": {
+      "valueVarchar": "",
+      "valueText": "",
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null
+    },
+    "displayLabel": "Identity Type",
+    "attribute": {
+      "id": 173237,
+      "name": "Identity Type",
+      "label": "",
+      "displayLabel": "Identity Type",
+      "attributeType": "text",
+      "isPrimaryAttribute": true,
+      "attributeTranslations": [
+        {
+          "key": "label",
+          "translation": "Identity Type",
+          "languageCode": "en_US"
+        }
+      ],
+      "attributeConfiguration": {
+        "maxLength": "255",
+        "isMandatory": "mandatory"
+      }
+    },
+    "productGroupsAndAttributesSequence": {
+      "id": 5647463,
+      "sequence": 4
+    },
+    "isBase": true
+  },
+  {
+    "id": "5647464",
+    "attributeId": "173238",
+    "productAttributeGroupId": "9584",
+    "variantId": null,
+    "languageCode": "es_MX",
+    "channelId": null,
+    "isActive": true,
+    "isInherited": true,
+    "sequence": "5",
+    "createdAt": "2025-10-27T08:50:06.390Z",
+    "updatedAt": "2025-10-30T10:47:13.470Z",
+    "valueVarchar": "",
+    "valueText": "",
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null,
+    "unitOfMeasure": null,
+    "baseValues": {
+      "valueVarchar": "",
+      "valueText": "",
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null
+    },
+    "displayLabel": "Identity Value",
+    "attribute": {
+      "id": 173238,
+      "name": "Identity Value",
+      "label": "",
+      "displayLabel": "Identity Value",
+      "attributeType": "text",
+      "isPrimaryAttribute": true,
+      "attributeTranslations": [
+        {
+          "key": "label",
+          "translation": "Identity Value",
+          "languageCode": "en_US"
+        }
+      ],
+      "attributeConfiguration": {
+        "maxLength": "255",
+        "isMandatory": "mandatory"
+      }
+    },
+    "productGroupsAndAttributesSequence": {
+      "id": 5647464,
+      "sequence": 5
+    },
+    "isBase": true
+  },
+  {
+    "id": "5647465",
+    "attributeId": "173234",
+    "productAttributeGroupId": "9584",
+    "variantId": null,
+    "languageCode": "es_MX",
+    "channelId": null,
+    "isActive": true,
+    "isInherited": true,
+    "sequence": "1",
+    "createdAt": "2025-10-27T08:50:06.333Z",
+    "updatedAt": "2025-10-30T10:47:13.470Z",
+    "valueVarchar": "Skurrile Eulen-Tragetasche, niedliches Eulen-Design, Geschenk für Buchliebhaber, umweltfreundliche Tasche, für den täglichen Gebrauch, einzigartige Geschenkidee",
+    "valueText": "",
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null,
+    "unitOfMeasure": null,
+    "baseValues": {
+      "valueVarchar": "Skurrile Eulen-Tragetasche, niedliches Eulen-Design, Geschenk für Buchliebhaber, umweltfreundliche Tasche, für den täglichen Gebrauch, einzigartige Geschenkidee",
+      "valueText": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null
+    },
+    "displayLabel": "Product Name",
+    "attribute": {
+      "id": 173234,
+      "name": "Product Name",
+      "label": "",
+      "displayLabel": "Product Name",
+      "attributeType": "text",
+      "isPrimaryAttribute": true,
+      "attributeTranslations": [
+        {
+          "key": "label",
+          "translation": "Product Name",
+          "languageCode": "en_US"
+        }
+      ],
+      "attributeConfiguration": {
+        "maxLength": "255",
+        "isMandatory": "mandatory"
+      }
+    },
+    "productGroupsAndAttributesSequence": {
+      "id": 5647465,
+      "sequence": 1
+    },
+    "isBase": true
+  },
+  {
+    "id": "5647466",
+    "attributeId": "173235",
+    "productAttributeGroupId": "9584",
+    "variantId": null,
+    "languageCode": "es_MX",
+    "channelId": null,
+    "isActive": true,
+    "isInherited": true,
+    "sequence": "2",
+    "createdAt": "2025-10-27T08:50:06.348Z",
+    "updatedAt": "2025-10-30T10:47:13.470Z",
+    "valueVarchar": "",
+    "valueText": "Verschönern Sie Ihren täglichen Stil mit dieser lebendigen Tragetasche mit einem charmanten Design, das sofort ein Lächeln zaubert. Perfekt für Naturbegeisterte und Buchliebhaber gleichermaßen, diese Tasche ist nicht nur ein praktisches Accessoire, sondern auch ein lustiger Gesprächsstarter. Egal, ob Sie in die Bibliothek gehen, ein Picknick machen oder einfach nur Besorgungen machen, das strapazierfähige Polyestergewebe sorgt dafür, dass es alle wichtigen Dinge bewältigen kann. Die fröhliche Atmosphäre der Tasche macht sie zu einem ausgezeichneten Geschenk für Anlässe wie Geburtstage, Feiertage oder einfach nur als aufmerksames Geschenk für einen Freund. Mit verschiedenen farbigen Griffoptionen und Größen ist es vielseitig genug, um jedem Bedarf gerecht zu werden und Ihrem Tag einen Hauch von Laune zu verleihen. Produktmerkmale: Körper aus 100 % Polyester für Haltbarkeit und schnelltrocknende Eigenschaften. Verstärkte Nähte an den Griffen erhöhen die Festigkeit. Box-Ecken bieten zusätzlichen Platz für die Aufbewahrung. Erhältlich in mehreren Größen für unterschiedliche Bedürfnisse. Fünf farbige Griffoptionen für eine individuelle Note. Pflegehinweise: Entfernen Sie alle Gegenstände aus der Tasche vor der Reinigung. Es wird empfohlen, sichtbare Flecken mit Fleckenentferner vorzubehandeln. Mischen Sie warmes Wasser mit Waschmittel und reinigen Sie den Beutel mit Frottee-Waschlappen oder einer weichen Borstenbürste. Lassen Sie die Tasche an der Luft trocknen.",
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null,
+    "unitOfMeasure": null,
+    "baseValues": {
+      "valueVarchar": "",
+      "valueText": "Verschönern Sie Ihren täglichen Stil mit dieser lebendigen Tragetasche mit einem charmanten Design, das sofort ein Lächeln zaubert. Perfekt für Naturbegeisterte und Buchliebhaber gleichermaßen, diese Tasche ist nicht nur ein praktisches Accessoire, sondern auch ein lustiger Gesprächsstarter. Egal, ob Sie in die Bibliothek gehen, ein Picknick machen oder einfach nur Besorgungen machen, das strapazierfähige Polyestergewebe sorgt dafür, dass es alle wichtigen Dinge bewältigen kann. Die fröhliche Atmosphäre der Tasche macht sie zu einem ausgezeichneten Geschenk für Anlässe wie Geburtstage, Feiertage oder einfach nur als aufmerksames Geschenk für einen Freund. Mit verschiedenen farbigen Griffoptionen und Größen ist es vielseitig genug, um jedem Bedarf gerecht zu werden und Ihrem Tag einen Hauch von Laune zu verleihen. Produktmerkmale: Körper aus 100 % Polyester für Haltbarkeit und schnelltrocknende Eigenschaften. Verstärkte Nähte an den Griffen erhöhen die Festigkeit. Box-Ecken bieten zusätzlichen Platz für die Aufbewahrung. Erhältlich in mehreren Größen für unterschiedliche Bedürfnisse. Fünf farbige Griffoptionen für eine individuelle Note. Pflegehinweise: Entfernen Sie alle Gegenstände aus der Tasche vor der Reinigung. Es wird empfohlen, sichtbare Flecken mit Fleckenentferner vorzubehandeln. Mischen Sie warmes Wasser mit Waschmittel und reinigen Sie den Beutel mit Frottee-Waschlappen oder einer weichen Borstenbürste. Lassen Sie die Tasche an der Luft trocknen.",
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null
+    },
+    "displayLabel": "Product Description",
+    "attribute": {
+      "id": 173235,
+      "name": "Product Description",
+      "label": "",
+      "displayLabel": "Product Description",
+      "attributeType": "MultiText",
+      "isPrimaryAttribute": true,
+      "attributeTranslations": [
+        {
+          "key": "label",
+          "translation": "Product Description",
+          "languageCode": "en_US"
+        }
+      ],
+      "attributeConfiguration": {
+        "isMandatory": "recommended"
+      }
+    },
+    "productGroupsAndAttributesSequence": {
+      "id": 5647466,
+      "sequence": 2
+    },
+    "isBase": true
+  },
+  {
+    "id": "5208250",
+    "attributeId": "173241",
+    "productAttributeGroupId": "9584",
+    "variantId": null,
+    "languageCode": "es_MX",
+    "channelId": null,
+    "isActive": true,
+    "isInherited": true,
+    "sequence": "6",
+    "createdAt": "2025-10-27T08:50:06.404Z",
+    "updatedAt": "2025-10-30T07:40:31.735Z",
+    "valueVarchar": null,
+    "valueText": null,
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null,
+    "unitOfMeasure": null,
+    "displayLabel": "Primary Media",
+    "attribute": {
+      "id": 173241,
+      "name": "Primary Media",
+      "label": "",
+      "displayLabel": "Primary Media",
+      "attributeType": "text",
+      "isPrimaryAttribute": true,
+      "attributeTranslations": [
+        {
+          "key": "label",
+          "translation": "Primary Media",
+          "languageCode": "en_US"
+        }
+      ],
+      "attributeConfiguration": {
+        "maxLength": "255",
+        "isMandatory": "mandatory"
+      }
+    },
+    "productGroupsAndAttributesSequence": {
+      "id": 5208250,
+      "sequence": 6
+    },
+    "baseValues": {
+      "valueVarchar": null,
+      "valueText": null,
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null
+    },
+    "isBase": true
+  }
+]

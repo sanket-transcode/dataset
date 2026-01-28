@@ -1,0 +1,2955 @@
+[
+  {
+    "sku": "EA-AS-01",
+    "asin": "B0FYNST4B6",
+    "winnerSku": "EA-AS-01",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "EARRING",
+    "productName": "Handcrafted Traditional Dangle Earrings for Women",
+    "wrappers": [
+      {
+        "sku": "EA-AS-01",
+        "asin": "B0FYNST4B6",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0FYNST4B6",
+              "productType": "EARRING",
+              "conditionType": "new_new",
+              "status": [],
+              "itemName": "Aretes colgantes tradicionales hechos a mano para mujeres",
+              "createdDate": "2025-10-31T09:07:22.696Z",
+              "lastUpdatedDate": "2025-10-31T09:37:36.434Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/51+Aa7-6E9L.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Aretes",
+                "classificationId": "14093203011"
+              },
+              "color": "Golden",
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "Aretes colgantes tradicionales hechos a mano para mujeres",
+              "memorabilia": false,
+              "partNumber": "EAR-DANGLE-001",
+              "size": "Medium",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Ropa"
+            }
+          ],
+          "attributes": {
+            "jewelry_material_categorization": [
+              {
+                "value": "fashion",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "color": [
+              {
+                "value": "Golden",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Elegant & Stylish Design: Beautifully crafted dangle earrings that add a touch of sophistication and sparkle to any outfit — perfect for parties, weddings, or everyday wear.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Lightweight & Comfortable: Designed to be gentle on your ears with a lightweight build that allows long hours of wear without any discomfort.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Premium Quality Material: Made from high-quality alloy with a durable finish that resists tarnishing, ensuring long-lasting shine and elegance.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Perfect for All Occasions: Whether it’s a casual day out, a festive celebration, or a formal event, these earrings complement every look effortlessly.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Secure Closure: Comes with sturdy and easy-to-use push-back or hook clasps to keep your earrings securely in place throughout the day.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "length": {
+                  "normalized_value": {
+                    "unit": "inches",
+                    "value": 10
+                  },
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "width": {
+                  "normalized_value": {
+                    "unit": "inches",
+                    "value": 5
+                  },
+                  "unit": "centimeters",
+                  "value": 5
+                },
+                "height": {
+                  "normalized_value": {
+                    "unit": "inches",
+                    "value": 10
+                  },
+                  "unit": "centimeters",
+                  "value": 5
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Adórnate con estos exquisitos aretes tradicionales hechos a mano, perfectos para agregar un toque de elegancia a cualquier atuendo. Estos aretes colgantes están meticulosamente diseñados con detalles intrincados, mostrando un arte atemporal. Ideales para eventos culturales, ocasiones especiales o uso diario, son un regalo reflexivo para las mujeres especiales en tu vida. Experimenta la combinación de tradición y estilo con estos impresionantes aretes.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "department": [
+              {
+                "value": "Women",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "other",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Aretes colgantes tradicionales hechos a mano para mujeres",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "value_with_tax": 5000,
+                "currency": "USD",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-10-31T06:58:17.501Z",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "material": [
+              {
+                "value": "Alloy",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "size": [
+              {
+                "value": "Medium",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "metal_type": [
+              {
+                "value": "Gold Plated",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "gem_type": [
+              {
+                "value": "Cubic Zirconia",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "EAR-DANGLE-001",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "stones": [
+              {
+                "number_of_stones": 2,
+                "creation_method": {
+                  "value": "",
+                  "language_tag": "es_MX"
+                },
+                "treatment_method": {
+                  "value": "",
+                  "language_tag": "es_MX"
+                },
+                "id": 1,
+                "type": {
+                  "value": "",
+                  "language_tag": "es_MX"
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "DE",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61sFie59nZL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61uQ+onmuEL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61idyiHZg1L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61pLXWU3qsL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 5000
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "Handcrafted Traditional Dangle Earrings for Women",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-process-media",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8101"
+  },
+  {
+    "sku": "PG-LTKX-94L9",
+    "asin": "B0DSJNCPJL",
+    "winnerSku": "PG-LTKX-94L9",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "SHIRT",
+    "productName": "My Super Shirt Beige Black",
+    "wrappers": [
+      {
+        "sku": "PG-LTKX-94L9",
+        "asin": "B0DSJNCPJL",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0DSJNCPJL",
+              "productType": "SHIRT",
+              "conditionType": "new_new",
+              "status": [],
+              "itemName": "My Super Shirt Beige Black",
+              "createdDate": "2025-11-07T07:13:48.902Z",
+              "lastUpdatedDate": "2025-11-15T11:02:45.458Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Camisetas y Tops",
+                "classificationId": "14328147011"
+              },
+              "color": "Beige",
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "My Super Shirt Beige Black",
+              "memorabilia": false,
+              "size": "Recién nacido",
+              "style": "dfgdfdfsg",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Ropa"
+            }
+          ],
+          "attributes": {
+            "item_length_description": [
+              {
+                "language_tag": "es_MX",
+                "value": "Longitud estándar",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "color": [
+              {
+                "standardized_values": ["Beige"],
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "pattern": [
+              {
+                "language_tag": "es_MX",
+                "value": "Sólido",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_package_weight": [
+              {
+                "unit": "grams",
+                "value": 9,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "dfsgsdfgsdf",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "age_range_description": [
+              {
+                "value": "Big Kid",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "14328147011",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "sdf gsdfgdfg sdfg sdfgdsfg sdfg dsf",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "sdfgsdf gsdfgsdfgs dfgsdfg",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "department": [
+              {
+                "value": "sdfgsdfg",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unspsc_code": [
+              {
+                "value": "53101600",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fit_type": [
+              {
+                "value": "Semi Fit",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "shirt_size": [
+              {
+                "size": "0_month",
+                "size_system": "as1",
+                "size_class": "age",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "My Super Shirt Beige Black",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "value_with_tax": 97,
+                "currency": "USD",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "neck": [
+              {
+                "size": [
+                  {
+                    "value": 10
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "100% Cotton",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-01-08T13:39:45.863Z",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_package_dimensions": [
+              {
+                "length": {
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "width": {
+                  "unit": "centimeters",
+                  "value": 15
+                },
+                "height": {
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "sleeve": [
+              {
+                "length": [
+                  {
+                    "value": 10
+                  }
+                ],
+                "type": [
+                  {
+                    "value": "short sleeve",
+                    "language_tag": "es_MX"
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "style": [
+              {
+                "value": "dfgdfdfsg",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Dry Clean Only",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "female",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0,
+                "restock_date": "2025-11-05T18:30:00.000Z"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/11E3vP5hR-L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 1770
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "My Super Shirt Beige Black",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8102"
+  },
+  {
+    "sku": "Ice-Cream-Maker",
+    "asin": "B0G359M8J3",
+    "winnerSku": "Ice-Cream-Maker",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "ICE_CREAM_MAKER",
+    "productName": "Classic Electric Ice Cream Maker",
+    "wrappers": [
+      {
+        "sku": "Ice-Cream-Maker",
+        "asin": "B0G359M8J3",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0G359M8J3",
+              "productType": "ICE_CREAM_MAKER",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Máquina de helados eléctrica de primera calidad",
+              "createdDate": "2025-11-21T09:41:26.173Z",
+              "lastUpdatedDate": "2025-11-21T09:41:26.173Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/41VD3s7MGIL.jpg",
+                "height": 500,
+                "width": 388
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Máquinas para Hacer Helado",
+                "classificationId": "9725837011"
+              },
+              "color": "White",
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "Máquina de helados eléctrica de primera calidad",
+              "memorabilia": false,
+              "modelNumber": "PT-01",
+              "partNumber": "machine-01",
+              "size": "small",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "value": "White",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "machine only",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "ice cream maker",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "9725837011",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Make delicious homemade ice cream, sorbet, gelato, and frozen yogurt anytime you want",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Quick-freezing bowl churns smooth and creamy texture within minutes",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Easy one-touch operation – perfect for beginners and dessert lovers",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Large capacity bowl makes enough servings for the whole family\n\nTransparent lid lets you watch your treat freeze to perfection",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "PT-01",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Cree deliciosos helados, gelatos, sorbetes y yogures helados caseros con esta máquina de helados eléctrica fácil de usar. Disfrute de golosinas heladas frescas y personalizadas en la comodidad de su hogar. Cuenta con un motor potente, un recipiente de pre-congelación para una congelación óptima y una interfaz simple para una operación sin esfuerzo. Perfecto para familias, fiestas o cualquier persona que ame un postre dulce y refrescante.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Máquina de helados eléctrica de primera calidad",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "value_with_tax": 50,
+                "currency": "USD",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-11-20T12:24:24.018Z",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "size": [
+              {
+                "value": "small",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "is_assembly_required": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "machine-01",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "AL",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_4": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/31mD+wCZrgL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71Tbh0ptEwL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/817+EWvfJ2L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/518-HJgQIsL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/51iXDxW+8fL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 366
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "Classic Electric Ice Cream Maker",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8103"
+  },
+  {
+    "sku": "dark-chocolate",
+    "asin": "B0G357978B",
+    "winnerSku": "dark-chocolate",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "CHOCOLATE_CANDY",
+    "productName": "Premium Dark Chocolate Bar",
+    "wrappers": [
+      {
+        "sku": "dark-chocolate",
+        "asin": "B0G357978B",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0G357978B",
+              "productType": "CHOCOLATE_CANDY",
+              "conditionType": "new_new",
+              "status": [],
+              "itemName": "Barra de Chocolate Negro Premium",
+              "createdDate": "2025-11-27T10:42:12.972Z",
+              "lastUpdatedDate": "2025-11-27T10:42:12.972Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Dulce de Chocolate",
+                "classificationId": "17724560011"
+              },
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "Barra de Chocolate Negro Premium",
+              "manufacturer": "Global industries pvt ltd",
+              "memorabilia": false,
+              "size": "Large",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "grocery_display_on_website",
+              "websiteDisplayGroupName": "Grocery"
+            }
+          ],
+          "attributes": {
+            "chocolate_type": [
+              {
+                "value": "dark",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "occasion_type": [
+              {
+                "value": "All",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Global industries pvt ltd",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "17724560011",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Made from a higher percentage of cocoa solids, giving it a deep, rich flavor and slightly bitter taste compared to milk chocolate.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Contains natural antioxidants like flavonoids, which may help support heart health and reduce oxidative stress.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Often lower in sugar than other chocolates, making it a more mindful and balanced treat option.\n\nProvides a smooth and satisfying texture that melts slowly, enhancing the overall tasting experience.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Offers a bold and intense cocoa aroma that appeals to chocolate lovers with refined taste preferences.\n\nMay help boost mood and energy levels due to naturally occurring compounds such as theobromine and serotonin precursors.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Disfrute del rico e intenso sabor de nuestra barra de chocolate negro premium. Elaborada con los mejores granos de cacao, este exquisito manjar ofrece una experiencia suave que se derrite en la boca. Perfecto para satisfacer sus antojos de chocolate o como un regalo para el amante del chocolate en su vida.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_expiration_type": [
+              {
+                "value": "Does Not Expire",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "is_expiration_dated_product": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "temperature_rating": [
+              {
+                "value": "30",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "is_heat_sensitive": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Barra de Chocolate Negro Premium",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_form": [
+              {
+                "value": "Cube",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "value_with_tax": 10,
+                "currency": "USD",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "each_unit_count": [
+              {
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "flavor": [
+              {
+                "value": "Chocolate",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-11-20T11:47:17.045Z",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "size": [
+              {
+                "value": "Large",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "value": "metro",
+                  "language_tag": "es_MX"
+                },
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "allergen_information": [
+              {
+                "value": "amberjack",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "KY",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/51S0TkkbzRL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 92
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "Premium Dark Chocolate Bar",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8104"
+  },
+  {
+    "sku": "Eyelashes",
+    "asin": "B0G49YWB5P",
+    "winnerSku": "Eyelashes",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "FALSE_EYELASH",
+    "productName": "Premium False Eyelashes - Natural Look",
+    "wrappers": [
+      {
+        "sku": "Eyelashes",
+        "asin": "B0G49YWB5P",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0G49YWB5P",
+              "productType": "FALSE_EYELASH",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Pestañas Postizas Premium - Aspecto Natural",
+              "createdDate": "2025-11-28T07:39:02.296Z",
+              "lastUpdatedDate": "2025-11-28T07:39:02.296Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/41kiRl614lL.jpg",
+                "height": 500,
+                "width": 499
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Pestañas Postizas",
+                "classificationId": "10178671011"
+              },
+              "color": "Black",
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "Pestañas Postizas Premium - Aspecto Natural",
+              "manufacturer": "Global industries",
+              "memorabilia": false,
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "beauty_display_on_website",
+              "websiteDisplayGroupName": "Beauty"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "standardized_values": ["Black"],
+                "value": "Black",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Global industries",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "10178671011",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Soft, lightweight lashes designed for a natural, everyday look",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Handcrafted with premium-quality fibers for a realistic lash effect",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Comfortable and flexible band for easy application and all-day wear",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Reusable design – can be worn multiple times with proper care",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Realza tu belleza natural con nuestras pestañas postizas premium. Estas pestañas ligeras y cómodas se mezclan perfectamente con las tuyas, agregando volumen y longitud sutiles para una apariencia cautivadora y natural. Perfectas para el uso diario u ocasiones especiales. Fáciles de aplicar y reutilizables.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unspsc_code": [
+              {
+                "value": "53131600",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "is_expiration_dated_product": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "material_feature": [
+              {
+                "language_tag": "es_MX",
+                "value": "Natural",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "is_heat_sensitive": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Pestañas Postizas Premium - Aspecto Natural",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_form": [
+              {
+                "value": "Individual",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "value_with_tax": 120,
+                "currency": "CAD",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "lifestyle": [
+              {
+                "value": "Belleza masiva",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-11-28T05:44:57.110Z",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "target_audience_keyword": [
+              {
+                "value": "Mujeres",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "value": "gramo",
+                  "language_tag": "es_MX"
+                },
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0,
+                "lead_time_to_ship_max_days": 1,
+                "restock_date": "2025-11-27T18:30:00.000Z"
+              }
+            ],
+            "generic_keyword": [
+              {
+                "value": "eyelashes",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "CA",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_4": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/612JAIJvR2L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61fDXIjTz3L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61kgzdatTBL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61gZ8zB0XRL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61TaYdFHHYL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 196
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "Premium False Eyelashes - Natural Look",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8105"
+  },
+  {
+    "sku": "mojito-glass",
+    "asin": "B0G46Z7XRH",
+    "winnerSku": "mojito-glass",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "DRINKING_CUP",
+    "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+    "wrappers": [
+      {
+        "sku": "mojito-glass",
+        "asin": "B0G46Z7XRH",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0G46Z7XRH",
+              "productType": "DRINKING_CUP",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Vasos de mojito con hojas Melbify - Juego de 4",
+              "createdDate": "2025-11-27T13:20:15.751Z",
+              "lastUpdatedDate": "2025-11-28T09:26:46.099Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/312V-IHrs9L.jpg",
+                "height": 225,
+                "width": 225
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Vasos a la Antigua",
+                "classificationId": "50603568011"
+              },
+              "color": "Transparent",
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "Vasos de mojito con hojas Melbify - Juego de 4",
+              "manufacturer": "Global industries",
+              "memorabilia": false,
+              "modelNumber": "glass-01",
+              "size": "Small",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "value": "Transparent",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "Straw",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_package_weight": [
+              {
+                "unit": "pounds",
+                "value": 5,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "capacity": [
+              {
+                "unit": "milliliters",
+                "value": 9,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Global industries",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "glass-01",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "9841249011",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Elegant leafy design adds a refreshing, tropical vibe to your drinkware collection",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Perfectly sized for mojitos, cocktails, mocktails, juices, and everyday beverages",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Durable, high-quality glass ensures long-lasting clarity and strength",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "value": "Comfortable grip with a smooth rim for an enjoyable sipping experience",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 15
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 15
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "glass-01",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Eleve su experiencia de cócteles con los vasos de mojito con hojas Melbify. Este juego de cuatro vasos es perfecto para servir mojitos refrescantes, tés helados y otras bebidas. El diseño elegante y la construcción duradera hacen que estos vasos sean ideales tanto para el uso diario como para ocasiones especiales. Disfrute de sus bebidas favoritas con estilo con Melbify.",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unspsc_code": [
+              {
+                "value": "52150000",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "special_feature": [
+              {
+                "value": "Double Wall",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Vasos de mojito con hojas Melbify - Juego de 4",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "value_with_tax": 10,
+                "currency": "USD",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-11-27T12:26:07.762Z",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_package_dimensions": [
+              {
+                "length": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 15
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "size": [
+              {
+                "value": "Small",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "material": [
+              {
+                "value": "Glass",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_width_height": [
+              {
+                "width": {
+                  "unit": "centimeters",
+                  "value": 15
+                },
+                "height": {
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Hand Wash Only",
+                "language_tag": "es_MX",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "value": "Count",
+                  "language_tag": "es_MX"
+                },
+                "value": 1,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT_EU",
+                "quantity": 0
+              },
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0,
+                "lead_time_to_ship_max_days": 5,
+                "restock_date": "2025-11-27T18:30:00.000Z"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "CN",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61Ki3ocN6cL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/51xMPYyGlJL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/312V-IHrs9L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61dTDUBHujL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 366
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "Melbify Leafy Mojito Glasses - Set of 4",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8106"
+  },
+  {
+    "sku": "nail-extension",
+    "asin": "B0G49KLLGC",
+    "winnerSku": "nail-extension",
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "COSMETIC_NAIL_SET",
+    "productName": "Professional Nail Extension Kit",
+    "wrappers": [
+      {
+        "sku": "nail-extension",
+        "asin": "B0G49KLLGC",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1AM78C64UM0Y8",
+              "asin": "B0G49KLLGC",
+              "productType": "COSMETIC_NAIL_SET",
+              "conditionType": "new_new",
+              "status": [],
+              "itemName": "Kit profesional de extensión de uñas",
+              "createdDate": "2025-11-28T04:58:26.882Z",
+              "lastUpdatedDate": "2025-11-29T07:08:41.858Z"
+            }
+          ],
+          "catalogSummary": [],
+          "attributes": {
+            "color": [
+              {
+                "language_tag": "es_MX",
+                "value": "Nude Pink",
+                "standardized_values": ["Clear"],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_package_weight": [
+              {
+                "unit": "grams",
+                "value": 10,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "AMAZON_NA",
+                "quantity": 1
+              },
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "manufacturer": [
+              {
+                "language_tag": "es_MX",
+                "value": "Global industries",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "safety_warning": [
+              {
+                "language_tag": "es_MX",
+                "value": "For external use only. Avoid direct contact with eyes and skin. If irritation or redness occurs, stop use immediately and seek medical advice. Keep away from heat, flame, and direct sunlight. Use in a well-ventilated area to avoid inhaling fumes. Keep out of reach of children and pets. Always follow the instructions provided and perform a patch test before full application.",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "10178521011",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "es_MX",
+                "value": "Complete nail extension solution – perfect for salon-quality results at home",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "language_tag": "es_MX",
+                "value": "Includes acrylic/gel tips, forms, adhesive, tools & accessories for flawless extensions",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "language_tag": "es_MX",
+                "value": "Durable, long-lasting finish with strong adhesion and chip-resistant shine",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "language_tag": "es_MX",
+                "value": "Lightweight and comfortable tips designed to match natural nail curvature",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              },
+              {
+                "language_tag": "es_MX",
+                "value": "Ideal for beginners and professionals – easy to sculpt, shape, and customize",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "short_product_description": [
+              {
+                "language_tag": "es_MX",
+                "value": "Get salon-style nails anytime with this Professional Nail Extension Kit. Designed for both beginners and experts, it includes everything needed to create strong, elegant, and long-lasting nail extensions. With premium-quality materials, easy application, and a flawless natural finish, you can shape, style, and customize nails effortlessly for any occasion.",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "es_MX",
+                "value": "Consigue extensiones de uñas con calidad de salón en casa con nuestro kit profesional de extensión de uñas. Este completo conjunto incluye todo lo que necesitas para unas uñas hermosas y duraderas. Perfecto tanto para principiantes como para usuarios experimentados, nuestro kit proporciona las herramientas y los materiales para crear diseños de uñas impresionantes.",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "es_MX",
+                "value": "Generic",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "is_expiration_dated_product": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "generic_keyword": [
+              {
+                "language_tag": "es_MX",
+                "value": "nail extension",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "DE",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "product_benefit": [
+              {
+                "language_tag": "es_MX",
+                "value": "This Professional Nail Extension Kit offers a convenient and cost-effective way to achieve salon-quality nails from the comfort of home. It strengthens and protects your natural nails while allowing easy application, shaping, and removal. Designed to suit all nail types, it provides long-lasting, chip-resistant results with a smooth and glossy finish. Whether you love simple elegance or creative nail art, this kit boosts confidence and enhances your personal style effortlessly.",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "es_MX",
+                "value": "Kit profesional de extensión de uñas",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "list_price": [
+              {
+                "currency": "USD",
+                "value_with_tax": 10,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "lifestyle": [
+              {
+                "language_tag": "es_MX",
+                "value": "Premium Beauty",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0G49KLLGC",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "target_audience_keyword": [
+              {
+                "language_tag": "es_MX",
+                "value": "Girls",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "item_package_dimensions": [
+              {
+                "height": {
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "length": {
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "width": {
+                  "unit": "centimeters",
+                  "value": 10
+                },
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "specific_uses_for_product": [
+              {
+                "language_tag": "es_MX",
+                "value": "This Professional Nail Extension Kit is ideal for extending nail length, repairing broken or damaged nails, and creating smooth, durable enhancements for everyday wear or special occasions. It can be used for sculpting gel or acrylic extensions.",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "language_tag": "es_MX",
+                  "value": "metro"
+                },
+                "value": 10,
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_7": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71D1q9ookFL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_4": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61giE+srs6L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61iCh6lGCEL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/51CnrVta-oL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/81SxmVcvb5L.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/51Dv9KNElnL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "swatch_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/41swaBC92nL.jpg",
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "MXN",
+                "start_at": {
+                  "value": "2025-11-28T04:59:18.683Z"
+                },
+                "end_at": {
+                  "value": null
+                },
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 183
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1AM78C64UM0Y8"
+              }
+            ]
+          }
+        },
+        "name": "Professional Nail Extension Kit",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8107"
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "winnerSku": null,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {},
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "SIZE/NUMBER_OF_ITEMS",
+        "variants": [
+          {
+            "sku": "7859632058741",
+            "asin": "B0FYY2XFNS"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530",
+        "wrapperId": "4489"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "translationCompleted": false,
+    "productId": "8108"
+  },
+  {
+    "sku": null,
+    "asin": "B0DN232FPB",
+    "winnerSku": null,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": "B0DN232FPB",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A2EUQ1WTGCTBG2",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "T-Shirts",
+                "classificationId": "10287299011"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Biking Unisex Midweight T-Shirt, Made in US",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A2EUQ1WTGCTBG2",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "T-Shirts",
+                "classificationId": "10287299011"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Biking Unisex Midweight T-Shirt, Made in US",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "SIZE/COLOR",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "model_name": [
+              {
+                "language_tag": "en_CA",
+                "value": "Bayside 5040",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "age_range_description": [
+              {
+                "language_tag": "en_CA",
+                "value": "Adult",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "10287640011",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "value": "10287299011",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "en_CA",
+                "value": "Classic fit",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "language_tag": "en_CA",
+                "value": "100% cotton",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "en_CA",
+                "value": "Treat your customers to high quality, custom style, made in the US. This t-shirt is unisex and features a 100% premium quality cotton composition that's pre-shrunk to avoid further shrinkage even on multiple washes. The soft, open-end yarn ensures incredible softness to the touch, while the full-cut spec offers all-day comfort and a relaxed fit. .: 100% cotton (fiber content may vary for different colors) .: Medium fabric (5.4 oz/yd² (183 g/m²)) .: Sewn-in label .: Made and assembled in the USA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "department": [
+              {
+                "language_tag": "en_CA",
+                "value": "unisex-adult",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "en_CA",
+                "value": "GENERIC",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "fit_type": [
+              {
+                "language_tag": "en_CA",
+                "value": "Classic Fit",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "import_designation": [
+              {
+                "language_tag": "en_CA",
+                "value": "Imported",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "special_size_type": [
+              {
+                "language_tag": "en_CA",
+                "value": "Standard",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "en_CA",
+                "value": "Biking Unisex Midweight T-Shirt, Made in US",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "neck": [
+              {
+                "neck_style": [
+                  {
+                    "language_tag": "en_CA",
+                    "value": "Crew neckline"
+                  }
+                ],
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "fabric_type": [
+              {
+                "language_tag": "en_CA",
+                "value": "100% Cotton",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2024-11-14T14:40:00.827Z",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "sleeve": [
+              {
+                "type": [
+                  {
+                    "language_tag": "en_CA",
+                    "value": "Short Sleeve"
+                  }
+                ],
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "style": [
+              {
+                "language_tag": "en_CA",
+                "value": "Regular",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "care_instructions": [
+              {
+                "language_tag": "en_CA",
+                "value": "Machine Wash",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "unisex",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ]
+          }
+        },
+        "name": "Biking Unisex Midweight T-Shirt, Made in US",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [],
+        "score": 5,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      },
+      {
+        "sku": null,
+        "asin": "B0F9WQ8LT9",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {},
+        "name": "Camiseta unisex de peso medio, fabricada en EE. UU",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "30396340252525416989",
+            "asin": "B0DJQYJZV3"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530",
+        "wrapperId": "4490"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8109"
+  },
+  {
+    "sku": "68d24843576c0d2d8e0b0ce0",
+    "asin": "B0FS71ZCPT",
+    "winnerSku": "68d24843576c0d2d8e0b0ce0",
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "wrappers": [
+      {
+        "sku": "68d24843576c0d2d8e0b0ce0",
+        "asin": "B0FS71ZCPT",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "asin": "B0FS71ZCPT",
+              "productType": "TOTE_BAG",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE", "BUYABLE"],
+              "itemName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+              "createdDate": "2025-09-23T07:16:05.887Z",
+              "lastUpdatedDate": "2025-11-28T12:28:59.124Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/41iJSBNtg1L.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR/SIZE"
+              },
+              {
+                "name": "SIZE/NUMBER_OF_ITEMS"
+              }
+            ],
+            "item_length_width_height": [
+              {
+                "height": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "capacity": [
+              {
+                "unit": "ounces",
+                "value": 13,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_weight": [
+              {
+                "value": 0.599658,
+                "unit": "pounds",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_compartments": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "Generic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "age_range_description": [
+              {
+                "value": "Adult",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "100% polyester body for durability and quick-drying properties",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Reinforced stitching on handles enhances strength",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Boxed corners provide extra space for storage",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Available in multiple sizes to suit different needs",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Five color handle options for a personalized touch",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "length": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Elevate your everyday style with this vibrant tote bag, featuring a charming design that instantly brings a smile. Perfect for nature enthusiasts and book lovers alike, this bag is not only a practical accessory but also a fun conversation starter. Whether you’re heading to the library, a picnic, or just running errands, its durable polyester fabric ensures it can handle all your essentials. The tote’s cheerful vibe makes it an excellent gift for occasions like birthdays, holidays, or just as a thoughtful surprise for a friend. With multiple color handle options and sizes, it’s versatile enough to fit anyone's needs while adding a touch of whimsy to their day.\n\nProduct features\n- 100% polyester body for durability and quick-drying properties\n- Reinforced stitching on handles enhances strength\n- Boxed corners provide extra space for storage\n- Available in multiple sizes to suit different needs\n- Five color handle options for a personalized touch\n\nCare instructions\n- Remove all items from the bag before cleaning. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or a soft bristle brush. Let the bag air dry.",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "department": [
+              {
+                "value": "Unisex",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "GENERIC",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "closure": [
+              {
+                "type": [
+                  {
+                    "value": "Buckle",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "import_designation": [
+              {
+                "value": "Imported",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "lining_description": [
+              {
+                "value": "Polyester",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "outer": [
+              {
+                "material": [
+                  {
+                    "value": "Polyester",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "value": 19.05,
+                "currency": "USD",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "strap_type": [
+              {
+                "value": "Shoulder",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "inner": [
+              {
+                "material": [
+                  {
+                    "value": "Polyester",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "Polyester",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Gym Totes",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-09-23T07:16:05.883Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "style": [
+              {
+                "value": "Regular",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "size_info": [
+              {
+                "display_name": [
+                  {
+                    "value": "Multiple sizes",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "unisex",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 99999,
+                "lead_time_to_ship_max_days": 5
+              },
+              {
+                "fulfillment_channel_code": "fbce2652-d49b-4a0e-b3ca-239db8c59fb3",
+                "quantity": 0,
+                "lead_time_to_ship_max_days": 50,
+                "restock_date": "2025-10-23T20:32:00.000Z"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71MJJ5XEQaL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/81kond2TEGL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/51U973iJbXL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71ShsSQ5rAL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "USD",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 19.05
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [],
+        "score": 17,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {},
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "SIZE/NUMBER_OF_ITEMS",
+        "variants": [
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "12807143591028729740",
+            "asin": "B0FS73RK5V"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "32546307359318603982",
+            "asin": "B0FS71TWRV"
+          },
+          {
+            "sku": "42741322129000004924",
+            "asin": "B0FS72XJBB"
+          },
+          {
+            "sku": "24591406395137562223",
+            "asin": "B0FS725XHC"
+          },
+          {
+            "sku": "39966659054258193988",
+            "asin": "B0FS72QT58"
+          },
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          },
+          {
+            "sku": "10544520859559770735",
+            "asin": "B0FS6ZSQ1N"
+          },
+          {
+            "sku": "76853120834457364302",
+            "asin": "B0FS728PLG"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          },
+          {
+            "sku": "25097994841815565102",
+            "asin": "B0FS717T2H"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "530",
+        "wrapperId": "4491"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false,
+    "productId": "8110"
+  }
+]

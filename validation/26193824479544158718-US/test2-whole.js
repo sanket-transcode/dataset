@@ -1,0 +1,289 @@
+const { validator } = require('../validation');
+const { keys } = require('./keys');
+const { rules } = require('./rules');
+
+const result = validator(rules, keys, {
+  apparel_size: [
+    {
+      size: 'm',
+      size_system: 'as1',
+      body_type: 'regular',
+      height_type: 'regular',
+      size_class: 'alpha',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  color: [
+    {
+      value: 'Safety Orange',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  variation_theme: [
+    {
+      name: 'SIZE/COLOR',
+    },
+  ],
+  fulfillment_availability: [
+    {
+      fulfillment_channel_code: 'DEFAULT',
+      quantity: 0,
+      lead_time_to_ship_max_days: 5,
+    },
+  ],
+  item_weight: [
+    {
+      value: 0.8,
+      unit: 'pounds',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  model_name: [
+    {
+      value: 'Generic',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  age_range_description: [
+    {
+      value: 'Adult',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  bullet_point: [
+    {
+      value: 'Eco-friendly production with 50% cotton, 50% polyester blend',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+    {
+      value: 'Elastic ribbed collar retains shape for longevity',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+    {
+      value: 'Comfortable and cozy fabric perfect for colder days',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  product_description: [
+    {
+      value:
+        "Introducing our cozy, unisex Heavy Blend™ Crewneck Sweatshirt, designed for ultimate comfort and style. This sweatshirt effortlessly combines warmth and durability, making it an essential addition to your wardrobe for cooler months. Whether you're lounging at home, heading out for a bike ride, or meeting friends, this sweatshirt fits seamlessly into your lifestyle. Its clean-cut design and classic fit cater to anyone looking for a relaxed yet stylish look. Ideal for cycling enthusiasts and those who appreciate a casual aesthetic, it's perfect for holidays, family gatherings, and casual outings. Celebrate the spirit of togetherness and warmth with this versatile piece, which fulfills your everyday needs while keeping you fashionable.\n\nProduct features\n- Eco-friendly production with 50% cotton, 50% polyester blend\n- Elastic ribbed collar retains shape for longevity\n- Durable double-needle stitching enhances lifespan\n- Comfortable and cozy fabric perfect for colder days\n\nCare instructions\n- Machine wash: cold (max 30C or 90F)\n- Non-chlorine: bleach as needed\n- Tumble dry: low heat\n- Do not iron\n- Do not dryclean\n",
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  department: [
+    {
+      value: 'unisex-adult',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  brand: [
+    {
+      value: 'GENERIC',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  supplier_declared_dg_hz_regulation: [
+    {
+      value: 'not_applicable',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  supplier_declared_has_product_identifier_exemption: [
+    {
+      value: false,
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  fit_type: [
+    {
+      value: 'Regular Fit',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  import_designation: [
+    {
+      value: 'Imported',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  country_of_origin: [
+    {
+      value: 'US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  special_size_type: [
+    {
+      value: 'Standard',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  item_name: [
+    {
+      value:
+        'Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures Safety Orange',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  merchant_shipping_group: [
+    {
+      value: 'legacy-template-id',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  list_price: [
+    {
+      value: 29.4,
+      currency: 'USD',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  neck: [
+    {
+      neck_style: [
+        {
+          value: 'Crew Neck',
+          language_tag: 'en_US',
+        },
+      ],
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  fabric_type: [
+    {
+      value: '50% cotton, 50% polyester',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  product_site_launch_date: [
+    {
+      value: '2025-03-10T10:08:04.786Z',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  item_type_keyword: [
+    {
+      value: 'athletic-crew-necks',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  condition_type: [
+    {
+      value: 'new_new',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  merchant_suggested_asin: [
+    {
+      value: 'B0DZXMGKVV',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  sleeve: [
+    {
+      type: [
+        {
+          value: 'Long Sleeve',
+          language_tag: 'en_US',
+        },
+      ],
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  style: [
+    {
+      value: 'Regular',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  care_instructions: [
+    {
+      value: 'Machine Wash',
+      language_tag: 'en_US',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  target_gender: [
+    {
+      value: 'unisex',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  other_product_image_locator_3: [
+    {
+      media_location: 'https://m.media-amazon.com/images/I/61MNHRbkN5L.jpg',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  other_product_image_locator_2: [
+    {
+      media_location: 'https://m.media-amazon.com/images/I/612FhCsNBEL.jpg',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  other_product_image_locator_1: [
+    {
+      media_location: 'https://m.media-amazon.com/images/I/61Vw6-6gTvL.jpg',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  main_product_image_locator: [
+    {
+      media_location: 'https://m.media-amazon.com/images/I/61g1n7H02-L.jpg',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  purchasable_offer: [
+    {
+      currency: 'USD',
+      audience: 'ALL',
+      our_price: [
+        {
+          schedule: [
+            {
+              value_with_tax: 40.2,
+            },
+          ],
+        },
+      ],
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+  parentage_level: [
+    {
+      marketplace_id: 'ATVPDKIKX0DER',
+      value: 'child',
+    },
+  ],
+  child_parent_sku_relationship: [
+    {
+      marketplace_id: 'ATVPDKIKX0DER',
+      child_relationship_type: 'variation',
+      parent_sku: '67cead0132fb796da203ce18',
+    },
+  ],
+  size: [
+    {
+      value: 'Medium',
+      marketplace_id: 'ATVPDKIKX0DER',
+    },
+  ],
+});
+
+console.log(JSON.stringify(result, null, 2));

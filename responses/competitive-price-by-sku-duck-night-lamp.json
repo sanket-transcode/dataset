@@ -1,0 +1,65 @@
+{
+  "payload": [
+    {
+      "SellerSKU": "duck-night-lamp",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [
+            {
+              "belongsToRequester": false,
+              "condition": "New",
+              "subcondition": "New",
+              "Price": {
+                "LandedPrice": {
+                  "CurrencyCode": "USD",
+                  "Amount": 16.99
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "USD",
+                  "Amount": 16.99
+                },
+                "Shipping": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0
+                }
+              },
+              "CompetitivePriceId": "1"
+            }
+          ],
+          "NumberOfOfferListings": [
+            {
+              "condition": "New",
+              "Count": 1
+            },
+            {
+              "condition": "Any",
+              "Count": 1
+            }
+          ]
+        },
+        "Identifiers": {
+          "SKUIdentifier": {
+            "MarketplaceId": "ATVPDKIKX0DER",
+            "SellerId": "A13EDBEFHU3OJ1",
+            "SellerSKU": "duck-night-lamp"
+          },
+          "MarketplaceASIN": {
+            "MarketplaceId": "ATVPDKIKX0DER",
+            "ASIN": "B09YRR2LS5"
+          }
+        },
+        "SalesRankings": [
+          {
+            "ProductCategoryId": "baby_product_display_on_website",
+            "Rank": 4728
+          },
+          {
+            "ProductCategoryId": "2483080011",
+            "Rank": 45
+          }
+        ]
+      },
+      "status": "Success"
+    }
+  ]
+}

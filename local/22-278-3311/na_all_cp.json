@@ -1,0 +1,3667 @@
+[
+  {
+    "sku": "MA-G9XT-DUQU",
+    "asin": "B0FMFMGBYC",
+    "isExistInDB": false,
+    "isStandaloneProduct": true,
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9", "A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "productType": "BOTTLE",
+    "productName": "Bouteille d'eau réutilisable de qualité supérieure, sans BPA, anti-fuite, design sportif, capacité de 750 ml, ouverture à large goulot, légère pour salle de sport, randonnée, bureau",
+    "wrappers": [
+      {
+        "sku": "MA-G9XT-DUQU",
+        "asin": "B0FMFMGBYC",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "asin": "B0FMFMGBYC",
+              "productType": "BOTTLE",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+              "createdDate": "2025-09-17T07:02:19.115Z",
+              "lastUpdatedDate": "2025-09-27T10:04:48.921Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/41vl6G8-7PL.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Sports & Outdoor Recreation Accessories",
+                "classificationId": "20633256031"
+              },
+              "color": "Clear",
+              "itemClassification": "BASE_PRODUCT",
+              "itemName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+              "manufacturer": "Generic",
+              "memorabilia": false,
+              "modelNumber": "Wb750",
+              "size": "750 ml",
+              "style": "Sports",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "home_improvement_display_on_website",
+              "websiteDisplayGroupName": "Home Improvement"
+            }
+          ],
+          "attributes": {
+            "container": [
+              {
+                "type": [
+                  {
+                    "language_tag": "en_GB",
+                    "value": "Bottle"
+                  }
+                ],
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "color": [
+              {
+                "language_tag": "en_GB",
+                "value": "Clear",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "included_components": [
+              {
+                "language_tag": "en_GB",
+                "value": "Water Bottle",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Leak-proof Lid",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "reusability": [
+              {
+                "language_tag": "en_GB",
+                "value": "Reusable",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_package_weight": [
+              {
+                "unit": "pounds",
+                "value": 0.6,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "bottle_type": [
+              {
+                "language_tag": "en_GB",
+                "value": "Sports",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "capacity": [
+              {
+                "unit": "ounces",
+                "value": 25.36,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "manufacturer": [
+              {
+                "language_tag": "en_GB",
+                "value": "Generic",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_weight": [
+              {
+                "unit": "ounces",
+                "value": 12,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_shape": [
+              {
+                "language_tag": "en_GB",
+                "value": "Cylindrical",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "model_name": [
+              {
+                "language_tag": "en_GB",
+                "value": "Premium Sport 750",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "20633256031",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "en_GB",
+                "value": "CAPACITY: Large 750ml (25.3 oz) water bottle perfect for daily hydration needs at work, gym, or outdoor activities",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "MATERIAL: Premium BPA-free construction ensures pure, fresh-tasting water with every sip",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "LEAK-PROOF DESIGN: Secure lid prevents spills and leaks, keeping your belongings dry and protected",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "WIDE-MOUTH OPENING: Easy to fill, clean, and add ice cubes for refreshingly cold drinks",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "PORTABLE: Lightweight construction makes it convenient to carry during workouts, hiking, or daily commutes",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "material_type_free": [
+              {
+                "language_tag": "en_GB",
+                "value": "Bisphenol A (BPA) Free",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 9.5
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "Wb750",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "en_GB",
+                "value": "Elevate your daily hydration with this Premium Reusable Water Bottle, thoughtfully designed for active lifestyles. The generous 750ml capacity ensures you stay well-hydrated throughout your activities, while the BPA-free construction maintains your water's pure, fresh taste. This versatile bottle features a leak-proof lid that provides peace of mind whether it's in your gym bag, backpack, or on your desk. The lightweight design makes it an ideal companion for all your adventures, from intense workout sessions to long office days. Its practical wide-mouth opening simplifies cleaning and lets you easily add ice cubes for a refreshing cold drink. The durable construction stands up to daily use, while the sleek sports design offers both style and functionality. Whether you're hitting the trails, heading to yoga, or tackling your daily commute, this water bottle delivers reliable performance and convenience in every situation.",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "en_GB",
+                "value": "Generic",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "unspsc_code": [
+              {
+                "value": "52150000",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "special_feature": [
+              {
+                "language_tag": "en_GB",
+                "value": "Leak Proof",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Lightweight",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Wide-mouth Opening",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Easy-clean",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "en_GB",
+                "value": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-08-14T12:57:20.506Z",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_package_dimensions": [
+              {
+                "length": {
+                  "unit": "inches",
+                  "value": 10
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 3.5
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 10.5
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "recommended_uses_for_product": [
+              {
+                "language_tag": "en_GB",
+                "value": "Gym",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Hiking",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Office",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Sports",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Outdoor Activities",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "size": [
+              {
+                "language_tag": "en_GB",
+                "value": "750 ml",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "material": [
+              {
+                "language_tag": "en_GB",
+                "value": "Plastic",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_width_height": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 9.5
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "specific_uses_for_product": [
+              {
+                "language_tag": "en_GB",
+                "value": "Hydration",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Sports",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "style": [
+              {
+                "language_tag": "en_GB",
+                "value": "Sports",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "care_instructions": [
+              {
+                "language_tag": "en_GB",
+                "value": "Hand Wash Only",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Dishwasher Safe",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "language_tag": "en_GB",
+                  "value": "count"
+                },
+                "value": 1,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "GBP",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 73.6
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ]
+          }
+        },
+        "name": "Bouteille d'eau réutilisable de qualité supérieure, sans BPA, anti-fuite, design sportif, capacité de 750 ml, ouverture à large goulot, légère pour salle de sport, randonnée, bureau",
+        "variationTheme": null,
+        "variants": [],
+        "score": 7,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product",
+    "translationCompleted": false,
+    "productId": "2768"
+  },
+  {
+    "sku": null,
+    "asin": "B0DN24YLFZ",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1PA6795UKMFR9", "A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "SHIRT",
+    "productName": "The Giant Leap Unisex Heavy Cotton Tee",
+    "productId": "2780",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": "B0DN24YLFZ",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "The Giant Leap Unisex Heavy Cotton Tee",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "20950906538424039047",
+            "asin": "B0DJQXHYC1"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1637"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN277YL7",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "The Giant Leap Unisex-T-Shirt aus schwerer Baumwolle",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "20950906538424039047",
+            "asin": "B0DJQXHYC1"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN332G44",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "The Giant Leap T-shirt unisexe en coton épais",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "20950906538424039047",
+            "asin": "B0DJQXHYC1"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product",
+    "translationCompleted": false
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1PA6795UKMFR9", "A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "STICKER_DECAL",
+    "productName": "Unisex Heavy Cotton Tee, Black, 5X-Large",
+    "productId": "2785",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": "B0DN26P7XQ",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1PA6795UKMFR9",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "T-Shirts",
+                "classificationId": "1981397031"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Unisex-T-Shirt aus schwerer Baumwolle",
+              "memorabilia": false,
+              "style": "Normal",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Bekleidung"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1PA6795UKMFR9",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "T-Shirts",
+                "classificationId": "1981397031"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Unisex-T-Shirt aus schwerer Baumwolle",
+              "memorabilia": false,
+              "style": "Normal",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Bekleidung"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "SIZE/COLOR",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "model_name": [
+              {
+                "language_tag": "de_DE",
+                "value": "Gildan 5000",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "age_range_description": [
+              {
+                "language_tag": "de_DE",
+                "value": "Erwachsener",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "1981397031",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "de_DE",
+                "value": "Hergestellt aus mittlerem Stoff (180 g/m²), bestehend aus 100 % Baumwolle für ganzjährigen Komfort, der nachhaltig und sehr langlebig ist",
+                "marketplace_id": "A1PA6795UKMFR9"
+              },
+              {
+                "language_tag": "de_DE",
+                "value": "Die klassische Passform dieses Hemdes sorgt für ein bequemes, entspanntes Tragen, während der Rundhalsausschnitt einen ordentlichen, zeitlosen Look verleiht, der zu jedem Anlass passt, lässig oder halbformell",
+                "marketplace_id": "A1PA6795UKMFR9"
+              },
+              {
+                "language_tag": "de_DE",
+                "value": "Das abreißbare Etikett bedeutet eine kratzfreie Erfahrung ohne Irritationen oder Beschwerden",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "de_DE",
+                "value": "Das Unisex-T-Shirt aus schwerer Baumwolle ist das Grundstück jeder Garderobe. Es ist die Grundlage, auf der lässige Mode wächst. Alles, was es braucht, ist ein personalisiertes Design, um die Rentabilität zu erhöhen. Die speziell gesponnenen Fasern bieten eine glatte Oberfläche für erstklassige Drucklebendigkeit und Schärfe. Ohne Seitennähte gibt es keine juckenden Unterbrechungen unter den Armen. Die Schultern haben Tape für verbesserte Haltbarkeit. . Hergestellt aus 100 % US-Baumwolle, die ethisch angebaut und geerntet wird. Gildan ist auch stolzes Mitglied des US Cotton Trust Protocol und gewährleistet ethische und nachhaltige Produktionsmittel. Dieses leere T-Shirt ist von Öko-Tex für Sicherheit und Qualitätssicherung zertifiziert.",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "department": [
+              {
+                "language_tag": "de_DE",
+                "value": "Unisex",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "de_DE",
+                "value": "GENERIC",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "fit_type": [
+              {
+                "language_tag": "de_DE",
+                "value": "Klassische Passform",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "special_size_type": [
+              {
+                "language_tag": "de_DE",
+                "value": "Standard",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "de_DE",
+                "value": "Unisex-T-Shirt aus schwerer Baumwolle",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "neck": [
+              {
+                "neck_style": [
+                  {
+                    "language_tag": "de_DE",
+                    "value": "Rundhals-Ausschnitt"
+                  }
+                ],
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "fabric_type": [
+              {
+                "language_tag": "de_DE",
+                "value": "100% Baumwolle",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2024-11-14T15:36:35.560Z",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "sleeve": [
+              {
+                "type": [
+                  {
+                    "language_tag": "de_DE",
+                    "value": "Kurzarm"
+                  }
+                ],
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "style": [
+              {
+                "language_tag": "de_DE",
+                "value": "Normal",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "care_instructions": [
+              {
+                "language_tag": "de_DE",
+                "value": "Maschinenwäsche",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "unisex",
+                "marketplace_id": "A1PA6795UKMFR9"
+              }
+            ]
+          }
+        },
+        "name": "Unisex-T-Shirt aus schwerer Baumwolle",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "30979367391677307111",
+            "asin": "B0DJR3QRMR"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN3GKJH2",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "T-shirt unisexe en coton épais",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "30979367391677307111",
+            "asin": "B0DJR3QRMR"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "M7-DGE8-0DD8",
+    "asin": "B0DN1X98G5",
+    "isExistInDB": false,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee",
+    "wrappers": [
+      {
+        "sku": "M7-DGE8-0DD8",
+        "asin": "B0DN1X98G5",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "asin": "B0DN1X98G5",
+              "productType": "SHIRT",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Unisex Heavy Cotton Tee",
+              "createdDate": "2024-11-14T13:23:22.355Z",
+              "lastUpdatedDate": "2024-11-14T13:35:33.130Z"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "T-Shirts",
+                "classificationId": "1731028031"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Unisex Heavy Cotton Tee",
+              "manufacturer": "Me",
+              "memorabilia": false,
+              "style": "Classic",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "attributes": {
+            "item_type_name": [
+              {
+                "value": "T-Shirt",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "water_resistance_level": [
+              {
+                "value": "not_water_resistant",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "SIZE/COLOR"
+              }
+            ],
+            "weave_type": [
+              {
+                "value": "Oxford",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Me",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "Infant Short",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "age_range_description": [
+              {
+                "value": "Infant",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "3939374031",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "low quality SHirt",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "test tShirt",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "department": [
+              {
+                "value": "Baby Boys",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "fit_type": [
+              {
+                "value": "Slim Fit",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "outer": [
+              {
+                "material": [
+                  {
+                    "value": "Cotton",
+                    "language_tag": "en_GB"
+                  }
+                ],
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Unisex Heavy Cotton Tee",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "100% Lycra",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2024-11-14T13:23:22.350Z",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "collar_style": [
+              {
+                "value": "Band Collar",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "style": [
+              {
+                "value": "Classic",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Dry Clean Only",
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "male",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "RO",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "A1F83G8C2ARO7P",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "A1F83G8C2ARO7P",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Unisex Heavy Cotton Tee",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "P0-QSLR-L3KP",
+            "asin": "B0DN211BBD"
+          },
+          {
+            "sku": "WA-H82S-N576",
+            "asin": "B0DN1YG1TH"
+          }
+        ],
+        "score": 27,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "67cea95dcebc58e9ee0871a9",
+    "asin": "B0DZXHZ9RX",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A13V1IB3VIYZZH", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "productId": "2786",
+    "wrappers": [
+      {
+        "sku": "67cea95dcebc58e9ee0871a9",
+        "asin": "B0DZXHZ9RX",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "55252223219787294959",
+            "asin": "B0DZXGNKR7"
+          },
+          {
+            "sku": "26014986315503632044",
+            "asin": "B0DZXGNKR7"
+          }
+        ],
+        "score": 20,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1650"
+      },
+      {
+        "sku": null,
+        "asin": "B0F58BWPHV",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "55252223219787294959",
+            "asin": "B0DZXH5Z23"
+          },
+          {
+            "sku": "26014986315503632044",
+            "asin": "B0DZXGNKR7"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0F255D9SP",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Tasse en céramique motif singe fantaisiste - Tasse à café colorée - Cadeau amusant pour enfants, décoration de cuisine ludique, verres sur le thème de la jungle",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "55252223219787294959",
+            "asin": "B0DZXH5Z23"
+          },
+          {
+            "sku": "26014986315503632044",
+            "asin": "B0DZXGNKR7"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0F25Z3V61",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Skurrile Affen-Keramiktasse, bunte Tier-Kaffeetasse, lustiges Geschenk für Kinder, verspielte Küchendekoration, Dschungel-Thema-Trinkgeschirr",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "55252223219787294959",
+            "asin": "B0DZXH5Z23"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Lustige Affe Keramik Tasse - Bunte Kaffeetasse - Lustiges Geschenk für Kinder - Spielküche Deko - Dschungel-Thema Gläser",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "26014986315503632044",
+            "asin": "B0DZXGNKR7"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "66fbb74763321bc65908b63d",
+    "asin": "B0DJBQG2HJ",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9", "A13V1IB3VIYZZH"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "STICKER_DECAL",
+    "productName": "car Vinil Decal",
+    "productId": "2787",
+    "wrappers": [
+      {
+        "sku": "66fbb74763321bc65908b63d",
+        "asin": "B0DJBQG2HJ",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "car Vinil Decal",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "25688997547984720320",
+            "asin": "B0DJQY7S3B"
+          },
+          {
+            "sku": "10284470610055147746",
+            "asin": "B0DJQX5HQ1"
+          }
+        ],
+        "score": 20,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1652"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN233T66",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Car Vinyl Decal",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "10284470610055147746",
+            "asin": "B0DJQX5HQ1"
+          },
+          {
+            "sku": "25688997547984720320",
+            "asin": "B0DJQY7S3B"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN24172Q",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Auto-Vinyl-Aufkleber",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "10284470610055147746",
+            "asin": "B0DJQX5HQ1"
+          },
+          {
+            "sku": "25688997547984720320",
+            "asin": "B0DJQY7S3B"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN35GDYL",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Autocollant en vinyle pour voiture",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "10284470610055147746",
+            "asin": "B0DJQX5HQ1"
+          },
+          {
+            "sku": "25688997547984720320",
+            "asin": "B0DJQY7S3B"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": null,
+    "asin": "B0DN23LBQM",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "productId": "2788",
+    "wrappers": [
+      {
+        "sku": "66fbbd0c92ead167af014c68",
+        "asin": "B0DJBRYTPZ",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Tough Love Phone Cases for iPhone15",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "28864020670788674751",
+            "asin": "B0DJRC2WRS"
+          },
+          {
+            "sku": "67762835364228201899",
+            "asin": "B0DJQYRVS9"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1655"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN25BB6Z",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Tough Love Phone Cases for iPhone15",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "28864020670788674751",
+            "asin": "B0DJRC2WRS"
+          },
+          {
+            "sku": "67762835364228201899",
+            "asin": "B0DJQYRVS9"
+          },
+          {
+            "sku": "26485797266076578247",
+            "asin": "B0DJR7D5DK"
+          },
+          {
+            "sku": "17413368743738459909",
+            "asin": "B0DJRC1NLR"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN274SXV",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Tough Love Handyhüllen für iPhone 15",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "67762835364228201899",
+            "asin": "B0DJQYRVS9"
+          },
+          {
+            "sku": "28864020670788674751",
+            "asin": "B0DJRC2WRS"
+          },
+          {
+            "sku": "26485797266076578247",
+            "asin": "B0DJR7D5DK"
+          },
+          {
+            "sku": "17413368743738459909",
+            "asin": "B0DJRC1NLR"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A13V1IB3VIYZZH", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "productId": "2772",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": "B0F581XTKP",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "color": "Red",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+              "manufacturer": "Generic",
+              "memorabilia": false,
+              "modelNumber": "Polar Camel",
+              "size": "L",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "color": "Red",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+              "manufacturer": "Generic",
+              "memorabilia": false,
+              "modelNumber": "Polar Camel",
+              "size": "L",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "language_tag": "en_GB",
+                "value": "Red",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "COLOR/SIZE",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "included_components": [
+              {
+                "language_tag": "en_GB",
+                "value": "Straw and lid included",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "manufacturer": [
+              {
+                "language_tag": "en_GB",
+                "value": "Generic",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "model_name": [
+              {
+                "language_tag": "en_GB",
+                "value": "Polar Camel",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "22959828031",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "en_GB",
+                "value": "Large 40oz capacity perfect for long trips and outdoor use",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Double-wall insulation keeps drinks hot or cold for hours",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "High-quality stainless steel construction for durability",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 5.79
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 5.79
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 9.84
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "Polar Camel",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "en_GB",
+                "value": "Stay refreshed on the go with our Insulated Travel Mug. This stylish yet functional travel companion is perfect for anyone who loves adventure and wants their favorite beverages at the perfect temperature. Ideal for road trips, camping, or simply enjoying a day at the park, this large 40oz capacity ensures you won’t run out of your drink during your activities. The ergonomic handle makes it easy to carry, while the secure leak-proof lid means no spills on your journey. With vibrant color options and fun designs, it makes a fantastic gift for birthdays, holidays, or as a treat for yourself. This travel mug is a must-have for outdoor enthusiasts, students, and anyone who enjoys a hot or cold drink wherever they go! Product features - High-quality stainless steel construction for durability - Double-wall insulation keeps drinks hot or cold for hours - Large 40oz capacity perfect for long trips and outdoor use - Ergonomic handle for comfortable carrying - Leak-proof lid prevents spills and ensures convenience Care instructions - Clean in dishwasher (put the product on top rack), or wash by hand with warm water and dish soap",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "en_GB",
+                "value": "GENERIC",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "special_feature": [
+              {
+                "language_tag": "en_GB",
+                "value": "Handle",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "en_GB",
+                "value": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-04-17T00:53:25.603Z",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "size": [
+              {
+                "language_tag": "en_GB",
+                "value": "L",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "material": [
+              {
+                "language_tag": "en_GB",
+                "value": "Stainless Steel",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_width_height": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 5.79
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 9.84
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "care_instructions": [
+              {
+                "language_tag": "en_GB",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "language_tag": "en_GB",
+                  "value": "count"
+                },
+                "value": 1,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ]
+          }
+        },
+        "name": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "94292994261163396712",
+            "asin": "B0DZXP6S9C"
+          },
+          {
+            "sku": "22039449774746896506",
+            "asin": "B0DZXT2N2S"
+          },
+          {
+            "sku": "74599968013643921960",
+            "asin": "B0DZXR3XZD"
+          },
+          {
+            "sku": "32242345023357025715",
+            "asin": "B0DZXQGK76"
+          },
+          {
+            "sku": "14444053310336374819",
+            "asin": "B0DZXNS6LM"
+          },
+          {
+            "sku": "16661825059693052327",
+            "asin": "B0DZXNK447"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0F256FPP9",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "94292994261163396712",
+            "asin": "B0DZXP6S9C"
+          },
+          {
+            "sku": "22039449774746896506",
+            "asin": "B0DZXT2N2S"
+          },
+          {
+            "sku": "16661825059693052327",
+            "asin": "B0DZXNK447"
+          },
+          {
+            "sku": "74599968013643921960",
+            "asin": "B0DZXR3XZD"
+          },
+          {
+            "sku": "32242345023357025715",
+            "asin": "B0DZXQGK76"
+          },
+          {
+            "sku": "14444053310336374819",
+            "asin": "B0DZXNS6LM"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0F255S364",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Isolierter Reisebecher mit niedlicher Eule, 1,2 l, Kaffeetasse, Geschenk für sie, Reisebecher, Schulanfang, Eulenliebhaber",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "14444053310336374819",
+            "asin": "B0DZXNS6LM"
+          },
+          {
+            "sku": "74599968013643921960",
+            "asin": "B0DZXR3XZD"
+          },
+          {
+            "sku": "32242345023357025715",
+            "asin": "B0DZXQGK76"
+          },
+          {
+            "sku": "16661825059693052327",
+            "asin": "B0DZXNK447"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Isolierter Reisebecher mit niedlicher Eule, 1,2 l, Kaffeetasse, Geschenk für sie, Reisebecher, Schulanfang, Eulenliebhaber",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "94292994261163396712",
+            "asin": "B0DZXP6S9C"
+          },
+          {
+            "sku": "22039449774746896506",
+            "asin": "B0DZXT2N2S"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "68d246221863513a9c09d2d6",
+    "asin": "B0FS6X4CVW",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9", "A13V1IB3VIYZZH"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "productId": "2789",
+    "wrappers": [
+      {
+        "sku": "68d246221863513a9c09d2d6",
+        "asin": "B0FS6X4CVW",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "16882243971564917605",
+            "asin": "B0FS71C31J"
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": "B0FS6XXC6B"
+          },
+          {
+            "sku": "11564966521275931191",
+            "asin": "B0FS72CV1H"
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": "B0FS75Y82W"
+          },
+          {
+            "sku": "25265057986674927056",
+            "asin": "B0FS715ZDH"
+          },
+          {
+            "sku": "59577357725225979542",
+            "asin": "B0FS6YGPQY"
+          }
+        ],
+        "score": 40,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1657"
+      },
+      {
+        "sku": null,
+        "asin": "B0FS798DZM",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "11564966521275931191",
+            "asin": "B0FS72CV1H"
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": "B0FS75Y82W"
+          },
+          {
+            "sku": "16882243971564917605",
+            "asin": "B0FS71C31J"
+          },
+          {
+            "sku": "25265057986674927056",
+            "asin": "B0FS715ZDH"
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": "B0FS6XXC6B"
+          },
+          {
+            "sku": "59577357725225979542",
+            "asin": "B0FS6YGPQY"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0FS7DZC1D",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Klassische Kappe für Väter – entspannter Stil, Alltagskleidung, tolles Geschenk für Väter, Sommer-Accessoire, lässige Mode",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "11564966521275931191",
+            "asin": "B0FS72CV1H"
+          },
+          {
+            "sku": "16882243971564917605",
+            "asin": "B0FS71C31J"
+          },
+          {
+            "sku": "25265057986674927056",
+            "asin": "B0FS715ZDH"
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": "B0FS6XXC6B"
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": "B0FS75Y82W"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0FSQK1GT3",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Casquette classique pour papa – Style décontracté, usage quotidien, excellent cadeau pour les pères, accessoire d'été, mode décontractée",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "11564966521275931191",
+            "asin": "B0FS72CV1H"
+          },
+          {
+            "sku": "25265057986674927056",
+            "asin": "B0FS715ZDH"
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": "B0FS75Y82W"
+          },
+          {
+            "sku": "16882243971564917605",
+            "asin": "B0FS71C31J"
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": "B0FS6XXC6B"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "68d24843576c0d2d8e0b0ce0",
+    "asin": "B0FS71ZCPT",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9", "A13V1IB3VIYZZH"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "productId": "2791",
+    "wrappers": [
+      {
+        "sku": "68d24843576c0d2d8e0b0ce0",
+        "asin": "B0FS71ZCPT",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "39966659054258193988",
+            "asin": "B0FS72QT58"
+          },
+          {
+            "sku": "76853120834457364302",
+            "asin": "B0FS728PLG"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          },
+          {
+            "sku": "24591406395137562223",
+            "asin": "B0FS725XHC"
+          },
+          {
+            "sku": "42741322129000004924",
+            "asin": "B0FS72XJBB"
+          },
+          {
+            "sku": "32546307359318603982",
+            "asin": "B0FS71TWRV"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "10544520859559770735",
+            "asin": "B0FS6ZSQ1N"
+          },
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "12807143591028729740",
+            "asin": "B0FS73RK5V"
+          },
+          {
+            "sku": "25097994841815565102",
+            "asin": "B0FS717T2H"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          }
+        ],
+        "score": 85,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1662"
+      },
+      {
+        "sku": null,
+        "asin": "B0FSMCHX83",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          },
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0FSM7PKCC",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Skurrile Eulen-Tragetasche, niedliches Eulen-Design, Geschenk für Buchliebhaber, umweltfreundliche Tasche, für den täglichen Gebrauch, einzigartige Geschenkidee",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          },
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0FS739QP7",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": null,
+    "asin": "B0DN232FPB",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A13V1IB3VIYZZH", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+    "productId": "2790",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": "B0F9WQ8LT9",
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Camiseta unisex de peso medio, fabricada en EE. UU",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "30396340252525416989",
+            "asin": "B0DJQYJZV3"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1660"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN3DJM4C",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "30396340252525416989",
+            "asin": "B0DJQYJZV3"
+          },
+          {
+            "sku": "18838576561447351297",
+            "asin": "B0DJQYQQKG"
+          },
+          {
+            "sku": "20184699460263983544",
+            "asin": "B0DJQXHB6N"
+          },
+          {
+            "sku": "20274609654073601324",
+            "asin": "B0DJQXL6DC"
+          },
+          {
+            "sku": "82290431363794330833",
+            "asin": "B0DJR14GXY"
+          },
+          {
+            "sku": "18210270667532577864",
+            "asin": "B0DJQYDYQ5"
+          },
+          {
+            "sku": "26787049011141050616",
+            "asin": "B0DJQZFLSC"
+          },
+          {
+            "sku": "11584613081427148258",
+            "asin": "B0DJQYFYJT"
+          },
+          {
+            "sku": "23313714049244420750",
+            "asin": "B0DJQZYFB2"
+          },
+          {
+            "sku": "20189624940225035247",
+            "asin": "B0DJQYS14X"
+          },
+          {
+            "sku": "17321890570654532224",
+            "asin": "B0DJQYFVM3"
+          },
+          {
+            "sku": "21016692564692526584",
+            "asin": "B0DJQYFLCH"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278",
+        "wrapperId": "1723"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN27YY89",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Biking Unisex Mittelschweres T-Shirt, hergestellt in den USA",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "20274609654073601324",
+            "asin": "B0DJQXL6DC"
+          },
+          {
+            "sku": "20184699460263983544",
+            "asin": "B0DJQXHB6N"
+          },
+          {
+            "sku": "18210270667532577864",
+            "asin": "B0DJQYDYQ5"
+          },
+          {
+            "sku": "11584613081427148258",
+            "asin": "B0DJQYFYJT"
+          },
+          {
+            "sku": "30396340252525416989",
+            "asin": "B0DJQYJZV3"
+          },
+          {
+            "sku": "26787049011141050616",
+            "asin": "B0DJQZFLSC"
+          },
+          {
+            "sku": "23313714049244420750",
+            "asin": "B0DJQZYFB2"
+          },
+          {
+            "sku": "21016692564692526584",
+            "asin": "B0DJQYFLCH"
+          },
+          {
+            "sku": "20189624940225035247",
+            "asin": "B0DJQYS14X"
+          },
+          {
+            "sku": "17321890570654532224",
+            "asin": "B0DJQYFVM3"
+          },
+          {
+            "sku": "18838576561447351297",
+            "asin": "B0DJQYQQKG"
+          },
+          {
+            "sku": "82290431363794330833",
+            "asin": "B0DJR14GXY"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278",
+        "wrapperId": "1722"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "C1-AER7-EAN1",
+    "asin": "B0DN24ST45",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "productId": "2782",
+    "wrappers": [
+      {
+        "sku": "C1-AER7-EAN1",
+        "asin": "B0DN24ST45",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Love Phone Protective Cases",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "20005483504707723209",
+            "asin": "B0DJCB1LGZ"
+          }
+        ],
+        "score": 15,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1642"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN221VV1",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Love Phone Protective Cases",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "86116983703179682472",
+            "asin": "B0DJC7VLSY"
+          },
+          {
+            "sku": "78030572374848186482",
+            "asin": "B0DJCB3SJ7"
+          },
+          {
+            "sku": "20005483504707723209",
+            "asin": "B0DJCB1LGZ"
+          },
+          {
+            "sku": "61860379700742041582",
+            "asin": "B0DJC9BHRC"
+          },
+          {
+            "sku": "16468744415217458502",
+            "asin": "B0DJC8NGPK"
+          },
+          {
+            "sku": "22599648081092112053",
+            "asin": "B0DJC96ZGM"
+          },
+          {
+            "sku": "27128204504863174973",
+            "asin": "B0DJC916X7"
+          },
+          {
+            "sku": "92873890943974939295",
+            "asin": "B0DJC99YGR"
+          },
+          {
+            "sku": "13853933658176115455",
+            "asin": "B0DJC976MP"
+          },
+          {
+            "sku": "19388522960674321166",
+            "asin": "B0DJC84MNZ"
+          },
+          {
+            "sku": "25995102369191911086",
+            "asin": "B0DJC8QGJ5"
+          },
+          {
+            "sku": "25597953737895459336",
+            "asin": "B0DJC9SVLZ"
+          },
+          {
+            "sku": "25209482530180584258",
+            "asin": "B0DJC76WQK"
+          },
+          {
+            "sku": "13842494438154148667",
+            "asin": "B0DJC986JC"
+          },
+          {
+            "sku": "14971932535736024326",
+            "asin": "B0DJC6TB67"
+          },
+          {
+            "sku": "78261493858680421007",
+            "asin": "B0DJC8B932"
+          },
+          {
+            "sku": "19333170031854605557",
+            "asin": "B0DJC9HJFR"
+          },
+          {
+            "sku": "19924501761712385481",
+            "asin": "B0DJC75QSM"
+          },
+          {
+            "sku": "20940442817819554402",
+            "asin": "B0DJC8N2C9"
+          },
+          {
+            "sku": "62079621522358053181",
+            "asin": "B0DJC85ZDC"
+          },
+          {
+            "sku": "99451503756354788199",
+            "asin": "B0DJCB42V3"
+          },
+          {
+            "sku": "69179694310442227567",
+            "asin": "B0DJC87S2L"
+          },
+          {
+            "sku": "16955872944899074503",
+            "asin": "B0DJC82JM8"
+          },
+          {
+            "sku": "30998485442649934631",
+            "asin": "B0DJC9Z74G"
+          },
+          {
+            "sku": "22342964600336344410",
+            "asin": "B0DJC96WMN"
+          },
+          {
+            "sku": "79665215069886379495",
+            "asin": "B0DJC99J2M"
+          },
+          {
+            "sku": "11370874124342047010",
+            "asin": "B0DJC9BP56"
+          },
+          {
+            "sku": "25177364740690934737",
+            "asin": "B0DJC8KG1C"
+          },
+          {
+            "sku": "21168948484341913451",
+            "asin": "B0DJC8KND5"
+          },
+          {
+            "sku": "86530328495791226114",
+            "asin": "B0DJC8NC5G"
+          },
+          {
+            "sku": "83648586322348792963",
+            "asin": "B0DJC8H4YT"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN26XTXG",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Love Phone Schutzhüllen",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "78030572374848186482",
+            "asin": "B0DJCB3SJ7"
+          },
+          {
+            "sku": "19924501761712385481",
+            "asin": "B0DJC75QSM"
+          },
+          {
+            "sku": "61860379700742041582",
+            "asin": "B0DJC9BHRC"
+          },
+          {
+            "sku": "25597953737895459336",
+            "asin": "B0DJC9SVLZ"
+          },
+          {
+            "sku": "19388522960674321166",
+            "asin": "B0DJC84MNZ"
+          },
+          {
+            "sku": "69179694310442227567",
+            "asin": "B0DJC87S2L"
+          },
+          {
+            "sku": "79665215069886379495",
+            "asin": "B0DJC99J2M"
+          },
+          {
+            "sku": "22599648081092112053",
+            "asin": "B0DJC96ZGM"
+          },
+          {
+            "sku": "83648586322348792963",
+            "asin": "B0DJC8H4YT"
+          },
+          {
+            "sku": "13853933658176115455",
+            "asin": "B0DJC976MP"
+          },
+          {
+            "sku": "16468744415217458502",
+            "asin": "B0DJC8NGPK"
+          },
+          {
+            "sku": "86116983703179682472",
+            "asin": "B0DJC7VLSY"
+          },
+          {
+            "sku": "30998485442649934631",
+            "asin": "B0DJC9Z74G"
+          },
+          {
+            "sku": "14971932535736024326",
+            "asin": "B0DJC6TB67"
+          },
+          {
+            "sku": "19333170031854605557",
+            "asin": "B0DJC9HJFR"
+          },
+          {
+            "sku": "13842494438154148667",
+            "asin": "B0DJC986JC"
+          },
+          {
+            "sku": "21168948484341913451",
+            "asin": "B0DJC8KND5"
+          },
+          {
+            "sku": "27128204504863174973",
+            "asin": "B0DJC916X7"
+          },
+          {
+            "sku": "99451503756354788199",
+            "asin": "B0DJCB42V3"
+          },
+          {
+            "sku": "16955872944899074503",
+            "asin": "B0DJC82JM8"
+          },
+          {
+            "sku": "22342964600336344410",
+            "asin": "B0DJC96WMN"
+          },
+          {
+            "sku": "11370874124342047010",
+            "asin": "B0DJC9BP56"
+          },
+          {
+            "sku": "20940442817819554402",
+            "asin": "B0DJC8N2C9"
+          },
+          {
+            "sku": "62079621522358053181",
+            "asin": "B0DJC85ZDC"
+          },
+          {
+            "sku": "92873890943974939295",
+            "asin": "B0DJC99YGR"
+          },
+          {
+            "sku": "25209482530180584258",
+            "asin": "B0DJC76WQK"
+          },
+          {
+            "sku": "25995102369191911086",
+            "asin": "B0DJC8QGJ5"
+          },
+          {
+            "sku": "20005483504707723209",
+            "asin": "B0DJCB1LGZ"
+          },
+          {
+            "sku": "25177364740690934737",
+            "asin": "B0DJC8KG1C"
+          },
+          {
+            "sku": "86530328495791226114",
+            "asin": "B0DJC8NC5G"
+          },
+          {
+            "sku": "78261493858680421007",
+            "asin": "B0DJC8B932"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  },
+  {
+    "sku": "67cead0132fb796da203ce18",
+    "asin": "B0DZXJ3PRT",
+    "isExistInDB": true,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P", "A13V1IB3VIYZZH", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "productId": "2793",
+    "wrappers": [
+      {
+        "sku": "67cead0132fb796da203ce18",
+        "asin": "B0DZXJ3PRT",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [],
+          "catalogSummary": [],
+          "attributes": {}
+        },
+        "name": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "37006353054909044247",
+            "asin": "B0DZXQTHRR"
+          },
+          {
+            "sku": "14859850936527898192",
+            "asin": "B0DZXJG9P7"
+          },
+          {
+            "sku": "20330020755471436562",
+            "asin": "B0DZXR86DY"
+          },
+          {
+            "sku": "23363395862711132669",
+            "asin": "B0DZXNS9G4"
+          },
+          {
+            "sku": "14321526149781212657",
+            "asin": "B0DZXR1DBF"
+          },
+          {
+            "sku": "22012909837452623407",
+            "asin": "B0DZXNCW6Q"
+          },
+          {
+            "sku": "23817933804582271796",
+            "asin": "B0DZXQVWC8"
+          },
+          {
+            "sku": "16702153611110114041",
+            "asin": "B0DZXQ5MQK"
+          },
+          {
+            "sku": "21956766161877309781",
+            "asin": "B0DZXN37RT"
+          },
+          {
+            "sku": "21237769773152584890",
+            "asin": "B0DZXLB6WS"
+          },
+          {
+            "sku": "17734215422993736719",
+            "asin": "B0DZXNVBH7"
+          },
+          {
+            "sku": "26193824479544158718",
+            "asin": "B0DZXMGKVV"
+          },
+          {
+            "sku": "52315162540743320584",
+            "asin": "B0DZXPQMXQ"
+          },
+          {
+            "sku": "69389426633785779033",
+            "asin": "B0DZXLQ93T"
+          },
+          {
+            "sku": "30770721029614952662",
+            "asin": "B0DZXKHKSC"
+          },
+          {
+            "sku": "13707622677237303259",
+            "asin": "B0DZXL8YR2"
+          },
+          {
+            "sku": "11079114747137074983",
+            "asin": "B0DZXLSRXN"
+          },
+          {
+            "sku": "25057032182485556744",
+            "asin": "B0DZXLM9GX"
+          },
+          {
+            "sku": "26753764337932834996",
+            "asin": "B0DZXKTW1K"
+          },
+          {
+            "sku": "48235122685572485564",
+            "asin": "B0DZXMQ7LT"
+          },
+          {
+            "sku": "14062982205446094506",
+            "asin": "B0DZXJLH53"
+          },
+          {
+            "sku": "11704940555213803921",
+            "asin": "B0DZXLQXL4"
+          },
+          {
+            "sku": "68376407584288524028",
+            "asin": "B0DZXKWV3T"
+          },
+          {
+            "sku": "29671778344646712082",
+            "asin": "B0DZXJ84ZJ"
+          },
+          {
+            "sku": "32350124230980182484",
+            "asin": "B0DZXH9T8F"
+          },
+          {
+            "sku": "44513264186146307774",
+            "asin": "B0DZXK637D"
+          },
+          {
+            "sku": "26827894592865363751",
+            "asin": "B0DZXJR57F"
+          },
+          {
+            "sku": "33184385977297111407",
+            "asin": "B0DZXJCZM5"
+          },
+          {
+            "sku": "31419598242800472950",
+            "asin": "B0DZXHFLMQ"
+          },
+          {
+            "sku": "23639175155790291363",
+            "asin": "B0DZXLL817"
+          },
+          {
+            "sku": "15719517332205678427",
+            "asin": "B0DZXJKT7T"
+          },
+          {
+            "sku": "12257475772158912326",
+            "asin": "B0DZXKZ4SM"
+          },
+          {
+            "sku": "22835228269543406484",
+            "asin": "B0DZXLHYG1"
+          },
+          {
+            "sku": "13072442334663065043",
+            "asin": "B0DZXKCRTS"
+          },
+          {
+            "sku": "30215503152835767595",
+            "asin": "B0DZXJ4BSR"
+          },
+          {
+            "sku": "14158075494946220987",
+            "asin": "B0DZXMLCL3"
+          },
+          {
+            "sku": "15857609157042274194",
+            "asin": "B0DZXJDH7Z"
+          },
+          {
+            "sku": "15498878320169836620",
+            "asin": "B0DZXGX7SQ"
+          },
+          {
+            "sku": "10636969189818354395",
+            "asin": "B0DZXLQ6TF"
+          },
+          {
+            "sku": "19753609880837769539",
+            "asin": "B0DZXHFFKW"
+          },
+          {
+            "sku": "30896511841940636854",
+            "asin": "B0DZXK1K48"
+          },
+          {
+            "sku": "63826463851345053167",
+            "asin": "B0DZXH5LK6"
+          },
+          {
+            "sku": "10752893983735778675",
+            "asin": "B0DZXJ7F44"
+          },
+          {
+            "sku": "29424677971374122606",
+            "asin": "B0DZXHVNX2"
+          },
+          {
+            "sku": "19635483040272300833",
+            "asin": "B0DZXK77MX"
+          },
+          {
+            "sku": "57206344152936434471",
+            "asin": "B0DZXJRC8F"
+          },
+          {
+            "sku": "15638254520707673038",
+            "asin": "B0DZXFDDWK"
+          },
+          {
+            "sku": "20818806249968966766",
+            "asin": "B0DZXHWDC5"
+          },
+          {
+            "sku": "21449797498431859771",
+            "asin": "B0DZXDL4P1"
+          },
+          {
+            "sku": "22900300817675990682",
+            "asin": "B0DZXH1YLJ"
+          },
+          {
+            "sku": "54399797911927749853",
+            "asin": "B0DZXL7W8C"
+          },
+          {
+            "sku": "14652829334545027831",
+            "asin": "B0DZXGY7Z3"
+          },
+          {
+            "sku": "18096400472574687762",
+            "asin": "B0DZXHRN11"
+          },
+          {
+            "sku": "14980004219074673074",
+            "asin": "B0DZXLTZGQ"
+          },
+          {
+            "sku": "26793593016512976324",
+            "asin": "B0DZXG7HC4"
+          },
+          {
+            "sku": "26403175767038607190",
+            "asin": "B0DZXJCF5M"
+          }
+        ],
+        "score": 290,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": true,
+        "channelId": 275,
+        "wrapperId": "1666"
+      },
+      {
+        "sku": null,
+        "asin": "B0F5857MSP",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "37006353054909044247",
+            "asin": "B0DZXQTHRR"
+          },
+          {
+            "sku": "14859850936527898192",
+            "asin": "B0DZXJG9P7"
+          },
+          {
+            "sku": "14158075494946220987",
+            "asin": "B0DZXMLCL3"
+          },
+          {
+            "sku": "12257475772158912326",
+            "asin": "B0DZXKZ4SM"
+          },
+          {
+            "sku": "30896511841940636854",
+            "asin": "B0DZXK1K48"
+          },
+          {
+            "sku": "15638254520707673038",
+            "asin": "B0DZXFDDWK"
+          },
+          {
+            "sku": "22835228269543406484",
+            "asin": "B0DZXLHYG1"
+          },
+          {
+            "sku": "26793593016512976324",
+            "asin": "B0DZXG7HC4"
+          },
+          {
+            "sku": "29424677971374122606",
+            "asin": "B0DZXHVNX2"
+          },
+          {
+            "sku": "54399797911927749853",
+            "asin": "B0DZXL7W8C"
+          },
+          {
+            "sku": "25057032182485556744",
+            "asin": "B0DZXLM9GX"
+          },
+          {
+            "sku": "14652829334545027831",
+            "asin": "B0DZXGY7Z3"
+          },
+          {
+            "sku": "19753609880837769539",
+            "asin": "B0DZXHFFKW"
+          },
+          {
+            "sku": "26827894592865363751",
+            "asin": "B0DZXJR57F"
+          },
+          {
+            "sku": "31419598242800472950",
+            "asin": "B0DZXHFLMQ"
+          },
+          {
+            "sku": "21449797498431859771",
+            "asin": "B0DZXDL4P1"
+          },
+          {
+            "sku": "17734215422993736719",
+            "asin": "B0DZXNVBH7"
+          },
+          {
+            "sku": "11704940555213803921",
+            "asin": "B0DZXLQXL4"
+          },
+          {
+            "sku": "22900300817675990682",
+            "asin": "B0DZXH1YLJ"
+          },
+          {
+            "sku": "15719517332205678427",
+            "asin": "B0DZXJKT7T"
+          },
+          {
+            "sku": "68376407584288524028",
+            "asin": "B0DZXKWV3T"
+          },
+          {
+            "sku": "20818806249968966766",
+            "asin": "B0DZXHWDC5"
+          },
+          {
+            "sku": "26193824479544158718",
+            "asin": "B0DZXMGKVV"
+          },
+          {
+            "sku": "14321526149781212657",
+            "asin": "B0DZXR1DBF"
+          },
+          {
+            "sku": "26753764337932834996",
+            "asin": "B0DZXKTW1K"
+          },
+          {
+            "sku": "13707622677237303259",
+            "asin": "B0DZXL8YR2"
+          },
+          {
+            "sku": "57206344152936434471",
+            "asin": "B0DZXJRC8F"
+          },
+          {
+            "sku": "69389426633785779033",
+            "asin": "B0DZXLQ93T"
+          },
+          {
+            "sku": "22012909837452623407",
+            "asin": "B0DZXNCW6Q"
+          },
+          {
+            "sku": "32350124230980182484",
+            "asin": "B0DZXH9T8F"
+          },
+          {
+            "sku": "21237769773152584890",
+            "asin": "B0DZXLB6WS"
+          },
+          {
+            "sku": "14980004219074673074",
+            "asin": "B0DZXLTZGQ"
+          },
+          {
+            "sku": "63826463851345053167",
+            "asin": "B0DZXH5LK6"
+          },
+          {
+            "sku": "21956766161877309781",
+            "asin": "B0DZXN37RT"
+          },
+          {
+            "sku": "23639175155790291363",
+            "asin": "B0DZXLL817"
+          },
+          {
+            "sku": "16702153611110114041",
+            "asin": "B0DZXQ5MQK"
+          },
+          {
+            "sku": "23817933804582271796",
+            "asin": "B0DZXQVWC8"
+          },
+          {
+            "sku": "52315162540743320584",
+            "asin": "B0DZXPQMXQ"
+          },
+          {
+            "sku": "33184385977297111407",
+            "asin": "B0DZXJCZM5"
+          },
+          {
+            "sku": "30770721029614952662",
+            "asin": "B0DZXKHKSC"
+          },
+          {
+            "sku": "15857609157042274194",
+            "asin": "B0DZXJDH7Z"
+          },
+          {
+            "sku": "15498878320169836620",
+            "asin": "B0DZXGX7SQ"
+          },
+          {
+            "sku": "10636969189818354395",
+            "asin": "B0DZXLQ6TF"
+          },
+          {
+            "sku": "44513264186146307774",
+            "asin": "B0DZXK637D"
+          },
+          {
+            "sku": "20330020755471436562",
+            "asin": "B0DZXR86DY"
+          },
+          {
+            "sku": "19635483040272300833",
+            "asin": "B0DZXK77MX"
+          },
+          {
+            "sku": "18096400472574687762",
+            "asin": "B0DZXHRN11"
+          },
+          {
+            "sku": "13072442334663065043",
+            "asin": "B0DZXKCRTS"
+          },
+          {
+            "sku": "26403175767038607190",
+            "asin": "B0DZXJCF5M"
+          },
+          {
+            "sku": "29671778344646712082",
+            "asin": "B0DZXJ84ZJ"
+          },
+          {
+            "sku": "23363395862711132669",
+            "asin": "B0DZXNS9G4"
+          },
+          {
+            "sku": "10752893983735778675",
+            "asin": "B0DZXJ7F44"
+          },
+          {
+            "sku": "30215503152835767595",
+            "asin": "B0DZXJ4BSR"
+          },
+          {
+            "sku": "48235122685572485564",
+            "asin": "B0DZXMQ7LT"
+          },
+          {
+            "sku": "14062982205446094506",
+            "asin": "B0DZXJLH53"
+          },
+          {
+            "sku": "11079114747137074983",
+            "asin": "B0DZXLSRXN"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0F257K59S",
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Sweat de cyclisme à col rond pour motards, amateurs de sport et style de vie actif, salle de sport, aventure en plein air",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "37006353054909044247",
+            "asin": "B0DZXQTHRR"
+          },
+          {
+            "sku": "14859850936527898192",
+            "asin": "B0DZXJG9P7"
+          },
+          {
+            "sku": "14158075494946220987",
+            "asin": "B0DZXMLCL3"
+          },
+          {
+            "sku": "19753609880837769539",
+            "asin": "B0DZXHFFKW"
+          },
+          {
+            "sku": "18096400472574687762",
+            "asin": "B0DZXHRN11"
+          },
+          {
+            "sku": "15498878320169836620",
+            "asin": "B0DZXGX7SQ"
+          },
+          {
+            "sku": "44513264186146307774",
+            "asin": "B0DZXK637D"
+          },
+          {
+            "sku": "23639175155790291363",
+            "asin": "B0DZXLL817"
+          },
+          {
+            "sku": "15719517332205678427",
+            "asin": "B0DZXJKT7T"
+          },
+          {
+            "sku": "26793593016512976324",
+            "asin": "B0DZXG7HC4"
+          },
+          {
+            "sku": "21237769773152584890",
+            "asin": "B0DZXLB6WS"
+          },
+          {
+            "sku": "12257475772158912326",
+            "asin": "B0DZXKZ4SM"
+          },
+          {
+            "sku": "22900300817675990682",
+            "asin": "B0DZXH1YLJ"
+          },
+          {
+            "sku": "15857609157042274194",
+            "asin": "B0DZXJDH7Z"
+          },
+          {
+            "sku": "23817933804582271796",
+            "asin": "B0DZXQVWC8"
+          },
+          {
+            "sku": "10636969189818354395",
+            "asin": "B0DZXLQ6TF"
+          },
+          {
+            "sku": "63826463851345053167",
+            "asin": "B0DZXH5LK6"
+          },
+          {
+            "sku": "21956766161877309781",
+            "asin": "B0DZXN37RT"
+          },
+          {
+            "sku": "20818806249968966766",
+            "asin": "B0DZXHWDC5"
+          },
+          {
+            "sku": "14980004219074673074",
+            "asin": "B0DZXLTZGQ"
+          },
+          {
+            "sku": "29424677971374122606",
+            "asin": "B0DZXHVNX2"
+          },
+          {
+            "sku": "32350124230980182484",
+            "asin": "B0DZXH9T8F"
+          },
+          {
+            "sku": "57206344152936434471",
+            "asin": "B0DZXJRC8F"
+          },
+          {
+            "sku": "31419598242800472950",
+            "asin": "B0DZXHFLMQ"
+          },
+          {
+            "sku": "15638254520707673038",
+            "asin": "B0DZXFDDWK"
+          },
+          {
+            "sku": "52315162540743320584",
+            "asin": "B0DZXPQMXQ"
+          },
+          {
+            "sku": "33184385977297111407",
+            "asin": "B0DZXJCZM5"
+          },
+          {
+            "sku": "22835228269543406484",
+            "asin": "B0DZXLHYG1"
+          },
+          {
+            "sku": "68376407584288524028",
+            "asin": "B0DZXKWV3T"
+          },
+          {
+            "sku": "69389426633785779033",
+            "asin": "B0DZXLQ93T"
+          },
+          {
+            "sku": "30770721029614952662",
+            "asin": "B0DZXKHKSC"
+          },
+          {
+            "sku": "14321526149781212657",
+            "asin": "B0DZXR1DBF"
+          },
+          {
+            "sku": "22012909837452623407",
+            "asin": "B0DZXNCW6Q"
+          },
+          {
+            "sku": "30215503152835767595",
+            "asin": "B0DZXJ4BSR"
+          },
+          {
+            "sku": "13707622677237303259",
+            "asin": "B0DZXL8YR2"
+          },
+          {
+            "sku": "26753764337932834996",
+            "asin": "B0DZXKTW1K"
+          },
+          {
+            "sku": "54399797911927749853",
+            "asin": "B0DZXL7W8C"
+          },
+          {
+            "sku": "16702153611110114041",
+            "asin": "B0DZXQ5MQK"
+          },
+          {
+            "sku": "29671778344646712082",
+            "asin": "B0DZXJ84ZJ"
+          },
+          {
+            "sku": "14062982205446094506",
+            "asin": "B0DZXJLH53"
+          },
+          {
+            "sku": "10752893983735778675",
+            "asin": "B0DZXJ7F44"
+          },
+          {
+            "sku": "21449797498431859771",
+            "asin": "B0DZXDL4P1"
+          },
+          {
+            "sku": "26403175767038607190",
+            "asin": "B0DZXJCF5M"
+          },
+          {
+            "sku": "19635483040272300833",
+            "asin": "B0DZXK77MX"
+          },
+          {
+            "sku": "11704940555213803921",
+            "asin": "B0DZXLQXL4"
+          },
+          {
+            "sku": "26193824479544158718",
+            "asin": "B0DZXMGKVV"
+          },
+          {
+            "sku": "26827894592865363751",
+            "asin": "B0DZXJR57F"
+          },
+          {
+            "sku": "23363395862711132669",
+            "asin": "B0DZXNS9G4"
+          },
+          {
+            "sku": "25057032182485556744",
+            "asin": "B0DZXLM9GX"
+          },
+          {
+            "sku": "13072442334663065043",
+            "asin": "B0DZXKCRTS"
+          },
+          {
+            "sku": "30896511841940636854",
+            "asin": "B0DZXK1K48"
+          },
+          {
+            "sku": "48235122685572485564",
+            "asin": "B0DZXMQ7LT"
+          },
+          {
+            "sku": "17734215422993736719",
+            "asin": "B0DZXNVBH7"
+          },
+          {
+            "sku": "11079114747137074983",
+            "asin": "B0DZXLSRXN"
+          },
+          {
+            "sku": "20330020755471436562",
+            "asin": "B0DZXR86DY"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": "B0F257V1ZV",
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Radfahrer-Sweatshirt mit Rundhalsausschnitt für Biker, Sportliebhaber und aktiven Lebensstil, Fitnessstudio, Outdoor-Abenteuer",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "15638254520707673038",
+            "asin": "B0DZXFDDWK"
+          },
+          {
+            "sku": "44513264186146307774",
+            "asin": "B0DZXK637D"
+          },
+          {
+            "sku": "48235122685572485564",
+            "asin": "B0DZXMQ7LT"
+          },
+          {
+            "sku": "31419598242800472950",
+            "asin": "B0DZXHFLMQ"
+          },
+          {
+            "sku": "23817933804582271796",
+            "asin": "B0DZXQVWC8"
+          },
+          {
+            "sku": "32350124230980182484",
+            "asin": "B0DZXH9T8F"
+          },
+          {
+            "sku": "20330020755471436562",
+            "asin": "B0DZXR86DY"
+          },
+          {
+            "sku": "19753609880837769539",
+            "asin": "B0DZXHFFKW"
+          },
+          {
+            "sku": "10752893983735778675",
+            "asin": "B0DZXJ7F44"
+          },
+          {
+            "sku": "19635483040272300833",
+            "asin": "B0DZXK77MX"
+          },
+          {
+            "sku": "23639175155790291363",
+            "asin": "B0DZXLL817"
+          },
+          {
+            "sku": "21237769773152584890",
+            "asin": "B0DZXLB6WS"
+          },
+          {
+            "sku": "26403175767038607190",
+            "asin": "B0DZXJCF5M"
+          },
+          {
+            "sku": "13072442334663065043",
+            "asin": "B0DZXKCRTS"
+          },
+          {
+            "sku": "20818806249968966766",
+            "asin": "B0DZXHWDC5"
+          },
+          {
+            "sku": "17734215422993736719",
+            "asin": "B0DZXNVBH7"
+          },
+          {
+            "sku": "21956766161877309781",
+            "asin": "B0DZXN37RT"
+          },
+          {
+            "sku": "63826463851345053167",
+            "asin": "B0DZXH5LK6"
+          },
+          {
+            "sku": "10636969189818354395",
+            "asin": "B0DZXLQ6TF"
+          },
+          {
+            "sku": "14158075494946220987",
+            "asin": "B0DZXMLCL3"
+          },
+          {
+            "sku": "16702153611110114041",
+            "asin": "B0DZXQ5MQK"
+          },
+          {
+            "sku": "26753764337932834996",
+            "asin": "B0DZXKTW1K"
+          },
+          {
+            "sku": "30896511841940636854",
+            "asin": "B0DZXK1K48"
+          },
+          {
+            "sku": "26793593016512976324",
+            "asin": "B0DZXG7HC4"
+          },
+          {
+            "sku": "11704940555213803921",
+            "asin": "B0DZXLQXL4"
+          },
+          {
+            "sku": "69389426633785779033",
+            "asin": "B0DZXLQ93T"
+          },
+          {
+            "sku": "57206344152936434471",
+            "asin": "B0DZXJRC8F"
+          },
+          {
+            "sku": "30215503152835767595",
+            "asin": "B0DZXJ4BSR"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1PA6795UKMFR9",
+        "metaData": {},
+        "name": "Rundhals-Radsport-Sweatshirt für Motorradfahrer, Sportbegeisterte und aktive Lifestyle, Fitnessstudio, Outdoor-Abenteuer, weiß, Medium",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "18096400472574687762",
+            "asin": "B0DZXHRN11"
+          },
+          {
+            "sku": "68376407584288524028",
+            "asin": "B0DZXKWV3T"
+          },
+          {
+            "sku": "29671778344646712082",
+            "asin": "B0DZXJ84ZJ"
+          },
+          {
+            "sku": "14980004219074673074",
+            "asin": "B0DZXLTZGQ"
+          },
+          {
+            "sku": "11079114747137074983",
+            "asin": "B0DZXLSRXN"
+          },
+          {
+            "sku": "52315162540743320584",
+            "asin": "B0DZXPQMXQ"
+          },
+          {
+            "sku": "12257475772158912326",
+            "asin": "B0DZXKZ4SM"
+          },
+          {
+            "sku": "22900300817675990682",
+            "asin": "B0DZXH1YLJ"
+          },
+          {
+            "sku": "25057032182485556744",
+            "asin": "B0DZXLM9GX"
+          },
+          {
+            "sku": "22012909837452623407",
+            "asin": "B0DZXNCW6Q"
+          },
+          {
+            "sku": "33184385977297111407",
+            "asin": "B0DZXJCZM5"
+          },
+          {
+            "sku": "13707622677237303259",
+            "asin": "B0DZXL8YR2"
+          },
+          {
+            "sku": "37006353054909044247",
+            "asin": "B0DZXQTHRR"
+          },
+          {
+            "sku": "14652829334545027831",
+            "asin": "B0DZXGY7Z3"
+          },
+          {
+            "sku": "23363395862711132669",
+            "asin": "B0DZXNS9G4"
+          },
+          {
+            "sku": "15857609157042274194",
+            "asin": "B0DZXJDH7Z"
+          },
+          {
+            "sku": "26827894592865363751",
+            "asin": "B0DZXJR57F"
+          },
+          {
+            "sku": "14062982205446094506",
+            "asin": "B0DZXJLH53"
+          },
+          {
+            "sku": "14321526149781212657",
+            "asin": "B0DZXR1DBF"
+          },
+          {
+            "sku": "54399797911927749853",
+            "asin": "B0DZXL7W8C"
+          },
+          {
+            "sku": "14859850936527898192",
+            "asin": "B0DZXJG9P7"
+          },
+          {
+            "sku": "26193824479544158718",
+            "asin": "B0DZXMGKVV"
+          },
+          {
+            "sku": "15498878320169836620",
+            "asin": "B0DZXGX7SQ"
+          },
+          {
+            "sku": "15719517332205678427",
+            "asin": "B0DZXJKT7T"
+          },
+          {
+            "sku": "30770721029614952662",
+            "asin": "B0DZXKHKSC"
+          },
+          {
+            "sku": "22835228269543406484",
+            "asin": "B0DZXLHYG1"
+          },
+          {
+            "sku": "21449797498431859771",
+            "asin": "B0DZXDL4P1"
+          },
+          {
+            "sku": "29424677971374122606",
+            "asin": "B0DZXHVNX2"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": false,
+        "channelId": "278"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A13V1IB3VIYZZH",
+        "metaData": {},
+        "name": "Sweat de cyclisme à col rond pour motards, amateurs de sport et style de vie actif, salle de sport, aventure en plein air, poche, taille XL, Cendres, XL",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "14652829334545027831",
+            "asin": "B0DZXGY7Z3"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": false,
+        "channelId": "278"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "translationCompleted": false
+  }
+]

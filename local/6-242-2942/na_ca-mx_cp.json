@@ -1,0 +1,421 @@
+[
+  {
+    "sku": null,
+    "asin": null,
+    "isExistInDB": false,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {},
+        "name": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+        "variationTheme": "SIZE",
+        "variants": [],
+        "score": 0,
+        "shouldProcess": false,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "242"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "67cea95dcebc58e9ee0871a9",
+            "asin": "B0F585Q26L"
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "242",
+        "wrapperId": "714"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product"
+  },
+  {
+    "sku": "67cea95dcebc58e9ee0871a9",
+    "asin": "B0F585Q26L",
+    "isExistInDB": false,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "wrappers": [
+      {
+        "sku": "67cea95dcebc58e9ee0871a9",
+        "asin": "B0F585Q26L",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A2EUQ1WTGCTBG2",
+              "asin": "B0F585Q26L",
+              "productType": "DRINKING_CUP",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+              "createdDate": "2025-06-19T12:33:19.129Z",
+              "lastUpdatedDate": "2025-09-20T10:56:10.662Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/41Wmrwmw9UL.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A2EUQ1WTGCTBG2",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "Kitchen & Dining",
+                "classificationId": "2224068011"
+              },
+              "color": "Multiple",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+              "manufacturer": "Generic",
+              "memorabilia": false,
+              "modelNumber": "Generic",
+              "size": "large",
+              "style": "Classic",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "kitchen_display_on_website",
+              "websiteDisplayGroupName": "Kitchen"
+            }
+          ],
+          "attributes": {
+            "color": [
+              {
+                "value": "Multiple",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "SIZE",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "Handle",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "capacity": [
+              {
+                "unit": "ounces",
+                "value": 11,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "manufacturer": [
+              {
+                "value": "Generic",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_weight": [
+              {
+                "value": 0.749572,
+                "unit": "pounds",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "Generic",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "2224068011",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Glossy ceramic finish for a sleek look",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "value": "Vibrant colors that pop with every design",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "value": "Microwave-safe for convenient heating",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "value": "Dishwasher-safe for easy cleanup",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "value": "Available in two sizes: 11oz and 15oz",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "length": {
+                  "value": 3.15,
+                  "unit": "inches"
+                },
+                "width": {
+                  "value": 3.15,
+                  "unit": "inches"
+                },
+                "height": {
+                  "value": 3.74,
+                  "unit": "inches"
+                },
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "model_number": [
+              {
+                "value": "Generic",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Introducing a vibrant Ceramic Mug that brings a splash of joy to your daily routine! This colorful mug is perfect for coffee lovers, tea enthusiasts, or anyone who appreciates a great beverage. Its glossy finish and lively designs make it a fantastic addition to your kitchen or office, creating an uplifting atmosphere. Whether you're sipping your morning brew or enjoying a cozy evening tea, this mug elevates every sip into a delightful experience. Ideal for gifting on special occasions like birthdays, holidays, or just because – it’s a perfect fit for anyone who loves fun and unique home decor.\n\nProduct features\n- Glossy ceramic finish for a sleek look.\n- Vibrant colors that pop with every design.\n- Microwave-safe for convenient heating.\n- Dishwasher-safe for easy cleanup.\n- Available in two sizes: 11oz and 15oz.\n\nCare instructions\n- Clean in dishwasher or wash by hand with warm water and dish soap",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "brand": [
+              {
+                "value": "GENERIC",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "special_feature": [
+              {
+                "value": "Dishwasher Safe",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "list_price": [
+              {
+                "value": 9.99,
+                "currency": "USD",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-03-10T09:01:52.379Z",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "material": [
+              {
+                "value": "Ceramic",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "size": [
+              {
+                "value": "large",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "item_width_height": [
+              {
+                "height": {
+                  "value": 3.74,
+                  "unit": "inches"
+                },
+                "width": {
+                  "value": 3.15,
+                  "unit": "inches"
+                },
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "style": [
+              {
+                "value": "Classic",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Dishwasher Safe",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "manufacturer_contact_information": [
+              {
+                "value": "honda@support.com",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              },
+              {
+                "value": "xxx-xxx-xxx",
+                "language_tag": "en_CA",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "unit_count": [
+              {
+                "type": {
+                  "value": "Count",
+                  "language_tag": "en_CA"
+                },
+                "value": 1,
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0,
+                "lead_time_to_ship_max_days": 6
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0F585Q26L",
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "CAD",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 0
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "A2EUQ1WTGCTBG2"
+              }
+            ]
+          }
+        },
+        "name": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "26014986315503632044",
+            "asin": "B0DZXGNKR7"
+          },
+          {
+            "sku": "55252223219787294959",
+            "asin": "B0DZXGNKR7"
+          }
+        ],
+        "score": 27,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "242"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product"
+  }
+]

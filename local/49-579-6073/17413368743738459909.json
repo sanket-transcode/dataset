@@ -1,0 +1,1132 @@
+[
+  {
+    "marketplaceId": "A2EUQ1WTGCTBG2",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1538",
+        "language": "en_CA",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 1,
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "country": "Canada",
+          "countryCode": "CA",
+          "regionId": 1,
+          "region": {
+            "id": 1,
+            "name": "North America",
+            "region": "na",
+            "endPoint": "https://sellingpartnerapi-na.amazon.com",
+            "createdAt": "2025-07-22T12:55:43.079Z",
+            "updatedAt": "2025-07-22T12:55:43.079Z"
+          }
+        },
+        "userCurrency": {
+          "id": "806"
+        }
+      },
+      "attributes": {
+        "color": [
+          {
+            "value": "Multiple",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "SIZE/COLOR"
+          }
+        ],
+        "pattern": [
+          {
+            "language_tag": "en_CA",
+            "value": "Checkered",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "skip_offer": [
+          {
+            "value": false,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "compatible_phone_models": [
+          {
+            "value": "iPhone 15 Pro",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "Printify",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "number_of_boxes": [
+          {
+            "value": 1,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "recommended_browse_nodes": [
+          {
+            "value": "13542515011",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "Compatible with iPhone 15 only",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          },
+          {
+            "value": "2-piece design with impact resistance and shock dispersion",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          },
+          {
+            "value": "Interior rubber liner for extra protection (appearance may vary across phone models)",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          },
+          {
+            "value": "Supports wireless charging (not including MagSafe)",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Protect your phone in custom style with this tough phone case. This lightweight phone case is impact resistant thanks to its TPU lining and Polycarbonate shell. Meanwhile, the interior rubber liner adds an extra layer of protection to your phone for total peace of mind. Compatible with iPhone and Samsung smartphones. Check sizes for all available phone models. .: Materials: polycarbonate (shell), TPU (lining) .: Glossy finish",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "brand": [
+          {
+            "value": "GENERIC",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "special_feature": [
+          {
+            "value": "Wireless charging",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": true,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "Tough Love Phone Cases for iPhone15",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "list_price": [
+          {
+            "value": 18.23,
+            "currency": "USD",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2024-11-14T14:53:46.943Z",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 1,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "compatible_devices": [
+          {
+            "value": "iPhone 15 Pro",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "size": [
+          {
+            "value": "iPhone 15 Pro",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "material": [
+          {
+            "value": "Polycarbonate Thermoplastic Polyurethane",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "manufacturer_contact_information": [
+          {
+            "value": "",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "form_factor": [
+          {
+            "value": "Basic Case",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0,
+            "lead_time_to_ship_max_days": 5
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "US",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "warranty_description": [
+          {
+            "value": "None",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "part_number": [
+          {
+            "value": "Unknown",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "other_product_image_locator_3": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/71xA6Q7wpGL.jpg",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "other_product_image_locator_2": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/710FNEAnL7L.jpg",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "other_product_image_locator_1": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/81E6odLMoKL.jpg",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "main_product_image_locator": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/71G4zyW+hKL.jpg",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "purchasable_offer": [
+          {
+            "currency": "USD",
+            "start_at": {
+              "value": "2024-10-10T07:33:25.713Z"
+            },
+            "audience": "ALL",
+            "our_price": [
+              {
+                "schedule": [
+                  {
+                    "value_with_tax": 18.55
+                  }
+                ]
+              }
+            ],
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          },
+          {
+            "currency": "CAD",
+            "start_at": {
+              "value": "2024-10-10T07:33:25.713Z"
+            },
+            "audience": "ALL",
+            "our_price": [
+              {
+                "schedule": [
+                  {
+                    "value_with_tax": 25.4
+                  }
+                ]
+              }
+            ],
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "A2EUQ1WTGCTBG2",
+            "value": "child"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "A2EUQ1WTGCTBG2",
+            "child_relationship_type": "variation",
+            "parent_sku": "17413368743738459909"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "relationships": [
+            {
+              "parentSkus": ["17413368743738459909"],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color", "size"],
+                "theme": "SIZE/COLOR"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "relationships": [
+            {
+              "parentAsins": ["B0DN23LBQM"],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color", "size"],
+                "theme": "SIZE/COLOR"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "asin": "B0DJRC1NLR",
+          "productType": "CELLULAR_PHONE_CASE",
+          "conditionType": "new_new",
+          "status": ["DISCOVERABLE"],
+          "itemName": "Tough Love Phone Cases for iPhone15",
+          "createdDate": "2024-11-14T14:55:49.638Z",
+          "lastUpdatedDate": "2025-09-18T05:14:38.812Z",
+          "mainImage": {
+            "link": "https://m.media-amazon.com/images/I/41r6vC02d+L.jpg",
+            "height": 500,
+            "width": 500
+          }
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "GENERIC",
+          "browseClassification": {
+            "displayName": "Basic Cases",
+            "classificationId": "13542515011"
+          },
+          "color": "Multiple",
+          "itemClassification": "BASE_PRODUCT",
+          "itemName": "Tough Love Phone Cases for iPhone15",
+          "manufacturer": "Printify",
+          "memorabilia": false,
+          "size": "iPhone 15 Pro",
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "ce_display_on_website",
+          "websiteDisplayGroupName": "CE"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41r6vC02d+L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41r6vC02d+L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/717NKAonwHL.jpg",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51rdqw+yKzL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51rdqw+yKzL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/81lhRMBBU0L.jpg",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/41DgwZGA2NL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/41DgwZGA2NL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/717Lp0YqBtL.jpg",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/410ZJfHLJJL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/410ZJfHLJJL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71NQ-grDCnL.jpg",
+              "height": 2048,
+              "width": 2048
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [
+        {
+          "fulfillmentChannelCode": "DEFAULT",
+          "quantity": 0
+        }
+      ],
+      "offers": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "offerType": "B2C",
+          "price": {
+            "currency": "USD",
+            "currencyCode": "USD",
+            "amount": "18.55"
+          },
+          "audience": {
+            "value": "ALL",
+            "displayName": "Sell on Amazon"
+          }
+        },
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "offerType": "B2C",
+          "price": {
+            "currency": "CAD",
+            "currencyCode": "CAD",
+            "amount": "25.4"
+          },
+          "audience": {
+            "value": "ALL",
+            "displayName": "Sell on Amazon"
+          }
+        }
+      ],
+      "issues": [
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/874373f0-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/86bbf470-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/87d6b340-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/87d6b340-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/256x256_d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/86bbf470-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/874373f0-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "8066",
+          "message": "The parentage is not set up correctly for SKU 17413368743738459909. This usually happens when you use the wrong parent SKU, forget to designate your parent SKU as a parent during creation, or have other setup errors blocking the parent SKU creation. Please fix and resubmit.",
+          "severity": "ERROR",
+          "categories": ["INVALID_ATTRIBUTE", "MISSING_ATTRIBUTE"],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/256x256_d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "18448",
+          "message": "Your submission is missing few key attributes: item_dimensions. Missing these attributes do not block your product from being displayed on Amazon. However it impacts the overall quality of your listing.",
+          "severity": "WARNING",
+          "attributeNames": ["item_dimensions"],
+          "categories": ["MISSING_ATTRIBUTE"]
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "productType": "CELLULAR_PHONE_CASE"
+        }
+      ]
+    }
+  },
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1539",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1,
+          "region": {
+            "id": 1,
+            "name": "North America",
+            "region": "na",
+            "endPoint": "https://sellingpartnerapi-na.amazon.com",
+            "createdAt": "2025-07-22T12:55:43.079Z",
+            "updatedAt": "2025-07-22T12:55:43.079Z"
+          }
+        },
+        "userCurrency": {
+          "id": "805"
+        }
+      },
+      "attributes": {
+        "pesticide_marking": [
+          {
+            "marking_type": "epa_establishment_number",
+            "registration_status": "fifra_not_considered_pesticide",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "color": [
+          {
+            "value": "Multiple",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "SIZE/COLOR"
+          }
+        ],
+        "pattern": [
+          {
+            "value": "Checkered",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "compatible_phone_models": [
+          {
+            "value": "iPhone 15 Pro",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "Printify",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_boxes": [
+          {
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "Compatible with iPhone 15 only",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "2-piece design with impact resistance and shock dispersion",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Interior rubber liner for extra protection (appearance may vary across phone models)",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Supports wireless charging (not including MagSafe)",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Protect your phone in custom style with this tough phone case. This lightweight phone case is impact resistant thanks to its TPU lining and Polycarbonate shell. Meanwhile, the interior rubber liner adds an extra layer of protection to your phone for total peace of mind. Compatible with iPhone and Samsung smartphones. Check sizes for all available phone models.\n.: Materials: polycarbonate (shell), TPU (lining)\n.: Glossy finish",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "GENERIC",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "special_feature": [
+          {
+            "value": "Wireless charging",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "Generic Tough Love Phone Cases For Iphone15",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "list_price": [
+          {
+            "value": 18.23,
+            "currency": "USD",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2024-10-09T10:33:30.289Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "compatible_devices": [
+          {
+            "value": "iPhone 15 Pro",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "size": [
+          {
+            "value": "iPhone 15 Pro",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "material": [
+          {
+            "value": "Polycarbonate, TPU",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "form_factor": [
+          {
+            "value": "Basic Case",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0,
+            "lead_time_to_ship_max_days": 5
+          }
+        ],
+        "generic_keyword": [
+          {
+            "value": "Tough Phone Case",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_suggested_asin": [
+          {
+            "value": "B0DJBRYTPZ",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "warranty_description": [
+          {
+            "value": "None",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "part_number": [
+          {
+            "value": "Unknown",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "other_product_image_locator_3": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/71xA6Q7wpGL.jpg",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "other_product_image_locator_2": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/710FNEAnL7L.jpg",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "other_product_image_locator_1": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/81E6odLMoKL.jpg",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "main_product_image_locator": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/71G4zyW+hKL.jpg",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "purchasable_offer": [
+          {
+            "currency": "USD",
+            "start_at": {
+              "value": "2024-10-10T07:33:25.713Z"
+            },
+            "audience": "ALL",
+            "our_price": [
+              {
+                "schedule": [
+                  {
+                    "value_with_tax": 25.4
+                  }
+                ]
+              }
+            ],
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "child"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation",
+            "parent_sku": "17413368743738459909"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "parentSkus": ["17413368743738459909"],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color", "size"],
+                "theme": "SIZE/COLOR"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": []
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "asin": "B0DJRC1NLR",
+          "productType": "CELLULAR_PHONE_CASE",
+          "conditionType": "new_new",
+          "status": ["DISCOVERABLE"],
+          "itemName": "Tough Love Phone Cases for iPhone15",
+          "createdDate": "2024-10-09T10:33:30.292Z",
+          "lastUpdatedDate": "2025-09-18T05:14:38.812Z",
+          "mainImage": {
+            "link": "https://m.media-amazon.com/images/I/41IyR6hhY-L.jpg",
+            "height": 500,
+            "width": 500
+          }
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "GENERIC",
+          "browseClassification": {
+            "displayName": "Basic Cases",
+            "classificationId": "3081461011"
+          },
+          "color": "Multiple",
+          "itemClassification": "BASE_PRODUCT",
+          "itemName": "Tough Love Phone Cases for iPhone15",
+          "manufacturer": "Printify",
+          "memorabilia": false,
+          "size": "iPhone 15 Pro",
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "wireless_display_on_website",
+          "websiteDisplayGroupName": "Wireless"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41IyR6hhY-L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41IyR6hhY-L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/71G4zyW+hKL.jpg",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51xHfIDlRrL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51xHfIDlRrL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/81E6odLMoKL.jpg",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/41o8Dh0t2cL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/41o8Dh0t2cL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/710FNEAnL7L.jpg",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/41iydoY+NAL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/41iydoY+NAL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71xA6Q7wpGL.jpg",
+              "height": 2048,
+              "width": 2048
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [
+        {
+          "fulfillmentChannelCode": "DEFAULT",
+          "quantity": 0
+        }
+      ],
+      "offers": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "offerType": "B2C",
+          "price": {
+            "currency": "USD",
+            "currencyCode": "USD",
+            "amount": "25.4"
+          },
+          "audience": {
+            "value": "ALL",
+            "displayName": "Sell on Amazon"
+          }
+        }
+      ],
+      "issues": [
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "18448",
+          "message": "Your submission is missing few key attributes: item_dimensions. Missing these attributes do not block your product from being displayed on Amazon. However it impacts the overall quality of your listing.",
+          "severity": "WARNING",
+          "attributeNames": ["item_dimensions"],
+          "categories": ["MISSING_ATTRIBUTE"]
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/256x256_d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/874373f0-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/86bbf470-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/87d6b340-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/256x256_d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "8066",
+          "message": "The parentage is not set up correctly for SKU 17413368743738459909. This usually happens when you use the wrong parent SKU, forget to designate your parent SKU as a parent during creation, or have other setup errors blocking the parent SKU creation. Please fix and resubmit.",
+          "severity": "ERROR",
+          "categories": ["INVALID_ATTRIBUTE", "MISSING_ATTRIBUTE"],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/d0661600-93aa-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/87d6b340-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/874373f0-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        },
+        {
+          "code": "300404",
+          "message": "We could not access the media at URL https://aac1-2405-201-2024-aab6-94f4-85b0-aff7-bccd.ngrok-free.app/uploads/70/product/1911/86bbf470-93af-11f0-bca8-dd7e49bf7ae5.jpg. A 404 HTTP status code was received. The media could not be found at the address provided. Ensure that the URL is correct and the media is publicly accessible.",
+          "severity": "ERROR",
+          "categories": [],
+          "sku": "17413368743738459909"
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "CELLULAR_PHONE_CASE"
+        }
+      ]
+    }
+  }
+]

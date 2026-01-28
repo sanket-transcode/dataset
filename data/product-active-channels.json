@@ -1,0 +1,232 @@
+{
+  "activeChannel": {
+    "id": "5197",
+    "productChannels": [
+      {
+        "id": "5457",
+        "channel": {
+          "id": "387",
+          "name": "NA - ALL",
+          "icon": "07",
+          "channelType": "AMAZON",
+          "languages": ["en_CA", "en_US", "es_MX"],
+          "isActive": true
+        },
+        "productChannelMarketplaces": [
+          {
+            "id": 5349,
+            "amazonChannelMarketplaceId": "1138",
+            "amazonChannelMarketplace": {
+              "id": "1138",
+              "amazon_channel_id": "295",
+              "amazon_marketplace_id": "3",
+              "status": true,
+              "language": "es_MX",
+              "currency": "MXN"
+            }
+          },
+          {
+            "id": 5348,
+            "amazonChannelMarketplaceId": "1139",
+            "amazonChannelMarketplace": {
+              "id": "1139",
+              "amazon_channel_id": "295",
+              "amazon_marketplace_id": "1",
+              "status": true,
+              "language": "en_CA",
+              "currency": "CAD"
+            }
+          },
+          {
+            "id": 5350,
+            "amazonChannelMarketplaceId": "1140",
+            "amazonChannelMarketplace": {
+              "id": "1140",
+              "amazon_channel_id": "295",
+              "amazon_marketplace_id": "2",
+              "status": true,
+              "language": "en_US",
+              "currency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5604",
+        "channel": {
+          "id": "389",
+          "name": "EU - DE & UK",
+          "icon": "06",
+          "channelType": "AMAZON",
+          "languages": ["de_DE", "en_GB"],
+          "isActive": true
+        },
+        "productChannelMarketplaces": [
+          {
+            "id": 5374,
+            "amazonChannelMarketplaceId": "1145",
+            "amazonChannelMarketplace": {
+              "id": "1145",
+              "amazon_channel_id": "296",
+              "amazon_marketplace_id": "9",
+              "status": true,
+              "language": "de_DE",
+              "currency": "EUR"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "allChannels": [
+    {
+      "name": "Master Channel",
+      "channelType": "MASTER",
+      "accountConfig": {
+        "baseLanguage": "en_US",
+        "channelIcon": "icon-1",
+        "dateFormat": "DD/MM/YYYY",
+        "isMultiLanguageEnabled": true,
+        "isPublishingEnabled": false,
+        "isUseProductApprovalEnabled": false,
+        "stockQuantity": null,
+        "currencies": [
+          {
+            "id": "507",
+            "currency": "USD"
+          },
+          {
+            "id": "508",
+            "currency": "CAD"
+          },
+          {
+            "id": "509",
+            "currency": "MXN"
+          },
+          {
+            "id": "512",
+            "currency": "EUR"
+          },
+          {
+            "id": "513",
+            "currency": "GBP"
+          }
+        ],
+        "baseCurrency": "USD",
+        "decimalSeparator": ".",
+        "thousandSeparator": ".",
+        "defaultExpandedLogoId": null,
+        "defaultMinimizedLogoId": null,
+        "calculatePriceOnLatestRate": true,
+        "roundingMethod": "rounding_up_(e.g._34.67_->_35.00)",
+        "languages": [
+          {
+            "id": "457",
+            "accountId": "185",
+            "language": "en_CA",
+            "isActive": false,
+            "createdBy": "189",
+            "updatedBy": "189",
+            "createdAt": "2025-10-27T08:48:00.700Z",
+            "updatedAt": "2025-10-27T08:48:00.700Z"
+          },
+          {
+            "id": "458",
+            "accountId": "185",
+            "language": "es_MX",
+            "isActive": false,
+            "createdBy": "189",
+            "updatedBy": "189",
+            "createdAt": "2025-10-27T08:48:00.700Z",
+            "updatedAt": "2025-10-27T08:48:00.700Z"
+          },
+          {
+            "id": "460",
+            "accountId": "185",
+            "language": "de_DE",
+            "isActive": false,
+            "createdBy": "189",
+            "updatedBy": "189",
+            "createdAt": "2025-10-28T03:57:31.962Z",
+            "updatedAt": "2025-10-28T03:57:31.962Z"
+          },
+          {
+            "id": "461",
+            "accountId": "185",
+            "language": "en_GB",
+            "isActive": false,
+            "createdBy": "189",
+            "updatedBy": "189",
+            "createdAt": "2025-10-28T03:57:31.962Z",
+            "updatedAt": "2025-10-28T03:57:31.962Z"
+          },
+          {
+            "id": "488",
+            "accountId": "185",
+            "language": "el",
+            "isActive": false,
+            "createdBy": "189",
+            "updatedBy": "189",
+            "createdAt": "2025-10-29T14:17:42.960Z",
+            "updatedAt": "2025-10-29T14:17:42.960Z"
+          },
+          {
+            "id": "491",
+            "accountId": "185",
+            "language": "en_IE",
+            "isActive": false,
+            "createdBy": "189",
+            "updatedBy": "189",
+            "createdAt": "2025-10-30T09:57:32.930Z",
+            "updatedAt": "2025-10-30T09:57:32.930Z"
+          }
+        ]
+      },
+      "isMasterChannel": true,
+      "products": {
+        "published": 0,
+        "drafts": 0
+      },
+      "status": "CONNECTED",
+      "languages": ["en_CA", "es_MX", "de_DE", "en_GB", "el", "en_IE"],
+      "productChannelAndCategory": [],
+      "readinessValue": []
+    },
+    {
+      "id": "387",
+      "name": "NA - ALL",
+      "icon": "07",
+      "languages": ["en_CA", "en_US", "es_MX"],
+      "connectionStatus": "CONNECTED",
+      "isActive": true,
+      "externalId": null,
+      "syncStatus": "pending",
+      "externalErrors": null,
+      "externalStatus": null,
+      "completeness": null,
+      "channelType": "AMAZON"
+    },
+    {
+      "id": "389",
+      "name": "EU - DE & UK",
+      "icon": "06",
+      "languages": ["de_DE", "en_GB"],
+      "connectionStatus": "CONNECTED",
+      "isActive": true,
+      "externalId": null,
+      "syncStatus": "pending",
+      "externalErrors": null,
+      "externalStatus": null,
+      "completeness": null,
+      "channelType": "AMAZON"
+    },
+    {
+      "id": "405",
+      "name": "Dilli - IN",
+      "icon": "08",
+      "languages": [],
+      "connectionStatus": "NOT_CONNECTED",
+      "channelType": "AMAZON"
+    }
+  ]
+}

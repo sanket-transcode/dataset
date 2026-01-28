@@ -1,0 +1,109 @@
+{
+  "payload": {
+    "ASIN": "B09YRR2LS5",
+    "status": "Success",
+    "ItemCondition": "New",
+    "Identifier": {
+      "MarketplaceId": "ATVPDKIKX0DER",
+      "ItemCondition": "New",
+      "ASIN": "B09YRR2LS5"
+    },
+    "Summary": {
+      "LowestPrices": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 16.99
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 16.99
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 0.0
+          }
+        }
+      ],
+      "BuyBoxPrices": [
+        {
+          "condition": "New",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 16.99
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 16.99
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 0.0
+          }
+        }
+      ],
+      "NumberOfOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon",
+          "OfferCount": 1
+        }
+      ],
+      "BuyBoxEligibleOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon",
+          "OfferCount": 1
+        }
+      ],
+      "SalesRankings": [
+        {
+          "ProductCategoryId": "baby_product_display_on_website",
+          "Rank": 3903
+        },
+        {
+          "ProductCategoryId": "2483080011",
+          "Rank": 40
+        }
+      ],
+      "ListPrice": {
+        "CurrencyCode": "USD",
+        "Amount": 21.99
+      },
+      "TotalOfferCount": 1
+    },
+    "Offers": [
+      {
+        "Shipping": {
+          "CurrencyCode": "USD",
+          "Amount": 0.0
+        },
+        "ListingPrice": {
+          "CurrencyCode": "USD",
+          "Amount": 16.99
+        },
+        "ShippingTime": {
+          "maximumHours": 0,
+          "minimumHours": 0,
+          "availabilityType": "NOW"
+        },
+        "SellerFeedbackRating": {
+          "FeedbackCount": 502,
+          "SellerPositiveFeedbackRating": 100.0
+        },
+        "PrimeInformation": {
+          "IsPrime": true,
+          "IsNationalPrime": true
+        },
+        "SubCondition": "new",
+        "SellerId": "A2LZLRPI5WWX8T",
+        "IsFeaturedMerchant": true,
+        "IsBuyBoxWinner": true,
+        "IsFulfilledByAmazon": true
+      }
+    ],
+    "marketplaceId": "ATVPDKIKX0DER"
+  }
+}

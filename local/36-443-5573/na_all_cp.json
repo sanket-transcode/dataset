@@ -1,0 +1,255 @@
+[
+  {
+    "sku": "truck-toy-for-kid",
+    "asin": null,
+    "winnerSku": "truck-toy-for-kid",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER", "A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "NON_RIDING_TOY_VEHICLE",
+    "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+    "productId": "6895",
+    "wrappers": [
+      {
+        "sku": "truck-toy-for-kid",
+        "asin": "B0G2WSLBCX",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "asin": "B0G2WSLBCX",
+              "productType": "NON_RIDING_TOY_VEHICLE",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+              "createdDate": "2025-11-19T06:17:09.187Z",
+              "lastUpdatedDate": "2025-11-20T06:24:02.354Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/51HtlLl9yKL.jpg",
+                "height": 977,
+                "width": 976
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "Generic",
+              "browseClassification": {
+                "displayName": "Categories",
+                "classificationId": "10304191"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+              "memorabilia": false,
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "toy_display_on_website",
+              "websiteDisplayGroupName": "Toy"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Truck toy for kid ",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Fuel your child's imagination with this rugged and reliable Adventure Truck Toy! Designed for toddlers and young children, this toy truck is built to withstand rough play while ensuring utmost safety. Featuring durable construction and non-toxic materials, it's perfect for indoor and outdoor adventures. Watch as your little ones create their own exciting scenarios and develop essential motor skills. Get ready for hours of engaging and imaginative fun!",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "Generic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Trucks",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-11-19T06:17:00.416Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "CN",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "2be65c4c-75bc-42c8-900c-0d21c18510d4",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_suggested_asin": [
+              {
+                "value": "B0G2WSLBCX",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+        "variationTheme": "COLOR",
+        "variants": [
+          {
+            "sku": "truck-toy-for-kid black",
+            "asin": "B0G341LKZL"
+          },
+          {
+            "sku": "truck-toy-for-kid Yellow",
+            "asin": "B0G2XMZXTK"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "443",
+        "wrapperId": "3881"
+      },
+      {
+        "sku": "truck-toy-for-kid",
+        "asin": "B0G2WW4S5Z",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Kids' Adventure Truck Toy - Durable and Safe",
+        "variationTheme": "COLOR",
+        "variants": [
+          {
+            "sku": "truck-toy-for-kid Yellow",
+            "asin": "B0G2XMZXTK"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "443",
+        "wrapperId": "3882"
+      },
+      {
+        "sku": "truck-toy-for-kid",
+        "asin": null,
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {},
+        "name": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+        "variationTheme": "COLOR",
+        "variants": [],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": true,
+        "channelId": 443,
+        "wrapperId": "3662"
+      },
+      {
+        "sku": "truck-toy-for-kid",
+        "asin": null,
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+        "variationTheme": "COLOR",
+        "variants": [],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": true,
+        "channelId": 443,
+        "wrapperId": "3664"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+        "variationTheme": "MODEL",
+        "variants": [],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": true,
+        "channelId": 443,
+        "wrapperId": "3669"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-translation",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  }
+]

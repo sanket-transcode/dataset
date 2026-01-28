@@ -1,0 +1,787 @@
+{
+  "id": "11710",
+  "accountId": "281",
+  "internalId": "PRD-281-11710",
+  "familyId": null,
+  "supplierId": null,
+  "isTempSku": true,
+  "validSku": null,
+  "tags": [],
+  "syncStatus": false,
+  "isDeleted": false,
+  "isArchive": false,
+  "isLoading": true,
+  "score": "0",
+  "defaultLanguageCode": "en_CA",
+  "vendor": "CategraTest",
+  "allowStockTracking": true,
+  "completeness": "0",
+  "consumedAiToken": {
+    "aiProductCreate": {
+      "input": 0,
+      "output": 0,
+      "apiCalls": 0
+    }
+  },
+  "amazonSyncStatus": "Published",
+  "translationInProgress": false,
+  "createdBy": "286",
+  "updatedBy": "286",
+  "createdAt": "2026-01-09T12:27:01.074Z",
+  "updatedAt": "2026-01-15T10:20:18.637Z",
+  "syncInProgress": false,
+  "productAttributeGroups": [
+    {
+      "id": "22191",
+      "productAttributes": [
+        {
+          "id": "15870222",
+          "valueVarchar": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+          "valueText": null,
+          "languageCode": "en_US",
+          "attribute": {
+            "id": "418360",
+            "isPrimaryAttribute": true,
+            "isSystemGenerated": true,
+            "name": "Product Name",
+            "label": "Product Name"
+          }
+        },
+        {
+          "id": "15086525",
+          "valueVarchar": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+          "valueText": null,
+          "languageCode": "en_US",
+          "attribute": {
+            "id": "418360",
+            "isPrimaryAttribute": true,
+            "isSystemGenerated": true,
+            "name": "Product Name",
+            "label": "Product Name"
+          }
+        },
+        {
+          "id": "15086531",
+          "valueVarchar": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+          "valueText": null,
+          "languageCode": "en_US",
+          "attribute": {
+            "id": "418360",
+            "isPrimaryAttribute": true,
+            "isSystemGenerated": true,
+            "name": "Product Name",
+            "label": "Product Name"
+          }
+        },
+        {
+          "id": "15870224",
+          "valueVarchar": "cyclist-crewneck-sweatshirt-perfect-gift-for-bikers-sports-lovers-and-active-lifestyle-gym-wear-outdoor-adventures",
+          "valueText": null,
+          "languageCode": "en_US",
+          "attribute": {
+            "id": "418362",
+            "isPrimaryAttribute": true,
+            "isSystemGenerated": true,
+            "name": "SKU",
+            "label": "SKU"
+          }
+        },
+        {
+          "id": "15086527",
+          "valueVarchar": "1767961620803-TP",
+          "valueText": null,
+          "languageCode": "en_US",
+          "attribute": {
+            "id": "418362",
+            "isPrimaryAttribute": true,
+            "isSystemGenerated": true,
+            "name": "SKU",
+            "label": "SKU"
+          }
+        },
+        {
+          "id": "15086533",
+          "valueVarchar": "1767961620803-TP",
+          "valueText": null,
+          "languageCode": "en_US",
+          "attribute": {
+            "id": "418362",
+            "isPrimaryAttribute": true,
+            "isSystemGenerated": true,
+            "name": "SKU",
+            "label": "SKU"
+          }
+        }
+      ]
+    }
+  ],
+  "productMediaLinker": [
+    {
+      "id": "416673",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": null,
+      "digitalAssetsId": "149036",
+      "isMainImage": true,
+      "sequence": "1",
+      "amazonUrl": "https://m.media-amazon.com/images/I/31XGQW2phPL.jpg",
+      "shopifyExternalId": null,
+      "digitalAssets": {
+        "id": "149036",
+        "type": "amazon",
+        "fileOriginalName": "7fe0e1a0-ed56-11f0-b61e-d999a5d27586.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "7fe0e1a0-ed56-11f0-b61e-d999a5d27586.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "13357"
+      }
+    },
+    {
+      "id": "419057",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": null,
+      "digitalAssetsId": "149789",
+      "isMainImage": false,
+      "sequence": "2",
+      "amazonUrl": "https://m.media-amazon.com/images/I/31sondUKwuL.jpg",
+      "shopifyExternalId": null,
+      "digitalAssets": {
+        "id": "149789",
+        "type": "amazon",
+        "fileOriginalName": "36888660-ed57-11f0-b61e-d999a5d27586.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "36888660-ed57-11f0-b61e-d999a5d27586.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "9013"
+      }
+    },
+    {
+      "id": "419059",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": null,
+      "digitalAssetsId": "149790",
+      "isMainImage": false,
+      "sequence": "3",
+      "amazonUrl": "https://m.media-amazon.com/images/I/31ByKvKBTZL.jpg",
+      "shopifyExternalId": null,
+      "digitalAssets": {
+        "id": "149790",
+        "type": "amazon",
+        "fileOriginalName": "36a5f970-ed57-11f0-b61e-d999a5d27586.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "36a5f970-ed57-11f0-b61e-d999a5d27586.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "9268"
+      }
+    },
+    {
+      "id": "419061",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": null,
+      "digitalAssetsId": "149791",
+      "isMainImage": false,
+      "sequence": "4",
+      "amazonUrl": "https://m.media-amazon.com/images/I/31Zt7em-lHL.jpg",
+      "shopifyExternalId": null,
+      "digitalAssets": {
+        "id": "149791",
+        "type": "amazon",
+        "fileOriginalName": "36c05f40-ed57-11f0-b61e-d999a5d27586.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "36c05f40-ed57-11f0-b61e-d999a5d27586.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "11985"
+      }
+    },
+    {
+      "id": "428906",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152284",
+      "isMainImage": true,
+      "sequence": "1",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948538404966",
+      "digitalAssets": {
+        "id": "152284",
+        "type": "shopify",
+        "fileOriginalName": "97311850-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "97311850-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "13878"
+      }
+    },
+    {
+      "id": "428912",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152285",
+      "isMainImage": false,
+      "sequence": "2",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948538437734",
+      "digitalAssets": {
+        "id": "152285",
+        "type": "shopify",
+        "fileOriginalName": "ab103900-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ab103900-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "10092"
+      }
+    },
+    {
+      "id": "428914",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152286",
+      "isMainImage": false,
+      "sequence": "3",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948538798182",
+      "digitalAssets": {
+        "id": "152286",
+        "type": "shopify",
+        "fileOriginalName": "ab55f490-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ab55f490-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "11749"
+      }
+    },
+    {
+      "id": "428916",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152287",
+      "isMainImage": false,
+      "sequence": "4",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948538830950",
+      "digitalAssets": {
+        "id": "152287",
+        "type": "shopify",
+        "fileOriginalName": "ab9dd300-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ab9dd300-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "12020"
+      }
+    },
+    {
+      "id": "428918",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152288",
+      "isMainImage": false,
+      "sequence": "5",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948538896486",
+      "digitalAssets": {
+        "id": "152288",
+        "type": "shopify",
+        "fileOriginalName": "abd3fe30-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "abd3fe30-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "13403"
+      }
+    },
+    {
+      "id": "428920",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152289",
+      "isMainImage": false,
+      "sequence": "6",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948538929254",
+      "digitalAssets": {
+        "id": "152289",
+        "type": "shopify",
+        "fileOriginalName": "ac514480-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ac514480-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "9059"
+      }
+    },
+    {
+      "id": "428922",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152290",
+      "isMainImage": false,
+      "sequence": "7",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948539060326",
+      "digitalAssets": {
+        "id": "152290",
+        "type": "shopify",
+        "fileOriginalName": "ac9d8fc0-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ac9d8fc0-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "9314"
+      }
+    },
+    {
+      "id": "428924",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152291",
+      "isMainImage": false,
+      "sequence": "8",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948539093094",
+      "digitalAssets": {
+        "id": "152291",
+        "type": "shopify",
+        "fileOriginalName": "acfbdc60-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "acfbdc60-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "12031"
+      }
+    },
+    {
+      "id": "428926",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152292",
+      "isMainImage": false,
+      "sequence": "9",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948539125862",
+      "digitalAssets": {
+        "id": "152292",
+        "type": "shopify",
+        "fileOriginalName": "ad3e1580-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ad3e1580-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "16708"
+      }
+    },
+    {
+      "id": "428928",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152293",
+      "isMainImage": false,
+      "sequence": "10",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948539158630",
+      "digitalAssets": {
+        "id": "152293",
+        "type": "shopify",
+        "fileOriginalName": "ad7726e0-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "ad7726e0-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "13702"
+      }
+    },
+    {
+      "id": "428930",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152294",
+      "isMainImage": false,
+      "sequence": "11",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948539322470",
+      "digitalAssets": {
+        "id": "152294",
+        "type": "shopify",
+        "fileOriginalName": "adc60a30-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "adc60a30-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "13541"
+      }
+    },
+    {
+      "id": "428932",
+      "productId": "11710",
+      "variantId": null,
+      "channelId": null,
+      "amazonChannelMarketplaceId": null,
+      "languageCode": "en_US",
+      "digitalAssetsId": "152295",
+      "isMainImage": false,
+      "sequence": "12",
+      "amazonUrl": null,
+      "shopifyExternalId": "gid://shopify/MediaImage/25948539355238",
+      "digitalAssets": {
+        "id": "152295",
+        "type": "shopify",
+        "fileOriginalName": "adfcaa90-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "filePath": "uploads/281/product/11710/",
+        "fileUniqueName": "adfcaa90-f037-11f0-b0d3-e13c41e61fdd.jpg",
+        "sequence": null,
+        "fileType": null,
+        "fileSize": "12810"
+      }
+    }
+  ],
+  "createdByUser": {
+    "id": "286",
+    "firstName": "Arpit",
+    "lastName": "Arpit",
+    "attachment": []
+  },
+  "updatedByUser": {
+    "id": "286",
+    "firstName": "Arpit",
+    "lastName": "Arpit",
+    "attachment": []
+  },
+  "family": null,
+  "productChannels": [
+    {
+      "id": "13054",
+      "isDataUpdated": false,
+      "externalStatus": null,
+      "lastSync": null,
+      "isLoading": false,
+      "hasSyncErrors": false,
+      "completeness": null,
+      "connectedAttributesCount": 0,
+      "updateInProgress": false,
+      "channel": {
+        "id": "630",
+        "name": "NA - US",
+        "icon": "07",
+        "channelType": "AMAZON"
+      },
+      "productChannelMarketplaces": [
+        {
+          "id": 10798,
+          "hasError": false,
+          "isLoading": false,
+          "syncInProgress": false,
+          "amazonChannelMarketplace": {
+            "id": "1608",
+            "language": "en_US",
+            "amazonMarketplaceId": "2",
+            "amazonMarketplace": {
+              "id": 2,
+              "marketplaceId": "ATVPDKIKX0DER",
+              "country": "United States of America",
+              "countryCode": "US"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "13397",
+      "isDataUpdated": false,
+      "externalStatus": "ACTIVE",
+      "lastSync": "2026-01-13T04:22:58.258Z",
+      "isLoading": false,
+      "hasSyncErrors": false,
+      "completeness": null,
+      "connectedAttributesCount": 0,
+      "updateInProgress": false,
+      "channel": {
+        "id": "641",
+        "name": "Categratest",
+        "icon": "09",
+        "channelType": "SHOPIFY"
+      },
+      "productChannelMarketplaces": []
+    }
+  ],
+  "productVariants": [
+    {
+      "id": "38890",
+      "variantImages": []
+    },
+    {
+      "id": "38897",
+      "variantImages": []
+    },
+    {
+      "id": "38898",
+      "variantImages": []
+    },
+    {
+      "id": "38899",
+      "variantImages": []
+    },
+    {
+      "id": "38900",
+      "variantImages": []
+    },
+    {
+      "id": "38901",
+      "variantImages": []
+    },
+    {
+      "id": "38902",
+      "variantImages": []
+    },
+    {
+      "id": "38903",
+      "variantImages": []
+    },
+    {
+      "id": "38904",
+      "variantImages": []
+    },
+    {
+      "id": "38905",
+      "variantImages": []
+    },
+    {
+      "id": "38906",
+      "variantImages": []
+    },
+    {
+      "id": "38907",
+      "variantImages": []
+    },
+    {
+      "id": "38908",
+      "variantImages": []
+    },
+    {
+      "id": "38909",
+      "variantImages": []
+    },
+    {
+      "id": "38910",
+      "variantImages": []
+    },
+    {
+      "id": "38911",
+      "variantImages": []
+    },
+    {
+      "id": "38913",
+      "variantImages": []
+    },
+    {
+      "id": "38915",
+      "variantImages": []
+    },
+    {
+      "id": "38917",
+      "variantImages": []
+    },
+    {
+      "id": "38919",
+      "variantImages": []
+    },
+    {
+      "id": "38921",
+      "variantImages": []
+    },
+    {
+      "id": "38851",
+      "variantImages": []
+    },
+    {
+      "id": "38852",
+      "variantImages": []
+    },
+    {
+      "id": "38853",
+      "variantImages": []
+    },
+    {
+      "id": "38854",
+      "variantImages": []
+    },
+    {
+      "id": "38855",
+      "variantImages": []
+    },
+    {
+      "id": "38856",
+      "variantImages": []
+    },
+    {
+      "id": "38857",
+      "variantImages": []
+    },
+    {
+      "id": "38858",
+      "variantImages": []
+    },
+    {
+      "id": "38859",
+      "variantImages": []
+    },
+    {
+      "id": "38860",
+      "variantImages": []
+    },
+    {
+      "id": "38866",
+      "variantImages": []
+    },
+    {
+      "id": "38867",
+      "variantImages": []
+    },
+    {
+      "id": "38868",
+      "variantImages": []
+    },
+    {
+      "id": "38869",
+      "variantImages": []
+    },
+    {
+      "id": "38870",
+      "variantImages": []
+    },
+    {
+      "id": "38871",
+      "variantImages": []
+    },
+    {
+      "id": "38872",
+      "variantImages": []
+    },
+    {
+      "id": "38873",
+      "variantImages": []
+    },
+    {
+      "id": "38874",
+      "variantImages": []
+    },
+    {
+      "id": "38875",
+      "variantImages": []
+    },
+    {
+      "id": "38881",
+      "variantImages": []
+    },
+    {
+      "id": "38882",
+      "variantImages": []
+    },
+    {
+      "id": "38883",
+      "variantImages": []
+    },
+    {
+      "id": "38884",
+      "variantImages": []
+    },
+    {
+      "id": "38885",
+      "variantImages": []
+    },
+    {
+      "id": "38886",
+      "variantImages": []
+    },
+    {
+      "id": "38887",
+      "variantImages": []
+    },
+    {
+      "id": "38888",
+      "variantImages": []
+    },
+    {
+      "id": "38889",
+      "variantImages": []
+    },
+    {
+      "id": "38927",
+      "variantImages": []
+    },
+    {
+      "id": "38928",
+      "variantImages": []
+    },
+    {
+      "id": "38929",
+      "variantImages": []
+    },
+    {
+      "id": "38930",
+      "variantImages": []
+    },
+    {
+      "id": "38931",
+      "variantImages": []
+    },
+    {
+      "id": "38932",
+      "variantImages": []
+    }
+  ],
+  "variantId": "38890",
+  "isPublishedOnAmazon": true,
+  "attachment": null,
+  "productVariantCount": 56
+}

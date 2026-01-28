@@ -1,0 +1,457 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1344",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1
+        },
+        "userCurrency": {
+          "id": "677"
+        }
+      },
+      "attributes": {
+        "variation_theme": [
+          {
+            "name": "COLOR_NAME"
+          }
+        ],
+        "occasion_type": [
+          {
+            "value": "Baby Shower",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "skip_offer": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_length_width": [
+          {
+            "width": {
+              "unit": "inches",
+              "value": 1
+            },
+            "length": {
+              "unit": "inches",
+              "value": 1
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "CHAROUP",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_pieces": [
+          {
+            "value": 50,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_name": [
+          {
+            "value": "Placemats",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_shape": [
+          {
+            "value": "Round",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "Placemats",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_quantity": [
+          {
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_dimensions": [
+          {
+            "width": {
+              "unit": "inches",
+              "value": 1
+            },
+            "length": {
+              "unit": "inches",
+              "value": 1
+            },
+            "height": {
+              "unit": "inches",
+              "value": 0.1
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_number": [
+          {
+            "value": "Placemats",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "PlacematsPlacematsPlacemats",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "CHAROUP",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "50 Pcs Round Placemats",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Place Mats",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2025-09-22T02:52:45.096Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 50,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "care_instructions": [
+          {
+            "value": "Unwashable",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "unit_count": [
+          {
+            "type": {
+              "value": "Count",
+              "language_tag": "en_US"
+            },
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "BR",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "2be65c4c-75bc-42c8-900c-0d21c18510d4",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_suggested_asin": [
+          {
+            "value": "B0FS149WC6",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "parent"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childSkus": ["2105236520-V1"],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childAsins": [
+                "B0FWR6KCYR",
+                "B0FRZZZWLR",
+                "B0FWR6J3DC",
+                "B0FRZZZ95H"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "PLACEMAT",
+          "status": [],
+          "createdDate": "2025-11-13T07:05:10.641Z",
+          "lastUpdatedDate": "2025-11-13T10:21:47.499Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "CHAROUP",
+          "browseClassification": {
+            "displayName": "Place Mats",
+            "classificationId": "3742001"
+          },
+          "itemClassification": "VARIATION_PARENT",
+          "itemName": "50 Pcs Round Placemats",
+          "manufacturer": "CHAROUP",
+          "memorabilia": false,
+          "modelNumber": "Placemats",
+          "packageQuantity": 1,
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "kitchen_display_on_website",
+          "websiteDisplayGroupName": "Kitchen"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/81p3JJhuBZL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/51wtuQcY8NL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/51wtuQcY8NL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/81O1NZzPiLL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/517XRvLP9GL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/517XRvLP9GL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/81M5TrIAiOL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51XIUk345XL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51XIUk345XL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/81ZLdQppklL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/5106bBXDtfL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/5106bBXDtfL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/81BjowvBFuL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51dOBbnAJVL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51dOBbnAJVL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/81xR2dxXZtL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51vXBi2LpYL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51vXBi2LpYL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/91ZswOcOTQL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/61W8JfcvuDL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/61W8JfcvuDL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "8007",
+          "message": "We found some issues with your parent SKU [2105236520] that need to be fixed before you can work on any child SKUs. Please correct the product errors in your parent SKU first. For more details please check https://sellercentral.amazon.com/gp/help/202135320",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "2105236520"
+        },
+        {
+          "code": "100550",
+          "message": "You need to connect your brand CHAROUP with your account to create new ASINs with this brand. Please navigate to https://sellercentral.amazon.com/manage-your-brands?brandName=CHAROUP to connect your brand and resubmit your listing to resolve the error.",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "2105236520"
+        },
+        {
+          "code": "20015",
+          "message": "Your image file type isn't supported. Image must use HTTP protocol (not HTTPS, FTP, or \"file\"), and be in JPEG, TIFF, PNG, or non-animated GIF format (JPEG preferred). Use RGB or CMYK color (RGB preferred). Images should be clear, unpixelated, at least 72 dpi, and between 1,000 and 10,000 pixels on the longest side to enable zoom functionality.",
+          "severity": "ERROR",
+          "categories": ["INVALID_IMAGE", "INVALID_ATTRIBUTE"],
+          "sku": "2105236520"
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "PLACEMAT"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,286 @@
+{
+    "item_name": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Product name"
+        }
+    ],
+    "brand": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Generic"
+        }
+    ],
+    "supplier_declared_has_product_identifier_exemption": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": true
+        }
+    ],
+    "model_name": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Classic Black Leather Purse"
+        }
+    ],
+    "manufacturer": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Elegance Leatherworks Pvt. Ltd."
+        }
+    ],
+    "skip_offer": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": false
+        }
+    ],
+    "fulfillment_availability": [
+        {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0
+        }
+    ],
+    "purchasable_offer": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "currency": "INR",
+            "our_price": [
+                {
+                    "schedule": [
+                        {
+                            "value_with_tax": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "condition_type": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": "new_new"
+        }
+    ],
+    "product_description": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Product Description"
+        }
+    ],
+    "bullet_point": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Spacious interior with multiple compartments to keep essentials organized\n\nSecure zipper closure for added safety\n\nAdjustable shoulder strap for comfort and versatility\n\nElegant black finish that complements any outfit"
+        }
+    ],
+    "style": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Elegant Everyday Shoulder Bag"
+        }
+    ],
+    "department": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Women"
+        }
+    ],
+    "target_gender": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": "female"
+        }
+    ],
+    "age_range_description": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Adult"
+        }
+    ],
+    "material": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Genuine Leather"
+        }
+    ],
+    "lining_description": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Leather"
+        }
+    ],
+    "number_of_items": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": 1
+        }
+    ],
+    "item_type_name": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Handbag / Purse"
+        }
+    ],
+    "strap_type": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Adjustable & Detachable Shoulder Strap"
+        }
+    ],
+    "color": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "standardized_values": [
+                [
+                    "Black"
+                ]
+            ],
+            "value": "Black"
+        }
+    ],
+    "part_number": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": "PURS-BLK-01"
+        }
+    ],
+    "rtip_manufacturer_contact_information": [
+        {
+            "value": "Elegance Leatherworks Pvt. Ltd., Street No. 14"
+        }
+    ],
+    "capacity": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "unit": "centiliters_per_second",
+            "value": 120
+        }
+    ],
+    "product_site_launch_date": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": "2025-09-22T11:45:03.860Z"
+        }
+    ],
+    "external_product_information": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "entity": "HSN Code",
+            "value": "42022110"
+        }
+    ],
+    "number_of_compartments": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": 3
+        }
+    ],
+    "number_of_pockets": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": 4
+        }
+    ],
+    "packer_contact_information": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "language_tag": "en_IN",
+            "value": "Elegance Packaging & Logistics, Street No. 9"
+        }
+    ],
+    "country_of_origin": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": "IN"
+        }
+    ],
+    "supplier_declared_dg_hz_regulation": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": "other"
+        }
+    ],
+    "item_weight": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "value": 0.45,
+            "unit": "kilograms"
+        }
+    ],
+    "size_info": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "display_name": [
+                {
+                    "language_tag": "en_IN",
+                    "value": "Game Ae"
+                }
+            ]
+        }
+    ],
+    "inner": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "material": [
+                {
+                    "language_tag": "en_IN",
+                    "value": "Leather"
+                }
+            ]
+        }
+    ],
+    "outer": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "material": [
+                {
+                    "language_tag": "en_IN",
+                    "value": "Genuine Leather"
+                }
+            ]
+        }
+    ],
+    "closure": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "type": [
+                {
+                    "language_tag": "en_IN",
+                    "value": "Zipper"
+                }
+            ]
+        }
+    ],
+    "item_dimensions": [
+        {
+            "marketplace_id": "A21TJRUUN4KGV",
+            "height": {
+                "value": 12,
+                "unit": "feet"
+            },
+            "width": {
+                "value": 123,
+                "unit": "feet"
+            },
+            "length": {
+                "unit": "feet",
+                "value": 12
+            }
+        }
+    ]
+}

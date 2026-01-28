@@ -1,0 +1,424 @@
+[
+  {
+    "marketplaceId": "A2EUQ1WTGCTBG2",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1343",
+        "language": "en_CA",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 1,
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "country": "Canada",
+          "countryCode": "CA",
+          "regionId": 1
+        },
+        "userCurrency": {
+          "id": "679"
+        }
+      },
+      "attributes": {
+        "color": [
+          {
+            "value": "Green",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "SIZE"
+          }
+        ],
+        "included_components": [
+          {
+            "value": "pine",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "FLAGLY",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "model_name": [
+          {
+            "value": "XD901",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "item_shape": [
+          {
+            "value": "Long shape",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "recommended_browse_nodes": [
+          {
+            "value": "23573610011",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "Norfolk Pine Garlands",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "model_number": [
+          {
+            "value": "XD901",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Bring the festive spirit to your home with this lush 9-foot Artificial Norfolk Pine Garland. Perfect for draping across mantles, staircases, banisters, or adorning walls and doorways, this garland adds a touch of holiday cheer to any space. Its realistic greenery creates a warm and inviting atmosphere, suitable for both indoor and outdoor use. Enjoy hassle-free holiday decorating with this beautiful and durable Xmas decoration.",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "brand": [
+          {
+            "value": "FLAGLY",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "is_artificial_garland": [
+          {
+            "value": true,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "Norfolk Pine Garlands",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "fabric_type": [
+          {
+            "value": "Polyethylene (Pe)",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2025-08-17T20:02:20.349Z",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 1,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "material": [
+          {
+            "value": "Polyethylene (PE)",
+            "language_tag": "en_CA",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "is_lighted": [
+          {
+            "value": false,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "part_number": [
+          {
+            "value": "XD901",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": false,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "NL",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "merchant_suggested_asin": [
+          {
+            "value": "B0F8QPS9SJ",
+            "marketplace_id": "A2EUQ1WTGCTBG2"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "A2EUQ1WTGCTBG2",
+            "value": "parent"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "A2EUQ1WTGCTBG2",
+            "child_relationship_type": "variation"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "relationships": [
+            {
+              "childSkus": [
+                "69520145236-V3",
+                "69520145236-V2",
+                "69520145236-V1"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["size"],
+                "theme": "SIZE"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "relationships": [
+            {
+              "childAsins": ["B0F8QQZSD3", "B0F8QPS9SJ", "B0F8QTHGX1"],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["size"],
+                "theme": "SIZE"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "productType": "GARLAND",
+          "status": [],
+          "createdDate": "2025-11-06T12:37:04.241Z",
+          "lastUpdatedDate": "2025-11-06T12:40:49.574Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "FLAGLY",
+          "browseClassification": {
+            "displayName": "Garlands",
+            "classificationId": "23573610011"
+          },
+          "color": "Green",
+          "itemClassification": "VARIATION_PARENT",
+          "itemName": "Norfolk Pine Garlands",
+          "manufacturer": "FLAGLY",
+          "memorabilia": false,
+          "modelNumber": "XD901",
+          "partNumber": "XD901",
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "kitchen_display_on_website",
+          "websiteDisplayGroupName": "Kitchen"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/81lHi4sftIL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/51vKp4nyT0L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/51vKp4nyT0L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/81UJP-DrtQL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51vvqllasfL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51vvqllasfL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/81uTeB1ZezL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51jKFKP5lpL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51jKFKP5lpL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/81dPDcR5teL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/510v56G7LaL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/510v56G7LaL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/81WH1Bm-REL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51keMRH-JPL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51keMRH-JPL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/81ptByZrFQL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51HQ8G3RfxL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51HQ8G3RfxL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/81wBRaJvVsL.jpg",
+              "height": 1600,
+              "width": 1600
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/5159S-0XdbL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/5159S-0XdbL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "8007",
+          "message": "We found some issues with your parent SKU [69520145236] that need to be fixed before you can work on any child SKUs. Please correct the product errors in your parent SKU first. For more details please check https://sellercentral.amazon.ca/gp/help/202135320",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "69520145236"
+        },
+        {
+          "code": "100550",
+          "message": "You need to connect your brand FLAGLY with your account to create new ASINs with this brand. Please navigate to https://sellercentral.amazon.ca/manage-your-brands?brandName=FLAGLY to connect your brand and resubmit your listing to resolve the error.",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "69520145236"
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "productType": "GARLAND"
+        }
+      ]
+    }
+  }
+]

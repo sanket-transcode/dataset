@@ -1,0 +1,177 @@
+[
+  {
+    "day": "Fri",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  },
+  {
+    "day": "Sat",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  },
+  {
+    "day": "Sun",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  },
+  {
+    "day": "Mon",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  },
+  {
+    "day": "Tue",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  },
+  {
+    "day": "Wed",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  },
+  {
+    "day": "Thu",
+    "channels": [
+      {
+        "channelId": 580,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 630,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 641,
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      {
+        "channelId": 650,
+        "orderCount": 0,
+        "totalRevenue": 0
+      }
+    ]
+  }
+]

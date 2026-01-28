@@ -1,0 +1,11 @@
+[
+  {
+    "channelId": "630",
+    "marketplaceId": "1608",
+    "languageCode": "en_US",
+    "publishingErrors": {
+      "missingStock": 3,
+      "missingPrice": 0
+    }
+  }
+]

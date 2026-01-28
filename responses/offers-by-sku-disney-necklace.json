@@ -1,0 +1,167 @@
+{
+  "payload": {
+    "SKU": "disney-necklace",
+    "status": "Success",
+    "ItemCondition": "New",
+    "Identifier": {
+      "MarketplaceId": "ATVPDKIKX0DER",
+      "ItemCondition": "New",
+      "SellerSKU": "disney-necklace"
+    },
+    "Summary": {
+      "LowestPrices": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 49.99
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 49.99
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 0.0
+          }
+        },
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Merchant",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 49.99
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 49.99
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 0.0
+          }
+        }
+      ],
+      "BuyBoxPrices": [
+        {
+          "condition": "New",
+          "LandedPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 49.99
+          },
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 49.99
+          },
+          "Shipping": {
+            "CurrencyCode": "USD",
+            "Amount": 0.0
+          }
+        }
+      ],
+      "NumberOfOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon",
+          "OfferCount": 1
+        },
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Merchant",
+          "OfferCount": 1
+        }
+      ],
+      "BuyBoxEligibleOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon"
+        },
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Merchant"
+        }
+      ],
+      "SalesRankings": [
+        {
+          "ProductCategoryId": "fashion_display_on_website",
+          "Rank": 1315026
+        },
+        {
+          "ProductCategoryId": "7454934011",
+          "Rank": 22876
+        }
+      ],
+      "ListPrice": {
+        "CurrencyCode": "USD",
+        "Amount": 175.0
+      },
+      "TotalOfferCount": 2
+    },
+    "Offers": [
+      {
+        "Shipping": {
+          "CurrencyCode": "USD",
+          "Amount": 0.0
+        },
+        "ListingPrice": {
+          "CurrencyCode": "USD",
+          "Amount": 49.99
+        },
+        "ShippingTime": {
+          "maximumHours": 0,
+          "minimumHours": 0,
+          "availabilityType": "NOW"
+        },
+        "SellerFeedbackRating": {
+          "FeedbackCount": 6389,
+          "SellerPositiveFeedbackRating": 99.0
+        },
+        "PrimeInformation": {
+          "IsPrime": true,
+          "IsNationalPrime": true
+        },
+        "SubCondition": "new",
+        "SellerId": "A33GUTZYEDU2ZK",
+        "IsFeaturedMerchant": true,
+        "IsBuyBoxWinner": true,
+        "MyOffer": false,
+        "IsFulfilledByAmazon": true
+      },
+      {
+        "Shipping": {
+          "CurrencyCode": "USD",
+          "Amount": 0.0
+        },
+        "ListingPrice": {
+          "CurrencyCode": "USD",
+          "Amount": 49.99
+        },
+        "ShippingTime": {
+          "maximumHours": 72,
+          "minimumHours": 48,
+          "availabilityType": "NOW"
+        },
+        "SellerFeedbackRating": {
+          "FeedbackCount": 6389,
+          "SellerPositiveFeedbackRating": 99.0
+        },
+        "ShipsFrom": {
+          "State": "NJ",
+          "Country": "US"
+        },
+        "PrimeInformation": {
+          "IsPrime": false,
+          "IsNationalPrime": false
+        },
+        "SubCondition": "new",
+        "SellerId": "A33GUTZYEDU2ZK",
+        "IsFeaturedMerchant": true,
+        "IsBuyBoxWinner": false,
+        "MyOffer": false,
+        "IsFulfilledByAmazon": false
+      }
+    ],
+    "marketplaceId": "ATVPDKIKX0DER"
+  }
+}

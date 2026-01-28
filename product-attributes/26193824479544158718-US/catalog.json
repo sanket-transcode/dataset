@@ -1,0 +1,199 @@
+{
+  "apparel_size": [
+    {
+      "size": "m",
+      "size_system": "as1",
+      "body_type": "regular",
+      "height_type": "regular",
+      "size_class": "alpha",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "color": [
+    {
+      "language_tag": "en_US",
+      "standardized_values": ["Orange"],
+      "value": "Safety Orange",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "variation_theme": [
+    {
+      "name": "SIZE/COLOR",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_weight": [
+    {
+      "unit": "pounds",
+      "value": 0.8,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "model_name": [
+    {
+      "language_tag": "en_US",
+      "value": "Generic",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "age_range_description": [
+    {
+      "language_tag": "en_US",
+      "value": "Adult",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "bullet_point": [
+    {
+      "language_tag": "en_US",
+      "value": "Eco-friendly production with 50% cotton, 50% polyester blend",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Elastic ribbed collar retains shape for longevity",
+      "marketplace_id": "ATVPDKIKX0DER"
+    },
+    {
+      "language_tag": "en_US",
+      "value": "Comfortable and cozy fabric perfect for colder days",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "product_description": [
+    {
+      "language_tag": "en_US",
+      "value": "Introducing our cozy, unisex Heavy Blend Crewneck Sweatshirt, designed for ultimate comfort and style. This sweatshirt effortlessly combines warmth and durability, making it an essential addition to your wardrobe for cooler months. Whether you're lounging at home, heading out for a bike ride, or meeting friends, this sweatshirt fits seamlessly into your lifestyle. Its clean-cut design and classic fit cater to anyone looking for a relaxed yet stylish look. Ideal for cycling enthusiasts and those who appreciate a casual aesthetic, it's perfect for holidays, family gatherings, and casual outings. Celebrate the spirit of togetherness and warmth with this versatile piece, which fulfills your everyday needs while keeping you fashionable. Product features - Eco-friendly production with 50% cotton, 50% polyester blend - Elastic ribbed collar retains shape for longevity - Durable double-needle stitching enhances lifespan - Comfortable and cozy fabric perfect for colder days Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Tumble dry: low heat - Do not iron - Do not dryclean",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "department": [
+    {
+      "language_tag": "en_US",
+      "value": "unisex-adult",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "brand": [
+    {
+      "language_tag": "en_US",
+      "value": "GENERIC",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "value": "not_applicable",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "value": false,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "fit_type": [
+    {
+      "language_tag": "en_US",
+      "value": "Regular",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "import_designation": [
+    {
+      "language_tag": "en_US",
+      "value": "Imported",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "special_size_type": [
+    {
+      "language_tag": "en_US",
+      "value": "Standard",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_name": [
+    {
+      "language_tag": "en_US",
+      "value": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures Safety Orange",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "list_price": [
+    {
+      "currency": "USD",
+      "value": 29.4,
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "neck": [
+    {
+      "neck_style": [
+        {
+          "language_tag": "en_US",
+          "value": "Crew Neck"
+        }
+      ],
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "fabric_type": [
+    {
+      "language_tag": "en_US",
+      "value": "50% Cotton, 50% Polyester",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "value": "athletic-crew-necks",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "product_site_launch_date": [
+    {
+      "value": "2025-03-10T10:08:04.786Z",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "size": [
+    {
+      "value": "Medium",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "sleeve": [
+    {
+      "type": [
+        {
+          "language_tag": "en_US",
+          "value": "Long Sleeve"
+        }
+      ],
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "style": [
+    {
+      "language_tag": "en_US",
+      "value": "Regular",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "care_instructions": [
+    {
+      "language_tag": "en_US",
+      "value": "Machine Wash",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ],
+  "target_gender": [
+    {
+      "value": "unisex",
+      "marketplace_id": "ATVPDKIKX0DER"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "channelId": "604",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2025-12-29T09:37:08.085Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 252,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 2
+  },
+  "productTracker": {
+    "20005483504707723209": {
+      "hasErrors": false,
+      "productId": "10212",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "78030572374848186482": {
+      "hasErrors": false,
+      "productId": "10215",
+      "productName": "Generic Love Phone Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}

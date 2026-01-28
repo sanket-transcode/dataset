@@ -1,0 +1,274 @@
+{
+  "item_name": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "ClassicCeramic Coffee Mug"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Generic"
+    }
+  ],
+  "merchant_suggested_asin": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "B0FTV4SYWM"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": false
+    }
+  ],
+  "recommended_browse_nodes": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "1380144031"
+    }
+  ],
+  "model_number": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "CMG-101"
+    }
+  ],
+  "model_name": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "ClassicCeramic Coffee Mug"
+    }
+  ],
+  "manufacturer": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Generic Homeware Co."
+    }
+  ],
+  "skip_offer": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": false
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "fulfillment_channel_code": "DEFAULT",
+      "quantity": 0
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "currency": "INR",
+      "audience": "ALL",
+      "maximum_retail_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": "200.0"
+            }
+          ]
+        }
+      ],
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 149
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "condition_type": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "new_new"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Enjoy every sip with the ClassicCeramic Coffee Mug, designed for everyday comfort and style. Crafted from high-quality ceramic, this mug is perfect for hot beverages like coffee, tea, milk, or hot chocolate. Its sleek shape and smooth finish make it ideal for home, office, or gifting. The sturdy handle provides a secure grip, while the durable construction ensures long-lasting use. Whether you're starting your day or relaxing in the evening, this mug adds a touch of elegance to your drink experience."
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Premium Ceramic Build – Made from high-quality ceramic material that is durable, non-toxic, and safe for daily use."
+    },
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Comfortable Grip Handle – Designed with an easy-to-hold handle that stays cool and provides a secure, comfortable grip."
+    },
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Perfect for Hot & Cold Drinks – Ideal for coffee, tea, milk, hot chocolate, soups, or any beverage of your choice."
+    },
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Microwave & Dishwasher Safe – Convenient for everyday use; heats evenly and is easy to clean without fading or stains."
+    },
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Sleek & Stylish Design – Modern and elegant look suitable for home, office, cafés, and gifting occasions."
+    }
+  ],
+  "material": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Ceramic"
+    }
+  ],
+  "number_of_items": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": 1
+    }
+  ],
+  "item_type_name": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Drinkware"
+    }
+  ],
+  "color": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Off-White"
+    }
+  ],
+  "size": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Small"
+    }
+  ],
+  "care_instructions": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Dishwasher Safe"
+    }
+  ],
+  "rtip_manufacturer_contact_information": [
+    {
+      "value": "Generic Homeware Co.,\nStreet No. 24/4, New Delhi, India - 110011"
+    }
+  ],
+  "unit_count": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "1.0",
+      "type": {
+        "language_tag": "en_IN",
+        "value": "count"
+      }
+    }
+  ],
+  "product_site_launch_date": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "2025-10-04T06:03:38.446Z"
+    }
+  ],
+  "included_components": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "1 Ceramic Mug"
+    }
+  ],
+  "external_product_information": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "entity": "HSN Code",
+      "value": "691200"
+    }
+  ],
+  "importer_contact_information": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Importer Name Ltd., Street No. 24/4, New Delhi, India - 110011"
+    }
+  ],
+  "packer_contact_information": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "language_tag": "en_IN",
+      "value": "Packer Name Ltd., Street No. 24/4, New Delhi, India - 110011"
+    }
+  ],
+  "country_of_origin": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "DE"
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "other"
+    }
+  ],
+  "item_weight": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": "280.0",
+      "unit": "grams"
+    }
+  ],
+  "item_dimensions": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "height": {
+        "value": "10.0",
+        "unit": "centimeters"
+      },
+      "length": {
+        "unit": "millimeters",
+        "value": "15.0"
+      },
+      "width": {
+        "value": "20.0",
+        "unit": "decimeters"
+      }
+    }
+  ],
+  "capacity": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "value": ""
+    }
+  ],
+  "item_width_height": [
+    {
+      "marketplace_id": "A21TJRUUN4KGV",
+      "height": {
+        "value": ""
+      },
+      "width": {
+        "value": ""
+      }
+    }
+  ]
+}

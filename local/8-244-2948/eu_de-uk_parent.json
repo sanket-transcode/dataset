@@ -1,0 +1,2269 @@
+[
+  {
+    "sku": null,
+    "asin": "B0F5857MSP",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": false
+      },
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": false
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": false
+      },
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": false
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": false
+      },
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": false
+      },
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": false
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": false
+      },
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": false
+      },
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": false
+      },
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": false
+      },
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": false
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": false
+      },
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": false
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": false
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": false
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": false
+      },
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": false
+      },
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": false
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": false
+      },
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": false
+      },
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": false
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": false
+      },
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": false
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": false
+      },
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": false
+      },
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": false
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": false
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": false
+      },
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": false
+      },
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": false
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": false
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": false
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": false
+      },
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": false
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": false
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": false
+      },
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": false
+      },
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": false
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": false
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": false
+      },
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": false
+      },
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F257K59S",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": true
+      },
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": true
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": true
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": true
+      },
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": true
+      },
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": true
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": true
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": true
+      },
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": true
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": true
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": true
+      },
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": true
+      },
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": true
+      },
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": true
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": true
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": true
+      },
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": true
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": true
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": true
+      },
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": true
+      },
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": true
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": true
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": true
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": true
+      },
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": true
+      },
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": true
+      },
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": true
+      },
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": true
+      },
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": true
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": true
+      },
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": true
+      },
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": true
+      },
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": true
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": true
+      },
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": true
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": true
+      },
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": true
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": true
+      },
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": true
+      },
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": true
+      },
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": true
+      },
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": true
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": true
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": true
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": true
+      },
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": true
+      },
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": true
+      },
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": true
+      },
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": true
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": true
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": true
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": true
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": true
+      },
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": true
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Sweat de cyclisme à col rond pour motards, amateurs de sport et style de vie actif, salle de sport, aventure en plein air",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN221VV1",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86116983703179682472",
+        "asin": "B0DJC7VLSY",
+        "isNotActive": false
+      },
+      {
+        "sku": "78030572374848186482",
+        "asin": "B0DJCB3SJ7",
+        "isNotActive": false
+      },
+      {
+        "sku": "20005483504707723209",
+        "asin": "B0DJCB1LGZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "61860379700742041582",
+        "asin": "B0DJC9BHRC",
+        "isNotActive": false
+      },
+      {
+        "sku": "16468744415217458502",
+        "asin": "B0DJC8NGPK",
+        "isNotActive": false
+      },
+      {
+        "sku": "22599648081092112053",
+        "asin": "B0DJC96ZGM",
+        "isNotActive": false
+      },
+      {
+        "sku": "27128204504863174973",
+        "asin": "B0DJC916X7",
+        "isNotActive": false
+      },
+      {
+        "sku": "92873890943974939295",
+        "asin": "B0DJC99YGR",
+        "isNotActive": false
+      },
+      {
+        "sku": "13853933658176115455",
+        "asin": "B0DJC976MP",
+        "isNotActive": false
+      },
+      {
+        "sku": "19388522960674321166",
+        "asin": "B0DJC84MNZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "25995102369191911086",
+        "asin": "B0DJC8QGJ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "25597953737895459336",
+        "asin": "B0DJC9SVLZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "25209482530180584258",
+        "asin": "B0DJC76WQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "13842494438154148667",
+        "asin": "B0DJC986JC",
+        "isNotActive": false
+      },
+      {
+        "sku": "14971932535736024326",
+        "asin": "B0DJC6TB67",
+        "isNotActive": false
+      },
+      {
+        "sku": "78261493858680421007",
+        "asin": "B0DJC8B932",
+        "isNotActive": false
+      },
+      {
+        "sku": "19333170031854605557",
+        "asin": "B0DJC9HJFR",
+        "isNotActive": false
+      },
+      {
+        "sku": "19924501761712385481",
+        "asin": "B0DJC75QSM",
+        "isNotActive": false
+      },
+      {
+        "sku": "20940442817819554402",
+        "asin": "B0DJC8N2C9",
+        "isNotActive": false
+      },
+      {
+        "sku": "62079621522358053181",
+        "asin": "B0DJC85ZDC",
+        "isNotActive": false
+      },
+      {
+        "sku": "99451503756354788199",
+        "asin": "B0DJCB42V3",
+        "isNotActive": false
+      },
+      {
+        "sku": "69179694310442227567",
+        "asin": "B0DJC87S2L",
+        "isNotActive": false
+      },
+      {
+        "sku": "16955872944899074503",
+        "asin": "B0DJC82JM8",
+        "isNotActive": false
+      },
+      {
+        "sku": "30998485442649934631",
+        "asin": "B0DJC9Z74G",
+        "isNotActive": false
+      },
+      {
+        "sku": "22342964600336344410",
+        "asin": "B0DJC96WMN",
+        "isNotActive": false
+      },
+      {
+        "sku": "79665215069886379495",
+        "asin": "B0DJC99J2M",
+        "isNotActive": false
+      },
+      {
+        "sku": "11370874124342047010",
+        "asin": "B0DJC9BP56",
+        "isNotActive": false
+      },
+      {
+        "sku": "25177364740690934737",
+        "asin": "B0DJC8KG1C",
+        "isNotActive": false
+      },
+      {
+        "sku": "21168948484341913451",
+        "asin": "B0DJC8KND5",
+        "isNotActive": false
+      },
+      {
+        "sku": "86530328495791226114",
+        "asin": "B0DJC8NC5G",
+        "isNotActive": false
+      },
+      {
+        "sku": "83648586322348792963",
+        "asin": "B0DJC8H4YT",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN26XTXG",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78030572374848186482",
+        "asin": "B0DJCB3SJ7",
+        "isNotActive": false
+      },
+      {
+        "sku": "19924501761712385481",
+        "asin": "B0DJC75QSM",
+        "isNotActive": false
+      },
+      {
+        "sku": "61860379700742041582",
+        "asin": "B0DJC9BHRC",
+        "isNotActive": false
+      },
+      {
+        "sku": "25597953737895459336",
+        "asin": "B0DJC9SVLZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "19388522960674321166",
+        "asin": "B0DJC84MNZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "69179694310442227567",
+        "asin": "B0DJC87S2L",
+        "isNotActive": false
+      },
+      {
+        "sku": "79665215069886379495",
+        "asin": "B0DJC99J2M",
+        "isNotActive": false
+      },
+      {
+        "sku": "22599648081092112053",
+        "asin": "B0DJC96ZGM",
+        "isNotActive": false
+      },
+      {
+        "sku": "83648586322348792963",
+        "asin": "B0DJC8H4YT",
+        "isNotActive": false
+      },
+      {
+        "sku": "13853933658176115455",
+        "asin": "B0DJC976MP",
+        "isNotActive": false
+      },
+      {
+        "sku": "16468744415217458502",
+        "asin": "B0DJC8NGPK",
+        "isNotActive": false
+      },
+      {
+        "sku": "86116983703179682472",
+        "asin": "B0DJC7VLSY",
+        "isNotActive": false
+      },
+      {
+        "sku": "30998485442649934631",
+        "asin": "B0DJC9Z74G",
+        "isNotActive": false
+      },
+      {
+        "sku": "14971932535736024326",
+        "asin": "B0DJC6TB67",
+        "isNotActive": false
+      },
+      {
+        "sku": "19333170031854605557",
+        "asin": "B0DJC9HJFR",
+        "isNotActive": false
+      },
+      {
+        "sku": "13842494438154148667",
+        "asin": "B0DJC986JC",
+        "isNotActive": false
+      },
+      {
+        "sku": "21168948484341913451",
+        "asin": "B0DJC8KND5",
+        "isNotActive": false
+      },
+      {
+        "sku": "27128204504863174973",
+        "asin": "B0DJC916X7",
+        "isNotActive": false
+      },
+      {
+        "sku": "99451503756354788199",
+        "asin": "B0DJCB42V3",
+        "isNotActive": false
+      },
+      {
+        "sku": "16955872944899074503",
+        "asin": "B0DJC82JM8",
+        "isNotActive": false
+      },
+      {
+        "sku": "22342964600336344410",
+        "asin": "B0DJC96WMN",
+        "isNotActive": false
+      },
+      {
+        "sku": "11370874124342047010",
+        "asin": "B0DJC9BP56",
+        "isNotActive": false
+      },
+      {
+        "sku": "20940442817819554402",
+        "asin": "B0DJC8N2C9",
+        "isNotActive": false
+      },
+      {
+        "sku": "62079621522358053181",
+        "asin": "B0DJC85ZDC",
+        "isNotActive": false
+      },
+      {
+        "sku": "92873890943974939295",
+        "asin": "B0DJC99YGR",
+        "isNotActive": false
+      },
+      {
+        "sku": "25209482530180584258",
+        "asin": "B0DJC76WQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "25995102369191911086",
+        "asin": "B0DJC8QGJ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "20005483504707723209",
+        "asin": "B0DJCB1LGZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "25177364740690934737",
+        "asin": "B0DJC8KG1C",
+        "isNotActive": false
+      },
+      {
+        "sku": "86530328495791226114",
+        "asin": "B0DJC8NC5G",
+        "isNotActive": false
+      },
+      {
+        "sku": "78261493858680421007",
+        "asin": "B0DJC8B932",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Schutzhüllen",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F257V1ZV",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": false
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": false
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": false
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": false
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": false
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": false
+      },
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": false
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": false
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": false
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": false
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": false
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": false
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": false
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": false
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": false
+      },
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": false
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": false
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": false
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": false
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": false
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": false
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": false
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Radfahrer-Sweatshirt mit Rundhalsausschnitt für Biker, Sportliebhaber und aktiven Lebensstil, Fitnessstudio, Outdoor-Abenteuer",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN3DJM4C",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": true
+      },
+      {
+        "sku": "18838576561447351297",
+        "asin": "B0DJQYQQKG",
+        "isNotActive": true
+      },
+      {
+        "sku": "20184699460263983544",
+        "asin": "B0DJQXHB6N",
+        "isNotActive": true
+      },
+      {
+        "sku": "20274609654073601324",
+        "asin": "B0DJQXL6DC",
+        "isNotActive": true
+      },
+      {
+        "sku": "82290431363794330833",
+        "asin": "B0DJR14GXY",
+        "isNotActive": true
+      },
+      {
+        "sku": "18210270667532577864",
+        "asin": "B0DJQYDYQ5",
+        "isNotActive": true
+      },
+      {
+        "sku": "26787049011141050616",
+        "asin": "B0DJQZFLSC",
+        "isNotActive": true
+      },
+      {
+        "sku": "11584613081427148258",
+        "asin": "B0DJQYFYJT",
+        "isNotActive": true
+      },
+      {
+        "sku": "23313714049244420750",
+        "asin": "B0DJQZYFB2",
+        "isNotActive": true
+      },
+      {
+        "sku": "20189624940225035247",
+        "asin": "B0DJQYS14X",
+        "isNotActive": true
+      },
+      {
+        "sku": "17321890570654532224",
+        "asin": "B0DJQYFVM3",
+        "isNotActive": true
+      },
+      {
+        "sku": "21016692564692526584",
+        "asin": "B0DJQYFLCH",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN27YY89",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20274609654073601324",
+        "asin": "B0DJQXL6DC",
+        "isNotActive": false
+      },
+      {
+        "sku": "20184699460263983544",
+        "asin": "B0DJQXHB6N",
+        "isNotActive": false
+      },
+      {
+        "sku": "18210270667532577864",
+        "asin": "B0DJQYDYQ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "11584613081427148258",
+        "asin": "B0DJQYFYJT",
+        "isNotActive": false
+      },
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      },
+      {
+        "sku": "26787049011141050616",
+        "asin": "B0DJQZFLSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "23313714049244420750",
+        "asin": "B0DJQZYFB2",
+        "isNotActive": false
+      },
+      {
+        "sku": "21016692564692526584",
+        "asin": "B0DJQYFLCH",
+        "isNotActive": false
+      },
+      {
+        "sku": "20189624940225035247",
+        "asin": "B0DJQYS14X",
+        "isNotActive": false
+      },
+      {
+        "sku": "17321890570654532224",
+        "asin": "B0DJQYFVM3",
+        "isNotActive": false
+      },
+      {
+        "sku": "18838576561447351297",
+        "asin": "B0DJQYQQKG",
+        "isNotActive": false
+      },
+      {
+        "sku": "82290431363794330833",
+        "asin": "B0DJR14GXY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Mittelschweres T-Shirt, hergestellt in den USA",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F581XTKP",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "94292994261163396712",
+        "asin": "B0DZXP6S9C",
+        "isNotActive": false
+      },
+      {
+        "sku": "22039449774746896506",
+        "asin": "B0DZXT2N2S",
+        "isNotActive": false
+      },
+      {
+        "sku": "74599968013643921960",
+        "asin": "B0DZXR3XZD",
+        "isNotActive": false
+      },
+      {
+        "sku": "32242345023357025715",
+        "asin": "B0DZXQGK76",
+        "isNotActive": false
+      },
+      {
+        "sku": "14444053310336374819",
+        "asin": "B0DZXNS6LM",
+        "isNotActive": false
+      },
+      {
+        "sku": "16661825059693052327",
+        "asin": "B0DZXNK447",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F256FPP9",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "94292994261163396712",
+        "asin": "B0DZXP6S9C",
+        "isNotActive": true
+      },
+      {
+        "sku": "22039449774746896506",
+        "asin": "B0DZXT2N2S",
+        "isNotActive": true
+      },
+      {
+        "sku": "16661825059693052327",
+        "asin": "B0DZXNK447",
+        "isNotActive": true
+      },
+      {
+        "sku": "74599968013643921960",
+        "asin": "B0DZXR3XZD",
+        "isNotActive": true
+      },
+      {
+        "sku": "32242345023357025715",
+        "asin": "B0DZXQGK76",
+        "isNotActive": true
+      },
+      {
+        "sku": "14444053310336374819",
+        "asin": "B0DZXNS6LM",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN25BB6Z",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "28864020670788674751",
+        "asin": "B0DJRC2WRS",
+        "isNotActive": false
+      },
+      {
+        "sku": "67762835364228201899",
+        "asin": "B0DJQYRVS9",
+        "isNotActive": false
+      },
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      },
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F255S364",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "14444053310336374819",
+        "asin": "B0DZXNS6LM",
+        "isNotActive": false
+      },
+      {
+        "sku": "74599968013643921960",
+        "asin": "B0DZXR3XZD",
+        "isNotActive": false
+      },
+      {
+        "sku": "32242345023357025715",
+        "asin": "B0DZXQGK76",
+        "isNotActive": false
+      },
+      {
+        "sku": "16661825059693052327",
+        "asin": "B0DZXNK447",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Isolierter Reisebecher mit niedlicher Eule, 1,2 l, Kaffeetasse, Geschenk für sie, Reisebecher, Schulanfang, Eulenliebhaber",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN274SXV",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "67762835364228201899",
+        "asin": "B0DJQYRVS9",
+        "isNotActive": false
+      },
+      {
+        "sku": "28864020670788674751",
+        "asin": "B0DJRC2WRS",
+        "isNotActive": false
+      },
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      },
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Handyhüllen für iPhone 15",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN233T66",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": false
+      },
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "Car Vinyl Decal",
+    "isProcessed": true
+  },
+  {
+    "sku": "M7-DGE8-0DD8",
+    "asin": "B0DN1X98G5",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "P0-QSLR-L3KP",
+        "asin": "B0DN211BBD",
+        "isNotActive": false
+      },
+      {
+        "sku": "WA-H82S-N576",
+        "asin": "B0DN1YG1TH",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN35GDYL",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": true
+      },
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "Autocollant en vinyle pour voiture",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN24172Q",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": false
+      },
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "Auto-Vinyl-Aufkleber",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXH5Z23",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F58BWPHV",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN3GKJH2",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30979367391677307111",
+        "asin": "B0DJR3QRMR",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "T-shirt unisexe en coton épais",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXH5Z23",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F255D9SP",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Tasse en céramique motif singe fantaisiste - Tasse à café colorée - Cadeau amusant pour enfants, décoration de cuisine ludique, verres sur le thème de la jungle",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN332G44",
+    "marketplaces": ["A13V1IB3VIYZZH"],
+    "sourceMarketplace": "A13V1IB3VIYZZH",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20950906538424039047",
+        "asin": "B0DJQXHYC1",
+        "isNotActive": true
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "The Giant Leap T-shirt unisexe en coton épais",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN26P7XQ",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30979367391677307111",
+        "asin": "B0DJR3QRMR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex-T-Shirt aus schwerer Baumwolle",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F25Z3V61",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXH5Z23",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Skurrile Affen-Keramiktasse, bunte Tier-Kaffeetasse, lustiges Geschenk für Kinder, verspielte Küchendekoration, Dschungel-Thema-Trinkgeschirr",
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "94292994261163396712",
+        "asin": "B0DZXP6S9C",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "22039449774746896506",
+        "asin": "B0DZXT2N2S",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productName": null,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN277YL7",
+    "marketplaces": ["A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1PA6795UKMFR9",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20950906538424039047",
+        "asin": "B0DJQXHYC1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "The Giant Leap Unisex-T-Shirt aus schwerer Baumwolle",
+    "isProcessed": true
+  },
+  {
+    "sku": "MA-G9XT-DUQU",
+    "asin": "B0FMFMGBYC",
+    "marketplaces": ["A1F83G8C2ARO7P", "A1PA6795UKMFR9"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "variants": [],
+    "score": 15,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BOTTLE",
+    "productName": "Wiederverwendbare Premium-Wasserflasche, BPA-frei, auslaufsicher, Sport-Design, 750 ml Fassungsvermögen, breite Öffnung, leicht, für Fitnessstudio, Wandern, Büro",
+    "isProcessed": true
+  }
+]

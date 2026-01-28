@@ -1,0 +1,372 @@
+[
+  {
+    "sku": "66fbbd0c92ead167af014c68",
+    "asin": "B0DJBRYTPZ",
+    "winnerSku": "66fbbd0c92ead167af014c68",
+    "isStandaloneProduct": false,
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "wrappers": [
+      {
+        "sku": "66fbbd0c92ead167af014c68",
+        "asin": "B0DJBRYTPZ",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "asin": "B0DJBRYTPZ",
+              "productType": "CELLULAR_PHONE_CASE",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE"],
+              "itemName": "Tough Love Phone Cases for iPhone15",
+              "createdDate": "2024-10-01T09:15:18.617Z",
+              "lastUpdatedDate": "2025-09-19T07:35:01.558Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/41r6vC02d+L.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "Categories",
+                "classificationId": "10304191"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Tough Love Phone Cases for iPhone15",
+              "manufacturer": "Printify",
+              "memorabilia": false,
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "wireless_display_on_website",
+              "websiteDisplayGroupName": "Wireless"
+            }
+          ],
+          "attributes": {
+            "pesticide_marking": [
+              {
+                "marking_type": "epa_establishment_number",
+                "registration_status": "fifra_not_considered_pesticide",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "variation_theme": [
+              {
+                "name": "SIZE/COLOR"
+              }
+            ],
+            "pattern": [
+              {
+                "language_tag": "en_US",
+                "value": "Checkered",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "skip_offer": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "compatible_phone_models": [
+              {
+                "language_tag": "en_US",
+                "value": "iPhone 15",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "manufacturer": [
+              {
+                "language_tag": "en_US",
+                "value": "Printify",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_boxes": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "en_US",
+                "value": "Compatible with iPhone 15 only",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "language_tag": "en_US",
+                "value": "2-piece design with impact resistance and shock dispersion",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "language_tag": "en_US",
+                "value": "Interior rubber liner for extra protection (appearance may vary across phone models)",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "language_tag": "en_US",
+                "value": "Supports wireless charging (not including MagSafe)",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "en_US",
+                "value": "Protect your phone in custom style with this tough phone case. This lightweight phone case is impact resistant thanks to its TPU lining and Polycarbonate shell. Meanwhile, the interior rubber liner adds an extra layer of protection to your phone for total peace of mind. Compatible with iPhone and Samsung smartphones. Check sizes for all available phone models.\n.: Materials: polycarbonate (shell), TPU (lining)\n.: Glossy finish",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "en_US",
+                "value": "GENERIC",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "special_feature": [
+              {
+                "language_tag": "en_US",
+                "value": "Wireless charging",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "en_US",
+                "value": "Tough Love Phone Cases for iPhone15",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "value": 27.35,
+                "currency": "USD",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "Tough Phone Case",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2024-10-01T09:15:18.613Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "number_of_items": [
+              {
+                "value": 1,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "compatible_devices": [
+              {
+                "language_tag": "en_US",
+                "value": "iPhone 15",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "material": [
+              {
+                "language_tag": "en_US",
+                "value": "Polycarbonate, TPU",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "form_factor": [
+              {
+                "value": "Basic Case",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "included_components": [
+              {
+                "value": "Phone Case",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0,
+                "lead_time_to_ship_max_days": 5
+              }
+            ],
+            "generic_keyword": [
+              {
+                "language_tag": "en_US",
+                "value": "Tough Phone Case",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "legacy-template-id",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "warranty_description": [
+              {
+                "language_tag": "en_US",
+                "value": "None",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "part_number": [
+              {
+                "value": "Unknown",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71xA6Q7wpGL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/710FNEAnL7L.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/81E6odLMoKL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71VfRyNADTL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "USD",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 18.23
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Tough Love Phone Cases for iPhone15",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "17413368743738459909",
+            "asin": "B0DJRC1NLR"
+          },
+          {
+            "sku": "26485797266076578247",
+            "asin": "B0DJR7D5DK"
+          }
+        ],
+        "score": 34,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "579"
+      },
+      {
+        "sku": null,
+        "asin": "B0DN23LBQM",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Tough Love Phone Cases for iPhone15",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "28864020670788674751",
+            "asin": "B0DJRC2WRS"
+          },
+          {
+            "sku": "17413368743738459909",
+            "asin": "B0DJRC1NLR"
+          },
+          {
+            "sku": "67762835364228201899",
+            "asin": "B0DJQYRVS9"
+          },
+          {
+            "sku": "26485797266076578247",
+            "asin": "B0DJR7D5DK"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "579"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  }
+]

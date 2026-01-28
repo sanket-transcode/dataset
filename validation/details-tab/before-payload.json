@@ -1,0 +1,300 @@
+{
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": true
+    }
+  ],
+  "average_size_measurement": {},
+  "inventory_measurement": {},
+  "merchant_sale_measurement": {},
+  "order_quantity_specification": {},
+  "condition_type": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "new_new"
+    }
+  ],
+  "part_number": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "107575-01"
+    }
+  ],
+  "product_benefit": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Protects hair from extreme heat damage, with fast drying and controlled styling to help increase smoothness by 75%, increase shine by up to 132%, and decrease frizz and flyaways by up to 61%.¹"
+    }
+  ],
+  "is_heat_sensitive": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": true
+    }
+  ],
+  "short_product_description": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "The original Dyson Supersonic™ hair dryer, simplified. Fast drying, no heat damage. One attachment."
+    }
+  ],
+  "wattage": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": 1600
+    }
+  ],
+  "unit_count": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": 1,
+      "type": {
+        "language_tag": "en_US",
+        "value": "count"
+      }
+    }
+  ],
+  "package_level": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "unit"
+    }
+  ],
+  "model_number": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "107575-01"
+    }
+  ],
+  "model_name": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Dyson Supersonic™ Origin hair dryer in Nickel and copper"
+    }
+  ],
+  "manufacturer": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Dyson"
+    }
+  ],
+  "unspsc_code": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "52141700"
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "quantity": 0
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "start_at": {},
+  "end_at": {},
+  "merchandising_rule": {},
+  "list_price": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "currency": "CAD",
+      "value": 499.99
+    }
+  ],
+  "merchant_shipping_group": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "temp-value"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Product Description"
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Simplified hair dryer. Includes 1 attachment."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Protects hair from extreme heat damage, with fast drying and controlled styling to help increase smoothness by 75%, increase shine by up to 132%, and decrease frizz and flyaways by up to 61%.¹"
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Fast drying. The small, powerful motor combined with Air Multiplier technology produces a high-pressure, high-velocity jet of controlled air for fast drying and precision styling."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Intelligent heat control. The Dyson Supersonic hair dryer measures air temperature over 40 times a second and regulates the heat. This prevents extreme heat damage, to help protect your hair's shine."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "The magnetic Styling concentrator attachment adjusts quickly and easily. Heat Shield technology keeps the surfaces of the attachment cool, even during close up styling."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Acoustically tuned. The powerful motor is tuned to produce one inaudible frequency."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Negative ions help reduce static in the hair."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Three precise airflow settings: High for fast drying and styling, Medium for regular drying, Low for gentle drying."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Four precise heat settings: 212°F for fast drying and styling, 176°F for regular drying, 140°F for gentle drying, 82°F constant cool to set your style."
+    },
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Instant control with 82°F cold shot to set your hair after styling."
+    }
+  ],
+  "lifestyle": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Premium Beauty"
+    }
+  ],
+  "color": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Nickel/Copper"
+    }
+  ],
+  "type": {
+    "language_tag": "en_US",
+    "value": "count"
+  },
+  "product_site_launch_date": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "2025-06-26T17:54:02.310Z"
+    }
+  ],
+  "specific_uses_for_product": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Start with clean, wet hair. Rough dry roots before styling. Section hair and use the Styling concentrator and a round brush to style one section at a time."
+    }
+  ],
+  "depth": {
+    "value": 10.16,
+    "unit": "centimeters"
+  },
+  "height": {
+    "value": 40.5,
+    "unit": "centimeters"
+  },
+  "width": {
+    "value": 14.2,
+    "unit": "centimeters"
+  },
+  "batteries_required": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": false
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": "not_applicable"
+    }
+  ],
+  "length": {
+    "value": 13.2,
+    "unit": "centimeters"
+  },
+  "item_package_weight": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "value": 1.69,
+      "unit": "kilograms"
+    }
+  ],
+  "item_name": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Product name"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "language_tag": "en_US",
+      "value": "Dyson"
+    }
+  ],
+  "item_depth_width_height": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "depth": {
+        "value": 10.16,
+        "unit": "centimeters"
+      },
+      "height": {
+        "value": 25.4,
+        "unit": "centimeters"
+      },
+      "width": {
+        "value": 7.62,
+        "unit": "centimeters"
+      }
+    }
+  ],
+  "item_package_dimensions": [
+    {
+      "marketplace_id": "A2EUQ1WTGCTBG2",
+      "length": {
+        "value": 13.2,
+        "unit": "centimeters"
+      },
+      "width": {
+        "value": 14.2,
+        "unit": "centimeters"
+      },
+      "height": {
+        "value": 40.5,
+        "unit": "centimeters"
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1344",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1
+        },
+        "userCurrency": {
+          "id": "677"
+        }
+      },
+      "attributes": {
+        "variation_theme": [
+          {
+            "name": "COLOR_NAME",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "language_tag": "en_US",
+            "value": "MIXFOSAHN Holiday Statues Figurines",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "statues",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2025-10-11T06:56:13.571Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "language_tag": "en_US",
+            "value": "MIXFOSAHN",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ]
+      },
+      "listingRelationships": [],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childAsins": [
+                "B0FP2VSM6H",
+                "B0FS7TR9ZQ",
+                "B0FP2TQSRF",
+                "B0FP2TV373",
+                "B0FS7VZLDF"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "PRODUCT",
+          "status": [],
+          "createdDate": "2025-11-03T06:21:29.700Z",
+          "lastUpdatedDate": "2025-11-03T06:22:13.896Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "MIXFOSAHN",
+          "browseClassification": {
+            "displayName": "Statues",
+            "classificationId": "3735201"
+          },
+          "itemClassification": "VARIATION_PARENT",
+          "itemName": "MIXFOSAHN Holiday Statues Figurines",
+          "memorabilia": false,
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "kitchen_display_on_website",
+          "websiteDisplayGroupName": "Kitchen"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/51HRXzZnYYL.jpg",
+              "height": 1178,
+              "width": 1415
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/31q8hUhL1SL.jpg",
+              "height": 416,
+              "width": 500
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/31q8hUhL1SL._SL75_.jpg",
+              "height": 62,
+              "width": 75
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/719XkP048YL.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/41FU8+Y87HL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/41FU8+Y87HL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/71OiuLxM-cL.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/41gjIOtLr+L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/41gjIOtLr+L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/61r5+6mOz8L.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/41WD0IUcL8L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/41WD0IUcL8L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/61CrNREy6HL.jpg",
+              "height": 1478,
+              "width": 1500
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/31uPv4JzfNL.jpg",
+              "height": 493,
+              "width": 500
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/31uPv4JzfNL._SL75_.jpg",
+              "height": 74,
+              "width": 75
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/716k0BkbuZL.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51KAN7k5GBL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51KAN7k5GBL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/71WVyPDG84L.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41VAyxtiC7L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41VAyxtiC7L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "8007",
+          "message": "We found some issues with your parent SKU [8852036985201452] that need to be fixed before you can work on any child SKUs. Please correct the product errors in your parent SKU first. For more details please check https://sellercentral.amazon.com/gp/help/202135320",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "8852036985201452"
+        }
+      ],
+      "productTypes": []
+    }
+  }
+]

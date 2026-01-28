@@ -1,0 +1,515 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1344",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1
+        },
+        "userCurrency": {
+          "id": "677"
+        }
+      },
+      "attributes": {
+        "variation_theme": [
+          {
+            "name": "COLOR_NAME/SIZE_NAME"
+          }
+        ],
+        "occasion_type": [
+          {
+            "value": "Women's Day",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Wedding And Engagement",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Mother's Day",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Father's Day",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Christmas",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "skip_offer": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "QLOFEI",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_shape": [
+          {
+            "value": "Round",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "🌷【UNIQUE SHAPE】The surface of the ceramic vase is unglazed frosted texture, the hollow center design and white color add a modern geometric beauty to your home decoration, the unique shape reflects the simple European and bohemian style, and can be integrated with any home decoration.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "🌷【VASE SIZE】You will receive a beautiful white ceramic vase, it is handmade, it matches your home decor perfectly, the vase size is 7.08''*6.7''*1.3'', the dimensions are all measured by hand, So there may be some small deviations.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "🌷【Applicable Scenes】This rustic ceramic frosted vase is suitable for living room, bedroom, dining table, bathroom, office, bookshelf, mantelpiece, etc. It's also a great gift for wedding housewarmings and holidays, adding some simplicity.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "🌷【Design Concept】This hollow ceramic flower vase is made with a bisque crafting The surface is unglazed matte texture，Although it comes in different sizes, it is essential for your interior decoration and can be matched with any dried flower pampas grass. It is not only a vase, but a piece artwork.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "🌷【Worry-free after sale】We provide 100% customer service to make sure you get the perfect home decoration vase, if you don't like it, please contact us, we will provide you with a satisfactory solution.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_quantity": [
+          {
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Looking for a decor piece to compliment your vanity, coffee table or dining table? Look no further! This is a gorgeous, stylish and heavy-weighted centerpiece. The minimalist design and soft, neutral color ensure that this Elegant decor accent will fit in seamlessly with your current interior design theme. It exudes a simplistic, carefree style and will help transform any room in and around your home. Add a touch of modern Art into any room around your apartment, house, dorm, or office. The Face Design Flower Vase is an excellent addition to a living room, kitchen, bedroom, mantle, desk, coffee table, and any other place you want to add a subtle, chic touch.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "QLOFEI",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "White Ceramic Vases - Round Ceramic Vases for Minimalist Home Decor, Decorative Matte Pampas Grass Modern Style for Wedding Dinner Table Living Room, Nordic Boho Design as Gift",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Vases",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2022-05-17T11:31:19.079Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "style": [
+          {
+            "value": "Country Rustic",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_length_width_height": [
+          {
+            "height": {
+              "unit": "inches",
+              "value": 10
+            },
+            "width": {
+              "unit": "inches",
+              "value": 10
+            },
+            "length": {
+              "unit": "inches",
+              "value": 15
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0
+          }
+        ],
+        "required_product_compliance_certificate": [
+          {
+            "value": "Not Applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "KM",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "number_of_items": [
+          {
+            "value": 1,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_suggested_asin": [
+          {
+            "value": "B0B1JDF6RM",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "purchasable_offer": [
+          {
+            "currency": "USD",
+            "audience": "ALL",
+            "our_price": [
+              {
+                "schedule": [
+                  {
+                    "value_with_tax": 0
+                  }
+                ]
+              }
+            ],
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "parent"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childSkus": [
+                "874521036-V1",
+                "874521036-V5",
+                "874521036-V13",
+                "874521036-V11",
+                "874521036-V3",
+                "874521036-V9",
+                "874521036-V10",
+                "874521036-V15",
+                "874521036-V12",
+                "874521036-V4",
+                "874521036-V2"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color", "size"],
+                "theme": "COLOR_NAME/SIZE_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "childAsins": [
+                "B09TTC52YC",
+                "B0B1JFK3J6",
+                "B0B1JB9L36",
+                "B09TTBZD33",
+                "B0B1JF52KX",
+                "B0B1JDM9C5",
+                "B0B1JCT25Z",
+                "B0B1JF6N2H",
+                "B09TTBQ1QV",
+                "B0B1JCDQ8W",
+                "B0B1JFKBKV",
+                "B0B1JDF6RM",
+                "B09TT9QYJK",
+                "B0B1JFS1XZ",
+                "B0B1JFNJ1V",
+                "B0B1JCYC3V"
+              ],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color", "size"],
+                "theme": "COLOR_NAME/SIZE_NAME"
+              }
+            }
+          ]
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "VASE",
+          "status": [],
+          "createdDate": "2025-11-03T07:31:43.102Z",
+          "lastUpdatedDate": "2025-11-03T09:12:30.970Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "QLOFEI",
+          "browseClassification": {
+            "displayName": "Vases",
+            "classificationId": "3745451"
+          },
+          "itemClassification": "VARIATION_PARENT",
+          "itemName": "White Ceramic Vases - Round Ceramic Vases for Minimalist Home Decor, Decorative Matte Pampas Grass Modern Style for Wedding Dinner Table Living Room, Nordic Boho Design as Gift",
+          "manufacturer": "QLOFEI",
+          "memorabilia": false,
+          "packageQuantity": 1,
+          "style": "Country Rustic",
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "home_display_on_website",
+          "websiteDisplayGroupName": "Home"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/61omqZ39gqL.jpg",
+              "height": 1445,
+              "width": 1077
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41QtG+S-K1L.jpg",
+              "height": 500,
+              "width": 373
+            },
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41QtG+S-K1L._SL75_.jpg",
+              "height": 75,
+              "width": 56
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/61RANGzN5hL.jpg",
+              "height": 1080,
+              "width": 1080
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51oIXKj4VTL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51oIXKj4VTL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/717N97dLHIL.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51KScpnCNQL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51KScpnCNQL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/714srBjyejL.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/51t2l81sbmL.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/51t2l81sbmL._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/61f5HVnZ+eL.jpg",
+              "height": 1500,
+              "width": 1288
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/41+WYeLiS5L.jpg",
+              "height": 500,
+              "width": 429
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/41+WYeLiS5L._SL75_.jpg",
+              "height": 75,
+              "width": 64
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/71tSLh5xEyL.jpg",
+              "height": 1500,
+              "width": 1500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41-yYh5Y+5L.jpg",
+              "height": 500,
+              "width": 500
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41-yYh5Y+5L._SL75_.jpg",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "13013",
+          "message": "Your SKU cannot be added because the product is not in the catalog or has been deleted. Check your product data, correct any errors, and resubmit with the original UPC/GTIN instead of a suggested ASIN. If you are listing a product in another marketplace, it may require few hours for the listing to be available. Please check your seller account for progress or any issues.",
+          "severity": "ERROR",
+          "categories": [],
+          "enforcements": {
+            "actions": [
+              {
+                "action": "LISTING_SUPPRESSED"
+              }
+            ],
+            "exemption": {
+              "status": "NOT_EXEMPT"
+            }
+          }
+        },
+        {
+          "code": "8007",
+          "message": "We found some issues with your parent SKU [874521036] that need to be fixed before you can work on any child SKUs. Please correct the product errors in your parent SKU first. For more details please check https://sellercentral.amazon.com/gp/help/202135320",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "874521036"
+        },
+        {
+          "code": "20015",
+          "message": "Your image file type isn't supported. Image must use HTTP protocol (not HTTPS, FTP, or \"file\"), and be in JPEG, TIFF, PNG, or non-animated GIF format (JPEG preferred). Use RGB or CMYK color (RGB preferred). Images should be clear, unpixelated, at least 72 dpi, and between 1,000 and 10,000 pixels on the longest side to enable zoom functionality.",
+          "severity": "ERROR",
+          "categories": ["INVALID_IMAGE", "INVALID_ATTRIBUTE"],
+          "sku": "874521036"
+        },
+        {
+          "code": "100550",
+          "message": "You need to connect your brand QLOFEI with your account to create new ASINs with this brand. Please navigate to https://sellercentral.amazon.com/manage-your-brands?brandName=QLOFEI to connect your brand and resubmit your listing to resolve the error.",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE"],
+          "sku": "874521036"
+        },
+        {
+          "code": "13043",
+          "message": "0.00 is not accepted as price (for standard price or sales price). Please ensure all prices are equal to or greater than 0.01.",
+          "severity": "ERROR",
+          "categories": ["INVALID_ATTRIBUTE", "INVALID_PRICE"],
+          "enforcements": {
+            "actions": [
+              {
+                "action": "LISTING_SUPPRESSED"
+              }
+            ],
+            "exemption": {
+              "status": "NOT_EXEMPT"
+            }
+          }
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "VASE"
+        }
+      ]
+    }
+  }
+]

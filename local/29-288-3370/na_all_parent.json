@@ -1,0 +1,2741 @@
+[
+  {
+    "sku": null,
+    "asin": "B0F58R74B1",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": false
+      },
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": false
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": false
+      },
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": false
+      },
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": false
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": false
+      },
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": false
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": false
+      },
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      },
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": false
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": false
+      },
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": false
+      },
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": false
+      },
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": false
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": false
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": false
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": false
+      },
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": false
+      },
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": false
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": false
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": false
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": false
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": false
+      },
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": false
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": false
+      },
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": false
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": false
+      },
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": false
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": false
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": false
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": false
+      },
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": false
+      },
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": false
+      },
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": false
+      },
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": false
+      },
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": false
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": false
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": false
+      },
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": false
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": false
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": false
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": false
+      },
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": false
+      },
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "67cead0132fb796da203ce18",
+    "asin": "B0DZXJ3PRT",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": false
+      },
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": false
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": false
+      },
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": false
+      },
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": false
+      },
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": false
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": false
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": false
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": false
+      },
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": false
+      },
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": false
+      },
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": false
+      },
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": false
+      },
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": false
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": false
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": false
+      },
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": false
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": false
+      },
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": false
+      },
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": false
+      },
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": false
+      },
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": false
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": false
+      },
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": false
+      },
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": false
+      },
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": false
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": false
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": false
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": false
+      },
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": false
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": false
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": false
+      },
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      },
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": false
+      },
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": false
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": false
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": false
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": false
+      },
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": false
+      },
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": false
+      },
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": false
+      },
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": false
+      },
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": false
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN24ST45",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25177364740690934737",
+        "asin": "B0DJC8KG1C",
+        "isNotActive": false
+      },
+      {
+        "sku": "16468744415217458502",
+        "asin": "B0DJC8NGPK",
+        "isNotActive": false
+      },
+      {
+        "sku": "99451503756354788199",
+        "asin": "B0DJCB42V3",
+        "isNotActive": false
+      },
+      {
+        "sku": "19388522960674321166",
+        "asin": "B0DJC84MNZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "19333170031854605557",
+        "asin": "B0DJC9HJFR",
+        "isNotActive": false
+      },
+      {
+        "sku": "83648586322348792963",
+        "asin": "B0DJC8H4YT",
+        "isNotActive": false
+      },
+      {
+        "sku": "69179694310442227567",
+        "asin": "B0DJC87S2L",
+        "isNotActive": false
+      },
+      {
+        "sku": "62079621522358053181",
+        "asin": "B0DJC85ZDC",
+        "isNotActive": false
+      },
+      {
+        "sku": "20940442817819554402",
+        "asin": "B0DJC8N2C9",
+        "isNotActive": false
+      },
+      {
+        "sku": "78261493858680421007",
+        "asin": "B0DJC8B932",
+        "isNotActive": false
+      },
+      {
+        "sku": "25995102369191911086",
+        "asin": "B0DJC8QGJ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "22599648081092112053",
+        "asin": "B0DJC96ZGM",
+        "isNotActive": false
+      },
+      {
+        "sku": "79665215069886379495",
+        "asin": "B0DJC99J2M",
+        "isNotActive": false
+      },
+      {
+        "sku": "30998485442649934631",
+        "asin": "B0DJC9Z74G",
+        "isNotActive": false
+      },
+      {
+        "sku": "86530328495791226114",
+        "asin": "B0DJC8NC5G",
+        "isNotActive": false
+      },
+      {
+        "sku": "61860379700742041582",
+        "asin": "B0DJC9BHRC",
+        "isNotActive": false
+      },
+      {
+        "sku": "16955872944899074503",
+        "asin": "B0DJC82JM8",
+        "isNotActive": false
+      },
+      {
+        "sku": "21168948484341913451",
+        "asin": "B0DJC8KND5",
+        "isNotActive": false
+      },
+      {
+        "sku": "13853933658176115455",
+        "asin": "B0DJC976MP",
+        "isNotActive": false
+      },
+      {
+        "sku": "25597953737895459336",
+        "asin": "B0DJC9SVLZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "92873890943974939295",
+        "asin": "B0DJC99YGR",
+        "isNotActive": false
+      },
+      {
+        "sku": "22342964600336344410",
+        "asin": "B0DJC96WMN",
+        "isNotActive": false
+      },
+      {
+        "sku": "11370874124342047010",
+        "asin": "B0DJC9BP56",
+        "isNotActive": false
+      },
+      {
+        "sku": "13842494438154148667",
+        "asin": "B0DJC986JC",
+        "isNotActive": false
+      },
+      {
+        "sku": "14971932535736024326",
+        "asin": "B0DJC6TB67",
+        "isNotActive": false
+      },
+      {
+        "sku": "27128204504863174973",
+        "asin": "B0DJC916X7",
+        "isNotActive": false
+      },
+      {
+        "sku": "19924501761712385481",
+        "asin": "B0DJC75QSM",
+        "isNotActive": false
+      },
+      {
+        "sku": "25209482530180584258",
+        "asin": "B0DJC76WQK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "68d24843576c0d2d8e0b0ce0",
+    "asin": "B0FS71ZCPT",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "25747656856860977137",
+        "asin": "B0FS71N5X5",
+        "isNotActive": false
+      },
+      {
+        "sku": "39966659054258193988",
+        "asin": "B0FS72QT58",
+        "isNotActive": false
+      },
+      {
+        "sku": "76853120834457364302",
+        "asin": "B0FS728PLG",
+        "isNotActive": false
+      },
+      {
+        "sku": "26332062757315414125",
+        "asin": "B0FS6WTZJB",
+        "isNotActive": false
+      },
+      {
+        "sku": "99471520249339163797",
+        "asin": "B0FS71BPWZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "24591406395137562223",
+        "asin": "B0FS725XHC",
+        "isNotActive": false
+      },
+      {
+        "sku": "42741322129000004924",
+        "asin": "B0FS72XJBB",
+        "isNotActive": false
+      },
+      {
+        "sku": "32546307359318603982",
+        "asin": "B0FS71TWRV",
+        "isNotActive": false
+      },
+      {
+        "sku": "16410027131999954160",
+        "asin": "B0FS731NBK",
+        "isNotActive": false
+      },
+      {
+        "sku": "10544520859559770735",
+        "asin": "B0FS6ZSQ1N",
+        "isNotActive": false
+      },
+      {
+        "sku": "26579877305424590073",
+        "asin": "B0FS71GX9Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "12807143591028729740",
+        "asin": "B0FS73RK5V",
+        "isNotActive": false
+      },
+      {
+        "sku": "25097994841815565102",
+        "asin": "B0FS717T2H",
+        "isNotActive": false
+      },
+      {
+        "sku": "30366969356370446492",
+        "asin": "B0FS6WQNVK",
+        "isNotActive": false
+      },
+      {
+        "sku": "12096201412803655612",
+        "asin": "B0FS71G98L",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN232FPB",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20274609654073601324",
+        "asin": "B0DJQXL6DC",
+        "isNotActive": false
+      },
+      {
+        "sku": "20189624940225035247",
+        "asin": "B0DJQYS14X",
+        "isNotActive": false
+      },
+      {
+        "sku": "21016692564692526584",
+        "asin": "B0DJQYFLCH",
+        "isNotActive": false
+      },
+      {
+        "sku": "23313714049244420750",
+        "asin": "B0DJQZYFB2",
+        "isNotActive": false
+      },
+      {
+        "sku": "20184699460263983544",
+        "asin": "B0DJQXHB6N",
+        "isNotActive": false
+      },
+      {
+        "sku": "18210270667532577864",
+        "asin": "B0DJQYDYQ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "26787049011141050616",
+        "asin": "B0DJQZFLSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "18838576561447351297",
+        "asin": "B0DJQYQQKG",
+        "isNotActive": false
+      },
+      {
+        "sku": "17321890570654532224",
+        "asin": "B0DJQYFVM3",
+        "isNotActive": false
+      },
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      },
+      {
+        "sku": "11584613081427148258",
+        "asin": "B0DJQYFYJT",
+        "isNotActive": false
+      },
+      {
+        "sku": "82290431363794330833",
+        "asin": "B0DJR14GXY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0FS7F6244",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "99471520249339163797",
+        "asin": "B0FS71BPWZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "10544520859559770735",
+        "asin": "B0FS6ZSQ1N",
+        "isNotActive": false
+      },
+      {
+        "sku": "12096201412803655612",
+        "asin": "B0FS71G98L",
+        "isNotActive": false
+      },
+      {
+        "sku": "26332062757315414125",
+        "asin": "B0FS6WTZJB",
+        "isNotActive": false
+      },
+      {
+        "sku": "25747656856860977137",
+        "asin": "B0FS71N5X5",
+        "isNotActive": false
+      },
+      {
+        "sku": "26579877305424590073",
+        "asin": "B0FS71GX9Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "16410027131999954160",
+        "asin": "B0FS731NBK",
+        "isNotActive": false
+      },
+      {
+        "sku": "30366969356370446492",
+        "asin": "B0FS6WQNVK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0FS7FR69T",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25265057986674927056",
+        "asin": "B0FS715ZDH",
+        "isNotActive": false
+      },
+      {
+        "sku": "11282025598934436185",
+        "asin": "B0FS6XXC6B",
+        "isNotActive": false
+      },
+      {
+        "sku": "16882243971564917605",
+        "asin": "B0FS71C31J",
+        "isNotActive": false
+      },
+      {
+        "sku": "11564966521275931191",
+        "asin": "B0FS72CV1H",
+        "isNotActive": false
+      },
+      {
+        "sku": "17639620771608013832",
+        "asin": "B0FS75Y82W",
+        "isNotActive": false
+      },
+      {
+        "sku": "59577357725225979542",
+        "asin": "B0FS6YGPQY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "68d246221863513a9c09d2d6",
+    "asin": "B0FS6X4CVW",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16882243971564917605",
+        "asin": "B0FS71C31J",
+        "isNotActive": false
+      },
+      {
+        "sku": "11282025598934436185",
+        "asin": "B0FS6XXC6B",
+        "isNotActive": false
+      },
+      {
+        "sku": "11564966521275931191",
+        "asin": "B0FS72CV1H",
+        "isNotActive": false
+      },
+      {
+        "sku": "17639620771608013832",
+        "asin": "B0FS75Y82W",
+        "isNotActive": false
+      },
+      {
+        "sku": "25265057986674927056",
+        "asin": "B0FS715ZDH",
+        "isNotActive": false
+      },
+      {
+        "sku": "59577357725225979542",
+        "asin": "B0FS6YGPQY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN23LBQM",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "28864020670788674751",
+        "asin": "B0DJRC2WRS",
+        "isNotActive": false
+      },
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      },
+      {
+        "sku": "67762835364228201899",
+        "asin": "B0DJQYRVS9",
+        "isNotActive": false
+      },
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "B0-8YOH-L1HX",
+    "asin": "B0DN24P37J",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": false
+      },
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "VEHICLE_WRAP",
+    "productName": "car Vinil decal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "67cea95dcebc58e9ee0871a9",
+    "asin": "B0F585Q26L",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      },
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "67cea95dcebc58e9ee0871a9",
+    "asin": "B0DZXHZ9RX",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      },
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fbbd0c92ead167af014c68",
+    "asin": "B0DJBRYTPZ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "28864020670788674751",
+        "asin": "B0DJRC2WRS",
+        "isNotActive": false
+      },
+      {
+        "sku": "67762835364228201899",
+        "asin": "B0DJQYRVS9",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fbb74763321bc65908b63d",
+    "asin": "B0DJBQG2HJ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": false
+      },
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "car Vinil Decal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30979367391677307111",
+        "asin": "B0FR5CRBCF",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "Unisex Heavy Cotton Tee, Black, 5X-Large",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "6S-HK5J-OSOU",
+    "asin": "B0FL7G8HXC",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78030572374848186482",
+        "asin": "B0DJCB3SJ7",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "C1-AER7-EAN1",
+    "asin": "B0DN24ST45",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20005483504707723209",
+        "asin": "B0DJCB1LGZ",
+        "isNotActive": false
+      }
+    ],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fc183eeff5272f490c2278",
+    "asin": "B0DN24ST45",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86116983703179682472",
+        "asin": "B0DJC7VLSY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN24YLFZ",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20950906538424039047",
+        "asin": "B0DJQXHYC1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "The Giant Leap Unisex Heavy Cotton Tee",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F9WQ8LT9",
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "allMarketplaces": ["A1AM78C64UM0Y8"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Camiseta unisex de peso medio, fabricada en EE. UU",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "66fbb09992ead167af0148a3",
+        "asin": "B0DJBNCW5H",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Midweight T-shirt, Made in US",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20274609654073601324",
+        "asin": "B0DJQXL6DC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us White",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "82290431363794330833",
+        "asin": "B0DJR14GXY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us White",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11584613081427148258",
+        "asin": "B0DJQYFYJT",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us White",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20189624940225035247",
+        "asin": "B0DJQYS14X",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us Charcoal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "21016692564692526584",
+        "asin": "B0DJQYFLCH",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us Charcoal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "23313714049244420750",
+        "asin": "B0DJQZYFB2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us White",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20184699460263983544",
+        "asin": "B0DJQXHB6N",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us Charcoal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "67cec2c032fb796da203d29f",
+        "asin": "B0DZXMVRN1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "18210270667532577864",
+        "asin": "B0DJQYDYQ5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us White",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "26787049011141050616",
+        "asin": "B0DJQZFLSC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us Charcoal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "18838576561447351297",
+        "asin": "B0DJQYQQKG",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us White",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "17321890570654532224",
+        "asin": "B0DJQYFVM3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us Charcoal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic Biking Unisex Midweight T Shirt, Made In Us Charcoal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Tough Love Phone Cases For Iphone15",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Tough Love Phone Cases For Iphone15",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30979367391677307111",
+        "asin": "B0FR5CRBCF",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86116983703179682472",
+        "asin": "B0DJC7VLSY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78030572374848186482",
+        "asin": "B0DJCB3SJ7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20005483504707723209",
+        "asin": "B0DJCB1LGZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16468744415217458502",
+        "asin": "B0DJC8NGPK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "22039449774746896506",
+        "asin": "B0DZXT2N2S",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "94292994261163396712",
+        "asin": "B0DZXP6S9C",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "fsdfdsghjjjjjjjjgh current",
+        "asin": "B0F28Y4QT2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Essential current",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "123123",
+        "asin": "B0F1FG4WQ4",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "MOBILE_APPLICATION",
+    "productName": "123123",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "16661825059693052327",
+        "asin": "B0DZXNK447",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "74599968013643921960",
+        "asin": "B0DZXR3XZD",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "32242345023357025715",
+        "asin": "B0DZXQGK76",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "14444053310336374819",
+        "asin": "B0DZXNS6LM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "99451503756354788199",
+        "asin": "B0DJCB42V3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86530328495791226114",
+        "asin": "B0DJC8NC5G",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30998485442649934631",
+        "asin": "B0DJC9Z74G",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "21168948484341913451",
+        "asin": "B0DJC8KND5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25995102369191911086",
+        "asin": "B0DJC8QGJ5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22342964600336344410",
+        "asin": "B0DJC96WMN",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22599648081092112053",
+        "asin": "B0DJC96ZGM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "61860379700742041582",
+        "asin": "B0DJC9BHRC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "13842494438154148667",
+        "asin": "B0DJC986JC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16955872944899074503",
+        "asin": "B0DJC82JM8",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11370874124342047010",
+        "asin": "B0DJC9BP56",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "13853933658176115455",
+        "asin": "B0DJC976MP",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25597953737895459336",
+        "asin": "B0DJC9SVLZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "79665215069886379495",
+        "asin": "B0DJC99J2M",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "19333170031854605557",
+        "asin": "B0DJC9HJFR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "62079621522358053181",
+        "asin": "B0DJC85ZDC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25177364740690934737",
+        "asin": "B0DJC8KG1C",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "83648586322348792963",
+        "asin": "B0DJC8H4YT",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "27128204504863174973",
+        "asin": "B0DJC916X7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "69179694310442227567",
+        "asin": "B0DJC87S2L",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20940442817819554402",
+        "asin": "B0DJC8N2C9",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "19924501761712385481",
+        "asin": "B0DJC75QSM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78261493858680421007",
+        "asin": "B0DJC8B932",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "92873890943974939295",
+        "asin": "B0DJC99YGR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "19388522960674321166",
+        "asin": "B0DJC84MNZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25209482530180584258",
+        "asin": "B0DJC76WQK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases Matte",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14971932535736024326",
+        "asin": "B0DJC6TB67",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20950906538424039047",
+        "asin": "B0DJQXHYC1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Generic The Giant Leap Unisex Heavy Cotton Tee Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "4C-SWI8-MG3Y",
+    "asin": "B0FMFM9592",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATER",
+    "productName": "Classic Cotton T-Shirt, Short Sleeve Crew Neck, Breathable Lightweight Casual Wear, Machine Washable, Relaxed Fit",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "MA-G9XT-DUQU",
+    "asin": "B0FMFMGBYC",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "allMarketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "sourceMarketplace": "A2EUQ1WTGCTBG2",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BOTTLE",
+    "productName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "PG-LTKX-94L9",
+    "asin": "B0DSJNCPJL",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "My Super Shirt Beige",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "2J-BYFP-C4KH",
+    "asin": "B0DT9KW4F8",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHOES",
+    "productName": "White Snickers Without Any Stripes or Model",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "sku-t-shirt-b-1",
+    "asin": "B0DRD931QR",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "T-Shirt-b Blue",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "JX-8ODT-WYWA",
+    "asin": "B0DT6PYS6Z",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "Car Vinyl Decal Yellow",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "shirt",
+    "asin": "B0DT6SZ744",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee Duplic Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "4V-TQBK-5JI3",
+    "asin": "B0DT6SZ744",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee Duplic Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "B0-8YOH-L1ED",
+    "asin": "B0F2SYK7XG",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DOWNLOADABLE_TV_SERIES",
+    "productName": "dunia",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "SKU-Cowboy-cap-with-images",
+    "asin": "B0DSHVWHXL",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "MOBILE_APPLICATION",
+    "productName": "Cowboy Cap",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "glue-gun-final-try-inport-sku",
+    "asin": "B087418ZDN",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HOT_GLUE_GUN",
+    "productName": "Hot Glue Gun",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fc183eeff5272f490c2278",
+    "asin": "B0DJC7VWJ7",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "allMarketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "variationTheme": "SIZE/COLOR",
+    "variants": [],
+    "score": 0,
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": true,
+    "isProcessed": true
+  }
+]
