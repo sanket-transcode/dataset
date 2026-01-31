@@ -1,0 +1,655 @@
+{
+  "channelId": "695",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-01-31T07:53:24.228Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 254,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 49
+  },
+  "productTracker": {
+    "123123": {
+      "hasErrors": false,
+      "productId": "13660",
+      "productName": "123123",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "5524103": {
+      "hasErrors": false,
+      "productId": "13633",
+      "productName": "Resident Evil Requiem Deluxe Edition + Steelbook - PlayStation 5",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7896521": {
+      "hasErrors": false,
+      "productId": "13630",
+      "productName": "Citizen Men's Eco-Drive Weekender Avion Field Watch in Stainless Steel with Khaki Nylon Strap, Black Dial (Model: BM7550-01E)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "glue-gun-final-try-inport-sku": {
+      "hasErrors": false,
+      "productId": "13617",
+      "productName": "Gorilla Hot Glue Gun (Pack of 1) - Dual Temp Full Size Hot Glue Gun with Precision Nozzle, Easy Squeeze Trigger, and Enhanced Safety Features for DIY, Craft, Repairs, and More",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SKU-Cowboy-cap-with-images": {
+      "hasErrors": false,
+      "productId": "13618",
+      "productName": "Cowboy Cap",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "B0-8YOH-L1ED": {
+      "hasErrors": false,
+      "productId": "13619",
+      "productName": "dunia",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4V-TQBK-5JI3": {
+      "hasErrors": false,
+      "productId": "13620",
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "JX-8ODT-WYWA": {
+      "hasErrors": false,
+      "productId": "13621",
+      "productName": "Car Vinyl Decal Yellow",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "sku-t-shirt-b-1": {
+      "hasErrors": false,
+      "productId": "13622",
+      "productName": "T-Shirt-b Blue",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2J-BYFP-C4KH": {
+      "hasErrors": false,
+      "productId": "13623",
+      "productName": "White Snickers Without Any Stripes or Model",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RB-ECO-001": {
+      "hasErrors": false,
+      "productId": "13624",
+      "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GLS-01": {
+      "hasErrors": false,
+      "productId": "13625",
+      "productName": "Classic Unisex Sunglasses - UV400 Protection",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CLIP-CL-01": {
+      "hasErrors": false,
+      "productId": "13626",
+      "productName": "Elegant Hair Clip for Women - Secure Hold Fashion Accessory",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt": {
+      "hasErrors": false,
+      "productId": "13627",
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SW-HB-001": {
+      "hasErrors": false,
+      "productId": "13628",
+      "productName": "Professional Hair Brush for All Hair Types",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EA-AS-01": {
+      "hasErrors": false,
+      "productId": "13629",
+      "productName": "Aretes colgantes tradicionales hechos a mano para mujeres",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99652036985": {
+      "hasErrors": false,
+      "productId": "13631",
+      "productName": "Hlukana Vintage Hobnail Drinking Glasses Set of 8, 12 oz Highball Glasses & 10 oz Cocktail Glasses Set, Kitchen Water Glasses Cup, Bar Tumbler Glassware Set for Beer, Juice, Cocktail, Whiskey, Milk",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "donut-pan": {
+      "hasErrors": false,
+      "productId": "13632",
+      "productName": "GEEOOLLAH Nonstick Donut Pan Set – 2-Piece Bakeware with 6-Cavity Mini and 12-Cavity Standard Molds, Durable Carbon Steel, Scratch-Resistant, Even Heating",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "electirc-toy-scooter": {
+      "hasErrors": false,
+      "productId": "13634",
+      "productName": "G2 Electric Kick Scooter",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "lunch-box": {
+      "hasErrors": false,
+      "productId": "13635",
+      "productName": "Insulated Lunch Box for Kids and Adults",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "nail-extension": {
+      "hasErrors": false,
+      "productId": "13636",
+      "productName": "Kit profesional de extensión de uñas",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": "13637",
+      "productName": "Premium Reusable Water Bottle, BPA-Free",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4C-SWI8-MG3Y": {
+      "hasErrors": false,
+      "productId": "13638",
+      "productName": "Classic Cotton T-Shirt, Short Sleeve Crew Neck, Breathable Lightweight Casual Wear, Machine Washable",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": false,
+      "productId": "13639",
+      "productName": "Dangle Golden Earrings for Classic Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": "13640",
+      "productName": "Snail Free Mucin Serum,Bean Essence 50,000ppm Korean skin care,Facial Glow Moisturizer for Glass skin– Hydrating Boost,Unscented Soothing Moisturizer– Strengthens Skin Barrier – 1.01 fl.oz",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PG-LTKX-94L9": {
+      "hasErrors": false,
+      "productId": "13641",
+      "productName": "My Super Shirt Beige Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "brown-hoodie-for-men": {
+      "hasErrors": false,
+      "productId": "13642",
+      "productName": "Men's Brown Fleece Pullover Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": "13643",
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit-2": {
+      "hasErrors": false,
+      "productId": "13644",
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "skin-serum": {
+      "hasErrors": false,
+      "productId": "13645",
+      "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "party suit": {
+      "hasErrors": false,
+      "productId": "13646",
+      "productName": "2 piece party suit",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Premium White Eraser": {
+      "hasErrors": false,
+      "productId": "13647",
+      "productName": "Premium White Eraser for Pencils and Markers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": "13648",
+      "productName": "Highlighter Marker Pen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "dark-chocolate": {
+      "hasErrors": false,
+      "productId": "13649",
+      "productName": "Barra de Chocolate Negro Premium",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Ice-Cream-Maker": {
+      "hasErrors": false,
+      "productId": "13650",
+      "productName": "Máquina de helados eléctrica de primera calidad",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "watch": {
+      "hasErrors": false,
+      "productId": "13651",
+      "productName": "Men's Luxury Automatic Watch - Stainless Steel",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Eyelashes": {
+      "hasErrors": false,
+      "productId": "13652",
+      "productName": "Pestañas Postizas Premium - Aspecto Natural",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "1234567890123456789012345678901234567890": {
+      "hasErrors": false,
+      "productId": "13653",
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mojito-glass": {
+      "hasErrors": false,
+      "productId": "13654",
+      "productName": "Vasos de mojito con hojas Melbify - Juego de 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "wooden-bench": {
+      "hasErrors": false,
+      "productId": "13655",
+      "productName": "Artissance Handmade Wooden Entryway Bench, Vintage Noodle Bench for Living Room, Bedroom, or Entryway, End of Bed Bench, Weathered Natural Wood Bench Indoor Farmhouse Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14444053310336374819": {
+      "hasErrors": false,
+      "productId": "13656",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32242345023357025715": {
+      "hasErrors": false,
+      "productId": "13657",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "74599968013643921960": {
+      "hasErrors": false,
+      "productId": "13658",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16661825059693052327": {
+      "hasErrors": false,
+      "productId": "13659",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "fsdfdsghjjjjjjjjgh current": {
+      "hasErrors": false,
+      "productId": "13661",
+      "productName": "Essential current",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "94292994261163396712": {
+      "hasErrors": false,
+      "productId": "13662",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22039449774746896506": {
+      "hasErrors": false,
+      "productId": "13663",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67cec2c032fb796da203d29f": {
+      "hasErrors": false,
+      "productId": "13664",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "66fbb09992ead167af0148a3": {
+      "hasErrors": false,
+      "productId": "13665",
+      "productName": "Biking Unisex Midweight T-shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}
