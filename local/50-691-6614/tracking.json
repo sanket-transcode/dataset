@@ -1,0 +1,54 @@
+{
+  "missingProducts": [
+    {
+      "marketplaceId": "ATVPDKIKX0DER",
+      "skus": [
+        {
+          "sku": "874521036",
+          "asin": "B0B1JC6Y1G"
+        },
+        {
+          "sku": "2105236520",
+          "asin": "B0G5N4CMJX"
+        },
+        {
+          "sku": "mini-claw-clips",
+          "asin": "B0GKC7ZNZR"
+        },
+        {
+          "sku": "ABCD",
+          "asin": "B0DZXJ3PRT"
+        },
+        {
+          "sku": "MR-WH-97",
+          "asin": "B0DT6Q2R57"
+        },
+        {
+          "sku": "7895203685985203",
+          "asin": "B0FHVRJ1MD"
+        },
+        {
+          "sku": "PT-TY-01",
+          "asin": "B0BLBHH55H"
+        },
+        {
+          "sku": "8852036985201452",
+          "asin": "B0FVSFNJJM"
+        }
+      ]
+    },
+    {
+      "marketplaceId": "A2EUQ1WTGCTBG2",
+      "skus": [
+        {
+          "sku": "69520145236",
+          "asin": "B0FMQK864B"
+        },
+        {
+          "sku": "68d24843576c0d2d8e0b0ce0",
+          "asin": "B0FS7F6244"
+        }
+      ]
+    }
+  ]
+}

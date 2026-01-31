@@ -1,0 +1,29 @@
+{
+  "externalProducts": {
+    "ATVPDKIKX0DER": {
+      "total": 6,
+      "products": [
+        { "sku": "disney-necklace", "asin": "B09XC9S9Y2" },
+        { "sku": "shirt for women", "asin": "B0G2S4NXCV" },
+        { "sku": "MR-WH-97-V1", "asin": "B0B527J8WC" },
+        { "sku": "MR-WH-97-V2", "asin": "B0D3FD7WW6" },
+        { "sku": "25688997547984720320", "asin": "B0DJQY7S3B" },
+        { "sku": "10284470610055147746", "asin": "B0DJQX5HQ1" }
+      ]
+    }
+  },
+  "importedProducts": {
+    "ATVPDKIKX0DER": {
+      "total": 6,
+      "products": [
+        { "sku": "disney-necklace", "asin": "B09XC9S9Y2" },
+        { "sku": "shirt for women", "asin": "B0G2S4NXCV" },
+        { "sku": "MR-WH-97-V1", "asin": "B0B527J8WC" },
+        { "sku": "MR-WH-97-V2", "asin": "B0D3FD7WW6" },
+        { "sku": "25688997547984720320", "asin": "B0DJQY7S3B" },
+        { "sku": "10284470610055147746", "asin": "B0DJQX5HQ1" }
+      ]
+    }
+  },
+  "notImportedProducts": { "ATVPDKIKX0DER": { "total": 0, "products": [] } }
+}

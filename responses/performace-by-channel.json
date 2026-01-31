@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "channelId": 630,
+      "amazonMarketplaceId": 2,
+      "languageCode": "en_US",
+      "salesData": {
+        "sales": [
+          {
+            "date": "2025-12-01",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-02",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-03",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-04",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-05",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-06",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-07",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-08",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-09",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-10",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-11",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-12",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-13",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-14",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-15",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-16",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-17",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-18",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-19",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-20",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-21",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-22",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-23",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-24",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-25",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-26",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-27",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-28",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-29",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-30",
+            "orderCount": 0,
+            "totalRevenue": 0
+          },
+          {
+            "date": "2025-12-31",
+            "orderCount": 0,
+            "totalRevenue": 0
+          }
+        ],
+        "orderCount": 0,
+        "totalRevenue": 0
+      },
+      "marketplaceData": {
+        "id": 10655,
+        "productChannelId": "12911",
+        "amazonChannelMarketplaceId": "1608",
+        "categoryId": "55897",
+        "shippingTemplateId": "273",
+        "status": true,
+        "isNewOnAmazon": false,
+        "asin": "B0DQTF9X1Y",
+        "conditionType": "new_new",
+        "searchedProduct": null,
+        "listingErrors": [],
+        "externalErrors": [
+          {
+            "code": "18299",
+            "message": "You need approval to list this product.",
+            "severity": "ERROR",
+            "categories": ["QUALIFICATION_REQUIRED"],
+            "enforcements": {
+              "actions": [
+                {
+                  "action": "LISTING_SUPPRESSED"
+                }
+              ],
+              "exemption": {
+                "status": "NOT_EXEMPT"
+              }
+            }
+          },
+          {
+            "code": "18570",
+            "message": "You need approval to list in this brand.",
+            "severity": "ERROR",
+            "categories": ["QUALIFICATION_REQUIRED"],
+            "enforcements": {
+              "actions": [
+                {
+                  "action": "LISTING_SUPPRESSED"
+                }
+              ],
+              "exemption": {
+                "status": "NOT_EXEMPT"
+              }
+            }
+          },
+          {
+            "sku": "donut-pan",
+            "code": "20015",
+            "message": "Your image file type isn't supported. Image must use HTTP or HTTPS protocol (not FTP or \"file\"), and be in JPEG, TIFF, PNG, or non-animated GIF format (JPEG preferred). Use RGB or CMYK color (RGB preferred). Images should be clear, unpixelated, at least 72 dpi, and between 1,000 and 10,000 pixels on the longest side to enable zoom functionality.",
+            "severity": "ERROR",
+            "categories": ["INVALID_IMAGE", "INVALID_ATTRIBUTE"]
+          }
+        ],
+        "amazonEnforcementActions": [],
+        "externalStatus": ["DISCOVERABLE"],
+        "isDataUpdatedOnAmazon": false,
+        "isDataSynced": true,
+        "hasError": false,
+        "syncStatus": "ERROR",
+        "isLoading": false,
+        "amazonStock": 0,
+        "productCreationDateOnAmazon": "2025-11-17T06:33:48.209Z",
+        "updatingMarketplaceData": false,
+        "startTime": null,
+        "syncInProgress": false,
+        "manual": null,
+        "isFba": false,
+        "createdBy": "286",
+        "updatedBy": "286",
+        "createdAt": "2026-01-09T12:22:45.734Z",
+        "updatedAt": "2026-01-15T12:21:18.815Z",
+        "schemaFetchError": null,
+        "amazonChannelMarketplace": {
+          "id": "1608",
+          "amazonChannelId": "398",
+          "amazonMarketplaceId": "2",
+          "language": "en_US",
+          "amazonMarketplace": {
+            "id": 2,
+            "marketplaceId": "ATVPDKIKX0DER"
+          }
+        }
+      },
+      "buyBoxDetails": {
+        "status": "NOT_COMPETITIVE",
+        "lastChecked": "2026-01-27T10:15:50.294Z",
+        "offerCount": 1,
+        "fulfillment": {
+          "type": "FBA",
+          "isPrime": true
+        },
+        "shippingSpeed": "Same Day",
+        "pricing": {
+          "yourLanded": {
+            "amount": 0,
+            "currency": ""
+          },
+          "lowestLanded": {
+            "amount": 14.99,
+            "currency": "USD"
+          },
+          "gapVsLowest": {
+            "amount": 0,
+            "currency": ""
+          },
+          "isEligible": true
+        },
+        "owner": "COMPETITOR",
+        "suggestions": [
+          "Reduce price (or landed cost)",
+          "enable Prime/FBA or improve MFN speed",
+          "tighten handling time"
+        ],
+        "competitors": [
+          {
+            "sellerId": "A3FFCNYLOC1PFQ",
+            "owner": "COMPETITOR",
+            "offers": [
+              {
+                "fulfillment": {
+                  "type": "FBA",
+                  "isPrime": true
+                },
+                "pricing": {
+                  "landedPrice": {
+                    "amount": 14.99,
+                    "currency": "USD"
+                  },
+                  "listingPrice": {
+                    "amount": 14.99,
+                    "currency": "USD"
+                  },
+                  "shipping": {
+                    "amount": 0,
+                    "currency": "USD"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "dateRange": {
+    "startDate": "2025-11-30",
+    "endDate": "2025-12-31"
+  }
+}

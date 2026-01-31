@@ -1,0 +1,44 @@
+{
+  "channelId": "691",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-01-30T06:22:59.367Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 215,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 2
+  },
+  "productTracker": {
+    "men's-shirt": {
+      "hasErrors": false,
+      "productId": "13454",
+      "productName": "Men's Premium Cotton Crew Neck T-Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7859632058741": {
+      "hasErrors": false,
+      "productId": "13455",
+      "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}
