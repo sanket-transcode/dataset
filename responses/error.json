@@ -1,0 +1,7 @@
+{
+  "error": "Failed to localize product information due to the following error: Client has encountered a connection error and is not queryable",
+  "stack": "{\n  \"name\": \"SequelizeDatabaseError\",\n  \"parent\": {\n    \"sql\": \"ROLLBACK;\"\n  },\n  \"original\": {\n    \"sql\": \"ROLLBACK;\"\n  },\n  \"sql\": \"ROLLBACK;\",\n  \"parameters\": {}\n}",
+  "timestamp": "2026-02-05T14:21:12.220Z",
+  "currentQueue": "sync-amazon-translation",
+  "showableError": "Client has encountered a connection error and is not queryable"
+}
