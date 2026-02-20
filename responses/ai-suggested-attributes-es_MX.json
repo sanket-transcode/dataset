@@ -1,0 +1,376 @@
+{
+  "status": "success",
+  "data": {
+    "count": 33,
+    "data": [
+      {
+        "id": 5865,
+        "attributeId": 558981,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Libras"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5867,
+        "attributeId": 558954,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Centímetros"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5869,
+        "attributeId": 558892,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [120],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5871,
+        "attributeId": 558900,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [1],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5873,
+        "attributeId": 558957,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Samoa Americana"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5875,
+        "attributeId": 558904,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [1],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5877,
+        "attributeId": 558895,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Pistola de pegamento caliente de tamaño completo"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5879,
+        "attributeId": 558929,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["USD"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5881,
+        "attributeId": 558980,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [0.7],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5883,
+        "attributeId": 558882,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [1],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5885,
+        "attributeId": 558910,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["DEFAULT"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5887,
+        "attributeId": 558889,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Cable eléctrico"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5889,
+        "attributeId": 558896,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [1],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5891,
+        "attributeId": 558905,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Pulgadas"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5893,
+        "attributeId": 558983,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [
+          "En el producto \"Combinación: cáncer reproductivo\""
+        ],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5895,
+        "attributeId": 558955,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [0.322],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5897,
+        "attributeId": 558950,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Centímetros"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5899,
+        "attributeId": 558902,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [1],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5901,
+        "attributeId": 558951,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [19.9898],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5903,
+        "attributeId": 558930,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [16.99],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5905,
+        "attributeId": 558891,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Vatios"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5907,
+        "attributeId": 558949,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [6.2992],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5909,
+        "attributeId": 558953,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [24.9936],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5911,
+        "attributeId": 558903,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Pulgadas"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5913,
+        "attributeId": 558915,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Vender en Amazon"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5915,
+        "attributeId": 558952,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Centímetros"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5917,
+        "attributeId": 558897,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Conteo"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5919,
+        "attributeId": 558870,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Unidad"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5921,
+        "attributeId": 558887,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Rectangular"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5923,
+        "attributeId": 558956,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Kilogramos"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5925,
+        "attributeId": 558988,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [
+          "Producto no capaz de emitir energía de radiofrecuencia"
+        ],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5927,
+        "attributeId": 558901,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": ["Pulgadas"],
+        "metadata": {},
+        "reviewed": false
+      },
+      {
+        "id": 5929,
+        "attributeId": 558883,
+        "channelId": null,
+        "languageCode": "es_MX",
+        "productId": "13731",
+        "variantId": null,
+        "suggestedValue": [1],
+        "metadata": {},
+        "reviewed": false
+      }
+    ]
+  },
+  "message": "Operation completed successfully."
+}

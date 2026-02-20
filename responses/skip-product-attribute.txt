@@ -1,0 +1,226 @@
+*** Prompt
+changes into upsertProductAttributes, if skipIdenticalValues then implement a system where we have 2 levels of checking identical values you can reference from the function setProductAttributesInheritance (which has values matching system), you will do a thing into insertion only, skip insertion in below case
+
+current record channel id is null + language is not base language then match values with record from DB which has channel id null and base language, current attribute id match, variant id is identical, 2nd case is when channel id is present then match with the same values just channel id is null
+
+what about this case: if all scopes have same value, then only base langauge with channel id null record will be there, then how the end level with channel id record will match because 2nd level records will also be skipped
+
+*** Function
+
+async upsertProductAttributes({
+    productAttributeRecords,
+    isForceUpdateMaster = false,
+    shouldNotOverride = false,
+    skipEmptyValues = false,
+    skipIdenticalValues = false,
+    baseLanguageCode,
+    transaction,
+}: LinkBulkProductAttributes) {
+    const fields = this.getProductAttributeFields();
+    const filteredRecords = skipEmptyValues
+        ? filterOutEmptyValueRecords<Partial<ProductAttribute>>(
+                productAttributeRecords,
+                Object.values(PRODUCT_ATTRIBUTE_VALUE_TYPES),
+          )
+        : productAttributeRecords;
+
+    if (!filteredRecords.length) return;
+
+    let recordsToInsert = filteredRecords;
+
+    // ✅ NEW: Skip identical values if flag is set
+    if (skipIdenticalValues && baseLanguageCode) {
+        // Fetch existing records from DB for comparison
+        const productAttributeGroupIds = Array.from(
+            new Set(filteredRecords.map((r) => r.productAttributeGroupId).filter(Boolean))
+        );
+        
+        const attributeIds = Array.from(
+            new Set(filteredRecords.map((r) => r.attributeId).filter(Boolean))
+        );
+
+        const existingRecords: ProductAttribute[] = await this._productAttributeService.findAll(
+            { user: { accountId: filteredRecords[0]?.productAttributeGroupId ? undefined : 0 } } as any,
+            {
+                productAttributeGroupId: { [Op.in]: productAttributeGroupIds },
+                attributeId: { [Op.in]: attributeIds },
+            },
+            undefined,
+            [
+                'id',
+                'productAttributeGroupId',
+                'attributeId',
+                'languageCode',
+                'channelId',
+                'variantId',
+                'valueVarchar',
+                'valueText',
+                'valueInt',
+                'valueArray',
+                'valueDecimal',
+                'valueBoolean',
+                'valueDate',
+                'valueDateAndTime',
+                'valueTime',
+                'valueDecimal2',
+                'unitOfMeasure',
+                'aiValue',
+            ],
+            undefined,
+            undefined,
+            undefined,
+            transaction,
+        );
+
+        // Create a lookup map for fast access: key = "groupId-attrId-variantId-channelId-langCode"
+        const existingMap = new Map<string, ProductAttribute>();
+        existingRecords.forEach((record) => {
+            const key = `${record.productAttributeGroupId}-${record.attributeId}-${record.variantId || 'null'}-${record.channelId || 'null'}-${record.languageCode}`;
+            existingMap.set(key, record);
+        });
+
+        // ✅ Filter records based on inheritance chain
+        recordsToInsert = filteredRecords.filter((incomingRecord) => {
+            const { productAttributeGroupId, attributeId, variantId, channelId, languageCode } = incomingRecord;
+
+            // **Case 1: Base language + NULL channel (root level) → Always insert**
+            if (!channelId && languageCode === baseLanguageCode) {
+                return true;
+            }
+
+            // **Case 2: Non-base language + NULL channel → Compare with base language + NULL channel**
+            if (!channelId && languageCode !== baseLanguageCode) {
+                const baseKey = `${productAttributeGroupId}-${attributeId}-${variantId || 'null'}-null-${baseLanguageCode}`;
+                const baseRecord = existingMap.get(baseKey);
+
+                // ✅ If base record doesn't exist, allow insertion (can't inherit from nothing)
+                if (!baseRecord) {
+                    return true;
+                }
+
+                // ✅ Compare values with base record
+                return !this.compareAttributeValues(baseRecord, incomingRecord);
+            }
+
+            // **Case 3: Channel-specific record → Compare with immediate parent (same language + NULL channel)**
+            if (channelId) {
+                const parentKey = `${productAttributeGroupId}-${attributeId}-${variantId || 'null'}-null-${languageCode}`;
+                const parentRecord = existingMap.get(parentKey);
+
+                // ✅ If parent record doesn't exist, check against base language + NULL channel
+                if (!parentRecord) {
+                    const baseKey = `${productAttributeGroupId}-${attributeId}-${variantId || 'null'}-null-${baseLanguageCode}`;
+                    const baseRecord = existingMap.get(baseKey);
+
+                    // ✅ If base record doesn't exist either, allow insertion
+                    if (!baseRecord) {
+                        return true;
+                    }
+
+                    // ✅ Compare with base record directly
+                    return !this.compareAttributeValues(baseRecord, incomingRecord);
+                }
+
+                // ✅ Compare with parent record (same language, NULL channel)
+                return !this.compareAttributeValues(parentRecord, incomingRecord);
+            }
+
+            // Default: allow insertion
+            return true;
+        });
+    }
+
+    const nonMasterChannelRecords = recordsToInsert.filter((item) => item.channelId);
+
+    const updateValues = shouldNotOverride
+        ? ''
+        : this.getProductAttributeUpsertPayload(isForceUpdateMaster ? recordsToInsert : nonMasterChannelRecords);
+    const insertValues = this.getProductAttributeUpsertPayload(recordsToInsert);
+
+    const rawUpdateQuery = `
+        UPDATE tbl_product_attributes AS target
+        SET
+            value_varchar = incoming.value_varchar,
+            value_text = incoming.value_text,
+            value_int = incoming.value_int,
+            value_array = incoming.value_array,
+            value_decimal = incoming.value_decimal,
+            value_bool = incoming.value_bool,
+            value_date = incoming.value_date,
+            value_date_and_time = incoming.value_date_and_time,
+            value_time = incoming.value_time,
+            value_decimal_2 = incoming.value_decimal_2,
+            unit_of_measure = incoming.unit_of_measure,
+            is_active = incoming.is_active,
+            sequence = incoming.sequence,
+            is_inherited = incoming.is_inherited,
+            is_imported_from_product = incoming.is_imported_from_product,
+            is_translate_enable = incoming.is_translate_enable,
+            ai_value = incoming.ai_value
+        FROM (
+            VALUES
+                ${updateValues}
+            ) AS incoming (
+                ${fields}
+            )
+        WHERE 
+            target.product_attribute_group_id = incoming.product_attribute_group_id
+            AND target.attribute_id IS NOT DISTINCT FROM incoming.attribute_id
+            AND target.language_code = incoming.language_code
+            AND target.channel_id IS NOT DISTINCT FROM incoming.channel_id
+            AND target.variant_id IS NOT DISTINCT FROM incoming.variant_id
+            AND (
+                target.value_varchar IS DISTINCT FROM incoming.value_varchar OR
+                target.value_text IS DISTINCT FROM incoming.value_text OR
+                target.value_int IS DISTINCT FROM incoming.value_int OR
+                target.value_array IS DISTINCT FROM incoming.value_array OR
+                target.value_decimal IS DISTINCT FROM incoming.value_decimal OR
+                target.value_bool IS DISTINCT FROM incoming.value_bool OR
+                target.value_date IS DISTINCT FROM incoming.value_date OR
+                target.value_date_and_time IS DISTINCT FROM incoming.value_date_and_time OR
+                target.value_time IS DISTINCT FROM incoming.value_time OR
+                target.value_decimal_2 IS DISTINCT FROM incoming.value_decimal_2 OR
+                target.unit_of_measure IS DISTINCT FROM incoming.unit_of_measure OR
+                target.is_active IS DISTINCT FROM incoming.is_active OR
+                target.sequence IS DISTINCT FROM incoming.sequence OR
+                target.is_inherited IS DISTINCT FROM incoming.is_inherited OR
+                target.is_imported_from_product IS DISTINCT FROM incoming.is_imported_from_product OR
+                target.is_translate_enable IS DISTINCT FROM incoming.is_translate_enable OR
+                target.ai_value IS DISTINCT FROM incoming.ai_value
+            );
+    `;
+
+    const rawInsertQuery = `
+        INSERT INTO tbl_product_attributes (
+            ${fields}
+        )
+        SELECT
+            ${this.getProductAttributeFields('incoming.')}
+        FROM (
+            VALUES
+                ${insertValues}
+            ) AS incoming (
+                ${fields}
+            )
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM tbl_product_attributes existing
+            WHERE 
+                existing.product_attribute_group_id = incoming.product_attribute_group_id
+                AND existing.attribute_id IS NOT DISTINCT FROM incoming.attribute_id
+                AND existing.language_code = incoming.language_code
+                AND existing.channel_id IS NOT DISTINCT FROM incoming.channel_id
+                AND existing.variant_id IS NOT DISTINCT FROM incoming.variant_id
+        );
+    `;
+
+    const rawUpsertQuery = `
+        ${updateValues.length ? rawUpdateQuery : ''}
+        ${rawInsertQuery}
+    `;
+
+    await this.sequelize.query(rawUpsertQuery, {
+        type: QueryTypes.SELECT,
+        transaction,
+    });
+}
