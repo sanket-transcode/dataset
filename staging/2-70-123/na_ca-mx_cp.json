@@ -1,0 +1,161 @@
+[
+  {
+    "sku": "68d24843576c0d2d8e0b0ce0",
+    "asin": null,
+    "winnerSku": "68d24843576c0d2d8e0b0ce0",
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1AM78C64UM0Y8", "A2EUQ1WTGCTBG2"],
+    "sourceMarketplace": "A1AM78C64UM0Y8",
+    "productType": "TOTE_BAG",
+    "productName": null,
+    "isProductExist": false,
+    "wrappers": [
+      {
+        "sku": "68d24843576c0d2d8e0b0ce0",
+        "asin": null,
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {},
+        "name": null,
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "25097994841815565102",
+            "asin": "B0FS717T2H"
+          },
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "12807143591028729740",
+            "asin": "B0FS73RK5V"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "32546307359318603982",
+            "asin": "B0FS71TWRV"
+          },
+          {
+            "sku": "42741322129000004924",
+            "asin": "B0FS72XJBB"
+          },
+          {
+            "sku": "24591406395137562223",
+            "asin": "B0FS725XHC"
+          },
+          {
+            "sku": "39966659054258193988",
+            "asin": "B0FS72QT58"
+          },
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          },
+          {
+            "sku": "10544520859559770735",
+            "asin": "B0FS6ZSQ1N"
+          },
+          {
+            "sku": "76853120834457364302",
+            "asin": "B0FS728PLG"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          },
+          {
+            "sku": "7859632058741",
+            "asin": "B0FYY2XFNS"
+          }
+        ],
+        "score": 97,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "70"
+      },
+      {
+        "sku": "68d24843576c0d2d8e0b0ce0",
+        "asin": null,
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": null,
+        "variationTheme": "SIZE",
+        "variants": [
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          },
+          {
+            "sku": "12807143591028729740",
+            "asin": "B0FS73RK5V"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "26332062757315414125",
+            "asin": "B0FS6WTZJB"
+          },
+          {
+            "sku": "10544520859559770735",
+            "asin": "B0FS6ZSQ1N"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "99471520249339163797",
+            "asin": "B0FS71BPWZ"
+          },
+          {
+            "sku": "7859632058741",
+            "asin": "B0FYY2XFNS"
+          },
+          {
+            "sku": "789585203698521",
+            "asin": "B0FZJ3NJ84"
+          }
+        ],
+        "score": 72,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "70"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  }
+]
