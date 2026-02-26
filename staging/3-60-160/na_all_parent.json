@@ -1,0 +1,204 @@
+[
+  {
+    "sku": null,
+    "asin": "B0FS7FR69T",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25265057986674927056",
+        "asin": "B0FS715ZDH",
+        "isNotActive": false
+      },
+      {
+        "sku": "11282025598934436185",
+        "asin": "B0FS6XXC6B",
+        "isNotActive": false
+      },
+      {
+        "sku": "16882243971564917605",
+        "asin": "B0FS71C31J",
+        "isNotActive": false
+      },
+      {
+        "sku": "11564966521275931191",
+        "asin": "B0FS72CV1H",
+        "isNotActive": false
+      },
+      {
+        "sku": "17639620771608013832",
+        "asin": "B0FS75Y82W",
+        "isNotActive": false
+      },
+      {
+        "sku": "59577357725225979542",
+        "asin": "B0FS6YGPQY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "68d246221863513a9c09d2d6",
+    "asin": "B0FS6X4CVW",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16882243971564917605",
+        "asin": "B0FS71C31J",
+        "isNotActive": false
+      },
+      {
+        "sku": "11282025598934436185",
+        "asin": "B0FS6XXC6B",
+        "isNotActive": false
+      },
+      {
+        "sku": "11564966521275931191",
+        "asin": "B0FS72CV1H",
+        "isNotActive": false
+      },
+      {
+        "sku": "17639620771608013832",
+        "asin": "B0FS75Y82W",
+        "isNotActive": false
+      },
+      {
+        "sku": "25265057986674927056",
+        "asin": "B0FS715ZDH",
+        "isNotActive": false
+      },
+      {
+        "sku": "59577357725225979542",
+        "asin": "B0FS6YGPQY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25265057986674927056",
+        "asin": null,
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11282025598934436185",
+        "asin": null,
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16882243971564917605",
+        "asin": null,
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "17639620771608013832",
+        "asin": null,
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "59577357725225979542",
+        "asin": null,
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11564966521275931191",
+        "asin": null,
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  }
+]

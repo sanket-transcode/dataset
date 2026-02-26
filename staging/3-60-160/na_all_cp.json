@@ -1,0 +1,427 @@
+[
+  {
+    "sku": "68d246221863513a9c09d2d6",
+    "asin": "B0FS6X4CVW",
+    "winnerSku": "68d246221863513a9c09d2d6",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER", "A2EUQ1WTGCTBG2", "A1AM78C64UM0Y8"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isProductExist": true,
+    "productId": 1958,
+    "wrappers": [
+      {
+        "sku": "68d246221863513a9c09d2d6",
+        "asin": "B0FS6X4CVW",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "asin": "B0FS6X4CVW",
+              "productType": "HAT",
+              "conditionType": "new_new",
+              "status": ["DISCOVERABLE", "BUYABLE"],
+              "itemName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+              "createdDate": "2025-09-23T07:15:50.266Z",
+              "lastUpdatedDate": "2025-09-23T07:24:27.013Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/21k9sWSh5eL.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "Hats & Caps",
+                "classificationId": "2474945011"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "SIZE/COLOR"
+              }
+            ],
+            "item_weight": [
+              {
+                "value": 0.198416,
+                "unit": "pounds",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "Yupoong 6245CM",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "age_range_description": [
+              {
+                "value": "Adult",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Comfortable, unstructured body for daily wear",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "6-panel structure with eyelets for breathability",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Precurved visor with matching underbill",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Adjustable snap closure for a perfect fit",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "100% cotton fabric for softness and durability",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Introducing the perfect accessory for every laid-back day — a Classic Dad Cap that blends comfort and style effortlessly. This cap radiates a relaxed vibe, making it an ideal addition to casual outfits. Whether you’re heading to the beach, running errands, or enjoying a weekend barbecue, this cap will keep you looking effortlessly cool. It's designed for adults who appreciate both functionality and fashion, making it a thoughtful gift for Father’s Day, birthdays, or any casual celebration. Elevate your style and protect yourself from the sun with this versatile cap that seamlessly fits into any outfit, making it a staple in your wardrobe.\n\nProduct features\n- Comfortable, unstructured body for daily wear\n- 6-panel structure with eyelets for breathability\n- Precurved visor with matching underbill\n- Adjustable snap closure for a perfect fit\n- 100% cotton fabric for softness and durability\n\nCare instructions\n- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.\n",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "department": [
+              {
+                "value": "Unisex",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "GENERIC",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "seasons": [
+              {
+                "value": "All",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "import_designation": [
+              {
+                "value": "Imported",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "special_size_type": [
+              {
+                "value": "Standard",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "value": 33.47,
+                "currency": "USD",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "batteries_required": [
+              {
+                "value": false,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "cotton",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "hats",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-09-23T07:15:50.262Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "style": [
+              {
+                "value": "Regular",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Hand Wash Only",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "unisex",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 99999,
+                "lead_time_to_ship_max_days": 5
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "2be65c4c-75bc-42c8-900c-0d21c18510d4",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71Gt4-Df9zL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71DUt4vXIhL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/61JP7O-S98L.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71ZBHk3APmL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "USD",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 33.47
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "16882243971564917605",
+            "asin": "B0FS71C31J"
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": "B0FS6XXC6B"
+          },
+          {
+            "sku": "11564966521275931191",
+            "asin": "B0FS72CV1H"
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": "B0FS75Y82W"
+          },
+          {
+            "sku": "25265057986674927056",
+            "asin": "B0FS715ZDH"
+          },
+          {
+            "sku": "59577357725225979542",
+            "asin": "B0FS6YGPQY"
+          }
+        ],
+        "score": 54,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "60",
+        "wrapperId": "735"
+      },
+      {
+        "sku": null,
+        "asin": "B0FS7FR69T",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "25265057986674927056",
+            "asin": "B0FS715ZDH"
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": "B0FS6XXC6B"
+          },
+          {
+            "sku": "16882243971564917605",
+            "asin": "B0FS71C31J"
+          },
+          {
+            "sku": "11564966521275931191",
+            "asin": "B0FS72CV1H"
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": "B0FS75Y82W"
+          },
+          {
+            "sku": "59577357725225979542",
+            "asin": "B0FS6YGPQY"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "60",
+        "wrapperId": "736"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1AM78C64UM0Y8",
+        "metaData": {},
+        "name": null,
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "25265057986674927056",
+            "asin": null
+          },
+          {
+            "sku": "11282025598934436185",
+            "asin": null
+          },
+          {
+            "sku": "16882243971564917605",
+            "asin": null
+          },
+          {
+            "sku": "17639620771608013832",
+            "asin": null
+          },
+          {
+            "sku": "59577357725225979542",
+            "asin": null
+          },
+          {
+            "sku": "11564966521275931191",
+            "asin": null
+          }
+        ],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "60"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-create-base-product",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  }
+]

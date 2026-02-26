@@ -1,0 +1,785 @@
+[
+  {
+    "sku": "67cead0132fb796da203ce18",
+    "asin": "B0DZXJ3PRT",
+    "winnerSku": "67cead0132fb796da203ce18",
+    "isStandaloneProduct": false,
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "isProductExist": false,
+    "wrappers": [
+      {
+        "sku": "67cead0132fb796da203ce18",
+        "asin": "B0DZXJ3PRT",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "asin": "B0DZXJ3PRT",
+              "productType": "SWEATSHIRT",
+              "conditionType": "new_new",
+              "status": ["BUYABLE", "DISCOVERABLE"],
+              "itemName": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+              "createdDate": "2025-03-10T09:15:20.707Z",
+              "lastUpdatedDate": "2025-03-10T11:21:39.226Z",
+              "mainImage": {
+                "link": "https://m.media-amazon.com/images/I/31XGQW2phPL.jpg",
+                "height": 500,
+                "width": 500
+              }
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "SIZE/COLOR"
+              }
+            ],
+            "item_weight": [
+              {
+                "value": 0.70548,
+                "unit": "pounds",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "model_name": [
+              {
+                "value": "Generic",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "age_range_description": [
+              {
+                "value": "Adult",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "bullet_point": [
+              {
+                "value": "Eco-friendly production with 50% cotton, 50% polyester blend",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Elastic ribbed collar retains shape for longevity",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              },
+              {
+                "value": "Comfortable and cozy fabric perfect for colder days",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_description": [
+              {
+                "value": "Introducing our cozy, unisex Heavy Blend™ Crewneck Sweatshirt, designed for ultimate comfort and style. This sweatshirt effortlessly combines warmth and durability, making it an essential addition to your wardrobe for cooler months. Whether you're lounging at home, heading out for a bike ride, or meeting friends, this sweatshirt fits seamlessly into your lifestyle. Its clean-cut design and classic fit cater to anyone looking for a relaxed yet stylish look. Ideal for cycling enthusiasts and those who appreciate a casual aesthetic, it's perfect for holidays, family gatherings, and casual outings. Celebrate the spirit of togetherness and warmth with this versatile piece, which fulfills your everyday needs while keeping you fashionable.\n\nProduct features\n- Eco-friendly production with 50% cotton, 50% polyester blend\n- Elastic ribbed collar retains shape for longevity\n- Durable double-needle stitching enhances lifespan\n- Comfortable and cozy fabric perfect for colder days\n\nCare instructions\n- Machine wash: cold (max 30C or 90F)\n- Non-chlorine: bleach as needed\n- Tumble dry: low heat\n- Do not iron\n- Do not dryclean\n",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "department": [
+              {
+                "value": "unisex-adult",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "brand": [
+              {
+                "value": "GENERIC",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "supplier_declared_has_product_identifier_exemption": [
+              {
+                "value": true,
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fit_type": [
+              {
+                "value": "Regular Fit",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "import_designation": [
+              {
+                "value": "Imported",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "special_size_type": [
+              {
+                "value": "Standard",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_name": [
+              {
+                "value": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "list_price": [
+              {
+                "value": 29.37,
+                "currency": "USD",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "neck": [
+              {
+                "neck_style": [
+                  {
+                    "value": "Crew Neck",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fabric_type": [
+              {
+                "value": "50% cotton, 50% polyester",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "item_type_keyword": [
+              {
+                "value": "athletic-crew-necks",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-03-10T09:15:20.703Z",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "style": [
+              {
+                "value": "Regular",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "care_instructions": [
+              {
+                "value": "Machine Wash",
+                "language_tag": "en_US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "target_gender": [
+              {
+                "value": "unisex",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 99999,
+                "lead_time_to_ship_max_days": 5
+              }
+            ],
+            "closure": [
+              {
+                "type": [
+                  {
+                    "value": "Pull On",
+                    "language_tag": "en_US"
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "country_of_origin": [
+              {
+                "value": "US",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "merchant_shipping_group": [
+              {
+                "value": "2be65c4c-75bc-42c8-900c-0d21c18510d4",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "condition_type": [
+              {
+                "value": "new_new",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_3": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71tEcR0Bg+L.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_2": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71GvL7BJYRL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "other_product_image_locator_1": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71Eafcev28L.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "main_product_image_locator": [
+              {
+                "media_location": "https://m.media-amazon.com/images/I/71h9qFGFANL.jpg",
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "purchasable_offer": [
+              {
+                "currency": "USD",
+                "audience": "ALL",
+                "our_price": [
+                  {
+                    "schedule": [
+                      {
+                        "value_with_tax": 29.37
+                      }
+                    ]
+                  }
+                ],
+                "marketplace_id": "ATVPDKIKX0DER"
+              }
+            ],
+            "parentage_level": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "value": "parent"
+              }
+            ],
+            "child_parent_sku_relationship": [
+              {
+                "marketplace_id": "ATVPDKIKX0DER",
+                "child_relationship_type": "variation"
+              }
+            ]
+          }
+        },
+        "name": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "21237769773152584890",
+            "asin": "B0DZXLB6WS"
+          },
+          {
+            "sku": "21956766161877309781",
+            "asin": "B0DZXN37RT"
+          },
+          {
+            "sku": "37006353054909044247",
+            "asin": "B0DZXQTHRR"
+          },
+          {
+            "sku": "23363395862711132669",
+            "asin": "B0DZXNS9G4"
+          },
+          {
+            "sku": "25057032182485556744",
+            "asin": "B0DZXLM9GX"
+          },
+          {
+            "sku": "26193824479544158718",
+            "asin": "B0DZXMGKVV"
+          },
+          {
+            "sku": "14158075494946220987",
+            "asin": "B0DZXMLCL3"
+          },
+          {
+            "sku": "15498878320169836620",
+            "asin": "B0DZXGX7SQ"
+          },
+          {
+            "sku": "57206344152936434471",
+            "asin": "B0DZXJRC8F"
+          },
+          {
+            "sku": "23817933804582271796",
+            "asin": "B0DZXQVWC8"
+          },
+          {
+            "sku": "22012909837452623407",
+            "asin": "B0DZXNCW6Q"
+          },
+          {
+            "sku": "69389426633785779033",
+            "asin": "B0DZXLQ93T"
+          },
+          {
+            "sku": "14321526149781212657",
+            "asin": "B0DZXR1DBF"
+          },
+          {
+            "sku": "14859850936527898192",
+            "asin": "B0DZXJG9P7"
+          },
+          {
+            "sku": "17734215422993736719",
+            "asin": "B0DZXNVBH7"
+          },
+          {
+            "sku": "20330020755471436562",
+            "asin": "B0DZXR86DY"
+          },
+          {
+            "sku": "16702153611110114041",
+            "asin": "B0DZXQ5MQK"
+          },
+          {
+            "sku": "48235122685572485564",
+            "asin": "B0DZXMQ7LT"
+          },
+          {
+            "sku": "11079114747137074983",
+            "asin": "B0DZXLSRXN"
+          },
+          {
+            "sku": "68376407584288524028",
+            "asin": "B0DZXKWV3T"
+          },
+          {
+            "sku": "23639175155790291363",
+            "asin": "B0DZXLL817"
+          },
+          {
+            "sku": "29671778344646712082",
+            "asin": "B0DZXJ84ZJ"
+          },
+          {
+            "sku": "33184385977297111407",
+            "asin": "B0DZXJCZM5"
+          },
+          {
+            "sku": "32350124230980182484",
+            "asin": "B0DZXH9T8F"
+          },
+          {
+            "sku": "31419598242800472950",
+            "asin": "B0DZXHFLMQ"
+          },
+          {
+            "sku": "26827894592865363751",
+            "asin": "B0DZXJR57F"
+          },
+          {
+            "sku": "11704940555213803921",
+            "asin": "B0DZXLQXL4"
+          },
+          {
+            "sku": "14062982205446094506",
+            "asin": "B0DZXJLH53"
+          },
+          {
+            "sku": "44513264186146307774",
+            "asin": "B0DZXK637D"
+          },
+          {
+            "sku": "54399797911927749853",
+            "asin": "B0DZXL7W8C"
+          },
+          {
+            "sku": "26403175767038607190",
+            "asin": "B0DZXJCF5M"
+          },
+          {
+            "sku": "26793593016512976324",
+            "asin": "B0DZXG7HC4"
+          },
+          {
+            "sku": "15638254520707673038",
+            "asin": "B0DZXFDDWK"
+          },
+          {
+            "sku": "21449797498431859771",
+            "asin": "B0DZXDL4P1"
+          },
+          {
+            "sku": "22900300817675990682",
+            "asin": "B0DZXH1YLJ"
+          },
+          {
+            "sku": "20818806249968966766",
+            "asin": "B0DZXHWDC5"
+          },
+          {
+            "sku": "30215503152835767595",
+            "asin": "B0DZXJ4BSR"
+          },
+          {
+            "sku": "10752893983735778675",
+            "asin": "B0DZXJ7F44"
+          },
+          {
+            "sku": "19635483040272300833",
+            "asin": "B0DZXK77MX"
+          },
+          {
+            "sku": "15857609157042274194",
+            "asin": "B0DZXJDH7Z"
+          },
+          {
+            "sku": "22835228269543406484",
+            "asin": "B0DZXLHYG1"
+          },
+          {
+            "sku": "29424677971374122606",
+            "asin": "B0DZXHVNX2"
+          },
+          {
+            "sku": "19753609880837769539",
+            "asin": "B0DZXHFFKW"
+          },
+          {
+            "sku": "30896511841940636854",
+            "asin": "B0DZXK1K48"
+          },
+          {
+            "sku": "18096400472574687762",
+            "asin": "B0DZXHRN11"
+          },
+          {
+            "sku": "14980004219074673074",
+            "asin": "B0DZXLTZGQ"
+          },
+          {
+            "sku": "13072442334663065043",
+            "asin": "B0DZXKCRTS"
+          },
+          {
+            "sku": "12257475772158912326",
+            "asin": "B0DZXKZ4SM"
+          },
+          {
+            "sku": "14652829334545027831",
+            "asin": "B0DZXGY7Z3"
+          },
+          {
+            "sku": "15719517332205678427",
+            "asin": "B0DZXJKT7T"
+          },
+          {
+            "sku": "10636969189818354395",
+            "asin": "B0DZXLQ6TF"
+          },
+          {
+            "sku": "13707622677237303259",
+            "asin": "B0DZXL8YR2"
+          },
+          {
+            "sku": "30770721029614952662",
+            "asin": "B0DZXKHKSC"
+          },
+          {
+            "sku": "52315162540743320584",
+            "asin": "B0DZXPQMXQ"
+          },
+          {
+            "sku": "26753764337932834996",
+            "asin": "B0DZXKTW1K"
+          },
+          {
+            "sku": "63826463851345053167",
+            "asin": "B0DZXH5LK6"
+          }
+        ],
+        "score": 304,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "102"
+      },
+      {
+        "sku": null,
+        "asin": "B0F58R74B1",
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "metaData": {},
+        "name": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+        "variationTheme": "SIZE/COLOR",
+        "variants": [
+          {
+            "sku": "21237769773152584890",
+            "asin": "B0DZXLB6WS"
+          },
+          {
+            "sku": "21956766161877309781",
+            "asin": "B0DZXN37RT"
+          },
+          {
+            "sku": "37006353054909044247",
+            "asin": "B0DZXQTHRR"
+          },
+          {
+            "sku": "14859850936527898192",
+            "asin": "B0DZXJG9P7"
+          },
+          {
+            "sku": "14158075494946220987",
+            "asin": "B0DZXMLCL3"
+          },
+          {
+            "sku": "29671778344646712082",
+            "asin": "B0DZXJ84ZJ"
+          },
+          {
+            "sku": "68376407584288524028",
+            "asin": "B0DZXKWV3T"
+          },
+          {
+            "sku": "15498878320169836620",
+            "asin": "B0DZXGX7SQ"
+          },
+          {
+            "sku": "14652829334545027831",
+            "asin": "B0DZXGY7Z3"
+          },
+          {
+            "sku": "11704940555213803921",
+            "asin": "B0DZXLQXL4"
+          },
+          {
+            "sku": "14321526149781212657",
+            "asin": "B0DZXR1DBF"
+          },
+          {
+            "sku": "48235122685572485564",
+            "asin": "B0DZXMQ7LT"
+          },
+          {
+            "sku": "63826463851345053167",
+            "asin": "B0DZXH5LK6"
+          },
+          {
+            "sku": "22835228269543406484",
+            "asin": "B0DZXLHYG1"
+          },
+          {
+            "sku": "19635483040272300833",
+            "asin": "B0DZXK77MX"
+          },
+          {
+            "sku": "15857609157042274194",
+            "asin": "B0DZXJDH7Z"
+          },
+          {
+            "sku": "13072442334663065043",
+            "asin": "B0DZXKCRTS"
+          },
+          {
+            "sku": "14062982205446094506",
+            "asin": "B0DZXJLH53"
+          },
+          {
+            "sku": "11079114747137074983",
+            "asin": "B0DZXLSRXN"
+          },
+          {
+            "sku": "20330020755471436562",
+            "asin": "B0DZXR86DY"
+          },
+          {
+            "sku": "30215503152835767595",
+            "asin": "B0DZXJ4BSR"
+          },
+          {
+            "sku": "20818806249968966766",
+            "asin": "B0DZXHWDC5"
+          },
+          {
+            "sku": "18096400472574687762",
+            "asin": "B0DZXHRN11"
+          },
+          {
+            "sku": "22012909837452623407",
+            "asin": "B0DZXNCW6Q"
+          },
+          {
+            "sku": "17734215422993736719",
+            "asin": "B0DZXNVBH7"
+          },
+          {
+            "sku": "23817933804582271796",
+            "asin": "B0DZXQVWC8"
+          },
+          {
+            "sku": "16702153611110114041",
+            "asin": "B0DZXQ5MQK"
+          },
+          {
+            "sku": "26193824479544158718",
+            "asin": "B0DZXMGKVV"
+          },
+          {
+            "sku": "44513264186146307774",
+            "asin": "B0DZXK637D"
+          },
+          {
+            "sku": "32350124230980182484",
+            "asin": "B0DZXH9T8F"
+          },
+          {
+            "sku": "31419598242800472950",
+            "asin": "B0DZXHFLMQ"
+          },
+          {
+            "sku": "14980004219074673074",
+            "asin": "B0DZXLTZGQ"
+          },
+          {
+            "sku": "52315162540743320584",
+            "asin": "B0DZXPQMXQ"
+          },
+          {
+            "sku": "10752893983735778675",
+            "asin": "B0DZXJ7F44"
+          },
+          {
+            "sku": "22900300817675990682",
+            "asin": "B0DZXH1YLJ"
+          },
+          {
+            "sku": "26827894592865363751",
+            "asin": "B0DZXJR57F"
+          },
+          {
+            "sku": "69389426633785779033",
+            "asin": "B0DZXLQ93T"
+          },
+          {
+            "sku": "15638254520707673038",
+            "asin": "B0DZXFDDWK"
+          },
+          {
+            "sku": "26403175767038607190",
+            "asin": "B0DZXJCF5M"
+          },
+          {
+            "sku": "21449797498431859771",
+            "asin": "B0DZXDL4P1"
+          },
+          {
+            "sku": "26753764337932834996",
+            "asin": "B0DZXKTW1K"
+          },
+          {
+            "sku": "26793593016512976324",
+            "asin": "B0DZXG7HC4"
+          },
+          {
+            "sku": "57206344152936434471",
+            "asin": "B0DZXJRC8F"
+          },
+          {
+            "sku": "23639175155790291363",
+            "asin": "B0DZXLL817"
+          },
+          {
+            "sku": "33184385977297111407",
+            "asin": "B0DZXJCZM5"
+          },
+          {
+            "sku": "25057032182485556744",
+            "asin": "B0DZXLM9GX"
+          },
+          {
+            "sku": "54399797911927749853",
+            "asin": "B0DZXL7W8C"
+          },
+          {
+            "sku": "13707622677237303259",
+            "asin": "B0DZXL8YR2"
+          },
+          {
+            "sku": "30770721029614952662",
+            "asin": "B0DZXKHKSC"
+          },
+          {
+            "sku": "23363395862711132669",
+            "asin": "B0DZXNS9G4"
+          },
+          {
+            "sku": "30896511841940636854",
+            "asin": "B0DZXK1K48"
+          },
+          {
+            "sku": "19753609880837769539",
+            "asin": "B0DZXHFFKW"
+          },
+          {
+            "sku": "29424677971374122606",
+            "asin": "B0DZXHVNX2"
+          },
+          {
+            "sku": "10636969189818354395",
+            "asin": "B0DZXLQ6TF"
+          },
+          {
+            "sku": "15719517332205678427",
+            "asin": "B0DZXJKT7T"
+          },
+          {
+            "sku": "12257475772158912326",
+            "asin": "B0DZXKZ4SM"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "102"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "translationCompleted": false
+  }
+]
