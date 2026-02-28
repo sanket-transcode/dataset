@@ -1,0 +1,401 @@
+{
+  "item_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product name"
+    }
+  ],
+  "color": [
+    {
+      "language_tag": "en_US",
+      "value": ["G-H"]
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "audience": "ALL",
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "parentage_level": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "child"
+    }
+  ],
+  "child_parent_sku_relationship": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "child_relationship_type": "variation",
+      "parent_sku": "temp-parent-sku"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Generic"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": true
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "t-shirt"
+    }
+  ],
+  "model_number": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "TN854PS10-1WD"
+    }
+  ],
+  "manufacturer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Jewelry Avalanche"
+    }
+  ],
+  "unspsc_code": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "54100000"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product Description"
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "High quality one of a kind custom-made Cobalt Wedding Band with Natural Genuine Princess Cut Diamond Gemstone. 8mm Matte Finish Black Ion Plated with Yellow Gold Ion Plated Stepped Edge Trim Comfort Fit Cobalt Wedding Band. Mens Cobalt Ring, Engagement Ring, Anniversary Ring."
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Three 14Kt Gold Bezel Color to choose from. Available Metal Color - 14Kt White Gold, 14Kt Yellow Gold & 14Kt Rose Gold Bezel."
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Highly scratch & wear resistant (NOT scratch proof). 5x harder than 18K gold and a bit harder than titanium. Cobalt rings are very durable in wear and a great choice for men's wedding rings. This ring is not resizable."
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Free durable leatherette hard ring box included. FREE up to 25 CHARACTERS INSIDE RING ENGRAVING. (Enter ring size and engraving details in the \"Customize Now\" page)"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Message us to get the link to the listing for other birth month gemstones."
+    }
+  ],
+  "department": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "womens"
+    }
+  ],
+  "target_gender": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "unisex"
+    }
+  ],
+  "jewelry_material_categorization": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "fashion"
+    }
+  ],
+  "material": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["gemstone"]
+    }
+  ],
+  "is_resizable": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "size": [
+    {
+      "language_tag": "en_US",
+      "value": "10"
+    }
+  ],
+  "metal_type": {
+    "language_tag": "en_US"
+  },
+  "metal_stamp": {
+    "language_tag": "en_US"
+  },
+  "metal_weight": {},
+  "gem_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["Diamond"]
+    }
+  ],
+  "setting_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Bezel"
+    }
+  ],
+  "stones": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "number_of_stones": 1,
+      "id": 1,
+      "creation_method": {
+        "language_tag": "en_US",
+        "value": "Natural"
+      },
+      "treatment_method": {
+        "language_tag": "en_US",
+        "value": "Natural"
+      },
+      "type": {
+        "language_tag": "en_US",
+        "value": "Diamond"
+      }
+    }
+  ],
+  "creation_method": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": ["natural"]
+    }
+  ],
+  "treatment_method": {
+    "language_tag": "en_US",
+    "value": "Natural"
+  },
+  "type": {
+    "language_tag": "en_US",
+    "value": "Count"
+  },
+  "shape": [
+    {
+      "language_tag": "en_US",
+      "value": ["princess-shape"]
+    }
+  ],
+  "cut": [
+    {
+      "language_tag": "en_US",
+      "value": ["Very Good"]
+    }
+  ],
+  "clarity": [
+    {
+      "language_tag": "en_US",
+      "value": ["Slightly Included"]
+    }
+  ],
+  "weight": [
+    {
+      "value": 0.1,
+      "unit": "carats"
+    }
+  ],
+  "total_diamond_weight": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "unit": "carats",
+      "value": 0.1
+    }
+  ],
+  "occasion_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["Anniversary", "Wedding", "Engagement"]
+    }
+  ],
+  "part_number": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "TN854PS10-1WD"
+    }
+  ],
+  "collection": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "All"
+    }
+  ],
+  "length": {},
+  "unit_count": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 1,
+      "type": {
+        "language_tag": "en_US",
+        "value": "Count"
+      }
+    }
+  ],
+  "number_of_stones": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 1
+    }
+  ],
+  "total_gem_weight": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "unit": "carats",
+      "value": 0.1
+    }
+  ],
+  "ring_form_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "band"
+    }
+  ],
+  "skip_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "quantity": 0,
+      "fulfillment_channel_code": "DEFAULT"
+    }
+  ],
+  "end_at": {},
+  "start_at": {},
+  "merchandising_rule": {},
+  "condition_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "new_new"
+    }
+  ],
+  "list_price": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 472.5,
+      "currency": "USD"
+    }
+  ],
+  "merchant_shipping_group": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "temp-value"
+    }
+  ],
+  "height": {},
+  "width": {},
+  "country_of_origin": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "US"
+    }
+  ],
+  "batteries_required": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": ["not_applicable"]
+    }
+  ],
+  "normalized_value": {},
+  "cpsia_cautionary_statement": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": ["no_warning_applicable"]
+    }
+  ],
+  "ring": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "size": [
+        {
+          "language_tag": "en_US",
+          "value": "10"
+        }
+      ]
+    }
+  ],
+  "stone": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "shape": [
+        {
+          "language_tag": "en_US",
+          "value": ["princess-shape"]
+        }
+      ],
+      "color": [
+        {
+          "language_tag": "en_US",
+          "value": ["G-H"]
+        }
+      ],
+      "weight": [
+        {
+          "value": 0.1,
+          "unit": "carats"
+        }
+      ],
+      "cut": [
+        {
+          "language_tag": "en_US",
+          "value": ["Very Good"]
+        }
+      ],
+      "clarity": [
+        {
+          "language_tag": "en_US",
+          "value": ["Slightly Included"]
+        }
+      ],
+      "creation_method": [
+        {
+          "marketplace_id": "ATVPDKIKX0DER",
+          "value": ["natural"]
+        }
+      ]
+    }
+  ]
+}

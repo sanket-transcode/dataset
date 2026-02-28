@@ -1,0 +1,16 @@
+{
+  "accountId": 32,
+  "productId": "1961",
+  "variantId": null,
+  "channelId": "60",
+  "marketplaceId": 1,
+  "channelMarketplaceId": "140",
+  "productChannelMarketplaceId": 1214,
+  "wrapperId": "743",
+  "languageCode": "en_CA",
+  "currency": "CAD",
+  "baseLanguageCode": "en_US",
+  "baseCurrency": "USD",
+  "offset": 0,
+  "limit": 20
+}

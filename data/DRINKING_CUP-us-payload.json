@@ -1,0 +1,292 @@
+{
+  "height": {},
+  "parentage_level": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "child"
+    }
+  ],
+  "child_parent_sku_relationship": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "parent_sku": "temp-parent-sku",
+      "child_relationship_type": "variation"
+    }
+  ],
+  "variation_theme": [
+    {
+      "name": "STYLE_NAME"
+    }
+  ],
+  "item_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product name"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "GENERIC"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": true
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "t-shirt"
+    }
+  ],
+  "model_number": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "Generic"
+    }
+  ],
+  "model_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Generic"
+    }
+  ],
+  "manufacturer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Generic"
+    }
+  ],
+  "unspsc_code": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "52150000"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product Description"
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": " Glossy ceramic finish for a sleek look"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Vibrant colors that pop with every design"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Microwave-safe for convenient heating"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Dishwasher-safe for easy cleanup"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Available in two sizes: 11oz and 15oz"
+    }
+  ],
+  "special_feature": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["Dishwasher Safe"]
+    }
+  ],
+  "style": [
+    { 
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Classic"
+    }
+  ],
+  "material": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["Ceramic"]
+    }
+  ],
+  "number_of_items": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 1
+    }
+  ],
+  "color": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Multiple"
+    }
+  ],
+  "care_instructions": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["Dishwasher Safe"]
+    }
+  ],
+  "capacity": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 15,
+      "unit": "ounces"
+    }
+  ],
+  "width": {},
+  "diameter": {},
+  "length": {},
+  "depth": {},
+  "unit_count": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 1,
+      "type": {
+        "language_tag": "en_US",
+        "value": "Count"
+      }
+    }
+  ],
+  "type": {
+    "language_tag": "en_US",
+    "value": "Count"
+  },
+  "included_components": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": ["Handle"]
+    }
+  ],
+  "skip_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "fulfillment_channel_code": "DEFAULT",
+      "quantity": 0,
+      "lead_time_to_ship_max_days": 5
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "audience": "ALL",
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "start_at": {},
+  "end_at": {},
+  "merchandising_rule": {},
+  "condition_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "new_new"
+    }
+  ],
+  "list_price": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "currency": "USD",
+      "value": 13
+    }
+  ],
+  "merchant_shipping_group": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "temp-value"
+    }
+  ],
+  "country_of_origin": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "US"
+    }
+  ],
+  "batteries_required": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": ["not_applicable"]
+    }
+  ],
+  "item_weight": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "unit": "pounds",
+      "value": 0.9
+    }
+  ],
+  "pesticide_marking": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "registration_status": ["fifra_not_considered_pesticide"],
+      "marking_type": ["epa_establishment_number"]
+    }
+  ],
+  "item_width_height": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "height": {
+        "value": 3.7,
+        "unit": "inches"
+      },
+      "width": {
+        "unit": "inches",
+        "value": 3.1
+      }
+    }
+  ],
+  "item_dimensions": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "height": {
+        "unit": "inches",
+        "value": 3.7
+      },
+      "width": {
+        "value": 3.1,
+        "unit": "inches"
+      },
+      "length": {
+        "unit": "inches",
+        "value": 3.1
+      }
+    }
+  ]
+}
