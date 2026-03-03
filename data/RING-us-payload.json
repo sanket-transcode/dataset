@@ -9,7 +9,7 @@
   "color": [
     {
       "language_tag": "en_US",
-      "value": ["G-H"]
+      "value": "G-H"
     }
   ],
   "purchasable_offer": [
@@ -62,7 +62,7 @@
   "model_number": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": "TN854PS10-1WD"
+      "value": "TN854PS-1WD"
     }
   ],
   "manufacturer": [
@@ -135,7 +135,7 @@
     {
       "marketplace_id": "ATVPDKIKX0DER",
       "language_tag": "en_US",
-      "value": ["gemstone"]
+      "value": "gemstone"
     }
   ],
   "is_resizable": [
@@ -161,7 +161,7 @@
     {
       "marketplace_id": "ATVPDKIKX0DER",
       "language_tag": "en_US",
-      "value": ["Diamond"]
+      "value": "Diamond"
     }
   ],
   "setting_type": [
@@ -193,7 +193,7 @@
   "creation_method": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": ["natural"]
+      "value": "natural"
     }
   ],
   "treatment_method": {
@@ -207,24 +207,24 @@
   "shape": [
     {
       "language_tag": "en_US",
-      "value": ["princess-shape"]
+      "value": "princess-shape"
     }
   ],
   "cut": [
     {
       "language_tag": "en_US",
-      "value": ["Very Good"]
+      "value": "Very Good"
     }
   ],
   "clarity": [
     {
       "language_tag": "en_US",
-      "value": ["Slightly Included"]
+      "value": "Slightly Included"
     }
   ],
   "weight": [
     {
-      "value": 0.1,
+      "value": 1,
       "unit": "carats"
     }
   ],
@@ -239,13 +239,23 @@
     {
       "marketplace_id": "ATVPDKIKX0DER",
       "language_tag": "en_US",
-      "value": ["Anniversary", "Wedding", "Engagement"]
+      "value": "Anniversary"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Wedding"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Engagement"
     }
   ],
   "part_number": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": "TN854PS10-1WD"
+      "value": "TN854PS-1WD"
     }
   ],
   "collection": [
@@ -253,6 +263,13 @@
       "marketplace_id": "ATVPDKIKX0DER",
       "language_tag": "en_US",
       "value": "All"
+    }
+  ],
+  "theme": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Love, Engagement"
     }
   ],
   "length": {},
@@ -309,7 +326,7 @@
   "list_price": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": 472.5,
+      "value": 399,
       "currency": "USD"
     }
   ],
@@ -336,14 +353,14 @@
   "supplier_declared_dg_hz_regulation": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": ["not_applicable"]
+      "value": "not_applicable"
     }
   ],
   "normalized_value": {},
   "cpsia_cautionary_statement": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": ["no_warning_applicable"]
+      "value": "no_warning_applicable"
     }
   ],
   "ring": [
@@ -363,37 +380,37 @@
       "shape": [
         {
           "language_tag": "en_US",
-          "value": ["princess-shape"]
+          "value": "princess-shape"
         }
       ],
       "color": [
         {
           "language_tag": "en_US",
-          "value": ["G-H"]
+          "value": "G-H"
         }
       ],
       "weight": [
         {
-          "value": 0.1,
+          "value": 1,
           "unit": "carats"
         }
       ],
       "cut": [
         {
           "language_tag": "en_US",
-          "value": ["Very Good"]
+          "value": "Very Good"
         }
       ],
       "clarity": [
         {
           "language_tag": "en_US",
-          "value": ["Slightly Included"]
+          "value": "Slightly Included"
         }
       ],
       "creation_method": [
         {
           "marketplace_id": "ATVPDKIKX0DER",
-          "value": ["natural"]
+          "value": "natural"
         }
       ]
     }
