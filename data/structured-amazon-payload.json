@@ -1,0 +1,2841 @@
+{
+  "amazonLabel": "Compliance Media",
+  "amazonDescription": "Provide information on the product documents you want to display on the product detail page to comply with the General Product Safety Regulation (GPSR). Alternatively, you can upload images under the PS01-PS06 variants in the Image Manager.",
+  "sequence": 125,
+  "hierarchyId": 248605,
+  "attributes": [
+    {
+      "id": "2697946",
+      "attributeId": "149522",
+      "productAttributeGroupId": "6008",
+      "variantId": null,
+      "languageCode": "en_US",
+      "channelId": null,
+      "valueGroupId": 3,
+      "isActive": true,
+      "isInherited": true,
+      "sequence": 1,
+      "createdAt": "2026-03-02T12:16:14.939Z",
+      "updatedAt": "2026-03-02T12:16:14.939Z",
+      "valueVarchar": null,
+      "valueText": null,
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null,
+      "displayLabel": "Compliance Media Content Type",
+      "attribute": {
+        "id": 149522,
+        "name": "AM_BOTTLE_compliance_media_content_type",
+        "label": "Compliance Media Content Type",
+        "displayLabel": "Compliance Media Content Type",
+        "isVariantKey": false,
+        "attributeType": "dropdownList",
+        "isPrimaryAttribute": false,
+        "attributeTranslations": [
+          {
+            "key": "application_guide",
+            "translation": "Application Guide",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "certificate_of_analysis",
+            "translation": "Certificate of Analysis",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "certificate_of_compliance",
+            "translation": "Certificate of Compliance",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "compatibility_guide",
+            "translation": "Compatibility Guide",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "data_transparency_declaration",
+            "translation": "Data Act Transparency Declaration",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "emergency_use_authorization",
+            "translation": "Emergency Use Authorization",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "emergency_use_authorization_amendment",
+            "translation": "Emergency Use Authorization Amendment",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "installation_manual",
+            "translation": "Installation Manual",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "instructions_for_use",
+            "translation": "Instructions for Use",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "label",
+            "translation": "Compliance Media Content Type",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "patient_fact_sheet",
+            "translation": "Patient Fact Sheet",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "product_certificate_of_conformity",
+            "translation": "Product Certificate of Conformity",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "provider_fact_sheet",
+            "translation": "Provider Fact Sheet",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "safety_data_sheet",
+            "translation": "Safety Data Sheet",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "safety_information",
+            "translation": "Safety Information",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "specification_sheet",
+            "translation": "Specification Sheet",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "troubleshooting_guide",
+            "translation": "Troubleshooting Guide",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "user_guide",
+            "translation": "User Guide",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "user_manual",
+            "translation": "User Manual",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "warranty",
+            "translation": "Warranty",
+            "languageCode": "en_US"
+          }
+        ],
+        "attributeConfiguration": {
+          "options": [
+            {
+              "label": "Application Guide",
+              "value": "application_guide",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Certificate of Analysis",
+              "value": "certificate_of_analysis",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Certificate of Compliance",
+              "value": "certificate_of_compliance",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Compatibility Guide",
+              "value": "compatibility_guide",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Data Act Transparency Declaration",
+              "value": "data_transparency_declaration",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Emergency Use Authorization",
+              "value": "emergency_use_authorization",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Emergency Use Authorization Amendment",
+              "value": "emergency_use_authorization_amendment",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Installation Manual",
+              "value": "installation_manual",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Instructions for Use",
+              "value": "instructions_for_use",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Patient Fact Sheet",
+              "value": "patient_fact_sheet",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Product Certificate of Conformity",
+              "value": "product_certificate_of_conformity",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Provider Fact Sheet",
+              "value": "provider_fact_sheet",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Safety Data Sheet",
+              "value": "safety_data_sheet",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Safety Information",
+              "value": "safety_information",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Specification Sheet",
+              "value": "specification_sheet",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Troubleshooting Guide",
+              "value": "troubleshooting_guide",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "User Guide",
+              "value": "user_guide",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "User Manual",
+              "value": "user_manual",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "Warranty",
+              "value": "warranty",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            }
+          ],
+          "maxLimit": 1,
+          "isMandatory": "recommended",
+          "hasValueGroups": true
+        }
+      },
+      "productGroupsAndAttributesSequence": {
+        "id": 2697946,
+        "sequence": 188
+      },
+      "fallbackValues": {
+        "valueVarchar": "certificate_of_analysis",
+        "valueText": null,
+        "valueInt": null,
+        "valueDecimal": null,
+        "valueDecimal2": null,
+        "valueBoolean": null,
+        "valueDate": null,
+        "valueTime": null,
+        "valueDateAndTime": null,
+        "valueArray": null,
+        "unitOfMeasure": null
+      },
+      "amazonGroupLabel": "Safety & Compliance",
+      "amazonGroupName": "safety_and_compliance",
+      "amazonAttributeDescription": "Please enter the content type of the compliance document.",
+      "amazonAttributePath": ["compliance_media", "content_type"],
+      "evaluatedValues": {
+        "value": null,
+        "value2": null,
+        "fallbackValue": "certificate_of_analysis",
+        "fallbackValue2": null,
+        "baseValue": null,
+        "baseValue2": null,
+        "parentValue": null,
+        "parentValue2": null,
+        "parentFallbackValue": null,
+        "parentFallbackValue2": null,
+        "parentBaseValue": null,
+        "parentBaseValue2": null
+      },
+      "isAccordion": false,
+      "editable": true
+    },
+    {
+      "id": "2697943",
+      "attributeId": "149523",
+      "productAttributeGroupId": "6008",
+      "variantId": null,
+      "languageCode": "en_US",
+      "channelId": null,
+      "valueGroupId": 3,
+      "isActive": true,
+      "isInherited": true,
+      "sequence": 2,
+      "createdAt": "2026-03-02T12:16:14.939Z",
+      "updatedAt": "2026-03-02T12:16:14.939Z",
+      "valueVarchar": null,
+      "valueText": null,
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null,
+      "displayLabel": "Compliance Media Language",
+      "attribute": {
+        "id": 149523,
+        "name": "AM_BOTTLE_compliance_media_content_language",
+        "label": "Compliance Media Language",
+        "displayLabel": "Compliance Media Language",
+        "isVariantKey": false,
+        "attributeType": "dropdownList",
+        "isPrimaryAttribute": false,
+        "attributeTranslations": [
+          {
+            "key": "ar_AE",
+            "translation": "ar_AE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_BH",
+            "translation": "ar_BH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_DZ",
+            "translation": "ar_DZ",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_EG",
+            "translation": "ar_EG",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_IQ",
+            "translation": "ar_IQ",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_JO",
+            "translation": "ar_JO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_KW",
+            "translation": "ar_KW",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_LB",
+            "translation": "ar_LB",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_LY",
+            "translation": "ar_LY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_MA",
+            "translation": "ar_MA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_OM",
+            "translation": "ar_OM",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_QA",
+            "translation": "ar_QA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_SA",
+            "translation": "ar_SA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_SD",
+            "translation": "ar_SD",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_SY",
+            "translation": "ar_SY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_TN",
+            "translation": "ar_TN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ar_YE",
+            "translation": "ar_YE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "az_AZ",
+            "translation": "az_AZ",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "be_BY",
+            "translation": "be_BY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "bg_BG",
+            "translation": "bg_BG",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "bn_IN",
+            "translation": "bn_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "bs_BA",
+            "translation": "bs_BA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ca_AD",
+            "translation": "ca_AD",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ca_ES",
+            "translation": "ca_ES",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "cs_CZ",
+            "translation": "cs_CZ",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "da_DK",
+            "translation": "da_DK",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "de_AT",
+            "translation": "de_AT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "de_CH",
+            "translation": "de_CH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "de_DE",
+            "translation": "de_DE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "de_LU",
+            "translation": "de_LU",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "el_CY",
+            "translation": "el_CY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "el_GR",
+            "translation": "el_GR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_AE",
+            "translation": "en_AE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_AU",
+            "translation": "en_AU",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_CA",
+            "translation": "en_CA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_GB",
+            "translation": "en_GB",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_IE",
+            "translation": "en_IE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_IN",
+            "translation": "en_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_MT",
+            "translation": "en_MT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_NG",
+            "translation": "en_NG",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_NZ",
+            "translation": "en_NZ",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_PH",
+            "translation": "en_PH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_SG",
+            "translation": "en_SG",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_US",
+            "translation": "en_US",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "en_ZA",
+            "translation": "en_ZA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_AR",
+            "translation": "es_AR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_BO",
+            "translation": "es_BO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_CL",
+            "translation": "es_CL",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_CO",
+            "translation": "es_CO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_CR",
+            "translation": "es_CR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_DO",
+            "translation": "es_DO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_EC",
+            "translation": "es_EC",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_ES",
+            "translation": "es_ES",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_GT",
+            "translation": "es_GT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_HN",
+            "translation": "es_HN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_MX",
+            "translation": "es_MX",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_NI",
+            "translation": "es_NI",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_PA",
+            "translation": "es_PA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_PE",
+            "translation": "es_PE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_PR",
+            "translation": "es_PR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_PY",
+            "translation": "es_PY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_SV",
+            "translation": "es_SV",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_US",
+            "translation": "es_US",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_UY",
+            "translation": "es_UY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "es_VE",
+            "translation": "es_VE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "et_EE",
+            "translation": "et_EE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fi_FI",
+            "translation": "fi_FI",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fil",
+            "translation": "fil",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fil_PH",
+            "translation": "fil_PH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fr_BE",
+            "translation": "fr_BE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fr_CA",
+            "translation": "fr_CA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fr_CH",
+            "translation": "fr_CH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fr_FR",
+            "translation": "fr_FR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "fr_LU",
+            "translation": "fr_LU",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ga_IE",
+            "translation": "ga_IE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "gu_IN",
+            "translation": "gu_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "he_IL",
+            "translation": "he_IL",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "hi_IN",
+            "translation": "hi_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "hr_HR",
+            "translation": "hr_HR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "hu_HU",
+            "translation": "hu_HU",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "id_ID",
+            "translation": "id_ID",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "in_ID",
+            "translation": "in_ID",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "is_IS",
+            "translation": "is_IS",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "it_CH",
+            "translation": "it_CH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "it_IT",
+            "translation": "it_IT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "iw_IL",
+            "translation": "iw_IL",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ja_JP",
+            "translation": "ja_JP",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ka_GE",
+            "translation": "ka_GE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "kn_IN",
+            "translation": "kn_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ko_KR",
+            "translation": "ko_KR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "label",
+            "translation": "Compliance Media Language",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "lt_LT",
+            "translation": "lt_LT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "lv_LV",
+            "translation": "lv_LV",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "mk_MK",
+            "translation": "mk_MK",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ml_IN",
+            "translation": "ml_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "mr_IN",
+            "translation": "mr_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ms_MY",
+            "translation": "ms_MY",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "mt_MT",
+            "translation": "mt_MT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "nb_NO",
+            "translation": "nb_NO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "nl_BE",
+            "translation": "nl_BE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "nl_NL",
+            "translation": "nl_NL",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "no_NO",
+            "translation": "no_NO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "pl_PL",
+            "translation": "pl_PL",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "pt_BR",
+            "translation": "pt_BR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "pt_PT",
+            "translation": "pt_PT",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ro_RO",
+            "translation": "ro_RO",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ru_RU",
+            "translation": "ru_RU",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sk_SK",
+            "translation": "sk_SK",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sl_SI",
+            "translation": "sl_SI",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sq_AL",
+            "translation": "sq_AL",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sr_BA",
+            "translation": "sr_BA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sr_CS",
+            "translation": "sr_CS",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sr_ME",
+            "translation": "sr_ME",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sr_RS",
+            "translation": "sr_RS",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "sv_SE",
+            "translation": "sv_SE",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "ta_IN",
+            "translation": "ta_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "te_IN",
+            "translation": "te_IN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "th_TH",
+            "translation": "th_TH",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "tr_TR",
+            "translation": "tr_TR",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "uk_UA",
+            "translation": "uk_UA",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "vi_VN",
+            "translation": "vi_VN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "zh_CN",
+            "translation": "zh_CN",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "zh_HK",
+            "translation": "zh_HK",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "zh_SG",
+            "translation": "zh_SG",
+            "languageCode": "en_US"
+          },
+          {
+            "key": "zh_TW",
+            "translation": "zh_TW",
+            "languageCode": "en_US"
+          }
+        ],
+        "attributeConfiguration": {
+          "options": [
+            {
+              "label": "ar_AE",
+              "value": "ar_AE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_BH",
+              "value": "ar_BH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_DZ",
+              "value": "ar_DZ",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_EG",
+              "value": "ar_EG",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_IQ",
+              "value": "ar_IQ",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_JO",
+              "value": "ar_JO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_KW",
+              "value": "ar_KW",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_LB",
+              "value": "ar_LB",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_LY",
+              "value": "ar_LY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_MA",
+              "value": "ar_MA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_OM",
+              "value": "ar_OM",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_QA",
+              "value": "ar_QA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_SA",
+              "value": "ar_SA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_SD",
+              "value": "ar_SD",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_SY",
+              "value": "ar_SY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_TN",
+              "value": "ar_TN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ar_YE",
+              "value": "ar_YE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "az_AZ",
+              "value": "az_AZ",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "be_BY",
+              "value": "be_BY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "bg_BG",
+              "value": "bg_BG",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "bn_IN",
+              "value": "bn_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "bs_BA",
+              "value": "bs_BA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ca_AD",
+              "value": "ca_AD",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ca_ES",
+              "value": "ca_ES",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "cs_CZ",
+              "value": "cs_CZ",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "da_DK",
+              "value": "da_DK",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "de_AT",
+              "value": "de_AT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "de_CH",
+              "value": "de_CH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "de_DE",
+              "value": "de_DE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "de_LU",
+              "value": "de_LU",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "el_CY",
+              "value": "el_CY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "el_GR",
+              "value": "el_GR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_AE",
+              "value": "en_AE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_AU",
+              "value": "en_AU",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_CA",
+              "value": "en_CA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_GB",
+              "value": "en_GB",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_IE",
+              "value": "en_IE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_IN",
+              "value": "en_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_MT",
+              "value": "en_MT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_NG",
+              "value": "en_NG",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_NZ",
+              "value": "en_NZ",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_PH",
+              "value": "en_PH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_SG",
+              "value": "en_SG",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_US",
+              "value": "en_US",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "en_ZA",
+              "value": "en_ZA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_AR",
+              "value": "es_AR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_BO",
+              "value": "es_BO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_CL",
+              "value": "es_CL",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_CO",
+              "value": "es_CO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_CR",
+              "value": "es_CR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_DO",
+              "value": "es_DO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_EC",
+              "value": "es_EC",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_ES",
+              "value": "es_ES",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_GT",
+              "value": "es_GT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_HN",
+              "value": "es_HN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_MX",
+              "value": "es_MX",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_NI",
+              "value": "es_NI",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_PA",
+              "value": "es_PA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_PE",
+              "value": "es_PE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_PR",
+              "value": "es_PR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_PY",
+              "value": "es_PY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_SV",
+              "value": "es_SV",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_US",
+              "value": "es_US",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_UY",
+              "value": "es_UY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "es_VE",
+              "value": "es_VE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "et_EE",
+              "value": "et_EE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fi_FI",
+              "value": "fi_FI",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fil",
+              "value": "fil",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fil_PH",
+              "value": "fil_PH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fr_BE",
+              "value": "fr_BE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fr_CA",
+              "value": "fr_CA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fr_CH",
+              "value": "fr_CH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fr_FR",
+              "value": "fr_FR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "fr_LU",
+              "value": "fr_LU",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ga_IE",
+              "value": "ga_IE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "gu_IN",
+              "value": "gu_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "he_IL",
+              "value": "he_IL",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "hi_IN",
+              "value": "hi_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "hr_HR",
+              "value": "hr_HR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "hu_HU",
+              "value": "hu_HU",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "id_ID",
+              "value": "id_ID",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "in_ID",
+              "value": "in_ID",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "is_IS",
+              "value": "is_IS",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "it_CH",
+              "value": "it_CH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "it_IT",
+              "value": "it_IT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "iw_IL",
+              "value": "iw_IL",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ja_JP",
+              "value": "ja_JP",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ka_GE",
+              "value": "ka_GE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "kn_IN",
+              "value": "kn_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ko_KR",
+              "value": "ko_KR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "lt_LT",
+              "value": "lt_LT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "lv_LV",
+              "value": "lv_LV",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "mk_MK",
+              "value": "mk_MK",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ml_IN",
+              "value": "ml_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "mr_IN",
+              "value": "mr_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ms_MY",
+              "value": "ms_MY",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "mt_MT",
+              "value": "mt_MT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "nb_NO",
+              "value": "nb_NO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "nl_BE",
+              "value": "nl_BE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "nl_NL",
+              "value": "nl_NL",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "no_NO",
+              "value": "no_NO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "pl_PL",
+              "value": "pl_PL",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "pt_BR",
+              "value": "pt_BR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "pt_PT",
+              "value": "pt_PT",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ro_RO",
+              "value": "ro_RO",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ru_RU",
+              "value": "ru_RU",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sk_SK",
+              "value": "sk_SK",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sl_SI",
+              "value": "sl_SI",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sq_AL",
+              "value": "sq_AL",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sr_BA",
+              "value": "sr_BA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sr_CS",
+              "value": "sr_CS",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sr_ME",
+              "value": "sr_ME",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sr_RS",
+              "value": "sr_RS",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "sv_SE",
+              "value": "sv_SE",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "ta_IN",
+              "value": "ta_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "te_IN",
+              "value": "te_IN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "th_TH",
+              "value": "th_TH",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "tr_TR",
+              "value": "tr_TR",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "uk_UA",
+              "value": "uk_UA",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "vi_VN",
+              "value": "vi_VN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "zh_CN",
+              "value": "zh_CN",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "zh_HK",
+              "value": "zh_HK",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "zh_SG",
+              "value": "zh_SG",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            },
+            {
+              "label": "zh_TW",
+              "value": "zh_TW",
+              "marketplaceLanguage": [
+                "en_US",
+                "en_CA",
+                "es_MX",
+                "de_DE",
+                "hi",
+                "zh_CN",
+                "zh_TW"
+              ]
+            }
+          ],
+          "maxLimit": 1,
+          "isMandatory": "recommended",
+          "hasValueGroups": true
+        }
+      },
+      "productGroupsAndAttributesSequence": {
+        "id": 2697943,
+        "sequence": 185
+      },
+      "fallbackValues": {
+        "valueVarchar": "de_DE",
+        "valueText": null,
+        "valueInt": null,
+        "valueDecimal": null,
+        "valueDecimal2": null,
+        "valueBoolean": null,
+        "valueDate": null,
+        "valueTime": null,
+        "valueDateAndTime": null,
+        "valueArray": null,
+        "unitOfMeasure": null
+      },
+      "amazonGroupLabel": "Safety & Compliance",
+      "amazonGroupName": "safety_and_compliance",
+      "amazonAttributeDescription": "Provide the language used for the content of the compliance media.",
+      "amazonAttributePath": ["compliance_media", "content_language"],
+      "evaluatedValues": {
+        "value": null,
+        "value2": null,
+        "fallbackValue": "de_DE",
+        "fallbackValue2": null,
+        "baseValue": null,
+        "baseValue2": null,
+        "parentValue": null,
+        "parentValue2": null,
+        "parentFallbackValue": null,
+        "parentFallbackValue2": null,
+        "parentBaseValue": null,
+        "parentBaseValue2": null
+      },
+      "isAccordion": false,
+      "editable": true
+    },
+    {
+      "id": "2697940",
+      "attributeId": "149524",
+      "productAttributeGroupId": "6008",
+      "variantId": null,
+      "languageCode": "en_US",
+      "channelId": null,
+      "valueGroupId": 3,
+      "isActive": true,
+      "isInherited": true,
+      "sequence": 3,
+      "createdAt": "2026-03-02T12:16:14.939Z",
+      "updatedAt": "2026-03-02T12:16:14.939Z",
+      "valueVarchar": null,
+      "valueText": null,
+      "valueInt": null,
+      "valueDecimal": null,
+      "valueDecimal2": null,
+      "valueBoolean": null,
+      "valueDate": null,
+      "valueTime": null,
+      "valueDateAndTime": null,
+      "valueArray": null,
+      "unitOfMeasure": null,
+      "displayLabel": "Compliance Media Source Location",
+      "attribute": {
+        "id": 149524,
+        "name": "AM_BOTTLE_compliance_media_source_location",
+        "label": "Compliance Media Source Location",
+        "displayLabel": "Compliance Media Source Location",
+        "isVariantKey": false,
+        "attributeType": "text",
+        "isPrimaryAttribute": false,
+        "attributeTranslations": [
+          {
+            "key": "label",
+            "translation": "Compliance Media Source Location",
+            "languageCode": "en_US"
+          }
+        ],
+        "attributeConfiguration": {
+          "options": [],
+          "isMandatory": "recommended",
+          "maximumValue": 1,
+          "minimumValue": 1,
+          "hasValueGroups": true,
+          "allowMultipleValues": true
+        }
+      },
+      "productGroupsAndAttributesSequence": {
+        "id": 2697940,
+        "sequence": 182
+      },
+      "fallbackValues": {
+        "valueVarchar": null,
+        "valueText": null,
+        "valueInt": null,
+        "valueDecimal": null,
+        "valueDecimal2": null,
+        "valueBoolean": null,
+        "valueDate": null,
+        "valueTime": null,
+        "valueDateAndTime": null,
+        "valueArray": ["1234"],
+        "unitOfMeasure": null
+      },
+      "amazonGroupLabel": "Safety & Compliance",
+      "amazonGroupName": "safety_and_compliance",
+      "amazonAttributeDescription": "Provide the source location of the compliance media.",
+      "amazonAttributePath": ["compliance_media", "source_location"],
+      "evaluatedValues": {
+        "value": null,
+        "value2": null,
+        "fallbackValue": ["1234"],
+        "fallbackValue2": null,
+        "baseValue": null,
+        "baseValue2": null,
+        "parentValue": null,
+        "parentValue2": null,
+        "parentFallbackValue": null,
+        "parentFallbackValue2": null,
+        "parentBaseValue": null,
+        "parentBaseValue2": null
+      },
+      "isAccordion": false,
+      "editable": true
+    }
+  ]
+}
