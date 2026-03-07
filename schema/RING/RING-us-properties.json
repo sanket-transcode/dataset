@@ -92,10 +92,11 @@
               "COLLECTION/RING_SIZE",
               "COLOR/INITIAL_CHARACTER",
               "COLOR/MATERIAL",
+              "COLOR/SIZE",
+              "COLOR/SIZE/NUMBER_OF_ITEMS",
               "COLOR_NAME",
               "COLOR_NAME/ITEM_DISPLAY_LENGTH",
               "COLOR_NAME/ITEM_PACKAGE_QUANTITY",
-              "COLOR_NAME/MAGNIFICATION_STRENGTH",
               "COLOR_NAME/MATERIAL_TYPE",
               "COLOR_NAME/METAL_TYPE",
               "COLOR_NAME/NUMBER_OF_ITEMS",
@@ -107,21 +108,21 @@
               "COLOR_NAME/STYLE_NAME",
               "COLOR_NAME/STYLE_NAME/PATTERN_NAME",
               "COLOR_NAME/TOTAL_DIAMOND_WEIGHT/RING_SIZE",
-              "CONFIGURATION",
               "EDITION",
-              "FLAVOR/SIZE",
               "FLAVOR_NAME",
-              "HARDWARE_PLATFORM",
+              "GEM_TYPE/SIZE",
+              "GEM_TYPE/STONE_WIDTH",
               "INITIAL_CHARACTER",
               "INITIAL_CHARACTER/METAL_TYPE",
               "INITIAL_CHARACTER/METAL_TYPE/RING_SIZE",
               "INITIAL_CHARACTER/RING_SIZE",
               "INITIAL_CHARACTER/SET_NAME",
-              "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE",
+              "ITEM_DIAMETER_STRING",
               "ITEM_DISPLAY_DIAMETER",
               "ITEM_DISPLAY_LENGTH",
               "ITEM_DISPLAY_LENGTH/METAL_TYPE",
               "ITEM_DISPLAY_LENGTH/STYLE_NAME",
+              "ITEM_PACKAGE_QUANTITY",
               "ITEM_PACKAGE_QUANTITY/COLOR_NAME",
               "ITEM_PACKAGE_QUANTITY/SIZE_NAME",
               "ITEM_PACKAGE_QUANTITY/STYLE_NAME",
@@ -140,28 +141,46 @@
               "METAL_TYPE/COLOR_NAME/RING_SIZE",
               "METAL_TYPE/GEM_TYPE",
               "METAL_TYPE/METAL_STAMP",
+              "METAL_TYPE/RING_SIZE/STONE_WIDTH",
+              "METAL_TYPE/STONE_WIDTH",
               "MODEL/SIZE_NAME",
               "MODEL_NUMBER/STYLE/PART_NUMBER",
+              "NUMBER_OF_ITEMS/SIZE/THEME",
+              "NUMBER_OF_ITEMS/STONE_WIDTH",
               "NUMBER_OF_ITEMS/STYLE_NAME",
               "PATTERN_NAME",
+              "PEARL_TYPE",
               "PLATFORM_FOR_DISPLAY",
-              "PLATFORM_FOR_DISPLAY/EDITION",
+              "PRIMARY_STONE_GEM_TYPE",
+              "PRIMARY_STONE_GEM_TYPE/RING_SIZE",
               "RING_SIZE/GEM_TYPE",
               "RING_SIZE/ITEM_DISPLAY_WIDTH",
               "RING_SIZE/ITEM_DISPLAY_WIDTH/COLOR_NAME",
               "RING_SIZE/METAL_TYPE",
+              "RING_SIZE/METAL_TYPE/ITEM_WEIGHT",
+              "RING_SIZE/STONE_WIDTH",
               "SCENT_NAME",
+              "SIZE",
               "SIZE/COLOR",
+              "SIZE/ITEM_WIDTH",
               "SIZE/NUMBER_OF_ITEMS",
+              "SIZE/PENDANT_DESCRIPTION/COLOR",
+              "SIZE/STONE_WEIGHT",
+              "SIZE/STYLE",
+              "SIZE/STYLE/COLOR",
               "SIZE_NAME",
               "SIZE_NAME/COLOR_NAME",
               "SIZE_NAME/COLOR_NAME/NUMBER_OF_ITEMS",
+              "SIZE_NAME/METAL_TYPE",
+              "SIZE_NAME/NUMBER_OF_ITEMS",
               "SIZE_NAME/PATTERN_NAME",
-              "SIZE_NAME/SCENT_NAME",
               "SIZE_NAME/STYLE_NAME",
               "SIZE_NAME/STYLE_NAME/COLOR_NAME",
-              "SIZE_NAME/UNIT_COUNT",
+              "STONE_COLOR/STONE_WIDTH",
               "STONE_SHAPE/METAL_TYPE",
+              "STONE_WIDTH",
+              "STONE_WIDTH/METAL_TYPE/GEM_TYPE",
+              "STONE_WIDTH/METAL_TYPE/STONE_COLOR",
               "STYLE/COLOR",
               "STYLE/COLOR/SIZE",
               "STYLE/MATERIAL",
@@ -170,7 +189,6 @@
               "STYLE_NAME/COLOR_NAME",
               "STYLE_NAME/COLOR_NAME/SIZE_NAME",
               "STYLE_NAME/MATERIAL_TYPE",
-              "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER",
               "STYLE_NAME/PATTERN_NAME",
               "STYLE_NAME/RING_SIZE",
               "STYLE_NAME/SIZE_NAME",
@@ -179,7 +197,8 @@
               "TEAM_NAME/ATHLETE/SIZE_NAME/COLOR_NAME",
               "TEAM_NAME/COLOR_NAME",
               "TEAM_NAME/SIZE_NAME",
-              "TEAM_NAME/SIZE_NAME/COLOR_NAME"
+              "TEAM_NAME/SIZE_NAME/COLOR_NAME",
+              "THEME/SIZE"
             ]
           },
           "editable": true,
@@ -224,7 +243,6 @@
             "COLOR_NAME/GEM_TYPE",
             "COLOR_NAME/ITEM_DISPLAY_LENGTH",
             "COLOR_NAME/ITEM_PACKAGE_QUANTITY",
-            "COLOR_NAME/MAGNIFICATION_STRENGTH",
             "COLOR_NAME/MATERIAL_TYPE",
             "COLOR_NAME/METAL_TYPE",
             "COLOR_NAME/NUMBER_OF_ITEMS",
@@ -236,9 +254,7 @@
             "COLOR_NAME/STYLE_NAME",
             "COLOR_NAME/STYLE_NAME/PATTERN_NAME",
             "COLOR_NAME/TOTAL_DIAMOND_WEIGHT/RING_SIZE",
-            "CONFIGURATION",
             "EDITION",
-            "FLAVOR/SIZE",
             "FLAVOR_NAME",
             "GEM_BIRTHSTONE_MONTH",
             "GEM_BIRTHSTONE_MONTH/METAL_TYPE",
@@ -272,13 +288,11 @@
             "GEM_TYPE/TOTAL_GEM_WEIGHT",
             "GEM_TYPE/TOTAL_GEM_WEIGHT/RING_SIZE",
             "GRADE_RATING",
-            "HARDWARE_PLATFORM",
             "INITIAL_CHARACTER",
             "INITIAL_CHARACTER/METAL_TYPE",
             "INITIAL_CHARACTER/METAL_TYPE/RING_SIZE",
             "INITIAL_CHARACTER/RING_SIZE",
             "INITIAL_CHARACTER/SET_NAME",
-            "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE",
             "ITEM_DIAMETER_STRING",
             "ITEM_DISPLAY_DIAMETER",
             "ITEM_DISPLAY_LENGTH",
@@ -375,7 +389,6 @@
             "PENDANT_DESCRIPTION",
             "PENDANT_DESCRIPTION/RING_SIZE",
             "PLATFORM_FOR_DISPLAY",
-            "PLATFORM_FOR_DISPLAY/EDITION",
             "PRIMARY_STONE_GEM_TYPE",
             "PRIMARY_STONE_GEM_TYPE/RING_SIZE",
             "RING_SIZE",
@@ -431,10 +444,8 @@
             "SIZE_NAME/NUMBER_OF_ITEMS",
             "SIZE_NAME/PATTERN_NAME",
             "SIZE_NAME/RING_SIZE",
-            "SIZE_NAME/SCENT_NAME",
             "SIZE_NAME/STYLE_NAME",
             "SIZE_NAME/STYLE_NAME/COLOR_NAME",
-            "SIZE_NAME/UNIT_COUNT",
             "SIZE_PER_PEARL",
             "STONE_CLARITY",
             "STONE_COLOR",
@@ -477,7 +488,6 @@
             "STYLE_NAME/COLOR_NAME",
             "STYLE_NAME/COLOR_NAME/SIZE_NAME",
             "STYLE_NAME/MATERIAL_TYPE",
-            "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER",
             "STYLE_NAME/PATTERN_NAME",
             "STYLE_NAME/RING_SIZE",
             "STYLE_NAME/SIZE_NAME",
@@ -533,7 +543,6 @@
             "COLOR_NAME/GEM_TYPE",
             "COLOR_NAME/ITEM_DISPLAY_LENGTH",
             "COLOR_NAME/ITEM_PACKAGE_QUANTITY",
-            "COLOR_NAME/MAGNIFICATION_STRENGTH",
             "COLOR_NAME/MATERIAL_TYPE",
             "COLOR_NAME/METAL_TYPE",
             "COLOR_NAME/NUMBER_OF_ITEMS",
@@ -545,9 +554,7 @@
             "COLOR_NAME/STYLE_NAME",
             "COLOR_NAME/STYLE_NAME/PATTERN_NAME",
             "COLOR_NAME/TOTAL_DIAMOND_WEIGHT/RING_SIZE",
-            "CONFIGURATION",
             "EDITION",
-            "FLAVOR/SIZE",
             "FLAVOR_NAME",
             "GEM_BIRTHSTONE_MONTH",
             "GEM_BIRTHSTONE_MONTH/METAL_TYPE",
@@ -581,13 +588,11 @@
             "GEM_TYPE/TOTAL_GEM_WEIGHT",
             "GEM_TYPE/TOTAL_GEM_WEIGHT/RING_SIZE",
             "GRADE_RATING",
-            "HARDWARE_PLATFORM",
             "INITIAL_CHARACTER",
             "INITIAL_CHARACTER/METAL_TYPE",
             "INITIAL_CHARACTER/METAL_TYPE/RING_SIZE",
             "INITIAL_CHARACTER/RING_SIZE",
             "INITIAL_CHARACTER/SET_NAME",
-            "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE",
             "ITEM_DIAMETER_STRING",
             "ITEM_DISPLAY_DIAMETER",
             "ITEM_DISPLAY_LENGTH",
@@ -684,7 +689,6 @@
             "PENDANT_DESCRIPTION",
             "PENDANT_DESCRIPTION/RING_SIZE",
             "PLATFORM_FOR_DISPLAY",
-            "PLATFORM_FOR_DISPLAY/EDITION",
             "PRIMARY_STONE_GEM_TYPE",
             "PRIMARY_STONE_GEM_TYPE/RING_SIZE",
             "RING_SIZE",
@@ -740,10 +744,8 @@
             "SIZE_NAME/NUMBER_OF_ITEMS",
             "SIZE_NAME/PATTERN_NAME",
             "SIZE_NAME/RING_SIZE",
-            "SIZE_NAME/SCENT_NAME",
             "SIZE_NAME/STYLE_NAME",
             "SIZE_NAME/STYLE_NAME/COLOR_NAME",
-            "SIZE_NAME/UNIT_COUNT",
             "SIZE_PER_PEARL",
             "STONE_CLARITY",
             "STONE_COLOR",
@@ -786,7 +788,6 @@
             "STYLE_NAME/COLOR_NAME",
             "STYLE_NAME/COLOR_NAME/SIZE_NAME",
             "STYLE_NAME/MATERIAL_TYPE",
-            "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER",
             "STYLE_NAME/PATTERN_NAME",
             "STYLE_NAME/RING_SIZE",
             "STYLE_NAME/SIZE_NAME",
@@ -1044,7 +1045,7 @@
                 "Clothing, Shoes & Jewelry > Women > Jewelry > Wedding & Engagement > Ring Enhancers",
                 "Clothing, Shoes & Jewelry > Women > Jewelry > Wedding & Engagement > Wedding Bands",
                 "Home & Kitchen > Event & Party Supplies > Favors > Jewelry Packs > Ring Packs",
-                "Sports & Outdoors > Sports Fan Shop > Jewelry & Watches > Rings",
+                "Sports & Outdoors > Fan Shop > Jewelry & Watches > Rings",
                 "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Jewelry > Rings"
               ]
             }
@@ -6311,77 +6312,6 @@
       "additionalProperties": false
     }
   },
-  "inscription": {
-    "title": "Inscription",
-    "description": "The word or words inscribed on the product",
-    "examples": ["Mom, Sister, God Bless, Love Always"],
-    "type": "array",
-    "minItems": 1,
-    "minUniqueItems": 1,
-    "maxUniqueItems": 1,
-    "selectors": ["marketplace_id", "language_tag"],
-    "items": {
-      "type": "object",
-      "required": ["language_tag", "value"],
-      "properties": {
-        "value": {
-          "title": "Inscription",
-          "description": "Provide the word or words inscribed on the product",
-          "editable": true,
-          "hidden": false,
-          "examples": ["Mom, Sister, God Bless, Love Always"],
-          "type": "string",
-          "maxLength": 865
-        },
-        "language_tag": {
-          "$ref": "#/$defs/language_tag"
-        },
-        "marketplace_id": {
-          "$ref": "#/$defs/marketplace_id"
-        }
-      },
-      "additionalProperties": false
-    }
-  },
-  "magnification_strength": {
-    "title": "Magnification Strength",
-    "description": "Used to explain magnification strength of an item to the customer, measured in diopters.",
-    "examples": ["1 diopters, 1.5 diopters, 2 diopters"],
-    "type": "array",
-    "minItems": 1,
-    "minUniqueItems": 1,
-    "maxUniqueItems": 1,
-    "selectors": ["marketplace_id"],
-    "items": {
-      "type": "object",
-      "required": ["unit", "value"],
-      "properties": {
-        "value": {
-          "title": "Magnification Strength",
-          "description": "Provide the magnification strength of the item",
-          "editable": true,
-          "hidden": false,
-          "examples": ["1, 1.5, 2"],
-          "type": "number",
-          "maximum": 100200300
-        },
-        "unit": {
-          "title": "Magnification Strength Unit",
-          "description": "Select the corresponding unit",
-          "editable": true,
-          "hidden": false,
-          "examples": ["diopters"],
-          "type": "string",
-          "enum": ["diopters", "multiplier_x"],
-          "enumNames": ["Diopters", "x"]
-        },
-        "marketplace_id": {
-          "$ref": "#/$defs/marketplace_id"
-        }
-      },
-      "additionalProperties": false
-    }
-  },
   "edition": {
     "title": "Edition",
     "description": "Provide the version or edition of the item",
@@ -6403,70 +6333,6 @@
           "examples": ["Special Edition,Standard Edition"],
           "type": "string",
           "maxLength": 4582
-        },
-        "language_tag": {
-          "$ref": "#/$defs/language_tag"
-        },
-        "marketplace_id": {
-          "$ref": "#/$defs/marketplace_id"
-        }
-      },
-      "additionalProperties": false
-    }
-  },
-  "configuration": {
-    "title": "Configuration",
-    "description": "Indicate the configuration of the item",
-    "examples": ["AWD Configuration"],
-    "type": "array",
-    "minItems": 1,
-    "minUniqueItems": 1,
-    "maxUniqueItems": 1,
-    "selectors": ["marketplace_id", "language_tag"],
-    "items": {
-      "type": "object",
-      "required": ["language_tag", "value"],
-      "properties": {
-        "value": {
-          "title": "Configuration",
-          "description": "Indicate the configuration of the item",
-          "editable": true,
-          "hidden": false,
-          "examples": ["AWD Configuration"],
-          "type": "string",
-          "maxLength": 3261
-        },
-        "language_tag": {
-          "$ref": "#/$defs/language_tag"
-        },
-        "marketplace_id": {
-          "$ref": "#/$defs/marketplace_id"
-        }
-      },
-      "additionalProperties": false
-    }
-  },
-  "hardware_platform": {
-    "title": "Hardware Platform",
-    "description": "Provide the product's hardware platform",
-    "examples": ["Xbox, PlayStation"],
-    "type": "array",
-    "minItems": 1,
-    "minUniqueItems": 1,
-    "maxUniqueItems": 16,
-    "selectors": ["marketplace_id", "language_tag"],
-    "items": {
-      "type": "object",
-      "required": ["language_tag", "value"],
-      "properties": {
-        "value": {
-          "title": "Hardware Platform",
-          "description": "Provide the hardware platform",
-          "editable": true,
-          "hidden": false,
-          "examples": ["PC"],
-          "type": "string",
-          "maxLength": 4470
         },
         "language_tag": {
           "$ref": "#/$defs/language_tag"
@@ -6787,7 +6653,7 @@
   "product_site_launch_date": {
     "title": "Product Site Launch Date",
     "description": "Provide the date the product launches and should first be shown on the Amazon website (YYYY-MM-DD format). PSLD does not impact buyability or pre-order logic, it is used to indicate when a product will be visible and searchable on the Amazon website",
-    "examples": ["2017-07-20"],
+    "examples": ["2023-11-04"],
     "type": "array",
     "minItems": 1,
     "minUniqueItems": 1,
@@ -12340,7 +12206,7 @@
   "merchant_release_date": {
     "title": "Merchant Release Date",
     "description": "Provide the merchant release date using YYYY-MM-DD format",
-    "examples": ["2017-07-20"],
+    "examples": ["2023-11-04"],
     "type": "array",
     "minItems": 1,
     "minUniqueItems": 1,

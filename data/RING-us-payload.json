@@ -128,7 +128,7 @@
   "jewelry_material_categorization": [
     {
       "marketplace_id": "ATVPDKIKX0DER",
-      "value": "fashion"
+      "value": "fine"
     }
   ],
   "material": [
@@ -161,7 +161,12 @@
     {
       "marketplace_id": "ATVPDKIKX0DER",
       "language_tag": "en_US",
-      "value": "Diamond"
+      "value": "Pearl"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Abalone"
     }
   ],
   "setting_type": [

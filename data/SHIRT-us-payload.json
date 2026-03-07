@@ -1,0 +1,271 @@
+{
+  "product_description": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product Description"
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "sdf gsdfgdfg sdfg sdfgdsfg sdfg dsf"
+    }
+  ],
+  "style": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "dfgdfdfsg"
+    }
+  ],
+  "department": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "sdfgsdfg"
+    }
+  ],
+  "target_gender": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "female"
+    }
+  ],
+  "age_range_description": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Big Kid"
+    }
+  ],
+  "shirt_size": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "size": "0_month",
+      "size_class": "age",
+      "size_system": "as1"
+    }
+  ],
+  "fabric_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "100% Cotton"
+    }
+  ],
+  "color": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "standardized_values": [["Beige"]]
+    }
+  ],
+  "fit_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Semi Fit"
+    }
+  ],
+  "care_instructions": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Dry Clean Only"
+    }
+  ],
+  "height": {
+    "unit": "centimeters",
+    "value": 10
+  },
+  "width": {
+    "value": 15,
+    "unit": "centimeters"
+  },
+  "length": {
+    "unit": "centimeters",
+    "value": 10
+  },
+  "diameter": {},
+  "depth": {},
+  "pattern": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Solid"
+    }
+  ],
+  "type": [
+    {
+      "language_tag": "en_US",
+      "value": "Half Sleeve"
+    }
+  ],
+  "product_site_launch_date": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "2025-01-08T13:39:45.863Z"
+    }
+  ],
+  "neck_style": [
+    {
+      "language_tag": "en_US",
+      "value": "Boat Neck"
+    }
+  ],
+  "skip_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "fulfillment_channel_code": "DEFAULT",
+      "restock_date": "2025-11-05T18:30:00.000Z",
+      "quantity": 0
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "audience": "ALL",
+      "start_at": {
+        "value": "2025-01-08T13:40:39.242Z"
+      },
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "start_at": {
+    "value": "2025-01-08T13:40:39.242Z"
+  },
+  "end_at": {},
+  "merchandising_rule": {},
+  "condition_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "new_new"
+    }
+  ],
+  "list_price": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 97,
+      "currency": "USD"
+    }
+  ],
+  "merchant_shipping_group": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "temp-value"
+    }
+  ],
+  "import_designation": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Imported"
+    }
+  ],
+  "item_package_weight": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "unit": "grams",
+      "value": 9
+    }
+  ],
+  "country_of_origin": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "US"
+    }
+  ],
+  "item_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product name"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Generic"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": true
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "t-shirt"
+    }
+  ],
+  "model_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "dfsgsdfgsdf"
+    }
+  ],
+  "unspsc_code": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "53101600"
+    }
+  ],
+  "neck": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "neck_style": [
+        {
+          "language_tag": "en_US",
+          "value": "Boat Neck"
+        }
+      ]
+    }
+  ],
+  "sleeve": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "type": [
+        {
+          "language_tag": "en_US",
+          "value": "Half Sleeve"
+        }
+      ]
+    }
+  ],
+  "item_package_dimensions": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "height": {
+        "unit": "centimeters",
+        "value": 10
+      },
+      "width": {
+        "value": 15,
+        "unit": "centimeters"
+      },
+      "length": {
+        "unit": "centimeters",
+        "value": 10
+      }
+    }
+  ]
+}

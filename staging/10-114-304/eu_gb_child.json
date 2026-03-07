@@ -1,0 +1,93 @@
+[
+  {
+    "sku": "25747656856860977137",
+    "asin": "B0FS71N5X5",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, Navy, 18\" × 18'', Regular",
+    "isEnriched": false,
+    "variantId": "15082"
+  },
+  {
+    "sku": "26579877305424590073",
+    "asin": "B0FS71GX9Z",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, White, 18\" × 18''",
+    "isEnriched": false,
+    "variantId": "15083"
+  },
+  {
+    "sku": "16410027131999954160",
+    "asin": "B0FS731NBK",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, Navy, 13\" × 13''",
+    "isEnriched": false,
+    "variantId": "15084"
+  },
+  {
+    "sku": "30366969356370446492",
+    "asin": "B0FS6WQNVK",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, Navy, 16\" × 16'', Regular",
+    "isEnriched": false,
+    "variantId": "15085"
+  },
+  {
+    "sku": "12096201412803655612",
+    "asin": "B0FS71G98L",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, Black, 18\" × 18''",
+    "isEnriched": false,
+    "variantId": "15086"
+  },
+  {
+    "sku": "26332062757315414125",
+    "asin": "B0FS6WTZJB",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, Black, 13\" × 13'', Regular",
+    "isEnriched": false,
+    "variantId": "15087"
+  },
+  {
+    "sku": "99471520249339163797",
+    "asin": "B0FS71BPWZ",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea, Beige, 16\" × 16''",
+    "isEnriched": false,
+    "variantId": "15088"
+  }
+]

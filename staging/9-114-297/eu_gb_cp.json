@@ -1,0 +1,314 @@
+[
+  {
+    "sku": null,
+    "asin": null,
+    "winnerSku": null,
+    "isStandaloneProduct": false,
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "sourceMarketplace": "A1F83G8C2ARO7P",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "isProductExist": true,
+    "productId": 3908,
+    "wrappers": [
+      {
+        "sku": null,
+        "asin": "B0FSMCHX83",
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "Totes",
+                "classificationId": "1769569031"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "catalogSummary": [
+            {
+              "marketplaceId": "A1F83G8C2ARO7P",
+              "adultProduct": false,
+              "autographed": false,
+              "brand": "GENERIC",
+              "browseClassification": {
+                "displayName": "Totes",
+                "classificationId": "1769569031"
+              },
+              "itemClassification": "VARIATION_PARENT",
+              "itemName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+              "memorabilia": false,
+              "style": "Regular",
+              "tradeInEligible": false,
+              "websiteDisplayGroup": "apparel_display_on_website",
+              "websiteDisplayGroupName": "Apparel"
+            }
+          ],
+          "attributes": {
+            "variation_theme": [
+              {
+                "name": "COLOR/SIZE",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_length_width_height": [
+              {
+                "length": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "width": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "number_of_compartments": [
+              {
+                "value": 1,
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "model_name": [
+              {
+                "language_tag": "en_GB",
+                "value": "Generic",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "age_range_description": [
+              {
+                "language_tag": "en_GB",
+                "value": "Adult",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "recommended_browse_nodes": [
+              {
+                "value": "11961407031",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "value": "1769569031",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "bullet_point": [
+              {
+                "language_tag": "en_GB",
+                "value": "100% polyester body for durability and quick-drying properties",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Reinforced stitching on handles enhances strength",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Boxed corners provide extra space for storage",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Available in multiple sizes to suit different needs",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              },
+              {
+                "language_tag": "en_GB",
+                "value": "Five color handle options for a personalized touch",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_dimensions": [
+              {
+                "width": {
+                  "unit": "inches",
+                  "value": 3
+                },
+                "length": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "height": {
+                  "unit": "inches",
+                  "value": 16
+                },
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_description": [
+              {
+                "language_tag": "en_GB",
+                "value": "Elevate your everyday style with this vibrant tote bag, featuring a charming design that instantly brings a smile. Perfect for nature enthusiasts and book lovers alike, this bag is not only a practical accessory but also a fun conversation starter. Whether you’re heading to the library, a picnic, or just running errands, its durable polyester fabric ensures it can handle all your essentials. The tote’s cheerful vibe makes it an excellent gift for occasions like birthdays, holidays, or just as a thoughtful surprise for a friend. With multiple color handle options and sizes, it’s versatile enough to fit anyone's needs while adding a touch of whimsy to their day. Product features - 100% polyester body for durability and quick-drying properties - Reinforced stitching on handles enhances strength - Boxed corners provide extra space for storage - Available in multiple sizes to suit different needs - Five color handle options for a personalized touch Care instructions - Remove all items from the bag before cleaning. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or a soft bristle brush. Let the bag air dry.",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "department": [
+              {
+                "language_tag": "en_GB",
+                "value": "Unisex",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "supplier_declared_dg_hz_regulation": [
+              {
+                "value": "not_applicable",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "brand": [
+              {
+                "language_tag": "en_GB",
+                "value": "GENERIC",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "closure": [
+              {
+                "type": [
+                  {
+                    "language_tag": "en_GB",
+                    "value": "Buckle"
+                  }
+                ],
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "lining_description": [
+              {
+                "language_tag": "en_GB",
+                "value": "Polyester",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "outer": [
+              {
+                "material": [
+                  {
+                    "language_tag": "en_GB",
+                    "value": "Polyester"
+                  }
+                ],
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "item_name": [
+              {
+                "language_tag": "en_GB",
+                "value": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "strap_type": [
+              {
+                "language_tag": "en_GB",
+                "value": "Shoulder",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "inner": [
+              {
+                "material": [
+                  {
+                    "language_tag": "en_GB",
+                    "value": "Polyester"
+                  }
+                ],
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "fabric_type": [
+              {
+                "language_tag": "en_GB",
+                "value": "Polyester",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "product_site_launch_date": [
+              {
+                "value": "2025-09-25T18:23:02.799Z",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ],
+            "style": [
+              {
+                "language_tag": "en_GB",
+                "value": "Regular",
+                "marketplace_id": "A1F83G8C2ARO7P"
+              }
+            ]
+          }
+        },
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "COLOR/SIZE",
+        "variants": [
+          {
+            "sku": "25747656856860977137",
+            "asin": "B0FS71N5X5"
+          },
+          {
+            "sku": "26579877305424590073",
+            "asin": "B0FS71GX9Z"
+          },
+          {
+            "sku": "12096201412803655612",
+            "asin": "B0FS71G98L"
+          },
+          {
+            "sku": "16410027131999954160",
+            "asin": "B0FS731NBK"
+          },
+          {
+            "sku": "30366969356370446492",
+            "asin": "B0FS6WQNVK"
+          }
+        ],
+        "score": 5,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": false,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "114",
+        "wrapperId": "1687"
+      },
+      {
+        "sku": null,
+        "asin": null,
+        "marketplaceId": "A1F83G8C2ARO7P",
+        "metaData": {},
+        "name": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+        "variationTheme": "STYLE",
+        "variants": [],
+        "score": 0,
+        "shouldProcess": true,
+        "isWinnerWrapper": false,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": false,
+        "isOldWrapper": true,
+        "channelId": 114,
+        "wrapperId": "1691"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-translation",
+    "baseLanguageMarketplaceId": null,
+    "translationCompleted": false
+  }
+]

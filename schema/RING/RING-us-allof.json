@@ -496,7 +496,6 @@
                   "name": {
                     "enum": [
                       "MODEL_NUMBER/STYLE/PART_NUMBER",
-                      "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER",
                       "MODEL/SIZE_NAME"
                     ]
                   }
@@ -581,7 +580,6 @@
                       "SIZE/STYLE/COLOR",
                       "STYLE_NAME/COLOR_NAME/SIZE_NAME",
                       "STYLE/UNIT_COUNT",
-                      "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER",
                       "STYLE_NAME/UNIT_COUNT",
                       "SIZE/STYLE"
                     ]
@@ -930,7 +928,6 @@
                       "NUMBER_OF_ITEMS/STYLE_NAME",
                       "NUMBER_OF_ITEMS/STYLE",
                       "SIZE_NAME/COLOR_NAME/NUMBER_OF_ITEMS",
-                      "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER",
                       "COLOR_NAME/NUMBER_OF_ITEMS"
                     ]
                   }
@@ -1147,7 +1144,6 @@
                           "STYLE/COLOR",
                           "COLOR_NAME/RING_SIZE",
                           "RING_SIZE/ITEM_DISPLAY_WIDTH/COLOR_NAME",
-                          "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE",
                           "STYLE_NAME/COLOR_NAME",
                           "MATERIAL_TYPE/COLOR_NAME",
                           "ITEM_PACKAGE_QUANTITY/COLOR_NAME",
@@ -1162,7 +1158,6 @@
                           "COLOR",
                           "SIZE/STYLE/COLOR",
                           "STYLE_NAME/COLOR_NAME/SIZE_NAME",
-                          "COLOR_NAME/MAGNIFICATION_STRENGTH",
                           "COLOR_NAME/SIZE_NAME",
                           "COLOR_NAME/MATERIAL_TYPE",
                           "COLOR_NAME/NUMBER_OF_ITEMS",
@@ -1355,7 +1350,6 @@
                           "METAL_TYPE/RING_SIZE",
                           "RING_SIZE/ITEM_DISPLAY_WIDTH/COLOR_NAME",
                           "RING_SIZE/ITEM_DISPLAY_WIDTH",
-                          "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE",
                           "RING_SIZE",
                           "RING_SIZE/METAL_TYPE",
                           "RING_SIZE/GEM_TYPE",
@@ -1526,7 +1520,6 @@
                       "SIZE",
                       "SIZE_NAME/METAL_TYPE",
                       "SIZE_NAME/PATTERN_NAME",
-                      "FLAVOR/SIZE",
                       "SIZE_NAME/STYLE_NAME/COLOR_NAME",
                       "SIZE_NAME/STYLE_NAME",
                       "COLOR/SIZE",
@@ -1544,11 +1537,9 @@
                       "SIZE_NAME/COLOR_NAME/NUMBER_OF_ITEMS",
                       "SIZE/STYLE/COLOR",
                       "STYLE_NAME/COLOR_NAME/SIZE_NAME",
-                      "SIZE_NAME/UNIT_COUNT",
                       "COLOR_NAME/SIZE_NAME",
                       "BAND_COLOR/SIZE_NAME",
                       "SIZE_NAME",
-                      "SIZE_NAME/SCENT_NAME",
                       "MODEL/SIZE_NAME",
                       "SIZE/STYLE"
                     ]
@@ -6283,10 +6274,7 @@
                     "required": ["name"],
                     "properties": {
                       "name": {
-                        "enum": [
-                          "MODEL_NUMBER/STYLE/PART_NUMBER",
-                          "STYLE_NAME/MODEL/NUMBER_OF_ITEMS/PART_NUMBER"
-                        ]
+                        "enum": ["MODEL_NUMBER/STYLE/PART_NUMBER"]
                       }
                     }
                   }
@@ -6605,111 +6593,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": [
-                      "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE"
-                    ]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["inscription"]
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": ["COLOR_NAME/MAGNIFICATION_STRENGTH"]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["magnification_strength"]
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": ["EDITION", "PLATFORM_FOR_DISPLAY/EDITION"]
+                    "enum": ["EDITION"]
                   }
                 }
               }
@@ -6760,112 +6644,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["CONFIGURATION"]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["configuration"]
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": ["HARDWARE_PLATFORM"]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["hardware_platform"]
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": [
-                      "PLATFORM_FOR_DISPLAY",
-                      "PLATFORM_FOR_DISPLAY/EDITION"
-                    ]
+                    "enum": ["PLATFORM_FOR_DISPLAY"]
                   }
                 }
               }
@@ -6923,7 +6702,6 @@
                       "ITEM_DISPLAY_LENGTH/STYLE_NAME",
                       "RING_SIZE/ITEM_DISPLAY_WIDTH/COLOR_NAME",
                       "RING_SIZE/ITEM_DISPLAY_WIDTH",
-                      "INSCRIPTION/ITEM_DISPLAY_WIDTH/COLOR_NAME/RING_SIZE",
                       "ITEM_DISPLAY_LENGTH/METAL_TYPE"
                     ]
                   }
@@ -6976,7 +6754,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["FLAVOR_NAME", "FLAVOR/SIZE"]
+                    "enum": ["FLAVOR_NAME"]
                   }
                 }
               }
@@ -7191,11 +6969,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": [
-                      "SIZE_NAME/UNIT_COUNT",
-                      "STYLE/UNIT_COUNT",
-                      "STYLE_NAME/UNIT_COUNT"
-                    ]
+                    "enum": ["STYLE/UNIT_COUNT", "STYLE_NAME/UNIT_COUNT"]
                   }
                 }
               }
@@ -11224,7 +10998,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["SCENT_NAME", "SIZE_NAME/SCENT_NAME"]
+                    "enum": ["SCENT_NAME"]
                   }
                 }
               }

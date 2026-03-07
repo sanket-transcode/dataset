@@ -1,0 +1,210 @@
+{
+  "if": {
+    "anyOf": [
+      {
+        "anyOf": [
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "items": {
+                    "required": ["value"]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "contains": {
+                    "required": ["value"],
+                    "properties": {
+                      "value": {
+                        "enum": ["parent"]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "allOf": [
+          {
+            "required": ["child_parent_sku_relationship"],
+            "properties": {
+              "child_parent_sku_relationship": {
+                "items": {
+                  "required": ["parent_sku"]
+                }
+              }
+            }
+          },
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "contains": {
+                    "required": ["value"],
+                    "properties": {
+                      "value": {
+                        "enum": ["parent"]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "required": ["variation_theme"],
+            "properties": {
+              "variation_theme": {
+                "contains": {
+                  "required": ["name"],
+                  "properties": {
+                    "name": {
+                      "enum": [
+                        "METAL_TYPE/RING_SIZE/GEM_TYPE/TOTAL_GEM_WEIGHT",
+                        "METAL_TYPE/RING_SIZE/STONE_WEIGHT/STONE_COLOR/GEM_TYPE",
+                        "RING_SIZE/STONE_COLOR/STONE_WEIGHT/GEM_TYPE",
+                        "STONE_COLOR/NUMBER_OF_ITEMS/METAL_TYPE/GEM_TYPE",
+                        "ITEM_WIDTH/GEM_TYPE/STONE_WEIGHT/METAL_TYPE",
+                        "GEM_TYPE/STONE_COLOR/ITEM_WIDTH",
+                        "METAL_TYPE/GEM_TYPE/LETTER_CHARACTER",
+                        "RING_SIZE/GEM_BIRTHSTONE_MONTH/GEM_TYPE",
+                        "METAL_TYPE/GEM_TYPE/STONE_WEIGHT/GEM_BIRTHSTONE_MONTH",
+                        "STONE_COLOR/STONE_WEIGHT/GEM_TYPE",
+                        "RING_SIZE/GEM_TYPE/LETTER_CHARACTER",
+                        "RING_SIZE/GEM_TYPE/TOTAL_GEM_WEIGHT/ITEM_WIDTH/METAL_TYPE",
+                        "METAL_TYPE/RING_SIZE/LETTER_CHARACTER/GEM_TYPE",
+                        "GEM_TYPE/TOTAL_GEM_WEIGHT/RING_SIZE",
+                        "GEM_TYPE/GEM_BIRTHSTONE_MONTH",
+                        "METAL_TYPE/ITEM_WIDTH/GEM_TYPE/STONE_COLOR",
+                        "METAL_TYPE/GEM_TYPE/NUMBER_OF_ITEMS",
+                        "GEM_TYPE/LETTER_CHARACTER",
+                        "GEM_TYPE/METAL_TYPE/STONE_WEIGHT",
+                        "GEM_TYPE/METAL_TYPE/TOTAL_GEM_WEIGHT",
+                        "GEM_TYPE/STONE_COLOR/METAL_TYPE",
+                        "RING_SIZE/METAL_TYPE/STONE_COLOR/GEM_TYPE",
+                        "COLOR/GEM_TYPE/NUMBER_OF_ITEMS",
+                        "COLOR/GEM_TYPE/RING_SIZE",
+                        "COLOR/GEM_TYPE/METAL_TYPE",
+                        "COLOR_NAME/GEM_TYPE",
+                        "GEM_TYPE/STONE_CUT/STONE_WEIGHT",
+                        "GEM_TYPE/TOTAL_GEM_WEIGHT",
+                        "GEM_TYPE/SIZE",
+                        "GEM_TYPE/RING_SIZE/METAL_FINISH",
+                        "GEM_TYPE/METAL_TYPE/SET_NAME",
+                        "ITEM_WIDTH/GEM_TYPE/RING_SIZE",
+                        "GEM_TYPE/ITEM_WIDTH",
+                        "GEM_TYPE/METAL_TYPE/RING_SIZE",
+                        "GEM_TYPE/STONE_WEIGHT",
+                        "METAL_TYPE/GEM_TYPE/STONE_COLOR/STONE_WEIGHT",
+                        "STONE_WIDTH/METAL_TYPE/GEM_TYPE",
+                        "GEM_TYPE/STONE_WIDTH",
+                        "GEM_TYPE/RING_SIZE/STONE_WEIGHT",
+                        "GEM_TYPE/RING_SIZE/STONE_COLOR",
+                        "RING_SIZE/SET_NAME/GEM_TYPE",
+                        "RING_SIZE/GEM_TYPE/THEME",
+                        "RING_SIZE/SIZE/GEM_TYPE",
+                        "GEM_TYPE/ITEM_WIDTH/METAL_TYPE",
+                        "GEM_TYPE/STONE_COLOR",
+                        "GEM_TYPE/THEME",
+                        "GEM_TYPE/NUMBER_OF_ITEMS/RING_SIZE",
+                        "GEM_TYPE/NUMBER_OF_ITEMS",
+                        "RING_SIZE/METAL_TYPE/GEM_TYPE/STONE_WEIGHT",
+                        "GEM_TYPE/SET_NAME",
+                        "GEM_TYPE",
+                        "RING_SIZE/GEM_TYPE",
+                        "GEM_TYPE/METAL_TYPE",
+                        "METAL_TYPE/GEM_TYPE",
+                        "GEM_TYPE/RING_SIZE"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "anyOf": [
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "items": {
+                    "required": ["value"]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "contains": {
+                    "required": ["value"],
+                    "properties": {
+                      "value": {
+                        "enum": ["parent"]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "anyOf": [
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "items": {
+                    "required": ["value"]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "not": {
+              "required": ["parentage_level"],
+              "properties": {
+                "parentage_level": {
+                  "contains": {
+                    "required": ["value"],
+                    "properties": {
+                      "value": {
+                        "enum": ["parent"]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "then": {
+    "required": ["gem_type"]
+  }
+}

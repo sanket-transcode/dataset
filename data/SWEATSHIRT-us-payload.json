@@ -1,0 +1,266 @@
+{
+  "parentage_level": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "child"
+    }
+  ],
+  "child_parent_sku_relationship": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "child_relationship_type": "variation",
+      "parent_sku": "temp-parent-sku"
+    }
+  ],
+  "variation_theme": [
+    {
+      "name": "SIZE/COLOR"
+    }
+  ],
+  "item_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product name"
+    }
+  ],
+  "brand": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "GENERIC"
+    }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": true
+    }
+  ],
+  "item_type_keyword": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "t-shirt"
+    }
+  ],
+  "model_name": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Generic"
+    }
+  ],
+  "product_description": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Product Description"
+    }
+  ],
+  "bullet_point": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Eco-friendly production with 50% cotton, 50% polyester blend"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Elastic ribbed collar retains shape for longevity"
+    },
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Comfortable and cozy fabric perfect for colder days"
+    }
+  ],
+  "style": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Regular"
+    }
+  ],
+  "department": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "unisex-adult"
+    }
+  ],
+  "target_gender": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "unisex"
+    }
+  ],
+  "age_range_description": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Adult"
+    }
+  ],
+  "apparel_size": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "size_system": "as1",
+      "size": "3x_l",
+      "size_class": "alpha",
+      "body_type": "regular",
+      "height_type": "regular"
+    }
+  ],
+  "fabric_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "50% cotton, 50% polyester"
+    }
+  ],
+  "special_size_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Standard"
+    }
+  ],
+  "fit_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Regular Fit"
+    }
+  ],
+  "care_instructions": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Machine Wash"
+    }
+  ],
+  "depth": {},
+  "width": {},
+  "height": {},
+  "length": {},
+  "diameter": {},
+  "pattern": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "language_tag": "en_US",
+      "value": "Cartoon"
+    }
+  ],
+  "type": {
+    "language_tag": "en_US"
+  },
+  "neck_style": [
+    {
+      "language_tag": "en_US",
+      "value": "Crew Neck"
+    }
+  ],
+  "skip_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": false
+    }
+  ],
+  "fulfillment_availability": [
+    {
+      "fulfillment_channel_code": "DEFAULT_EU",
+      "quantity": 0,
+      "lead_time_to_ship_max_days": 5
+    }
+  ],
+  "purchasable_offer": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "audience": "ALL",
+      "discounted_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 45
+            }
+          ]
+        }
+      ],
+      "our_price": [
+        {
+          "schedule": [
+            {
+              "value_with_tax": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "start_at": {},
+  "end_at": {},
+  "merchandising_rule": {},
+  "schedule": [
+    {
+      "value_with_tax": 45
+    }
+  ],
+  "condition_type": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "new_new"
+    }
+  ],
+  "list_price": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": 33.9,
+      "currency": "USD"
+    }
+  ],
+  "merchant_shipping_group": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "temp-value"
+    }
+  ],
+  "country_of_origin": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "US"
+    }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "value": "not_applicable"
+    }
+  ],
+  "item_weight": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "unit": "pounds",
+      "value": 1.1
+    }
+  ],
+  "neck": [
+    {
+      "marketplace_id": "ATVPDKIKX0DER",
+      "neck_style": [
+        {
+          "language_tag": "en_US",
+          "value": "Crew Neck"
+        }
+      ]
+    }
+  ],
+  "discounted_price": [
+    {
+      "schedule": [
+        {
+          "value_with_tax": 45
+        }
+      ]
+    }
+  ]
+}

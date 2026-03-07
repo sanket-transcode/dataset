@@ -1,0 +1,51 @@
+[
+  {
+    "sku": null,
+    "asin": "B0FSMCHX83",
+    "marketplaces": ["A1F83G8C2ARO7P"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "25747656856860977137",
+        "asin": "B0FS71N5X5",
+        "isNotActive": false
+      },
+      {
+        "sku": "99471520249339163797",
+        "asin": "B0FS71BPWZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "26579877305424590073",
+        "asin": "B0FS71GX9Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "12096201412803655612",
+        "asin": "B0FS71G98L",
+        "isNotActive": false
+      },
+      {
+        "sku": "16410027131999954160",
+        "asin": "B0FS731NBK",
+        "isNotActive": false
+      },
+      {
+        "sku": "30366969356370446492",
+        "asin": "B0FS6WQNVK",
+        "isNotActive": false
+      },
+      {
+        "sku": "26332062757315414125",
+        "asin": "B0FS6WTZJB",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "isEnriched": false,
+    "isProcessed": true
+  }
+]

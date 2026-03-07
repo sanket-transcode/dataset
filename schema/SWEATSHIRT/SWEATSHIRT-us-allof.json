@@ -1,6 +1,77 @@
 [
   {
     "if": {
+      "not": {
+        "required": ["parentage_level"],
+        "properties": {
+          "parentage_level": {
+            "contains": {
+              "required": ["value"],
+              "properties": {
+                "value": {
+                  "enum": ["child"]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "properties": {
+        "child_parent_sku_relationship": {
+          "items": {
+            "not": {
+              "required": ["parent_sku"]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["parentage_level"],
+      "properties": {
+        "parentage_level": {
+          "contains": {
+            "required": ["value"],
+            "properties": {
+              "value": {
+                "enum": ["child"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "properties": {
+        "child_parent_sku_relationship": {
+          "items": {
+            "required": ["parent_sku"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["parentage_level"],
+      "properties": {
+        "parentage_level": {
+          "items": {
+            "required": ["value"]
+          }
+        }
+      }
+    },
+    "then": {
+      "required": ["child_parent_sku_relationship", "variation_theme"]
+    }
+  },
+  {
+    "if": {
       "anyOf": [
         {
           "allOf": [
@@ -425,9 +496,7 @@
                   "name": {
                     "enum": [
                       "MODEL_NUMBER/SIZE",
-                      "MODEL_NUMBER/STYLE/PART_NUMBER",
                       "STYLE/MODEL_NUMBER/MATERIAL/SIZE/NUMBER_OF_ITEMS/PART_NUMBER",
-                      "MODEL/STYLE_NAME/PART_NUMBER",
                       "STYLE_NAME/MODEL/MATERIAL_TYPE/SIZE_NAME/NUMBER_OF_ITEMS/PART_NUMBER",
                       "MODEL",
                       "MODEL/SIZE_NAME"
@@ -493,1237 +562,6 @@
           }
         }
       }
-    }
-  },
-  {
-    "properties": {
-      "fulfillment_availability": {
-        "items": {
-          "if": {
-            "allOf": [
-              {
-                "required": ["fulfillment_channel_code"],
-                "properties": {
-                  "fulfillment_channel_code": {
-                    "enum": ["DEFAULT", "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["is_inventory_available"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "required": ["quantity"]
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "fulfillment_availability": {
-        "items": {
-          "if": {
-            "not": {
-              "allOf": [
-                {
-                  "required": ["fulfillment_channel_code"],
-                  "properties": {
-                    "fulfillment_channel_code": {
-                      "enum": [
-                        "DEFAULT",
-                        "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
-                      ]
-                    }
-                  }
-                },
-                {
-                  "not": {
-                    "required": ["is_inventory_available"]
-                  }
-                }
-              ]
-            }
-          },
-          "then": {
-            "not": {
-              "required": ["quantity"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "fulfillment_availability": {
-        "items": {
-          "if": {
-            "not": {
-              "required": ["fulfillment_channel_code"],
-              "properties": {
-                "fulfillment_channel_code": {
-                  "enum": ["DEFAULT", "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"]
-                }
-              }
-            }
-          },
-          "then": {
-            "not": {
-              "required": ["lead_time_to_ship_max_days"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "fulfillment_availability": {
-        "items": {
-          "if": {
-            "not": {
-              "required": ["fulfillment_channel_code"],
-              "properties": {
-                "fulfillment_channel_code": {
-                  "enum": ["DEFAULT", "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"]
-                }
-              }
-            }
-          },
-          "then": {
-            "not": {
-              "required": ["restock_date"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "fulfillment_availability": {
-        "items": {
-          "if": {
-            "allOf": [
-              {
-                "required": ["fulfillment_channel_code"],
-                "properties": {
-                  "fulfillment_channel_code": {
-                    "enum": ["DEFAULT", "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["quantity"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "required": ["is_inventory_available"]
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "fulfillment_availability": {
-        "items": {
-          "if": {
-            "not": {
-              "allOf": [
-                {
-                  "required": ["fulfillment_channel_code"],
-                  "properties": {
-                    "fulfillment_channel_code": {
-                      "enum": [
-                        "DEFAULT",
-                        "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
-                      ]
-                    }
-                  }
-                },
-                {
-                  "not": {
-                    "required": ["quantity"]
-                  }
-                }
-              ]
-            }
-          },
-          "then": {
-            "not": {
-              "required": ["is_inventory_available"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["skip_offer"],
-            "properties": {
-              "skip_offer": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": [true]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["fulfillment_availability"]
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "map_price": {
-              "properties": {
-                "schedule": {
-                  "if": {
-                    "required": ["currency"],
-                    "properties": {
-                      "currency": {
-                        "enum": ["JPY"]
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "value_with_tax": {
-                        "multipleOf": 1
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "anyOf": [
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["ALL"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["audience"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "properties": {
-              "map_price": {
-                "maxItems": 1
-              }
-            }
-          },
-          "else": {
-            "not": {
-              "required": ["map_price"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "our_price": {
-              "properties": {
-                "schedule": {
-                  "if": {
-                    "required": ["currency"],
-                    "properties": {
-                      "currency": {
-                        "enum": ["JPY"]
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "value_with_tax": {
-                        "multipleOf": 1
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "anyOf": [
-              {
-                "required": ["discounted_price"],
-                "properties": {
-                  "discounted_price": {
-                    "items": {
-                      "required": ["schedule"],
-                      "properties": {
-                        "schedule": {
-                          "items": {
-                            "required": ["value_with_tax"]
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["B2B"]
-                  }
-                }
-              }
-            ]
-          },
-          "then": {
-            "required": ["our_price"],
-            "properties": {
-              "our_price": {
-                "minItems": 1
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "anyOf": [
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["ALL"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["audience"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "properties": {
-              "automated_pricing_merchandising_rule_plan": {
-                "maxItems": 1
-              }
-            }
-          },
-          "else": {
-            "not": {
-              "required": ["automated_pricing_merchandising_rule_plan"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "minimum_seller_allowed_price": {
-              "properties": {
-                "schedule": {
-                  "if": {
-                    "required": ["currency"],
-                    "properties": {
-                      "currency": {
-                        "enum": ["JPY"]
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "value_with_tax": {
-                        "multipleOf": 1
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "anyOf": [
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["ALL"]
-                  }
-                }
-              },
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["B2B"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["audience"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "properties": {
-              "minimum_seller_allowed_price": {
-                "maxItems": 1
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "maximum_seller_allowed_price": {
-              "properties": {
-                "schedule": {
-                  "if": {
-                    "required": ["currency"],
-                    "properties": {
-                      "currency": {
-                        "enum": ["JPY"]
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "value_with_tax": {
-                        "multipleOf": 1
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "anyOf": [
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["ALL"]
-                  }
-                }
-              },
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["B2B"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["audience"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "properties": {
-              "maximum_seller_allowed_price": {
-                "maxItems": 1
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "discounted_price": {
-              "properties": {
-                "schedule": {
-                  "if": {
-                    "required": ["currency"],
-                    "properties": {
-                      "currency": {
-                        "enum": ["JPY"]
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "value_with_tax": {
-                        "multipleOf": 1
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "anyOf": [
-              {
-                "required": ["audience"],
-                "properties": {
-                  "audience": {
-                    "enum": ["ALL"]
-                  }
-                }
-              },
-              {
-                "not": {
-                  "required": ["audience"]
-                }
-              }
-            ]
-          },
-          "then": {
-            "properties": {
-              "discounted_price": {
-                "maxItems": 1
-              }
-            }
-          },
-          "else": {
-            "not": {
-              "required": ["discounted_price"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "quantity_discount_plan": {
-              "properties": {
-                "schedule": {
-                  "properties": {
-                    "levels": {
-                      "if": {
-                        "required": ["currency"],
-                        "properties": {
-                          "currency": {
-                            "enum": ["JPY"]
-                          }
-                        }
-                      },
-                      "then": {
-                        "properties": {
-                          "value": {
-                            "multipleOf": 1
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "required": ["purchasable_offer"],
-      "properties": {
-        "purchasable_offer": {
-          "contains": {
-            "required": ["quantity_discount_plan"],
-            "properties": {
-              "quantity_discount_plan": {
-                "contains": {
-                  "required": ["schedule"],
-                  "properties": {
-                    "schedule": {
-                      "contains": {
-                        "required": ["discount_type"],
-                        "properties": {
-                          "discount_type": {
-                            "enum": ["percent"]
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "then": {
-      "properties": {
-        "purchasable_offer": {
-          "items": {
-            "properties": {
-              "quantity_discount_plan": {
-                "properties": {
-                  "schedule": {
-                    "properties": {
-                      "levels": {
-                        "properties": {
-                          "value": {
-                            "maximum": 99
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "if": {
-            "required": ["audience"],
-            "properties": {
-              "audience": {
-                "enum": ["B2B"]
-              }
-            }
-          },
-          "then": {
-            "properties": {
-              "quantity_discount_plan": {
-                "maxItems": 1
-              }
-            }
-          },
-          "else": {
-            "not": {
-              "required": ["quantity_discount_plan"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "variable_weight_based_price": {
-              "if": {
-                "required": ["variable_weight_based_price#?"],
-                "properties": {
-                  "variable_weight_based_price#?": {
-                    "contains": {
-                      "required": ["pricing_strategy"],
-                      "properties": {
-                        "pricing_strategy": {
-                          "enum": ["produce_by_uom"]
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              "then": {
-                "required": ["average_size_measurement"]
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "variable_weight_based_price": {
-              "properties": {
-                "inventory_measurement": {
-                  "if": {
-                    "required": ["variable_weight_based_price#?"],
-                    "properties": {
-                      "variable_weight_based_price#?": {
-                        "contains": {
-                          "required": ["inventory_measurement"],
-                          "properties": {
-                            "inventory_measurement": {
-                              "contains": {
-                                "required": ["type"],
-                                "properties": {
-                                  "type": {
-                                    "enum": ["weight"]
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "unit": {
-                        "enum": ["grams", "kilograms", "ounces", "pounds"]
-                      }
-                    }
-                  },
-                  "else": {
-                    "if": {
-                      "required": ["variable_weight_based_price#?"],
-                      "properties": {
-                        "variable_weight_based_price#?": {
-                          "contains": {
-                            "required": ["inventory_measurement"],
-                            "properties": {
-                              "inventory_measurement": {
-                                "contains": {
-                                  "required": ["type"],
-                                  "properties": {
-                                    "type": {
-                                      "enum": ["count"]
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    },
-                    "then": {
-                      "properties": {
-                        "unit": {
-                          "enum": ["units"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "properties": {
-      "purchasable_offer": {
-        "items": {
-          "properties": {
-            "variable_weight_based_price": {
-              "properties": {
-                "merchant_sale_measurement": {
-                  "if": {
-                    "required": ["variable_weight_based_price#?"],
-                    "properties": {
-                      "variable_weight_based_price#?": {
-                        "contains": {
-                          "required": ["merchant_sale_measurement"],
-                          "properties": {
-                            "merchant_sale_measurement": {
-                              "contains": {
-                                "required": ["type"],
-                                "properties": {
-                                  "type": {
-                                    "enum": ["weight"]
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  },
-                  "then": {
-                    "properties": {
-                      "unit": {
-                        "enum": ["grams", "kilograms", "ounces", "pounds"]
-                      }
-                    }
-                  },
-                  "else": {
-                    "if": {
-                      "required": ["variable_weight_based_price#?"],
-                      "properties": {
-                        "variable_weight_based_price#?": {
-                          "contains": {
-                            "required": ["merchant_sale_measurement"],
-                            "properties": {
-                              "merchant_sale_measurement": {
-                                "contains": {
-                                  "required": ["type"],
-                                  "properties": {
-                                    "type": {
-                                      "enum": ["count"]
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    },
-                    "then": {
-                      "properties": {
-                        "unit": {
-                          "enum": ["units"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "anyOf": [
-        {
-          "allOf": [
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "items": {
-                      "required": ["value"]
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["skip_offer"],
-                "properties": {
-                  "skip_offer": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": [true]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        },
-        {
-          "allOf": [
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": ["parent"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["skip_offer"],
-                "properties": {
-                  "skip_offer": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": [true]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    "then": {
-      "required": ["condition_type"]
-    }
-  },
-  {
-    "properties": {
-      "list_price": {
-        "items": {
-          "if": {
-            "required": ["currency"]
-          },
-          "then": {
-            "required": ["value"]
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "anyOf": [
-        {
-          "allOf": [
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": ["parent"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "items": {
-                      "required": ["value"]
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["skip_offer"],
-                "properties": {
-                  "skip_offer": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": [true]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        },
-        {
-          "allOf": [
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": ["parent"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": ["parent"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["skip_offer"],
-                "properties": {
-                  "skip_offer": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": [true]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    "then": {
-      "required": ["list_price"]
-    }
-  },
-  {
-    "if": {
-      "anyOf": [
-        {
-          "allOf": [
-            {
-              "required": ["fulfillment_availability"],
-              "properties": {
-                "fulfillment_availability": {
-                  "contains": {
-                    "required": ["fulfillment_channel_code"],
-                    "properties": {
-                      "fulfillment_channel_code": {
-                        "enum": [
-                          "DEFAULT",
-                          "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
-                        ]
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "items": {
-                      "required": ["value"]
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["skip_offer"],
-                "properties": {
-                  "skip_offer": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": [true]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        },
-        {
-          "allOf": [
-            {
-              "required": ["fulfillment_availability"],
-              "properties": {
-                "fulfillment_availability": {
-                  "contains": {
-                    "required": ["fulfillment_channel_code"],
-                    "properties": {
-                      "fulfillment_channel_code": {
-                        "enum": [
-                          "DEFAULT",
-                          "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
-                        ]
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["parentage_level"],
-                "properties": {
-                  "parentage_level": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": ["parent"]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "not": {
-                "required": ["skip_offer"],
-                "properties": {
-                  "skip_offer": {
-                    "contains": {
-                      "required": ["value"],
-                      "properties": {
-                        "value": {
-                          "enum": [true]
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        }
-      ]
-    },
-    "then": {
-      "required": ["merchant_shipping_group"]
     }
   },
   {
@@ -1805,30 +643,22 @@
                     "properties": {
                       "name": {
                         "enum": [
-                          "MATERIAL/STYLE",
-                          "MODEL_NUMBER/STYLE/PART_NUMBER",
                           "STYLE/MATERIAL",
                           "STYLE/MODEL_NUMBER/MATERIAL/SIZE/NUMBER_OF_ITEMS/PART_NUMBER",
                           "SIZE_NAME/STYLE_NAME/COLOR_NAME",
                           "COLOR/STYLE",
                           "COLOR_NAME/STYLE_NAME",
-                          "STYLE_NAME/PATTERN_NAME",
                           "SIZE_NAME/STYLE_NAME",
-                          "MATERIAL_TYPE/STYLE_NAME",
                           "STYLE_NAME/COLOR_NAME",
-                          "MODEL/STYLE_NAME/PART_NUMBER",
                           "STYLE/COLOR",
-                          "NUMBER_OF_ITEMS/STYLE_NAME",
                           "COLOR_NAME/SIZE_NAME/STYLE_NAME",
                           "STYLE/SIZE",
                           "SIZE_NAME/STYLE_NAME/CUSTOMER_PACKAGE_TYPE",
                           "STYLE",
                           "STYLE_NAME/MODEL/MATERIAL_TYPE/SIZE_NAME/NUMBER_OF_ITEMS/PART_NUMBER",
                           "STYLE_NAME/SIZE_NAME/COLOR_NAME",
-                          "PATTERN_NAME/STYLE_NAME",
                           "STYLE_NAME/COLOR_NAME/SIZE_NAME",
                           "STYLE_NAME/PATTERN_NAME/SIZE_NAME",
-                          "ITEM_DISPLAY_LENGTH/STYLE_NAME",
                           "STYLE_NAME/SIZE_NAME",
                           "SIZE/STYLE/COLOR",
                           "COLOR_NAME/SIZE_NAME/STYLE_NAME/PATTERN_NAME",
@@ -5328,7 +4158,7 @@
             "required": ["value"],
             "properties": {
               "value": {
-                "enum": [" ", "Adulto"]
+                "enum": ["Adult", "Adulto"]
               }
             }
           }
@@ -5602,15 +4432,12 @@
                   "name": {
                     "enum": [
                       "COLOR/MATERIAL",
-                      "MATERIAL/STYLE",
                       "SIZE/MATERIAL",
                       "STYLE/MATERIAL",
                       "STYLE/MODEL_NUMBER/MATERIAL/SIZE/NUMBER_OF_ITEMS/PART_NUMBER",
                       "SIZE_NAME/MATERIAL_TYPE",
-                      "MATERIAL_TYPE/STYLE_NAME",
                       "MATERIAL_TYPE/COLOR_NAME",
                       "STYLE_NAME/MODEL/MATERIAL_TYPE/SIZE_NAME/NUMBER_OF_ITEMS/PART_NUMBER",
-                      "ITEM_PACKAGE_QUANTITY/MATERIAL_TYPE",
                       "MATERIAL_TYPE",
                       "MATERIAL_TYPE/SIZE_NAME",
                       "MATERIAL_TYPE/COLOR_NAME/SIZE_NAME",
@@ -5670,7 +4497,6 @@
                       "SIZE/COLOR/NUMBER_OF_ITEMS",
                       "STYLE/MODEL_NUMBER/MATERIAL/SIZE/NUMBER_OF_ITEMS/PART_NUMBER",
                       "NUMBER_OF_ITEMS/COLOR_NAME/SIZE_NAME",
-                      "NUMBER_OF_ITEMS/STYLE_NAME",
                       "SIZE/NUMBER_OF_ITEMS",
                       "STYLE_NAME/MODEL/MATERIAL_TYPE/SIZE_NAME/NUMBER_OF_ITEMS/PART_NUMBER",
                       "NUMBER_OF_ITEMS",
@@ -5730,7 +4556,6 @@
                 "properties": {
                   "name": {
                     "enum": [
-                      "ITEM_PACKAGE_QUANTITY/MATERIAL_TYPE",
                       "ITEM_PACKAGE_QUANTITY/SIZE_NAME",
                       "ITEM_PACKAGE_QUANTITY",
                       "ITEM_PACKAGE_QUANTITY/STYLE_NAME",
@@ -6184,11 +5009,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": [
-                      "RING_SIZE",
-                      "COLOR_NAME/RING_SIZE",
-                      "GEM_TYPE/RING_SIZE"
-                    ]
+                    "enum": ["RING_SIZE", "COLOR_NAME/RING_SIZE"]
                   }
                 }
               }
@@ -6246,7 +5067,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["METAL_TYPE", "COLOR_NAME/METAL_TYPE"]
+                    "enum": ["COLOR_NAME/METAL_TYPE"]
                   }
                 }
               }
@@ -6297,7 +5118,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["GEM_TYPE", "GEM_TYPE/RING_SIZE"]
+                    "enum": ["GEM_TYPE"]
                   }
                 }
               }
@@ -6349,9 +5170,7 @@
                 "properties": {
                   "name": {
                     "enum": [
-                      "MODEL_NUMBER/STYLE/PART_NUMBER",
                       "STYLE/MODEL_NUMBER/MATERIAL/SIZE/NUMBER_OF_ITEMS/PART_NUMBER",
-                      "MODEL/STYLE_NAME/PART_NUMBER",
                       "STYLE_NAME/MODEL/MATERIAL_TYPE/SIZE_NAME/NUMBER_OF_ITEMS/PART_NUMBER"
                     ]
                   }
@@ -6608,72 +5427,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": [
-                      "HAND_ORIENTATION/SHAFT_MATERIAL_TYPE/GOLF_CLUB_FLEX/GOLF_CLUB_LOFT"
-                    ]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": [
-        "golf_club_flex",
-        "golf_club_loft",
-        "hand_orientation",
-        "shaft"
-      ],
-      "properties": {
-        "shaft": {
-          "items": {
-            "required": ["material"]
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": ["EDITION", "PLATFORM_FOR_DISPLAY/EDITION"]
+                    "enum": ["EDITION"]
                   }
                 }
               }
@@ -6725,7 +5479,6 @@
                 "properties": {
                   "name": {
                     "enum": [
-                      "CONFIGURATION",
                       "SIZE_NAME/COLOR_NAME/CONFIGURATION",
                       "STYLE_NAME/SIZE_NAME/COLOR_NAME/CONFIGURATION"
                     ]
@@ -6779,58 +5532,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["PLATFORM_FOR_DISPLAY/EDITION"]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["platform_for_display"]
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": ["COLOR_NAME/LENS_COLOR", "LENS_COLOR"]
+                    "enum": ["COLOR_NAME/LENS_COLOR"]
                   }
                 }
               }
@@ -6946,10 +5648,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": [
-                      "ITEM_DISPLAY_LENGTH",
-                      "ITEM_DISPLAY_LENGTH/STYLE_NAME"
-                    ]
+                    "enum": ["ITEM_DISPLAY_LENGTH"]
                   }
                 }
               }
@@ -7000,11 +5699,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": [
-                      "FLAVOR/SIZE",
-                      "FLAVOR_NAME/SIZE_NAME",
-                      "FLAVOR_NAME"
-                    ]
+                    "enum": ["FLAVOR/SIZE", "FLAVOR_NAME/SIZE_NAME"]
                   }
                 }
               }
@@ -7113,12 +5808,10 @@
                     "enum": [
                       "PATTERN",
                       "COLOR_NAME/SIZE_NAME/PATTERN_NAME",
-                      "STYLE_NAME/PATTERN_NAME",
                       "PATTERN_NAME",
                       "COLOR_NAME/PATTERN_NAME",
                       "PATTERN_NAME/SIZE_NAME",
                       "SIZE_NAME/COLOR_NAME/PATTERN_NAME",
-                      "PATTERN_NAME/STYLE_NAME",
                       "STYLE_NAME/PATTERN_NAME/SIZE_NAME",
                       "COLOR_NAME/SIZE_NAME/STYLE_NAME/PATTERN_NAME",
                       "COLOR_NAME/STYLE_NAME/PATTERN_NAME"
@@ -7136,55 +5829,97 @@
     }
   },
   {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
+    "allOf": [
+      {
+        "if": {
+          "allOf": [
+            {
+              "required": ["child_parent_sku_relationship"],
+              "properties": {
+                "child_parent_sku_relationship": {
+                  "items": {
+                    "required": ["parent_sku"]
+                  }
+                }
               }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "required": ["variation_theme"],
+              "properties": {
+                "variation_theme": {
+                  "contains": {
+                    "required": ["name"],
+                    "properties": {
+                      "name": {
+                        "enum": ["SIZE_NAME/UNIT_COUNT"]
+                      }
                     }
                   }
                 }
               }
             }
-          }
+          ]
         },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
+        "then": {
+          "required": ["unit_count"]
+        }
+      },
+      {
+        "if": {
+          "anyOf": [
+            {
+              "not": {
+                "required": ["parentage_level"],
                 "properties": {
-                  "name": {
-                    "enum": ["SIZE_NAME/UNIT_COUNT"]
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
                   }
                 }
               }
             }
-          }
+          ]
+        },
+        "then": {
+          "required": ["unit_count"]
         }
-      ]
-    },
-    "then": {
-      "required": ["unit_count"]
-    }
+      }
+    ]
   },
   {
     "if": {
@@ -11265,7 +10000,7 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["BAND_COLOR", "BAND_COLOR/SIZE_NAME"]
+                    "enum": ["BAND_COLOR/SIZE_NAME"]
                   }
                 }
               }
@@ -11442,64 +10177,6 @@
                 "required": ["name"],
                 "properties": {
                   "name": {
-                    "enum": ["INK_COLOR"]
-                  }
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    "then": {
-      "required": ["ink"],
-      "properties": {
-        "ink": {
-          "items": {
-            "required": ["color"]
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
-        {
-          "not": {
-            "required": ["parentage_level"],
-            "properties": {
-              "parentage_level": {
-                "contains": {
-                  "required": ["value"],
-                  "properties": {
-                    "value": {
-                      "enum": ["parent"]
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
                     "enum": ["VERSION_FOR_COUNTRY/COLOR_NAME/SIZE_NAME"]
                   }
                 }
@@ -11515,160 +10192,311 @@
   },
   {
     "if": {
-      "not": {
-        "required": ["parentage_level"],
-        "properties": {
-          "parentage_level": {
-            "contains": {
-              "required": ["value"],
+      "anyOf": [
+        {
+          "allOf": [
+            {
+              "required": ["government_contract_information"],
               "properties": {
-                "value": {
-                  "enum": ["child"]
+                "government_contract_information": {
+                  "items": {
+                    "required": ["name"]
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
                 }
               }
             }
-          }
-        }
-      }
-    },
-    "then": {
-      "properties": {
-        "child_parent_sku_relationship": {
-          "items": {
-            "not": {
-              "required": ["parent_sku"]
-            }
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "required": ["parentage_level"],
-      "properties": {
-        "parentage_level": {
-          "contains": {
-            "required": ["value"],
-            "properties": {
-              "value": {
-                "enum": ["child"]
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "required": ["government_contract_information"],
+              "properties": {
+                "government_contract_information": {
+                  "items": {
+                    "required": ["name"]
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
-          }
-        }
-      }
-    },
-    "then": {
-      "properties": {
-        "child_parent_sku_relationship": {
-          "items": {
-            "required": ["parent_sku"]
-          }
-        }
-      }
-    }
-  },
-  {
-    "if": {
-      "required": ["parentage_level"],
-      "properties": {
-        "parentage_level": {
-          "items": {
-            "required": ["value"]
-          }
-        }
-      }
-    },
-    "then": {
-      "required": ["child_parent_sku_relationship", "variation_theme"]
-    }
-  },
-  {
-    "if": {
-      "required": ["supplier_declared_dg_hz_regulation"],
-      "properties": {
-        "supplier_declared_dg_hz_regulation": {
-          "contains": {
-            "required": ["value"],
-            "properties": {
-              "value": {
-                "enum": ["not_applicable"]
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "required": ["government_contract_information"],
+              "properties": {
+                "government_contract_information": {
+                  "items": {
+                    "required": ["number"]
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
               }
             }
-          }
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "required": ["government_contract_information"],
+              "properties": {
+                "government_contract_information": {
+                  "items": {
+                    "required": ["number"]
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
         }
-      }
+      ]
     },
     "then": {
-      "properties": {
-        "supplier_declared_dg_hz_regulation": {
-          "items": {
-            "properties": {
-              "value": {
+      "required": ["government_contract_information"]
+    }
+  },
+  {
+    "properties": {
+      "fulfillment_availability": {
+        "items": {
+          "if": {
+            "allOf": [
+              {
+                "required": ["fulfillment_channel_code"],
+                "properties": {
+                  "fulfillment_channel_code": {
+                    "enum": [
+                      "DEFAULT",
+                      "MLF",
+                      "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                    ]
+                  }
+                }
+              },
+              {
                 "not": {
-                  "enum": ["other", "storage", "transportation", "waste"]
+                  "required": ["is_inventory_available"]
+                }
+              }
+            ]
+          },
+          "then": {
+            "required": ["quantity"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "fulfillment_availability": {
+        "items": {
+          "if": {
+            "not": {
+              "allOf": [
+                {
+                  "required": ["fulfillment_channel_code"],
+                  "properties": {
+                    "fulfillment_channel_code": {
+                      "enum": [
+                        "DEFAULT",
+                        "MLF",
+                        "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "not": {
+                    "required": ["is_inventory_available"]
+                  }
+                }
+              ]
+            }
+          },
+          "then": {
+            "not": {
+              "required": ["quantity"]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "fulfillment_availability": {
+        "items": {
+          "if": {
+            "not": {
+              "required": ["fulfillment_channel_code"],
+              "properties": {
+                "fulfillment_channel_code": {
+                  "enum": [
+                    "DEFAULT",
+                    "MLF",
+                    "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                  ]
                 }
               }
             }
+          },
+          "then": {
+            "not": {
+              "required": ["lead_time_to_ship_max_days"]
+            }
           }
         }
       }
     }
   },
   {
-    "if": {
-      "required": ["supplier_declared_dg_hz_regulation"],
-      "properties": {
-        "supplier_declared_dg_hz_regulation": {
-          "contains": {
-            "required": ["value"],
-            "properties": {
-              "value": {
-                "enum": ["ghs"]
+    "properties": {
+      "fulfillment_availability": {
+        "items": {
+          "if": {
+            "not": {
+              "required": ["fulfillment_channel_code"],
+              "properties": {
+                "fulfillment_channel_code": {
+                  "enum": [
+                    "DEFAULT",
+                    "MLF",
+                    "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                  ]
+                }
               }
             }
-          }
-        }
-      }
-    },
-    "then": {
-      "required": ["ghs", "safety_data_sheet_url"],
-      "properties": {
-        "ghs": {
-          "items": {
-            "required": ["classification"]
+          },
+          "then": {
+            "not": {
+              "required": ["restock_date"]
+            }
           }
         }
       }
     }
   },
   {
-    "if": {
-      "required": ["supplier_declared_dg_hz_regulation"],
-      "properties": {
-        "supplier_declared_dg_hz_regulation": {
-          "contains": {
-            "required": ["value"],
-            "properties": {
-              "value": {
-                "enum": ["transportation"]
+    "properties": {
+      "fulfillment_availability": {
+        "items": {
+          "if": {
+            "allOf": [
+              {
+                "required": ["fulfillment_channel_code"],
+                "properties": {
+                  "fulfillment_channel_code": {
+                    "enum": [
+                      "DEFAULT",
+                      "MLF",
+                      "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                    ]
+                  }
+                }
+              },
+              {
+                "not": {
+                  "required": ["quantity"]
+                }
               }
-            }
+            ]
+          },
+          "then": {
+            "required": ["is_inventory_available"]
           }
         }
       }
-    },
-    "then": {
-      "required": ["hazmat"],
-      "properties": {
-        "hazmat": {
-          "contains": {
-            "required": ["aspect"],
-            "properties": {
-              "aspect": {
-                "enum": ["united_nations_regulatory_id"]
-              }
+    }
+  },
+  {
+    "properties": {
+      "fulfillment_availability": {
+        "items": {
+          "if": {
+            "not": {
+              "allOf": [
+                {
+                  "required": ["fulfillment_channel_code"],
+                  "properties": {
+                    "fulfillment_channel_code": {
+                      "enum": [
+                        "DEFAULT",
+                        "MLF",
+                        "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "not": {
+                    "required": ["quantity"]
+                  }
+                }
+              ]
+            }
+          },
+          "then": {
+            "not": {
+              "required": ["is_inventory_available"]
             }
           }
         }
@@ -11678,16 +10506,6 @@
   {
     "if": {
       "allOf": [
-        {
-          "required": ["child_parent_sku_relationship"],
-          "properties": {
-            "child_parent_sku_relationship": {
-              "items": {
-                "required": ["parent_sku"]
-              }
-            }
-          }
-        },
         {
           "not": {
             "required": ["parentage_level"],
@@ -11706,14 +10524,16 @@
           }
         },
         {
-          "required": ["variation_theme"],
-          "properties": {
-            "variation_theme": {
-              "contains": {
-                "required": ["name"],
-                "properties": {
-                  "name": {
-                    "enum": ["ITEM_WEIGHT"]
+          "not": {
+            "required": ["skip_offer"],
+            "properties": {
+              "skip_offer": {
+                "contains": {
+                  "required": ["value"],
+                  "properties": {
+                    "value": {
+                      "enum": [true]
+                    }
                   }
                 }
               }
@@ -11723,25 +10543,145 @@
       ]
     },
     "then": {
-      "required": ["item_weight"]
+      "required": ["fulfillment_availability"]
     }
   },
   {
     "properties": {
-      "california_proposition_65": {
+      "purchasable_offer": {
+        "items": {
+          "properties": {
+            "map_price": {
+              "properties": {
+                "schedule": {
+                  "if": {
+                    "required": ["currency"],
+                    "properties": {
+                      "currency": {
+                        "enum": ["JPY"]
+                      }
+                    }
+                  },
+                  "then": {
+                    "properties": {
+                      "value_with_tax": {
+                        "multipleOf": 1
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
         "items": {
           "if": {
-            "required": ["compliance_type"],
+            "anyOf": [
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["ALL"]
+                  }
+                }
+              },
+              {
+                "not": {
+                  "required": ["audience"]
+                }
+              }
+            ]
+          },
+          "then": {
             "properties": {
-              "compliance_type": {
-                "enum": ["food", "furniture", "chemical"]
+              "map_price": {
+                "maxItems": 1
               }
             }
           },
+          "else": {
+            "not": {
+              "required": ["map_price"]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "properties": {
+            "our_price": {
+              "properties": {
+                "schedule": {
+                  "if": {
+                    "required": ["currency"],
+                    "properties": {
+                      "currency": {
+                        "enum": ["JPY"]
+                      }
+                    }
+                  },
+                  "then": {
+                    "properties": {
+                      "value_with_tax": {
+                        "multipleOf": 1
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "if": {
+            "anyOf": [
+              {
+                "required": ["discounted_price"],
+                "properties": {
+                  "discounted_price": {
+                    "items": {
+                      "required": ["schedule"],
+                      "properties": {
+                        "schedule": {
+                          "items": {
+                            "required": ["value_with_tax"]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["B2B"]
+                  }
+                }
+              }
+            ]
+          },
           "then": {
-            "required": ["chemical_names"],
+            "required": ["our_price"],
             "properties": {
-              "chemical_names": {
+              "our_price": {
                 "minItems": 1
               }
             }
@@ -11752,26 +10692,35 @@
   },
   {
     "properties": {
-      "california_proposition_65": {
+      "purchasable_offer": {
         "items": {
           "if": {
-            "required": ["compliance_type"],
-            "properties": {
-              "compliance_type": {
-                "enum": ["food", "furniture", "chemical"]
+            "anyOf": [
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["ALL"]
+                  }
+                }
+              },
+              {
+                "not": {
+                  "required": ["audience"]
+                }
               }
-            }
+            ]
           },
           "then": {
             "properties": {
-              "chemical_names": {
+              "automated_pricing_merchandising_rule_plan": {
                 "maxItems": 1
               }
             }
           },
           "else": {
             "not": {
-              "required": ["chemical_names"]
+              "required": ["automated_pricing_merchandising_rule_plan"]
             }
           }
         }
@@ -11779,60 +10728,644 @@
     }
   },
   {
-    "if": {
-      "required": ["fcc_radio_frequency_emission_compliance"],
-      "properties": {
-        "fcc_radio_frequency_emission_compliance": {
-          "contains": {
-            "required": ["registration_status"],
-            "properties": {
-              "registration_status": {
-                "enum": ["has_fcc_id"]
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "properties": {
+            "minimum_seller_allowed_price": {
+              "properties": {
+                "schedule": {
+                  "if": {
+                    "required": ["currency"],
+                    "properties": {
+                      "currency": {
+                        "enum": ["JPY"]
+                      }
+                    }
+                  },
+                  "then": {
+                    "properties": {
+                      "value_with_tax": {
+                        "multipleOf": 1
+                      }
+                    }
+                  }
+                }
               }
             }
-          }
-        }
-      }
-    },
-    "then": {
-      "properties": {
-        "fcc_radio_frequency_emission_compliance": {
-          "items": {
-            "required": ["identification_number"]
           }
         }
       }
     }
   },
   {
-    "if": {
-      "required": ["fcc_radio_frequency_emission_compliance"],
-      "properties": {
-        "fcc_radio_frequency_emission_compliance": {
-          "contains": {
-            "required": ["registration_status"],
-            "properties": {
-              "registration_status": {
-                "enum": ["fcc_supplier_declaration_of_conformity"]
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "if": {
+            "anyOf": [
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["ALL"]
+                  }
+                }
+              },
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["B2B"]
+                  }
+                }
+              },
+              {
+                "not": {
+                  "required": ["audience"]
+                }
               }
-            }
-          }
-        }
-      }
-    },
-    "then": {
-      "properties": {
-        "fcc_radio_frequency_emission_compliance": {
-          "items": {
-            "required": [
-              "point_of_contact_address",
-              "point_of_contact_email",
-              "point_of_contact_name",
-              "point_of_contact_phone_number"
             ]
+          },
+          "then": {
+            "properties": {
+              "minimum_seller_allowed_price": {
+                "maxItems": 1
+              }
+            }
           }
         }
       }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "properties": {
+            "maximum_seller_allowed_price": {
+              "properties": {
+                "schedule": {
+                  "if": {
+                    "required": ["currency"],
+                    "properties": {
+                      "currency": {
+                        "enum": ["JPY"]
+                      }
+                    }
+                  },
+                  "then": {
+                    "properties": {
+                      "value_with_tax": {
+                        "multipleOf": 1
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "if": {
+            "anyOf": [
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["ALL"]
+                  }
+                }
+              },
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["B2B"]
+                  }
+                }
+              },
+              {
+                "not": {
+                  "required": ["audience"]
+                }
+              }
+            ]
+          },
+          "then": {
+            "properties": {
+              "maximum_seller_allowed_price": {
+                "maxItems": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "properties": {
+            "discounted_price": {
+              "properties": {
+                "schedule": {
+                  "if": {
+                    "required": ["currency"],
+                    "properties": {
+                      "currency": {
+                        "enum": ["JPY"]
+                      }
+                    }
+                  },
+                  "then": {
+                    "properties": {
+                      "value_with_tax": {
+                        "multipleOf": 1
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "if": {
+            "anyOf": [
+              {
+                "required": ["audience"],
+                "properties": {
+                  "audience": {
+                    "enum": ["ALL"]
+                  }
+                }
+              },
+              {
+                "not": {
+                  "required": ["audience"]
+                }
+              }
+            ]
+          },
+          "then": {
+            "properties": {
+              "discounted_price": {
+                "maxItems": 1
+              }
+            }
+          },
+          "else": {
+            "not": {
+              "required": ["discounted_price"]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "properties": {
+            "quantity_discount_plan": {
+              "properties": {
+                "schedule": {
+                  "properties": {
+                    "levels": {
+                      "if": {
+                        "required": ["currency"],
+                        "properties": {
+                          "currency": {
+                            "enum": ["JPY"]
+                          }
+                        }
+                      },
+                      "then": {
+                        "properties": {
+                          "value": {
+                            "multipleOf": 1
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["purchasable_offer"],
+      "properties": {
+        "purchasable_offer": {
+          "contains": {
+            "required": ["quantity_discount_plan"],
+            "properties": {
+              "quantity_discount_plan": {
+                "contains": {
+                  "required": ["schedule"],
+                  "properties": {
+                    "schedule": {
+                      "contains": {
+                        "required": ["discount_type"],
+                        "properties": {
+                          "discount_type": {
+                            "enum": ["percent"]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "properties": {
+        "purchasable_offer": {
+          "items": {
+            "properties": {
+              "quantity_discount_plan": {
+                "properties": {
+                  "schedule": {
+                    "properties": {
+                      "levels": {
+                        "properties": {
+                          "value": {
+                            "maximum": 99
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "purchasable_offer": {
+        "items": {
+          "if": {
+            "required": ["audience"],
+            "properties": {
+              "audience": {
+                "enum": ["B2B"]
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "quantity_discount_plan": {
+                "maxItems": 1
+              }
+            }
+          },
+          "else": {
+            "not": {
+              "required": ["quantity_discount_plan"]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "anyOf": [
+        {
+          "allOf": [
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["skip_offer"],
+                "properties": {
+                  "skip_offer": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": [true]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["skip_offer"],
+                "properties": {
+                  "skip_offer": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": [true]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "then": {
+      "required": ["condition_type"]
+    }
+  },
+  {
+    "if": {
+      "anyOf": [
+        {
+          "allOf": [
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["skip_offer"],
+                "properties": {
+                  "skip_offer": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": [true]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["skip_offer"],
+                "properties": {
+                  "skip_offer": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": [true]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "then": {
+      "required": ["list_price"]
+    }
+  },
+  {
+    "if": {
+      "anyOf": [
+        {
+          "allOf": [
+            {
+              "required": ["fulfillment_availability"],
+              "properties": {
+                "fulfillment_availability": {
+                  "contains": {
+                    "required": ["fulfillment_channel_code"],
+                    "properties": {
+                      "fulfillment_channel_code": {
+                        "enum": [
+                          "DEFAULT",
+                          "MLF",
+                          "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["skip_offer"],
+                "properties": {
+                  "skip_offer": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": [true]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "required": ["fulfillment_availability"],
+              "properties": {
+                "fulfillment_availability": {
+                  "contains": {
+                    "required": ["fulfillment_channel_code"],
+                    "properties": {
+                      "fulfillment_channel_code": {
+                        "enum": [
+                          "DEFAULT",
+                          "MLF",
+                          "fbce2652-d49b-4a0e-b3ca-239db8c59fb3"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["skip_offer"],
+                "properties": {
+                  "skip_offer": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": [true]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "then": {
+      "required": ["merchant_shipping_group"]
     }
   },
   {
@@ -12021,6 +11554,386 @@
     },
     "then": {
       "required": ["item_display_weight"]
+    }
+  },
+  {
+    "if": {
+      "required": ["supplier_declared_dg_hz_regulation"],
+      "properties": {
+        "supplier_declared_dg_hz_regulation": {
+          "contains": {
+            "required": ["value"],
+            "properties": {
+              "value": {
+                "enum": ["not_applicable"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "properties": {
+        "supplier_declared_dg_hz_regulation": {
+          "items": {
+            "properties": {
+              "value": {
+                "not": {
+                  "enum": ["other", "storage", "transportation", "waste"]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["supplier_declared_dg_hz_regulation"],
+      "properties": {
+        "supplier_declared_dg_hz_regulation": {
+          "contains": {
+            "required": ["value"],
+            "properties": {
+              "value": {
+                "enum": ["ghs"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "required": ["ghs", "safety_data_sheet_url"],
+      "properties": {
+        "ghs": {
+          "items": {
+            "required": ["classification"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["supplier_declared_dg_hz_regulation"],
+      "properties": {
+        "supplier_declared_dg_hz_regulation": {
+          "contains": {
+            "required": ["value"],
+            "properties": {
+              "value": {
+                "enum": ["transportation"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "required": ["hazmat"],
+      "properties": {
+        "hazmat": {
+          "contains": {
+            "required": ["aspect"],
+            "properties": {
+              "aspect": {
+                "enum": ["united_nations_regulatory_id"]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "california_proposition_65": {
+        "items": {
+          "if": {
+            "required": ["compliance_type"],
+            "properties": {
+              "compliance_type": {
+                "enum": ["food", "furniture", "chemical"]
+              }
+            }
+          },
+          "then": {
+            "required": ["chemical_names"],
+            "properties": {
+              "chemical_names": {
+                "minItems": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "california_proposition_65": {
+        "items": {
+          "if": {
+            "required": ["compliance_type"],
+            "properties": {
+              "compliance_type": {
+                "enum": ["food", "furniture", "chemical"]
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "chemical_names": {
+                "maxItems": 1
+              }
+            }
+          },
+          "else": {
+            "not": {
+              "required": ["chemical_names"]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "pesticide_marking": {
+        "items": {
+          "if": {
+            "required": ["marking_type"],
+            "properties": {
+              "marking_type": {
+                "enum": ["epa_establishment_number", "epa_registration_number"]
+              }
+            }
+          },
+          "then": {
+            "required": ["registration_status"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "properties": {
+      "pesticide_marking": {
+        "items": {
+          "if": {
+            "required": ["registration_status"],
+            "properties": {
+              "registration_status": {
+                "enum": ["fifra_registration_required"]
+              }
+            }
+          },
+          "then": {
+            "required": ["certification_number"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["fcc_radio_frequency_emission_compliance"],
+      "properties": {
+        "fcc_radio_frequency_emission_compliance": {
+          "contains": {
+            "required": ["registration_status"],
+            "properties": {
+              "registration_status": {
+                "enum": ["has_fcc_id"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "properties": {
+        "fcc_radio_frequency_emission_compliance": {
+          "items": {
+            "required": ["identification_number"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "required": ["fcc_radio_frequency_emission_compliance"],
+      "properties": {
+        "fcc_radio_frequency_emission_compliance": {
+          "contains": {
+            "required": ["registration_status"],
+            "properties": {
+              "registration_status": {
+                "enum": ["fcc_supplier_declaration_of_conformity"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "then": {
+      "properties": {
+        "fcc_radio_frequency_emission_compliance": {
+          "items": {
+            "required": [
+              "point_of_contact_address",
+              "point_of_contact_email",
+              "point_of_contact_name",
+              "point_of_contact_phone_number"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "if": {
+      "anyOf": [
+        {
+          "allOf": [
+            {
+              "required": ["baa_taa_regulation_compliance"],
+              "properties": {
+                "baa_taa_regulation_compliance": {
+                  "items": {
+                    "required": ["value"]
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "required": ["baa_taa_regulation_compliance"],
+              "properties": {
+                "baa_taa_regulation_compliance": {
+                  "items": {
+                    "required": ["value"]
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "then": {
+      "required": ["baa_taa_compliance_acknowledgement"]
+    }
+  },
+  {
+    "if": {
+      "anyOf": [
+        {
+          "allOf": [
+            {
+              "required": ["baa_taa_regulation_compliance"],
+              "properties": {
+                "baa_taa_regulation_compliance": {
+                  "contains": {
+                    "required": ["value"],
+                    "properties": {
+                      "value": {
+                        "enum": ["trade_agreements_act_compliant"]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "items": {
+                      "required": ["value"]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "allOf": [
+            {
+              "required": ["baa_taa_regulation_compliance"],
+              "properties": {
+                "baa_taa_regulation_compliance": {
+                  "contains": {
+                    "required": ["value"],
+                    "properties": {
+                      "value": {
+                        "enum": ["trade_agreements_act_compliant"]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "not": {
+                "required": ["parentage_level"],
+                "properties": {
+                  "parentage_level": {
+                    "contains": {
+                      "required": ["value"],
+                      "properties": {
+                        "value": {
+                          "enum": ["parent"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "then": {
+      "required": ["taa_compliant_country"]
     }
   }
 ]
