@@ -1,0 +1,707 @@
+{
+  "channelId": "180",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-03-18T05:26:46.273Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 140,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 20
+  },
+  "productTracker": {
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": "7133",
+      "productName": "Soy Ferment Moisturizing Facial Essence - Vegan, Fragrance Free, Alternative to Snail Mucin, Strengthens Barrier and Softens Skin with First Effect, 30ml",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": "7134",
+      "productName": "Deluxe-Partyanzug für Kinder, formelle Kleidung für Jungen, Blau",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": "7135",
+      "productName": "Textmarker",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mojito-glass": {
+      "hasErrors": false,
+      "productId": "7136",
+      "productName": "Melbify Mojito-Gläser mit Blättern, 4 Stück",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "1234567890123456789012345678901234567890": {
+      "hasErrors": false,
+      "productId": "7137",
+      "productName": "Melbify Mojito-Gläser mit Blättern, 4 Stück",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": "7138",
+      "productName": "Wiederverwendbare Premium-Wasserflasche, BPA-frei, auslaufsicher, Sport-Design, 750 ml Fassungsvermögen, breite Öffnung, leicht, für Fitnessstudio, Wandern, Büro",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Eyelashes": {
+      "hasErrors": false,
+      "productId": "7139",
+      "productName": "Premium Falsche Wimpern - natürliches Aussehen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "wooden-bench": {
+      "hasErrors": false,
+      "productId": "7140",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20950906538424039047": {
+      "hasErrors": false,
+      "productId": "7141",
+      "productName": "The Giant Leap T-shirt unisexe en coton épais",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30979367391677307111": {
+      "hasErrors": false,
+      "productId": "7142",
+      "productName": "T-shirt unisexe en coton épais",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case black": {
+      "hasErrors": false,
+      "productId": "7143",
+      "productName": "Étui de téléphone Love Heart - Protection et élégance",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "6X-QO92-SR01": {
+      "hasErrors": false,
+      "productId": "7144",
+      "productName": "Chemise",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "P0-QSLR-L3KP": {
+      "hasErrors": false,
+      "productId": "7145",
+      "productName": "Unisex Heavy Cotton Tee",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "WA-H82S-N576": {
+      "hasErrors": false,
+      "productId": "7145",
+      "productName": "Unisex Heavy Cotton Tee",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "55252223219787294959": {
+      "hasErrors": false,
+      "productId": "7146",
+      "productName": "Tasse en céramique motif singe fantaisiste - Tasse à café colorée - Cadeau amusant pour enfants, décoration de cuisine ludique, verres sur le thème de la jungle",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26014986315503632044": {
+      "hasErrors": false,
+      "productId": "7146",
+      "productName": "Tasse en céramique motif singe fantaisiste - Tasse à café colorée - Cadeau amusant pour enfants, décoration de cuisine ludique, verres sur le thème de la jungle",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10284470610055147746": {
+      "hasErrors": false,
+      "productId": "7147",
+      "productName": "Autocollant en vinyle pour voiture",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25688997547984720320": {
+      "hasErrors": false,
+      "productId": "7147",
+      "productName": "Autocollant en vinyle pour voiture",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "28864020670788674751": {
+      "hasErrors": false,
+      "productId": "7148",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67762835364228201899": {
+      "hasErrors": false,
+      "productId": "7148",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26485797266076578247": {
+      "hasErrors": false,
+      "productId": "7148",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17413368743738459909": {
+      "hasErrors": false,
+      "productId": "7148",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11564966521275931191": {
+      "hasErrors": false,
+      "productId": "7149",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17639620771608013832": {
+      "hasErrors": false,
+      "productId": "7149",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16882243971564917605": {
+      "hasErrors": false,
+      "productId": "7149",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25265057986674927056": {
+      "hasErrors": false,
+      "productId": "7149",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11282025598934436185": {
+      "hasErrors": false,
+      "productId": "7149",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "59577357725225979542": {
+      "hasErrors": false,
+      "productId": "7149",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14444053310336374819": {
+      "hasErrors": false,
+      "productId": "7150",
+      "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "94292994261163396712": {
+      "hasErrors": false,
+      "productId": "7150",
+      "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22039449774746896506": {
+      "hasErrors": false,
+      "productId": "7150",
+      "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16661825059693052327": {
+      "hasErrors": false,
+      "productId": "7150",
+      "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "74599968013643921960": {
+      "hasErrors": false,
+      "productId": "7150",
+      "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32242345023357025715": {
+      "hasErrors": false,
+      "productId": "7150",
+      "productName": "Tasse de voyage isotherme en forme de chouette mignonne - 1 200 ml - Cadeau pour elle - Gobelet de voyage - Pour la rentrée scolaire - Amoureux des hiboux",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25747656856860977137": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26579877305424590073": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16410027131999954160": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30366969356370446492": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "12096201412803655612": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26332062757315414125": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99471520249339163797": {
+      "hasErrors": false,
+      "productId": "7151",
+      "productName": "Sac fourre-tout motif chouette fantaisie, joli motif hibou, cadeau pour amateur de livres, sac écologique, usage quotidien, idée cadeau unique",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30396340252525416989": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18838576561447351297": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20184699460263983544": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20274609654073601324": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "82290431363794330833": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18210270667532577864": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26787049011141050616": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11584613081427148258": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "23313714049244420750": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20189624940225035247": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17321890570654532224": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21016692564692526584": {
+      "hasErrors": false,
+      "productId": "7152",
+      "productName": "T-shirt unisexe de poids moyen, fabriqué aux États-Unis",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}
