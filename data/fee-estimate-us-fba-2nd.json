@@ -1,0 +1,137 @@
+{
+  "payload": {
+    "FeesEstimateResult": {
+      "Status": "Success",
+      "FeesEstimateIdentifier": {
+        "MarketplaceId": "ATVPDKIKX0DER",
+        "IdType": "SellerSKU",
+        "SellerId": "A13EDBEFHU3OJ1",
+        "SellerInputIdentifier": "abc123",
+        "IsAmazonFulfilled": true,
+        "IdValue": "donut-pan",
+        "PriceToEstimateFees": {
+          "ListingPrice": {
+            "CurrencyCode": "USD",
+            "Amount": 100
+          }
+        }
+      },
+      "FeesEstimate": {
+        "TimeOfFeesEstimation": "2026-03-25T04:50:09.000Z",
+        "TotalFeesEstimate": {
+          "CurrencyCode": "USD",
+          "Amount": 20.68
+        },
+        "FeeDetailList": [
+          {
+            "FeeType": "ReferralFee",
+            "FeeAmount": {
+              "CurrencyCode": "USD",
+              "Amount": 15.0
+            },
+            "FinalFee": {
+              "CurrencyCode": "USD",
+              "Amount": 15.0
+            },
+            "FeePromotion": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            }
+          },
+          {
+            "FeeType": "VariableClosingFee",
+            "FeeAmount": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            },
+            "FinalFee": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            },
+            "FeePromotion": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            }
+          },
+          {
+            "FeeType": "PerItemFee",
+            "FeeAmount": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            },
+            "FinalFee": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            },
+            "FeePromotion": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            }
+          },
+          {
+            "FeeType": "FBAFees",
+            "FeeAmount": {
+              "CurrencyCode": "USD",
+              "Amount": 5.68
+            },
+            "FinalFee": {
+              "CurrencyCode": "USD",
+              "Amount": 5.68
+            },
+            "FeePromotion": {
+              "CurrencyCode": "USD",
+              "Amount": 0.0
+            },
+            "IncludedFeeDetailList": [
+              {
+                "FeeType": "FBAWeightHandling",
+                "FeeAmount": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                },
+                "FinalFee": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                },
+                "FeePromotion": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                }
+              },
+              {
+                "FeeType": "FBAPickAndPack",
+                "FeeAmount": {
+                  "CurrencyCode": "USD",
+                  "Amount": 5.68
+                },
+                "FinalFee": {
+                  "CurrencyCode": "USD",
+                  "Amount": 5.68
+                },
+                "FeePromotion": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                }
+              },
+              {
+                "FeeType": "FBAOrderHandling",
+                "FeeAmount": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                },
+                "FinalFee": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                },
+                "FeePromotion": {
+                  "CurrencyCode": "USD",
+                  "Amount": 0.0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

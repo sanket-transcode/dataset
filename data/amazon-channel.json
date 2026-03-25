@@ -1,0 +1,18 @@
+{
+  "value": "124",
+  "id": "124",
+  "name": "North America",
+  "label": "North America",
+  "icon": "http://localhost:3002/channelIcons/secondary/37.svg",
+  "channelType": "AMAZON",
+  "enabledLanguages": ["en_US"],
+  "defaultLanguage": null,
+  "marketplaceConfigs": [
+    {
+      "amazonMarketplaceId": 2,
+      "channelMarketplaceId": 3253,
+      "language": "en_US",
+      "currency": "USD"
+    }
+  ]
+}

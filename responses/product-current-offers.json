@@ -1,0 +1,180 @@
+{
+  "rawResponse": {
+    "SKU": "8852036985201452-V3",
+    "Offers": [
+      {
+        "MyOffer": false,
+        "SellerId": "A11HQ3YRDRXA6X",
+        "Shipping": {
+          "Amount": 0,
+          "CurrencyCode": "USD"
+        },
+        "ListingPrice": {
+          "Amount": 15.99,
+          "CurrencyCode": "USD"
+        },
+        "ShippingTime": {
+          "maximumHours": 0,
+          "minimumHours": 0,
+          "availabilityType": "NOW"
+        },
+        "SubCondition": "new",
+        "IsBuyBoxWinner": true,
+        "PrimeInformation": {
+          "IsPrime": true,
+          "IsNationalPrime": true
+        },
+        "IsFeaturedMerchant": true,
+        "IsFulfilledByAmazon": true,
+        "SellerFeedbackRating": {
+          "FeedbackCount": 41,
+          "SellerPositiveFeedbackRating": 100
+        }
+      }
+    ],
+    "status": "Success",
+    "Summary": {
+      "ListPrice": {
+        "Amount": 15.99,
+        "CurrencyCode": "USD"
+      },
+      "BuyBoxPrices": [
+        {
+          "Shipping": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          },
+          "condition": "New",
+          "LandedPrice": {
+            "Amount": 15.99,
+            "CurrencyCode": "USD"
+          },
+          "ListingPrice": {
+            "Amount": 15.99,
+            "CurrencyCode": "USD"
+          }
+        }
+      ],
+      "LowestPrices": [
+        {
+          "Shipping": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          },
+          "condition": "new",
+          "LandedPrice": {
+            "Amount": 15.99,
+            "CurrencyCode": "USD"
+          },
+          "ListingPrice": {
+            "Amount": 15.99,
+            "CurrencyCode": "USD"
+          },
+          "fulfillmentChannel": "Amazon"
+        }
+      ],
+      "SalesRankings": [
+        {
+          "Rank": 3662526,
+          "ProductCategoryId": "home_garden_display_on_website"
+        },
+        {
+          "Rank": 18770,
+          "ProductCategoryId": "3735201"
+        }
+      ],
+      "NumberOfOffers": [
+        {
+          "condition": "new",
+          "OfferCount": 1,
+          "fulfillmentChannel": "Amazon"
+        }
+      ],
+      "TotalOfferCount": 1,
+      "BuyBoxEligibleOffers": [
+        {
+          "condition": "new",
+          "fulfillmentChannel": "Amazon"
+        }
+      ]
+    },
+    "Identifier": {
+      "SellerSKU": "8852036985201452-V3",
+      "ItemCondition": "New",
+      "MarketplaceId": "ATVPDKIKX0DER"
+    },
+    "ItemCondition": "New",
+    "marketplaceId": "ATVPDKIKX0DER"
+  },
+  "feesEstimate": {
+    "Status": "Success",
+    "FeesEstimate": {
+      "FeeDetailList": [
+        {
+          "FeeType": "ReferralFee",
+          "FinalFee": {
+            "Amount": 2.4,
+            "CurrencyCode": "USD"
+          },
+          "FeeAmount": {
+            "Amount": 2.4,
+            "CurrencyCode": "USD"
+          },
+          "FeePromotion": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          }
+        },
+        {
+          "FeeType": "VariableClosingFee",
+          "FinalFee": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          },
+          "FeeAmount": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          },
+          "FeePromotion": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          }
+        },
+        {
+          "FeeType": "PerItemFee",
+          "FinalFee": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          },
+          "FeeAmount": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          },
+          "FeePromotion": {
+            "Amount": 0,
+            "CurrencyCode": "USD"
+          }
+        }
+      ],
+      "TotalFeesEstimate": {
+        "Amount": 2.4,
+        "CurrencyCode": "USD"
+      },
+      "TimeOfFeesEstimation": "2026-03-25T06:39:34.000Z"
+    },
+    "FeesEstimateIdentifier": {
+      "IdType": "SellerSKU",
+      "IdValue": "8852036985201452-V3",
+      "SellerId": "A13EDBEFHU3OJ1",
+      "MarketplaceId": "ATVPDKIKX0DER",
+      "IsAmazonFulfilled": false,
+      "PriceToEstimateFees": {
+        "ListingPrice": {
+          "Amount": 15.99,
+          "CurrencyCode": "USD"
+        }
+      },
+      "SellerInputIdentifier": "1724-7624-1774420774018"
+    }
+  }
+}

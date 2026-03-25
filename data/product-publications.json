@@ -1,0 +1,75 @@
+{
+  "isPublished": true,
+  "channels": {
+    "124": {
+      "channelType": "AMAZON",
+      "isActive": true,
+      "isPublished": true,
+      "marketplaces": {
+        "1": {
+          "languageCode": "en_CA",
+          "isActive": true,
+          "isPublished": false
+        },
+        "2": {
+          "languageCode": "en_US",
+          "isActive": true,
+          "isPublished": true
+        }
+      }
+    }
+  },
+  "variants": {
+    "17705": {
+      "isPublished": true,
+      "channels": {
+        "124": {
+          "channelType": "AMAZON",
+          "isActive": true,
+          "isPublished": true,
+          "marketplaces": {
+            "2": {
+              "languageCode": "en_US",
+              "isActive": true,
+              "isPublished": true
+            }
+          }
+        }
+      }
+    },
+    "17706": {
+      "isPublished": true,
+      "channels": {
+        "124": {
+          "channelType": "AMAZON",
+          "isActive": true,
+          "isPublished": true,
+          "marketplaces": {
+            "2": {
+              "languageCode": "en_US",
+              "isActive": true,
+              "isPublished": true
+            }
+          }
+        }
+      }
+    },
+    "17707": {
+      "isPublished": true,
+      "channels": {
+        "124": {
+          "channelType": "AMAZON",
+          "isActive": true,
+          "isPublished": true,
+          "marketplaces": {
+            "2": {
+              "languageCode": "en_US",
+              "isActive": true,
+              "isPublished": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
