@@ -1,0 +1,915 @@
+{
+  "data": [
+    {
+      "id": "9923",
+      "isActive": true,
+      "attributeGroup": {
+        "id": "1952",
+        "name": "Smartphone-General",
+        "label": "General",
+        "type": null
+      },
+      "productAttributes": [
+        {
+          "id": "3290145",
+          "attributeId": "265281",
+          "productAttributeGroupId": "9923",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-03-09T06:18:46.325Z",
+          "updatedAt": "2026-03-09T06:18:46.325Z",
+          "valueVarchar": "IP68",
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": ["IP68"],
+          "unitOfMeasure": null,
+          "displayLabel": "Water Resistance",
+          "attribute": {
+            "id": 265281,
+            "name": "Smartphone-Water Resistance",
+            "label": "Water Resistance",
+            "displayLabel": "Water Resistance",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Water Resistance",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 3290145,
+            "sequence": 214
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": ["IP68"],
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "3290144",
+          "attributeId": "265280",
+          "productAttributeGroupId": "9923",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-03-09T06:18:46.325Z",
+          "updatedAt": "2026-03-09T06:18:46.325Z",
+          "valueVarchar": "A-series Chip",
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": ["A-series Chip"],
+          "unitOfMeasure": null,
+          "displayLabel": "Chip",
+          "attribute": {
+            "id": 265280,
+            "name": "Smartphone-Chip",
+            "label": "Chip",
+            "displayLabel": "Chip",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Chip",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 3290144,
+            "sequence": 213
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": ["A-series Chip"],
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "3290143",
+          "attributeId": "265279",
+          "productAttributeGroupId": "9923",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-03-09T06:18:46.324Z",
+          "updatedAt": "2026-03-09T06:18:46.324Z",
+          "valueVarchar": "Super Retina XDR",
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": ["Super Retina XDR"],
+          "unitOfMeasure": null,
+          "displayLabel": "Display Type",
+          "attribute": {
+            "id": 265279,
+            "name": "Smartphone-Display Type",
+            "label": "Display Type",
+            "displayLabel": "Display Type",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Display Type",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 3290143,
+            "sequence": 212
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": ["Super Retina XDR"],
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "3290142",
+          "attributeId": "265278",
+          "productAttributeGroupId": "9923",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-03-09T06:18:46.324Z",
+          "updatedAt": "2026-03-09T06:18:46.324Z",
+          "valueVarchar": "5G",
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": ["5G"],
+          "unitOfMeasure": null,
+          "displayLabel": "Cellular Technology",
+          "attribute": {
+            "id": 265278,
+            "name": "Smartphone-Cellular Technology",
+            "label": "Cellular Technology",
+            "displayLabel": "Cellular Technology",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Cellular Technology",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 3290142,
+            "sequence": 211
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": ["5G"],
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "3290141",
+          "attributeId": "265277",
+          "productAttributeGroupId": "9923",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-03-09T06:18:46.324Z",
+          "updatedAt": "2026-03-09T06:18:46.324Z",
+          "valueVarchar": "iOS",
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": ["iOS"],
+          "unitOfMeasure": null,
+          "displayLabel": "Operating System",
+          "attribute": {
+            "id": 265277,
+            "name": "Smartphone-Operating System",
+            "label": "Operating System",
+            "displayLabel": "Operating System",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Operating System",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 3290141,
+            "sequence": 210
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": ["iOS"],
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        }
+      ],
+      "type": "group"
+    },
+    {
+      "id": "14705",
+      "isActive": true,
+      "attributeGroup": {
+        "id": "1425",
+        "name": "T-Shirts-General",
+        "label": "General",
+        "type": null
+      },
+      "productAttributes": [
+        {
+          "id": "5673598",
+          "attributeId": "191635",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Color",
+          "attribute": {
+            "id": 191635,
+            "name": "T-Shirts-Color",
+            "label": "Color",
+            "displayLabel": "Color",
+            "isVariantKey": true,
+            "attributeType": "dropdownList",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Color",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option0",
+                "translation": "Black",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option1",
+                "translation": "Blue",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option2",
+                "translation": "Red",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option3",
+                "translation": "Green",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option4",
+                "translation": "Gray",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "options": [
+                {
+                  "label": "Black",
+                  "value": "Black"
+                },
+                {
+                  "label": "Blue",
+                  "value": "Blue"
+                },
+                {
+                  "label": "Red",
+                  "value": "Red"
+                },
+                {
+                  "label": "Green",
+                  "value": "Green"
+                },
+                {
+                  "label": "Gray",
+                  "value": "Gray"
+                }
+              ],
+              "isMandatory": "mandatory",
+              "customTextAllowed": true
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673598,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "5673597",
+          "attributeId": "191634",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Size",
+          "attribute": {
+            "id": 191634,
+            "name": "T-Shirts-Size",
+            "label": "Size",
+            "displayLabel": "Size",
+            "isVariantKey": true,
+            "attributeType": "dropdownList",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Size",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option0",
+                "translation": "XS",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option1",
+                "translation": "S",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option2",
+                "translation": "M",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option3",
+                "translation": "L",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option4",
+                "translation": "XL",
+                "languageCode": "en_US"
+              },
+              {
+                "key": "option5",
+                "translation": "XXL",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "options": [
+                {
+                  "label": "XS",
+                  "value": "XS"
+                },
+                {
+                  "label": "S",
+                  "value": "S"
+                },
+                {
+                  "label": "M",
+                  "value": "M"
+                },
+                {
+                  "label": "L",
+                  "value": "L"
+                },
+                {
+                  "label": "XL",
+                  "value": "XL"
+                },
+                {
+                  "label": "XXL",
+                  "value": "XXL"
+                }
+              ],
+              "isMandatory": "mandatory",
+              "customTextAllowed": true
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673597,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "5673596",
+          "attributeId": "191633",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Sport",
+          "attribute": {
+            "id": 191633,
+            "name": "T-Shirts-Sport",
+            "label": "Sport",
+            "displayLabel": "Sport",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Sport",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673596,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "5673595",
+          "attributeId": "191632",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Neckline",
+          "attribute": {
+            "id": 191632,
+            "name": "T-Shirts-Neckline",
+            "label": "Neckline",
+            "displayLabel": "Neckline",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Neckline",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673595,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "5673594",
+          "attributeId": "191631",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Fit",
+          "attribute": {
+            "id": 191631,
+            "name": "T-Shirts-Fit",
+            "label": "Fit",
+            "displayLabel": "Fit",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Fit",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673594,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "5673593",
+          "attributeId": "191630",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Sleeve Length",
+          "attribute": {
+            "id": 191630,
+            "name": "T-Shirts-Sleeve Length",
+            "label": "Sleeve Length",
+            "displayLabel": "Sleeve Length",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Sleeve Length",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673593,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        },
+        {
+          "id": "5673592",
+          "attributeId": "191629",
+          "productAttributeGroupId": "14705",
+          "variantId": null,
+          "languageCode": "en_US",
+          "channelId": null,
+          "valueGroupId": null,
+          "isInherited": false,
+          "sequence": null,
+          "createdAt": "2026-04-13T09:23:02.464Z",
+          "updatedAt": "2026-04-13T09:23:02.464Z",
+          "valueVarchar": null,
+          "valueText": null,
+          "valueInt": null,
+          "valueDecimal": null,
+          "valueDecimal2": null,
+          "valueBoolean": null,
+          "valueDate": null,
+          "valueTime": null,
+          "valueDateAndTime": null,
+          "valueArray": null,
+          "unitOfMeasure": null,
+          "displayLabel": "Material",
+          "attribute": {
+            "id": 191629,
+            "name": "T-Shirts-Material",
+            "label": "Material",
+            "displayLabel": "Material",
+            "isVariantKey": false,
+            "attributeType": "text",
+            "isPrimaryAttribute": false,
+            "attributeTranslations": [
+              {
+                "key": "label",
+                "translation": "Material",
+                "languageCode": "en_US"
+              }
+            ],
+            "attributeConfiguration": {
+              "isMandatory": "recommended"
+            }
+          },
+          "productGroupsAndAttributesSequence": {
+            "id": 5673592,
+            "sequence": 2
+          },
+          "amazonHierarchies": [],
+          "amazonAttributeDescription": "",
+          "amazonAttributePath": null,
+          "evaluatedValues": {
+            "value": null,
+            "value2": null,
+            "fallbackValue": null,
+            "fallbackValue2": null,
+            "baseValue": null,
+            "baseValue2": null,
+            "parentValue": null,
+            "parentValue2": null,
+            "parentFallbackValue": null,
+            "parentFallbackValue2": null,
+            "parentBaseValue": null,
+            "parentBaseValue2": null
+          }
+        }
+      ],
+      "type": "group"
+    }
+  ]
+}

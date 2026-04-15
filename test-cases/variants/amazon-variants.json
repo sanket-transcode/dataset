@@ -1,0 +1,83 @@
+{
+  "url": "product-variant/get-product-variants-new",
+  "response": {
+    "id": "23108",
+    "internalId": "PRV-68-23108",
+    "sku": "Custom Variant 1",
+    "asin": null,
+    "name": "Custom Variant 1",
+    "images": null,
+    "isActive": true,
+    "isDisabled": false,
+    "isPublishedOnAmazon": true,
+    "attributes": {
+      "AMV_SHIRT_color_value": {
+        "value": ["Charbon"],
+        "baseValue": null,
+        "fallbackValue": null,
+        "productVariantAttributeId": 6188
+      },
+      "AM_SHIRT_color_standardized_values": {
+        "value": ["Blue"],
+        "baseValue": null,
+        "fallbackValue": null,
+        "productVariantAttributeId": 6187
+      }
+    },
+    "variantChannels": [
+      {
+        "id": 25062,
+        "channel": {
+          "id": 124,
+          "icon": "37",
+          "name": "North America",
+          "externalId": null,
+          "channelType": "AMAZON"
+        },
+        "isActive": true,
+        "completeness": null,
+        "lowStockThreshold": 0,
+        "shopifyInventoryItemId": null
+      }
+    ],
+    "stock": null,
+    "isFba": false,
+    "price": {
+      "price": null,
+      "currency": {
+        "id": 202,
+        "currency": "CAD"
+      },
+      "compareAtPrice": 55
+    },
+    "mediaInfo": {
+      "value": "notInherited",
+      "attributeId": 184682,
+      "isInherited": false
+    },
+    "variantMarketplace": {
+      "id": 17518,
+      "asin": null,
+      "status": true,
+      "syncStatus": "OUT_OF_SYNC",
+      "amazonStock": null,
+      "conditionType": null,
+      "listingErrors": [],
+      "externalStatus": [],
+      "shippingTemplate": {
+        "id": null,
+        "name": null,
+        "externalId": null
+      },
+      "shippingTemplateId": null
+    },
+    "channelHealth": {
+      "searchable": false,
+      "syncStatus": "OUT_OF_SYNC",
+      "externalStatus": {
+        "subStatus": "",
+        "mainStatus": "OUT_OF_STOCK"
+      }
+    }
+  }
+}

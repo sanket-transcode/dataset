@@ -1,0 +1,1716 @@
+[
+  {
+    "id": 7343,
+    "attributeGroup": {
+      "id": 1432,
+      "name": "SP-Uncategorized(quick-test-categra)",
+      "label": "Product Metafields"
+    },
+    "productAttributes": [
+      {
+        "attribute": {
+          "id": 184689,
+          "name": "AM_SKIN_SERUM_model_number_value",
+          "label": "Model Number",
+          "isInherited": true,
+          "attributeType": "text",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [],
+            "maxLength": 40,
+            "isMandatory": "recommended",
+            "maximumValue": 1,
+            "minimumValue": 1,
+            "hasValueGroups": false,
+            "allowMultipleValues": true
+          },
+          "productAttributeGroupId": 7343
+        },
+        "currentValue": null,
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5785403,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": [null],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 192809,
+          "name": "SP_QUICK-TEST-CATEGRA_snowboard_length",
+          "label": "Snowboard length",
+          "isInherited": true,
+          "attributeType": "number",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "isMandatory": "recommended"
+          },
+          "productAttributeGroupId": 7343
+        },
+        "currentValue": null,
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5680087,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": null,
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 192810,
+          "name": "SP_QUICK-TEST-CATEGRA_binding_mount",
+          "label": "Snowboard binding mount",
+          "isInherited": true,
+          "attributeType": "text",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "isMandatory": "recommended"
+          },
+          "productAttributeGroupId": 7343
+        },
+        "currentValue": {
+          "id": 5785404,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["ABCD"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5785405,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["ABCD"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      }
+    ]
+  },
+  {
+    "id": 15076,
+    "attributeGroup": {
+      "id": 3209,
+      "name": "SP-Coffee-&-Tea-Saucers(quick-test-categra)",
+      "label": "Category Metafields"
+    },
+    "productAttributes": [
+      {
+        "attribute": {
+          "id": 192811,
+          "name": "SP_QUICK-TEST-CATEGRA_color-pattern",
+          "label": "Color",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": true,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "color": [
+              {
+                "id": "gid://shopify/TaxonomyValue/1",
+                "name": "Black"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2",
+                "name": "Blue"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/3",
+                "name": "White"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/4",
+                "name": "Gold"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/5",
+                "name": "Silver"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/6",
+                "name": "Beige"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/7",
+                "name": "Brown"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/8",
+                "name": "Gray"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/9",
+                "name": "Green"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/10",
+                "name": "Orange"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/11",
+                "name": "Pink"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/12",
+                "name": "Purple"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/13",
+                "name": "Red"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/14",
+                "name": "Yellow"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/15",
+                "name": "Navy"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/16",
+                "name": "Rose gold"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/17",
+                "name": "Clear"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/657",
+                "name": "Bronze"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2865",
+                "name": "Multicolor"
+              }
+            ],
+            "options": [
+              {
+                "image": null,
+                "label": "Beige",
+                "value": "Beige",
+                "hexValue": "#EAD8AB",
+                "metaobject": "gid://shopify/Metaobject/153207046372",
+                "taxonomyName": {
+                  "color": ["Beige"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/6"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Black",
+                "value": "Black",
+                "hexValue": "#000000",
+                "metaobject": "gid://shopify/Metaobject/156383609060",
+                "taxonomyName": {
+                  "color": ["Black"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/1"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Blue",
+                "value": "Blue",
+                "hexValue": "#005BD3",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Blue"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Bronze",
+                "value": "Bronze",
+                "hexValue": "#CD7F32",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Bronze"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/657"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Brown",
+                "value": "Brown",
+                "hexValue": "#9A5630",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Brown"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/7"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Clear",
+                "value": "Clear",
+                "hexValue": "#FFFFFF",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Clear"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/17"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Gold",
+                "value": "Gold",
+                "hexValue": "#FFD700",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Gold"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/4"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Gray",
+                "value": "Gray",
+                "hexValue": "#808080",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Gray"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/8"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Green",
+                "value": "Green",
+                "hexValue": "#008060",
+                "metaobject": "gid://shopify/Metaobject/153207111908",
+                "taxonomyName": {
+                  "color": ["Green"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/9"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Navy",
+                "value": "Navy",
+                "hexValue": "#000080",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Navy"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/15"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Orange",
+                "value": "Orange",
+                "hexValue": "#FF6A00",
+                "metaobject": "gid://shopify/Metaobject/159972393188",
+                "taxonomyName": {
+                  "color": ["Orange"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/10"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Pink",
+                "value": "Pink",
+                "hexValue": "#F5A0A1",
+                "metaobject": "gid://shopify/Metaobject/153207832804",
+                "taxonomyName": {
+                  "color": ["Pink"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/11"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Purple",
+                "value": "Purple",
+                "hexValue": "#800080",
+                "metaobject": "gid://shopify/Metaobject/176990748900",
+                "taxonomyName": {
+                  "color": ["Purple"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/12"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Red",
+                "value": "Red",
+                "hexValue": "#E32B2B",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Red"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/13"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Rose Gold",
+                "value": "Rose Gold",
+                "hexValue": "#B76E79",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Rose Gold"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/16"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Silver",
+                "value": "Silver",
+                "hexValue": "#C0C0C0",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Silver"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/5"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "White",
+                "value": "White",
+                "hexValue": "#FFFFFF",
+                "metaobject": "gid://shopify/Metaobject/191461163236",
+                "taxonomyName": {
+                  "color": ["White"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/3"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Yellow",
+                "value": "Yellow",
+                "hexValue": "#FBF851",
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Yellow"],
+                  "pattern": "Solid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/14"],
+                  "pattern": "gid://shopify/TaxonomyValue/2874"
+                }
+              },
+              {
+                "image": null,
+                "label": "Animal",
+                "value": "Animal",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Animal"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/24478"
+                }
+              },
+              {
+                "image": null,
+                "label": "Camouflage",
+                "value": "Camouflage",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Camouflage"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2866"
+                }
+              },
+              {
+                "image": null,
+                "label": "Checkered",
+                "value": "Checkered",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Checkered"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2868"
+                }
+              },
+              {
+                "image": null,
+                "label": "Dots",
+                "value": "Dots",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Dots"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2870"
+                }
+              },
+              {
+                "image": null,
+                "label": "Floral",
+                "value": "Floral",
+                "hexValue": null,
+                "metaobject": "gid://shopify/Metaobject/176987734244",
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Floral"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2868"
+                }
+              },
+              {
+                "image": null,
+                "label": "Geometric",
+                "value": "Geometric",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Geometric"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2869"
+                }
+              },
+              {
+                "image": null,
+                "label": "Multicolor",
+                "value": "Multicolor",
+                "hexValue": null,
+                "metaobject": "gid://shopify/Metaobject/153215533284",
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Other"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/24509"
+                }
+              },
+              {
+                "image": null,
+                "label": "Plaid",
+                "value": "Plaid",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Plaid"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2873"
+                }
+              },
+              {
+                "image": null,
+                "label": "Rainbow",
+                "value": "Rainbow",
+                "hexValue": null,
+                "metaobject": "gid://shopify/Metaobject/153215566052",
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Rainbow"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/24502"
+                }
+              },
+              {
+                "image": null,
+                "label": "Striped",
+                "value": "Striped",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Striped"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2875"
+                }
+              },
+              {
+                "image": null,
+                "label": "Tie-dye",
+                "value": "Tie-dye",
+                "hexValue": null,
+                "metaobject": null,
+                "taxonomyName": {
+                  "color": ["Multicolor"],
+                  "pattern": "Tie-dye"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2865"],
+                  "pattern": "gid://shopify/TaxonomyValue/2876"
+                }
+              },
+              {
+                "image": null,
+                "label": "Pastel Blue",
+                "value": "Pastel Blue",
+                "hexValue": null,
+                "metaobject": "gid://shopify/Metaobject/177433641188",
+                "taxonomyName": {
+                  "color": ["Blue"],
+                  "pattern": "Floral"
+                },
+                "taxonomyValue": {
+                  "color": ["gid://shopify/TaxonomyValue/2"],
+                  "pattern": "gid://shopify/TaxonomyValue/2871"
+                }
+              }
+            ],
+            "pattern": [
+              {
+                "id": "gid://shopify/TaxonomyValue/1782",
+                "name": "Text"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/1796",
+                "name": "Vehicle"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/1868",
+                "name": "Geometric"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2283",
+                "name": "Birds"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2375",
+                "name": "Hearts"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2376",
+                "name": "Stars"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2866",
+                "name": "Camouflage"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2867",
+                "name": "Characters"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2868",
+                "name": "Checkered"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2869",
+                "name": "Christmas"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2870",
+                "name": "Dots"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2871",
+                "name": "Floral"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2872",
+                "name": "Leaves"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2873",
+                "name": "Paisley"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2874",
+                "name": "Solid"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2875",
+                "name": "Striped"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/2876",
+                "name": "Tie-dye"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24477",
+                "name": "Abstract"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24478",
+                "name": "Animal"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24479",
+                "name": "Art"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24480",
+                "name": "Bead & reel"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24481",
+                "name": "Brick"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24482",
+                "name": "Bull's eye"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24483",
+                "name": "Chevron"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24484",
+                "name": "Chinoiserie"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24485",
+                "name": "Collage"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24486",
+                "name": "Coral"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24487",
+                "name": "Damask"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24488",
+                "name": "Diagonal"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24489",
+                "name": "Diamond"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24490",
+                "name": "Dog's tooth"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24491",
+                "name": "Egg & dart"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24492",
+                "name": "Ethnic"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24493",
+                "name": "Everlasting knot"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24494",
+                "name": "Fret"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24495",
+                "name": "Guilloche"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24496",
+                "name": "Illusion"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24497",
+                "name": "Logo"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24498",
+                "name": "Mosaic"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24499",
+                "name": "Ogee"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24500",
+                "name": "Organic"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24501",
+                "name": "Plaid"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24502",
+                "name": "Rainbow"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24503",
+                "name": "Random"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24504",
+                "name": "Scale"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24505",
+                "name": "Scroll"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24506",
+                "name": "Swirl"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24507",
+                "name": "Texture"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24508",
+                "name": "Trellis"
+              },
+              {
+                "id": "gid://shopify/TaxonomyValue/24509",
+                "name": "Other"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": {
+          "id": 5680091,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Multicolor", "Rainbow"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5680090,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Multicolor", "Rainbow"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 192812,
+          "name": "SP_QUICK-TEST-CATEGRA_drinkware-material",
+          "label": "Drinkware material",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": true,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "Ceramic",
+                "value": "Ceramic",
+                "metaobject": "gid://shopify/Metaobject/153207013604",
+                "taxonomyName": "Ceramic",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20719"
+              },
+              {
+                "label": "Glass",
+                "value": "Glass",
+                "metaobject": "gid://shopify/Metaobject/153207079140",
+                "taxonomyName": "Glass",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20720"
+              },
+              {
+                "label": "Plastic",
+                "value": "Plastic",
+                "metaobject": null,
+                "taxonomyName": "Plastic",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20721"
+              },
+              {
+                "label": "Stainless steel",
+                "value": "Stainless steel",
+                "metaobject": null,
+                "taxonomyName": "Stainless steel",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20722"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/27627"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": {
+          "id": 5680093,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Ceramic", "Glass"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5680092,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Ceramic", "Glass"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 435518,
+          "name": "SP_QUICK-TEST-CATEGRA_handle-type",
+          "label": "Handle type",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "No handle",
+                "value": "No handle",
+                "metaobject": null,
+                "taxonomyName": "No handle",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10501"
+              },
+              {
+                "label": "Long",
+                "value": "Long",
+                "metaobject": null,
+                "taxonomyName": "Long",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20019"
+              },
+              {
+                "label": "Short",
+                "value": "Short",
+                "metaobject": null,
+                "taxonomyName": "Short",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20020"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26722"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": {
+          "id": 6160334,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": [],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5797194,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": [],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 435519,
+          "name": "SP_QUICK-TEST-CATEGRA_cleaning-instructions",
+          "label": "Cleaning instructions",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "Hand wash only",
+                "value": "Hand wash only",
+                "metaobject": null,
+                "taxonomyName": "Hand wash only",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/11405"
+              },
+              {
+                "label": "Dishwasher safe",
+                "value": "Dishwasher safe",
+                "metaobject": null,
+                "taxonomyName": "Dishwasher safe",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/18201"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26862"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": null,
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 6129528,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": [],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 435520,
+          "name": "SP_QUICK-TEST-CATEGRA_lid-type",
+          "label": "Lid type",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "Snap-on",
+                "value": "Snap-on",
+                "metaobject": null,
+                "taxonomyName": "Snap-on",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10466"
+              },
+              {
+                "label": "Flip-top",
+                "value": "Flip-top",
+                "metaobject": null,
+                "taxonomyName": "Flip-top",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10505"
+              },
+              {
+                "label": "Screw-on",
+                "value": "Screw-on",
+                "metaobject": null,
+                "taxonomyName": "Screw-on",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/18214"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26867"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": null,
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 6162288,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": [],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 435521,
+          "name": "SP_QUICK-TEST-CATEGRA_drinkware-shape",
+          "label": "Drinkware shape",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "Curved",
+                "value": "Curved",
+                "metaobject": null,
+                "taxonomyName": "Curved",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26085"
+              },
+              {
+                "label": "Flared",
+                "value": "Flared",
+                "metaobject": null,
+                "taxonomyName": "Flared",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26086"
+              },
+              {
+                "label": "Round",
+                "value": "Round",
+                "metaobject": null,
+                "taxonomyName": "Round",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26087"
+              },
+              {
+                "label": "Square",
+                "value": "Square",
+                "metaobject": null,
+                "taxonomyName": "Square",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26088"
+              },
+              {
+                "label": "Tapered",
+                "value": "Tapered",
+                "metaobject": null,
+                "taxonomyName": "Tapered",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26089"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/26318"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": null,
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5785478,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Round", "Flared"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 435522,
+          "name": "SP_QUICK-TEST-CATEGRA_shape",
+          "label": "Shape",
+          "isInherited": true,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "Round",
+                "value": "Round",
+                "metaobject": null,
+                "taxonomyName": "Round",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/627"
+              },
+              {
+                "label": "Square",
+                "value": "Square",
+                "metaobject": null,
+                "taxonomyName": "Square",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/628"
+              },
+              {
+                "label": "Octagonal",
+                "value": "Octagonal",
+                "metaobject": null,
+                "taxonomyName": "Octagonal",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/6996"
+              },
+              {
+                "label": "Triangular",
+                "value": "Triangular",
+                "metaobject": null,
+                "taxonomyName": "Triangular",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/6998"
+              },
+              {
+                "label": "Pentagonal",
+                "value": "Pentagonal",
+                "metaobject": null,
+                "taxonomyName": "Pentagonal",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/6999"
+              },
+              {
+                "label": "Heptagonal",
+                "value": "Heptagonal",
+                "metaobject": null,
+                "taxonomyName": "Heptagonal",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/7000"
+              },
+              {
+                "label": "Oval",
+                "value": "Oval",
+                "metaobject": null,
+                "taxonomyName": "Oval",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/7321"
+              },
+              {
+                "label": "Arrow",
+                "value": "Arrow",
+                "metaobject": null,
+                "taxonomyName": "Arrow",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/7998"
+              },
+              {
+                "label": "Rectangular",
+                "value": "Rectangular",
+                "metaobject": null,
+                "taxonomyName": "Rectangular",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10140"
+              },
+              {
+                "label": "Free-form",
+                "value": "Free-form",
+                "metaobject": null,
+                "taxonomyName": "Free-form",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10150"
+              },
+              {
+                "label": "Kidney-shaped",
+                "value": "Kidney-shaped",
+                "metaobject": null,
+                "taxonomyName": "Kidney-shaped",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10151"
+              },
+              {
+                "label": "Trapezoidal",
+                "value": "Trapezoidal",
+                "metaobject": null,
+                "taxonomyName": "Trapezoidal",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/10152"
+              },
+              {
+                "label": "Flower",
+                "value": "Flower",
+                "metaobject": null,
+                "taxonomyName": "Flower",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/13848"
+              },
+              {
+                "label": "Semicircular",
+                "value": "Semicircular",
+                "metaobject": null,
+                "taxonomyName": "Semicircular",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/14390"
+              },
+              {
+                "label": "Cylindrical",
+                "value": "Cylindrical",
+                "metaobject": null,
+                "taxonomyName": "Cylindrical",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/14845"
+              },
+              {
+                "label": "Heart",
+                "value": "Heart",
+                "metaobject": null,
+                "taxonomyName": "Heart",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/17387"
+              },
+              {
+                "label": "Diamond",
+                "value": "Diamond",
+                "metaobject": null,
+                "taxonomyName": "Diamond",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/17460"
+              },
+              {
+                "label": "Hexagonal",
+                "value": "Hexagonal",
+                "metaobject": null,
+                "taxonomyName": "Hexagonal",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/17461"
+              },
+              {
+                "label": "Star",
+                "value": "Star",
+                "metaobject": null,
+                "taxonomyName": "Star",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/17462"
+              },
+              {
+                "label": "Custom",
+                "value": "Custom",
+                "metaobject": null,
+                "taxonomyName": "Custom",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/18074"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/18640"
+              },
+              {
+                "label": "Conical",
+                "value": "Conical",
+                "metaobject": null,
+                "taxonomyName": "Conical",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20646"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": {
+          "id": 6163453,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Kidney-shaped"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5785409,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Kidney-shaped"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      },
+      {
+        "attribute": {
+          "id": 435523,
+          "name": "SP_QUICK-TEST-CATEGRA_tableware-material",
+          "label": "Tableware material",
+          "isInherited": false,
+          "attributeType": "amazonMultiSelect",
+          "isLinkedAttribute": false,
+          "isVariantAttribute": false,
+          "isAttributeInChannel": false,
+          "attributeConfiguration": {
+            "options": [
+              {
+                "label": "Zamak",
+                "value": "Zamak",
+                "metaobject": null,
+                "taxonomyName": "Zamak",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/815"
+              },
+              {
+                "label": "Stoneware",
+                "value": "Stoneware",
+                "metaobject": null,
+                "taxonomyName": "Stoneware",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/917"
+              },
+              {
+                "label": "Bone china",
+                "value": "Bone china",
+                "metaobject": null,
+                "taxonomyName": "Bone china",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/984"
+              },
+              {
+                "label": "Teak wood",
+                "value": "Teak wood",
+                "metaobject": null,
+                "taxonomyName": "Teak wood",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/8351"
+              },
+              {
+                "label": "Earthenware",
+                "value": "Earthenware",
+                "metaobject": null,
+                "taxonomyName": "Earthenware",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/16904"
+              },
+              {
+                "label": "Bamboo",
+                "value": "Bamboo",
+                "metaobject": null,
+                "taxonomyName": "Bamboo",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20699"
+              },
+              {
+                "label": "Brass",
+                "value": "Brass",
+                "metaobject": null,
+                "taxonomyName": "Brass",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20700"
+              },
+              {
+                "label": "Cast iron",
+                "value": "Cast iron",
+                "metaobject": null,
+                "taxonomyName": "Cast iron",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20701"
+              },
+              {
+                "label": "Ceramic",
+                "value": "Ceramic",
+                "metaobject": null,
+                "taxonomyName": "Ceramic",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20702"
+              },
+              {
+                "label": "Concrete",
+                "value": "Concrete",
+                "metaobject": null,
+                "taxonomyName": "Concrete",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20703"
+              },
+              {
+                "label": "Glass",
+                "value": "Glass",
+                "metaobject": null,
+                "taxonomyName": "Glass",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20704"
+              },
+              {
+                "label": "Marble",
+                "value": "Marble",
+                "metaobject": null,
+                "taxonomyName": "Marble",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20705"
+              },
+              {
+                "label": "Melamine",
+                "value": "Melamine",
+                "metaobject": null,
+                "taxonomyName": "Melamine",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20706"
+              },
+              {
+                "label": "Metal",
+                "value": "Metal",
+                "metaobject": null,
+                "taxonomyName": "Metal",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20707"
+              },
+              {
+                "label": "Plastic",
+                "value": "Plastic",
+                "metaobject": null,
+                "taxonomyName": "Plastic",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20708"
+              },
+              {
+                "label": "Polyvinyl chloride (PVC)",
+                "value": "Polyvinyl chloride (PVC)",
+                "metaobject": null,
+                "taxonomyName": "Polyvinyl chloride (PVC)",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20709"
+              },
+              {
+                "label": "Porcelain",
+                "value": "Porcelain",
+                "metaobject": null,
+                "taxonomyName": "Porcelain",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20710"
+              },
+              {
+                "label": "Silicone",
+                "value": "Silicone",
+                "metaobject": null,
+                "taxonomyName": "Silicone",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20711"
+              },
+              {
+                "label": "Stainless steel",
+                "value": "Stainless steel",
+                "metaobject": null,
+                "taxonomyName": "Stainless steel",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20712"
+              },
+              {
+                "label": "Steel",
+                "value": "Steel",
+                "metaobject": null,
+                "taxonomyName": "Steel",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20713"
+              },
+              {
+                "label": "Stone",
+                "value": "Stone",
+                "metaobject": null,
+                "taxonomyName": "Stone",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20714"
+              },
+              {
+                "label": "Synthetic",
+                "value": "Synthetic",
+                "metaobject": null,
+                "taxonomyName": "Synthetic",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20715"
+              },
+              {
+                "label": "Wood",
+                "value": "Wood",
+                "metaobject": null,
+                "taxonomyName": "Wood",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20716"
+              },
+              {
+                "label": "Other",
+                "value": "Other",
+                "metaobject": null,
+                "taxonomyName": "Other",
+                "taxonomyValue": "gid://shopify/TaxonomyValue/20717"
+              }
+            ],
+            "isMandatory": "recommended",
+            "customTextAllowed": true
+          },
+          "productAttributeGroupId": 15076
+        },
+        "currentValue": {
+          "id": 6161842,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Concrete", "Teak wood"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "defaultValue": null,
+        "fallbackValue1": {
+          "id": 5785477,
+          "valueInt": null,
+          "valueDate": null,
+          "valueText": null,
+          "valueTime": null,
+          "valueArray": ["Concrete"],
+          "languageCode": "en_US",
+          "valueBoolean": null,
+          "valueDecimal": null,
+          "valueVarchar": null,
+          "unitOfMeasure": null,
+          "valueDecimal2": null,
+          "valueDateAndTime": null
+        },
+        "fallbackValue2": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "url": "product-variant/get-shopify-product-variants",
+  "response": {
+    "id": 23108,
+    "isActive": true,
+    "stock": null,
+    "price": {
+      "price": null,
+      "compareAtPrice": null,
+      "currency": {
+        "id": 199,
+        "currency": "RON"
+      }
+    },
+    "name": "Custom Variant 1",
+    "sku": "Custom Variant 1",
+    "mediaInfo": {
+      "value": "notInherited",
+      "attributeId": 184682,
+      "isInherited": false
+    },
+    "image": {
+      "id": 101353,
+      "filePath": "uploads/68/product/4513/",
+      "fileUniqueName": "360d4a30-3498-11f1-ab16-3ba5e323df23.png"
+    },
+    "attributes": {
+      "AMV_SHIRT_color_value": {
+        "value": ["Charbon"],
+        "productVariantAttributeId": 6188
+      },
+      "AM_SHIRT_color_standardized_values": {
+        "value": ["Blue"],
+        "productVariantAttributeId": 6187
+      }
+    },
+    "variantSignature": "615d1fbfb1f108805b26801e797fcf8e",
+    "channelHealth": {
+      "syncStatus": "OUT_OF_SYNC",
+      "externalStatus": {
+        "subStatus": "",
+        "mainStatus": "NOT_PUBLISHED"
+      }
+    },
+    "rn": 1
+  }
+}

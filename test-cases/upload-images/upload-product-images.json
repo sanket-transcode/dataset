@@ -1,0 +1,37 @@
+{
+  "url": "http://localhost:3002/products/upload-images",
+  "response": {
+    "0": {
+      "sequence": "11",
+      "folderName": null,
+      "id": "277935",
+      "accountId": "68",
+      "type": "overview",
+      "fileOriginalName": "image (43).png",
+      "filePath": "uploads/68/products/4513/",
+      "fileUniqueName": "f66b91a0-340d-11f1-837f-9f675bf2a4d2.png",
+      "isLink": "false",
+      "fileSize": "66373",
+      "fileType": "PNG",
+      "isFolder": false,
+      "parentFolderId": null,
+      "createdBy": null,
+      "updatedBy": null,
+      "updatedAt": "2026-04-09T12:16:39.860Z",
+      "createdAt": "2026-04-09T12:16:39.860Z",
+      "productId": "4513",
+      "variantId": "17770",
+      "languageCode": null,
+      "digitalAssetsId": "101337",
+      "channelId": "124",
+      "amazonChannelMarketplaceId": null,
+      "isMainImage": false,
+      "amazonUrl": null,
+      "shopifyExternalId": null
+    },
+    "file-1775736999332-0.1844759355000376": {
+      "uploadedChunks": ["chunk-0"],
+      "totalUploaded": 1
+    }
+  }
+}

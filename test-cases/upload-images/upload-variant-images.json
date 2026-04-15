@@ -1,0 +1,39 @@
+{
+  "url": "http://localhost:3002/products/upload-chunk-images?productId=4513&variantId=23108&channelId=124",
+  "response": {
+    "file-1775736753177-0.6425104775856612": {
+      "uploadedChunks": 1,
+      "totalChunks": "1",
+      "message": "Chunk 01/1 uploaded successfully.",
+      "attachmentCreatedResponse": {
+        "sequence": "1",
+        "folderName": null,
+        "id": "277931",
+        "accountId": "68",
+        "type": "overview",
+        "fileOriginalName": "image (39).png",
+        "filePath": "uploads/68/product/4513/",
+        "fileUniqueName": "66ef6420-340d-11f1-837f-9f675bf2a4d2.png",
+        "isLink": "false",
+        "fileSize": "102143",
+        "fileType": "PNG",
+        "isFolder": false,
+        "parentFolderId": null,
+        "createdBy": "68",
+        "updatedBy": "68",
+        "updatedAt": "2026-04-09T12:12:39.527Z",
+        "createdAt": "2026-04-09T12:12:39.527Z",
+        "digitalAssetsId": "101333",
+        "productId": "4513",
+        "variantId": "23108",
+        "channelId": "124",
+        "languageCode": null,
+        "isMainImage": true,
+        "amazonChannelMarketplaceId": null,
+        "amazonUrl": null,
+        "shopifyExternalId": null
+      },
+      "tempDirectoryPath": "uploads\\68\\product\\4513\\image (39)-chunks"
+    }
+  }
+}
