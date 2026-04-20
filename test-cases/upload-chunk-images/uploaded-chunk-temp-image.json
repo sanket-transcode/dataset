@@ -1,0 +1,25 @@
+{
+  "index": "file-1776429323223-0.2550315573474584",
+  "indexId": "file-1776429323223-0.2550315573474584",
+  "id": "110086",
+  "uploadId": "file-1776429323223-0.2550315573474584",
+  "file": {},
+  "progress": 100,
+  "isLoader": false,
+  "chunkStatus": {
+    "0": true
+  },
+  "fileSize": 105074,
+  "formattedSize": "102.61 KB",
+  "name": "image (41).png",
+  "languageCode": "en_US",
+  "channelId": null,
+  "sequence": 1,
+  "isMainImage": false,
+  "img": "http://localhost:3002/uploads/68/temp/256x256_e7cd0730-3a59-11f1-bbfa-835b36b43970.png",
+  "fileType": "PNG",
+  "filePath": "uploads/68/temp/",
+  "fileUniqueName": "e7cd0730-3a59-11f1-bbfa-835b36b43970.png",
+  "fileName": "image (41).png",
+  "isCompleted": true
+}

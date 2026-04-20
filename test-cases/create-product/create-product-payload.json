@@ -1,0 +1,403 @@
+{
+  "sku": ["PEN"],
+  "aiSuggestedFamily": "Office Supplies / Writing Instruments",
+  "name": "Premium Retractable Ballpoint Pen - Smooth Ink Writing Instrument",
+  "productDescription": "Experience effortless writing with this Premium Retractable Ballpoint Pen. Designed for comfort and longevity, this pen features archival-quality, smudge-resistant ink that flows smoothly on all paper types. Whether you are taking notes in the office, journaling at home, or signing documents, the ergonomic grip and durable clip ensure reliability and style. The retractable mechanism allows for one-handed operation, making it the perfect everyday carry for students and professionals alike.",
+  "defaultLanguageCode": "en_US",
+  "images": [
+    {
+      "imageId": 110011,
+      "url": "http://localhost:3002/uploads/68/temp/256x256_564d3f50-3a4a-11f1-b72d-179eb4164970.png",
+      "sequence": 3,
+      "isMainImage": false,
+      "fileType": "PNG"
+    },
+    {
+      "imageId": 110012,
+      "url": "http://localhost:3002/uploads/68/temp/256x256_564b91a0-3a4a-11f1-b72d-179eb4164970.png",
+      "sequence": 4,
+      "isMainImage": false,
+      "fileType": "PNG"
+    }
+  ],
+  "aiImages": [
+    {
+      "url": "https://m.media-amazon.com/images/I/7169vwA09DL._AC_UF894,1000_QL80_.jpg",
+      "isMainImage": true,
+      "sequence": 1
+    },
+    {
+      "url": "http://goldspot.com/cdn/shop/products/pilot-g2-retractable-premium-gel-ink-pens-in-pink-fine-point-pack-of-12-882.jpg?v=1762197986",
+      "isMainImage": false,
+      "sequence": 2
+    }
+  ],
+  "updateAttributeData": [],
+  "aiAttributes": [
+    {
+      "name": "Office Supplies / Writing Instruments-Ink Type",
+      "label": "Ink Type",
+      "group": [],
+      "channelConfig": [],
+      "isVariantKey": false,
+      "attributeType": "text",
+      "currentValue": "Oil-based ballpoint ink",
+      "attributeConfiguration": {
+        "isMandatory": "recommended"
+      },
+      "localizationData": {
+        "label": {
+          "en_US": "Ink Type"
+        }
+      },
+      "localization": {
+        "label": {
+          "en_US": "Ink Type"
+        }
+      }
+    },
+    {
+      "name": "Office Supplies / Writing Instruments-Tip Size",
+      "label": "Tip Size",
+      "group": [],
+      "channelConfig": [],
+      "isVariantKey": false,
+      "attributeType": "text",
+      "currentValue": "1.0mm Medium point",
+      "attributeConfiguration": {
+        "isMandatory": "recommended"
+      },
+      "localizationData": {
+        "label": {
+          "en_US": "Tip Size"
+        }
+      },
+      "localization": {
+        "label": {
+          "en_US": "Tip Size"
+        }
+      }
+    },
+    {
+      "name": "Office Supplies / Writing Instruments-Grip Material",
+      "label": "Grip Material",
+      "group": [],
+      "channelConfig": [],
+      "isVariantKey": false,
+      "attributeType": "text",
+      "currentValue": "Contoured rubberized comfort grip",
+      "attributeConfiguration": {
+        "isMandatory": "recommended"
+      },
+      "localizationData": {
+        "label": {
+          "en_US": "Grip Material"
+        }
+      },
+      "localization": {
+        "label": {
+          "en_US": "Grip Material"
+        }
+      }
+    },
+    {
+      "name": "Office Supplies / Writing Instruments-Refillable",
+      "label": "Refillable",
+      "group": [],
+      "channelConfig": [],
+      "isVariantKey": false,
+      "attributeType": "text",
+      "currentValue": "Yes",
+      "attributeConfiguration": {
+        "isMandatory": "recommended"
+      },
+      "localizationData": {
+        "label": {
+          "en_US": "Refillable"
+        }
+      },
+      "localization": {
+        "label": {
+          "en_US": "Refillable"
+        }
+      }
+    },
+    {
+      "name": "Office Supplies / Writing Instruments-Ink Color",
+      "label": "Ink Color",
+      "group": [],
+      "channelConfig": [],
+      "isVariantKey": true,
+      "attributeType": "dropdownList",
+      "currentValue": "Black",
+      "attributeConfiguration": {
+        "isMandatory": "mandatory",
+        "options": [
+          {
+            "label": "Black",
+            "value": "Black"
+          },
+          {
+            "label": "Blue",
+            "value": "Blue"
+          },
+          {
+            "label": "Red",
+            "value": "Red"
+          }
+        ],
+        "customTextAllowed": true
+      },
+      "localizationData": {
+        "label": {
+          "en_US": "Ink Color"
+        },
+        "option0": {
+          "en_US": "Black"
+        },
+        "option1": {
+          "en_US": "Blue"
+        },
+        "option2": {
+          "en_US": "Red"
+        }
+      },
+      "localization": {
+        "label": {
+          "en_US": "Ink Color"
+        },
+        "option0": {
+          "en_US": "Black"
+        },
+        "option1": {
+          "en_US": "Blue"
+        },
+        "option2": {
+          "en_US": "Red"
+        }
+      }
+    },
+    {
+      "name": "Office Supplies / Writing Instruments-Barrel Color",
+      "label": "Barrel Color",
+      "group": [],
+      "channelConfig": [],
+      "isVariantKey": true,
+      "attributeType": "dropdownList",
+      "currentValue": "Translucent",
+      "attributeConfiguration": {
+        "isMandatory": "mandatory",
+        "options": [
+          {
+            "label": "Translucent",
+            "value": "Translucent"
+          },
+          {
+            "label": "Solid Black",
+            "value": "Solid Black"
+          },
+          {
+            "label": "Silver",
+            "value": "Silver"
+          }
+        ],
+        "customTextAllowed": true
+      },
+      "localizationData": {
+        "label": {
+          "en_US": "Barrel Color"
+        },
+        "option0": {
+          "en_US": "Translucent"
+        },
+        "option1": {
+          "en_US": "Solid Black"
+        },
+        "option2": {
+          "en_US": "Silver"
+        }
+      },
+      "localization": {
+        "label": {
+          "en_US": "Barrel Color"
+        },
+        "option0": {
+          "en_US": "Translucent"
+        },
+        "option1": {
+          "en_US": "Solid Black"
+        },
+        "option2": {
+          "en_US": "Silver"
+        }
+      }
+    }
+  ],
+  "consumedAiToken": {
+    "aiProductCreate": {
+      "input": 773,
+      "output": 493,
+      "apiCalls": 1
+    }
+  },
+  "rawData": {
+    "isUserFamilySelected": false,
+    "isUserSuggestedProductDescription": false,
+    "isUserSuggestedProductName": false,
+    "aiSuggestedValue": {
+      "aiSuggestedFamily": "Office Supplies / Writing Instruments",
+      "aiSuggestedProductName": "Premium Retractable Ballpoint Pen - Smooth Ink Writing Instrument",
+      "aiSuggestedProductDescription": "Experience effortless writing with this Premium Retractable Ballpoint Pen. Designed for comfort and longevity, this pen features archival-quality, smudge-resistant ink that flows smoothly on all paper types. Whether you are taking notes in the office, journaling at home, or signing documents, the ergonomic grip and durable clip ensure reliability and style. The retractable mechanism allows for one-handed operation, making it the perfect everyday carry for students and professionals alike.",
+      "aiSuggestedImages": [
+        {
+          "url": "https://m.media-amazon.com/images/I/7169vwA09DL._AC_UF894,1000_QL80_.jpg",
+          "sequence": 1,
+          "index": 1,
+          "isSelected": true
+        },
+        {
+          "url": "http://goldspot.com/cdn/shop/products/pilot-g2-retractable-premium-gel-ink-pens-in-pink-fine-point-pack-of-12-882.jpg?v=1762197986",
+          "sequence": 2,
+          "index": 2,
+          "isSelected": true
+        },
+        {
+          "url": "https://m.media-amazon.com/images/I/611ggiPQixL._AC_UF894,1000_QL80_.jpg",
+          "sequence": 3,
+          "index": 3,
+          "isSelected": false
+        },
+        {
+          "url": "https://i5.walmartimages.com/seo/Pilot-G2-Edge-Premium-Retractable-Gel-Ink-Rolling-Ball-Pens-Fine-Point-Black-Ink-12-Count_7f323f4d-8f83-4707-8f74-4a89c9001138.8e7ae5a80204a1c369ed872501cc77f5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+          "sequence": 4,
+          "index": 4,
+          "isSelected": false
+        },
+        {
+          "url": "https://m.media-amazon.com/images/I/61Gf+di0LZL._AC_UF1000,1000_QL80_.jpg",
+          "sequence": 5,
+          "index": 5,
+          "isSelected": false
+        },
+        {
+          "url": "https://i5.walmartimages.com/seo/Precise-V10RT-Retractable-Roller-Ball-Pen-Bold-1-mm-Blue-Ink-Barrel-Dozen_3a1277d0-cdea-4e78-a314-c4956cb27f11.9b802048f88dc973e810f775bf159205.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+          "sequence": 6,
+          "index": 6,
+          "isSelected": false
+        },
+        {
+          "url": "https://m.media-amazon.com/images/I/7169vwA09DL.jpg",
+          "sequence": 7,
+          "index": 7,
+          "isSelected": false
+        },
+        {
+          "url": "https://cdn.schoolspecialty.com/9691dd1b-4285-41f9-af7a-b1020173745a/2131044_A_JPG%20Output.jpg?width=700&height=700&fit=bounds&canvas=700,700&bg-color=ffffff",
+          "sequence": 8,
+          "index": 8,
+          "isSelected": false
+        },
+        {
+          "url": "https://m.media-amazon.com/images/I/61n+WLuAoiL._AC_UF894,1000_QL80_.jpg",
+          "sequence": 9,
+          "index": 9,
+          "isSelected": false
+        },
+        {
+          "url": "https://vanness1938.com/cdn/shop/files/rn-image_picker_lib_temp_ef26fea8-dbf4-4f0e-a63d-946e2dda3195_1800x.jpg?v=1741983612",
+          "sequence": 10,
+          "index": 10,
+          "isSelected": false
+        }
+      ]
+    },
+    "AiProductDetailsData": {
+      "productName": "Pen",
+      "productDescription": "",
+      "productFamily": "none",
+      "productImages": []
+    },
+    "aiAttributeList": [],
+    "productName": "",
+    "productDescription": "",
+    "productFamily": "none",
+    "isNewFamily": true,
+    "isUserFamilyExists": false,
+    "existingAiSuggestedFamilyId": "",
+    "familyExistsError": false,
+    "rawAttributeList": [
+      {
+        "id": "0",
+        "name": "Ink Type",
+        "value": "",
+        "currentValue": "Oil-based ballpoint ink",
+        "type": "text",
+        "isVariantKey": false,
+        "label": "Ink Type",
+        "updatedName": "Office Supplies / Writing Instruments-Ink Type",
+        "isRequired": false
+      },
+      {
+        "id": "1",
+        "name": "Tip Size",
+        "value": "",
+        "currentValue": "1.0mm Medium point",
+        "type": "text",
+        "isVariantKey": false,
+        "label": "Tip Size",
+        "updatedName": "Office Supplies / Writing Instruments-Tip Size",
+        "isRequired": false
+      },
+      {
+        "id": "2",
+        "name": "Grip Material",
+        "value": "",
+        "currentValue": "Contoured rubberized comfort grip",
+        "type": "text",
+        "isVariantKey": false,
+        "label": "Grip Material",
+        "updatedName": "Office Supplies / Writing Instruments-Grip Material",
+        "isRequired": false
+      },
+      {
+        "id": "3",
+        "name": "Refillable",
+        "value": "",
+        "currentValue": "Yes",
+        "type": "text",
+        "isVariantKey": false,
+        "label": "Refillable",
+        "updatedName": "Office Supplies / Writing Instruments-Refillable",
+        "isRequired": false
+      },
+      {
+        "id": "4",
+        "name": "Ink Color",
+        "value": ["Black", "Blue", "Red"],
+        "currentValue": "Black",
+        "type": "dropdownList",
+        "isVariantKey": true,
+        "label": "Ink Color",
+        "updatedName": "Office Supplies / Writing Instruments-Ink Color",
+        "isRequired": true
+      },
+      {
+        "id": "5",
+        "name": "Barrel Color",
+        "value": ["Translucent", "Solid Black", "Silver"],
+        "currentValue": "Translucent",
+        "type": "dropdownList",
+        "isVariantKey": true,
+        "label": "Barrel Color",
+        "updatedName": "Office Supplies / Writing Instruments-Barrel Color",
+        "isRequired": true
+      }
+    ],
+    "newFamilyIsExist": true,
+    "existingFamilyAttributeList": {
+      "aiAttributeList": [],
+      "attributeList": [],
+      "variantAttributeList": []
+    }
+  }
+}

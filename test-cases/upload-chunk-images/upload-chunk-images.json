@@ -1,0 +1,27 @@
+{
+  "file-1776429323223-0.2550315573474584": {
+    "uploadedChunks": 1,
+    "totalChunks": "1",
+    "message": "Chunk 01/1 uploaded successfully.",
+    "attachmentCreatedResponse": {
+      "sequence": null,
+      "folderName": null,
+      "id": "110086",
+      "fileType": "PNG",
+      "fileOriginalName": "image (41).png",
+      "filePath": "uploads/68/temp/",
+      "fileUniqueName": "e7cd0730-3a59-11f1-bbfa-835b36b43970.png",
+      "isLink": "false",
+      "fileSize": "105074",
+      "type": "temp",
+      "isFolder": false,
+      "accountId": "68",
+      "parentFolderId": null,
+      "createdBy": "68",
+      "updatedBy": "68",
+      "updatedAt": "2026-04-17T12:35:24.125Z",
+      "createdAt": "2026-04-17T12:35:24.125Z"
+    },
+    "tempDirectoryPath": "uploads\\68\\temp\\image (41)-chunks"
+  }
+}
