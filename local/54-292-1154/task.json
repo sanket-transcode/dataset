@@ -1,0 +1,550 @@
+{
+  "channelId": "292",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-04-20T07:52:17.348Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 266,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 38
+  },
+  "productTracker": {
+    "7896521": {
+      "hasErrors": false,
+      "productId": "9418",
+      "variantId": null,
+      "productName": "Citizen Men's Eco-Drive Weekender Avion Field Watch in Stainless Steel with Khaki Nylon Strap, Black Dial (Model: BM7550-01E)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "glue-gun-final-try-inport-sku": {
+      "hasErrors": false,
+      "productId": "9406",
+      "variantId": null,
+      "productName": "Gorilla Hot Glue Gun (Pack of 1) - Dual Temp Full Size Hot Glue Gun with Precision Nozzle, Easy Squeeze Trigger, and Enhanced Safety Features for DIY, Craft, Repairs, and More",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SKU-Cowboy-cap-with-images": {
+      "hasErrors": false,
+      "productId": "9407",
+      "variantId": null,
+      "productName": "Cowboy Cap",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "B0-8YOH-L1ED": {
+      "hasErrors": false,
+      "productId": "9408",
+      "variantId": null,
+      "productName": "dunia",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4V-TQBK-5JI3": {
+      "hasErrors": false,
+      "productId": "9409",
+      "variantId": null,
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "JX-8ODT-WYWA": {
+      "hasErrors": false,
+      "productId": "9410",
+      "variantId": null,
+      "productName": "Car Vinyl Decal Yellow",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "sku-t-shirt-b-1": {
+      "hasErrors": false,
+      "productId": "9411",
+      "variantId": null,
+      "productName": "T-Shirt-b Blue",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2J-BYFP-C4KH": {
+      "hasErrors": false,
+      "productId": "9412",
+      "variantId": null,
+      "productName": "White Snickers Without Any Stripes or Model",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RB-ECO-001": {
+      "hasErrors": false,
+      "productId": "9413",
+      "variantId": null,
+      "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GLS-01": {
+      "hasErrors": false,
+      "productId": "9414",
+      "variantId": null,
+      "productName": "Classic Unisex Sunglasses - UV400 Protection",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CLIP-CL-01": {
+      "hasErrors": false,
+      "productId": "9415",
+      "variantId": null,
+      "productName": "Elegant Hair Clip for Women - Secure Hold Fashion Accessory",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt": {
+      "hasErrors": false,
+      "productId": "9416",
+      "variantId": null,
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SW-HB-001": {
+      "hasErrors": false,
+      "productId": "9417",
+      "variantId": null,
+      "productName": "Professional Hair Brush for All Hair Types",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99652036985": {
+      "hasErrors": false,
+      "productId": "9419",
+      "variantId": null,
+      "productName": "Hlukana Vintage Hobnail Drinking Glasses Set of 8, 12 oz Highball Glasses & 10 oz Cocktail Glasses Set, Kitchen Water Glasses Cup, Bar Tumbler Glassware Set for Beer, Juice, Cocktail, Whiskey, Milk",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "donut-pan": {
+      "hasErrors": false,
+      "productId": "9420",
+      "variantId": null,
+      "productName": "GEEOOLLAH Nonstick Donut Pan Set – 2-Piece Bakeware with 6-Cavity Mini and 12-Cavity Standard Molds, Durable Carbon Steel, Scratch-Resistant, Even Heating",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "electirc-toy-scooter": {
+      "hasErrors": false,
+      "productId": "9421",
+      "variantId": null,
+      "productName": "G2 Electric Kick Scooter",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "lunch-box": {
+      "hasErrors": false,
+      "productId": "9422",
+      "variantId": null,
+      "productName": "Insulated Lunch Box for Kids and Adults",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Classic White Ceramic Coffee Mug": {
+      "hasErrors": false,
+      "productId": "9423",
+      "variantId": null,
+      "productName": "Classic White Ceramic Coffee Mug",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "eco-friendly-carry-beg": {
+      "hasErrors": false,
+      "productId": "9424",
+      "variantId": null,
+      "productName": "Eco-Friendly Reusable Shopping Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Portable Air Conditioner": {
+      "hasErrors": false,
+      "productId": "9425",
+      "variantId": null,
+      "productName": "Portable Air Conditioner - Efficient Cooling Solution",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Men's Short Sleeve Summer Shirt": {
+      "hasErrors": false,
+      "productId": "9426",
+      "variantId": null,
+      "productName": "Men's Short Sleeve Summer Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4C-SWI8-MG3Y": {
+      "hasErrors": false,
+      "productId": "9427",
+      "variantId": null,
+      "productName": "Classic Cotton T-Shirt, Short Sleeve Crew Neck, Breathable Lightweight Casual Wear, Machine Washable",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": "9428",
+      "variantId": null,
+      "productName": "Snail Free Mucin Serum,Bean Essence 50,000ppm Korean skin care,Facial Glow Moisturizer for Glass skin– Hydrating Boost,Unscented Soothing Moisturizer– Strengthens Skin Barrier – 1.01 fl.oz",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": "9429",
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "skin-serum": {
+      "hasErrors": false,
+      "productId": "9430",
+      "variantId": null,
+      "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "party suit": {
+      "hasErrors": false,
+      "productId": "9431",
+      "variantId": null,
+      "productName": "2 piece party suit",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Premium White Eraser": {
+      "hasErrors": false,
+      "productId": "9432",
+      "variantId": null,
+      "productName": "Premium White Eraser for Pencils and Markers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": "9433",
+      "variantId": null,
+      "productName": "Highlighter Marker Pen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "watch": {
+      "hasErrors": false,
+      "productId": "9434",
+      "variantId": null,
+      "productName": "Men's Luxury Automatic Watch - Stainless Steel",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "brown-hoodie-for-men": {
+      "hasErrors": false,
+      "productId": "9435",
+      "variantId": null,
+      "productName": "Men's Brown Fleece Pullover Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": "9436",
+      "variantId": null,
+      "productName": "Water Bottle",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": false,
+      "productId": "9437",
+      "variantId": null,
+      "productName": "Dangle Golden Earrings for Classic Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit-2": {
+      "hasErrors": false,
+      "productId": "9438",
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EA-AS-01": {
+      "hasErrors": false,
+      "productId": "9439",
+      "variantId": null,
+      "productName": "Handcrafted Traditional Dangle Earrings for Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PG-LTKX-94L9": {
+      "hasErrors": false,
+      "productId": "9440",
+      "variantId": null,
+      "productName": "My Super Shirt Beige Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Ice-Cream-Maker": {
+      "hasErrors": false,
+      "productId": "9441",
+      "variantId": null,
+      "productName": "Classic Electric Ice Cream Maker",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "dark-chocolate": {
+      "hasErrors": false,
+      "productId": "9442",
+      "variantId": null,
+      "productName": "Premium Dark Chocolate Bar",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mojito-glass": {
+      "hasErrors": false,
+      "productId": "9443",
+      "variantId": null,
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}
