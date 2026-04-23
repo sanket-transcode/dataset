@@ -1,0 +1,5379 @@
+{
+  "channelId": "1",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-04-22T05:04:53.567Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 266,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "SUCCESS",
+    "batchSize": 1,
+    "currentBatchIndex": 96
+  },
+  "productTracker": {
+    "123123": {
+      "hasErrors": false,
+      "productId": 48,
+      "variantId": "7",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "5524103": {
+      "hasErrors": false,
+      "productId": 62,
+      "variantId": "21",
+      "productName": "Resident Evil Requiem",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7896521": {
+      "hasErrors": false,
+      "productId": 16,
+      "variantId": null,
+      "productName": "Citizen Men's Eco-Drive Weekender Avion Field Watch in Stainless Steel with Khaki Nylon Strap, Black Dial (Model: BM7550-01E)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7898520": {
+      "hasErrors": false,
+      "productId": 58,
+      "variantId": "17",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "skin-serum": {
+      "hasErrors": false,
+      "productId": 1,
+      "variantId": null,
+      "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": false,
+      "productId": 2,
+      "variantId": null,
+      "productName": "Dangle Golden Earrings for Classic Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit-2": {
+      "hasErrors": false,
+      "productId": 3,
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "glue-gun-final-try-inport-sku": {
+      "hasErrors": false,
+      "productId": 4,
+      "variantId": null,
+      "productName": "Gorilla Hot Glue Gun (Pack of 1) - Dual Temp Full Size Hot Glue Gun with Precision Nozzle, Easy Squeeze Trigger, and Enhanced Safety Features for DIY, Craft, Repairs, and More",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SKU-Cowboy-cap-with-images": {
+      "hasErrors": false,
+      "productId": 5,
+      "variantId": null,
+      "productName": "Cowboy Cap",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "B0-8YOH-L1ED": {
+      "hasErrors": false,
+      "productId": 6,
+      "variantId": null,
+      "productName": "dunia",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4V-TQBK-5JI3": {
+      "hasErrors": false,
+      "productId": 7,
+      "variantId": null,
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-translation": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "JX-8ODT-WYWA": {
+      "hasErrors": false,
+      "productId": 8,
+      "variantId": null,
+      "productName": "Car Vinyl Decal Yellow",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "sku-t-shirt-b-1": {
+      "hasErrors": false,
+      "productId": 9,
+      "variantId": null,
+      "productName": "T-Shirt-b Blue",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2J-BYFP-C4KH": {
+      "hasErrors": false,
+      "productId": 10,
+      "variantId": null,
+      "productName": "White Snickers Without Any Stripes or Model",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RB-ECO-001": {
+      "hasErrors": false,
+      "productId": 11,
+      "variantId": null,
+      "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GLS-01": {
+      "hasErrors": false,
+      "productId": 12,
+      "variantId": null,
+      "productName": "Classic Unisex Sunglasses - UV400 Protection",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CLIP-CL-01": {
+      "hasErrors": false,
+      "productId": 13,
+      "variantId": null,
+      "productName": "Elegant Hair Clip for Women - Secure Hold Fashion Accessory",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt": {
+      "hasErrors": false,
+      "productId": 14,
+      "variantId": null,
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SW-HB-001": {
+      "hasErrors": false,
+      "productId": 15,
+      "variantId": null,
+      "productName": "Professional Hair Brush for All Hair Types",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4C-SWI8-MG3Y": {
+      "hasErrors": false,
+      "productId": 18,
+      "variantId": null,
+      "productName": "Classic Cotton T-Shirt, Crew Neck, Short Sleeve, Relaxed Fit, Machine Washable",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": 19,
+      "variantId": null,
+      "productName": "Bean Essence Serum – Snail Mucin Alternative for Glass Skin – Hydrating Glow Boost – Deeper Moisture Than Hyaluronic – Flawless Primer – Strengthens Skin Barrier – 1.01 fl.oz",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "donut-pan": {
+      "hasErrors": false,
+      "productId": 20,
+      "variantId": null,
+      "productName": "GEEOOLLAH Nonstick Donut Pan Set – 2-Piece Bakeware with 6-Cavity Mini and 12-Cavity Standard Molds, Durable Carbon Steel, Scratch-Resistant, Even Heating",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": 21,
+      "variantId": null,
+      "productName": "Highlighter Marker Pen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "party suit": {
+      "hasErrors": false,
+      "productId": 22,
+      "variantId": null,
+      "productName": "2 piece party suit for men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Premium White Eraser": {
+      "hasErrors": false,
+      "productId": 23,
+      "variantId": null,
+      "productName": "Premium White Eraser for Pencils and Markers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": 24,
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "electirc-toy-scooter": {
+      "hasErrors": false,
+      "productId": 25,
+      "variantId": null,
+      "productName": "G2 Electric Kick Scooter",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "lunch-box": {
+      "hasErrors": false,
+      "productId": 26,
+      "variantId": null,
+      "productName": "Insulated Lunch Box for Kids and Adults",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "watch": {
+      "hasErrors": false,
+      "productId": 27,
+      "variantId": null,
+      "productName": "Elegant Men's Luxury Automatic Watch - Stainless Steel, Sapphire Crystal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Classic White Ceramic Coffee Mug": {
+      "hasErrors": false,
+      "productId": 28,
+      "variantId": null,
+      "productName": "Classic White Ceramic Coffee Mug",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": 29,
+      "variantId": null,
+      "productName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "eco-friendly-carry-beg": {
+      "hasErrors": false,
+      "productId": 30,
+      "variantId": null,
+      "productName": "Eco-Friendly Reusable Shopping Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Portable Air Conditioner": {
+      "hasErrors": false,
+      "productId": 31,
+      "variantId": null,
+      "productName": "Portable Air Conditioner - Efficient Cooling Solution",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Men's Short Sleeve Summer Shirt": {
+      "hasErrors": false,
+      "productId": 32,
+      "variantId": null,
+      "productName": "Men's Short Sleeve Summer Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "brown-hoodie-for-men": {
+      "hasErrors": false,
+      "productId": 33,
+      "variantId": null,
+      "productName": "Men's Brown Fleece Pullover Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99652036985": {
+      "hasErrors": false,
+      "productId": 17,
+      "variantId": null,
+      "productName": "Hlukana Vintage Hobnail Drinking Glasses Set of 8, 12 oz Highball Glasses & 10 oz Cocktail Glasses Set, Kitchen Water Glasses Cup, Bar Tumbler Glassware Set for Beer, Juice, Cocktail, Whiskey, Milk",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EA-AS-01": {
+      "hasErrors": false,
+      "productId": 34,
+      "variantId": null,
+      "productName": "Handcrafted Traditional Dangle Earrings for Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PG-LTKX-94L9": {
+      "hasErrors": false,
+      "productId": 35,
+      "variantId": null,
+      "productName": "My Super Shirt Beige Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Ice-Cream-Maker": {
+      "hasErrors": false,
+      "productId": 36,
+      "variantId": null,
+      "productName": "Premium Electric Ice Cream Maker",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "dark-chocolate": {
+      "hasErrors": false,
+      "productId": 37,
+      "variantId": null,
+      "productName": "Premium Dark Chocolate Bar",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mojito-glass": {
+      "hasErrors": false,
+      "productId": 38,
+      "variantId": null,
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "1234567890123456789012345678901234567890": {
+      "hasErrors": false,
+      "productId": 39,
+      "variantId": null,
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "nail-extension": {
+      "hasErrors": false,
+      "productId": 40,
+      "variantId": null,
+      "productName": "Professional Nail Extension Kit",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Eyelashes": {
+      "hasErrors": false,
+      "productId": 41,
+      "variantId": null,
+      "productName": "Premium False Eyelashes - Natural Look",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "men's-shirt": {
+      "hasErrors": false,
+      "productId": 42,
+      "variantId": "1",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20950906538424039047": {
+      "hasErrors": false,
+      "productId": 43,
+      "variantId": "2",
+      "productName": "The Giant Leap Unisex Heavy Cotton Tee",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14444053310336374819": {
+      "hasErrors": false,
+      "productId": 44,
+      "variantId": "3",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32242345023357025715": {
+      "hasErrors": false,
+      "productId": 45,
+      "variantId": "4",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "74599968013643921960": {
+      "hasErrors": false,
+      "productId": 46,
+      "variantId": "5",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16661825059693052327": {
+      "hasErrors": false,
+      "productId": 47,
+      "variantId": "6",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "fsdfdsghjjjjjjjjgh current": {
+      "hasErrors": false,
+      "productId": 49,
+      "variantId": "8",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "94292994261163396712": {
+      "hasErrors": false,
+      "productId": 50,
+      "variantId": "9",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22039449774746896506": {
+      "hasErrors": false,
+      "productId": 51,
+      "variantId": "10",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20005483504707723209": {
+      "hasErrors": false,
+      "productId": 52,
+      "variantId": "11",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "78030572374848186482": {
+      "hasErrors": false,
+      "productId": 53,
+      "variantId": "12",
+      "productName": "Generic Love Phone Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "86116983703179682472": {
+      "hasErrors": false,
+      "productId": 54,
+      "variantId": "13",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30979367391677307111": {
+      "hasErrors": false,
+      "productId": 55,
+      "variantId": "14",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67cec2c032fb796da203d29f": {
+      "hasErrors": false,
+      "productId": 56,
+      "variantId": "15",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "66fbb09992ead167af0148a3": {
+      "hasErrors": false,
+      "productId": 57,
+      "variantId": "16",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2105236520-V1": {
+      "hasErrors": false,
+      "productId": 59,
+      "variantId": "18",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "784585741201 Black": {
+      "hasErrors": false,
+      "productId": 60,
+      "variantId": "19",
+      "productName": "Modern Matte Black Ceramic Vase - Large Decorative Flower Vase",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "VD-GM-CNL-V2": {
+      "hasErrors": false,
+      "productId": 61,
+      "variantId": "20",
+      "productName": "RMOKA Retro Gaming Game Green",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt for women": {
+      "hasErrors": false,
+      "productId": 63,
+      "variantId": "22",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "duck-night-lamp": {
+      "hasErrors": false,
+      "productId": 64,
+      "variantId": "23",
+      "productName": "MUID Original Authentic Silicone Night Light, Nursery Squishy Lamp, Silicone Night Light for Breastfeeding, Cute Animal Bedside Lamp for Baby Kids Teens, Soft Nightlight with Touch Sensor for Bedroom",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "disney-necklace": {
+      "hasErrors": false,
+      "productId": 65,
+      "variantId": "24",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "wooden-bench": {
+      "hasErrors": false,
+      "productId": 66,
+      "variantId": "25",
+      "productName": "Vintage Noodle Bench",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "88520025-V2": {
+      "hasErrors": false,
+      "productId": 67,
+      "variantId": "26",
+      "productName": "Miracurl Professional Curl Machine",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "88520025-V1": {
+      "hasErrors": false,
+      "productId": 67,
+      "variantId": "27",
+      "productName": "Miracurl Professional Curl Machine",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25688997547984720320": {
+      "hasErrors": false,
+      "productId": 68,
+      "variantId": "28",
+      "productName": "car Vinil Decal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10284470610055147746": {
+      "hasErrors": false,
+      "productId": 68,
+      "variantId": "29",
+      "productName": "car Vinil Decal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22598520147852-V2": {
+      "hasErrors": false,
+      "productId": 69,
+      "variantId": "30",
+      "productName": "Homedics Tabletop Water Fountain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22598520147852-V1": {
+      "hasErrors": false,
+      "productId": 69,
+      "variantId": "31",
+      "productName": "Homedics Tabletop Water Fountain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CND-WRM-V1": {
+      "hasErrors": false,
+      "productId": 70,
+      "variantId": "32",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CND-WRM-V2": {
+      "hasErrors": false,
+      "productId": 70,
+      "variantId": "33",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case black": {
+      "hasErrors": false,
+      "productId": 71,
+      "variantId": "34",
+      "productName": "Love Heart Phone Case - Protective & Stylish",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case Pink": {
+      "hasErrors": false,
+      "productId": 71,
+      "variantId": "35",
+      "productName": "Love Heart Phone Case - Protective & Stylish",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "truck-toy-for-kid black": {
+      "hasErrors": false,
+      "productId": 72,
+      "variantId": "36",
+      "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "truck-toy-for-kid Yellow": {
+      "hasErrors": false,
+      "productId": 72,
+      "variantId": "37",
+      "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "VR-NE-6": {
+      "hasErrors": false,
+      "productId": 73,
+      "variantId": "38",
+      "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-54 5 White Gold": {
+      "hasErrors": false,
+      "productId": 73,
+      "variantId": "39",
+      "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "tool-box-pencil-pen white": {
+      "hasErrors": false,
+      "productId": 74,
+      "variantId": "40",
+      "productName": "Desk Organizer Tool Box for Pens, Pencils, and Stationery",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "tool-box-pencil-pen Black": {
+      "hasErrors": false,
+      "productId": 74,
+      "variantId": "41",
+      "productName": "Desk Organizer Tool Box for Pens, Pencils, and Stationery",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MR-WH-97-V2": {
+      "hasErrors": false,
+      "productId": 75,
+      "variantId": "42",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MR-WH-97-V1": {
+      "hasErrors": false,
+      "productId": 75,
+      "variantId": "43",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "6X-QO92-SR01": {
+      "hasErrors": false,
+      "productId": 76,
+      "variantId": "44",
+      "productName": "shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PU-LPQ9-PORQ": {
+      "hasErrors": false,
+      "productId": 76,
+      "variantId": "45",
+      "productName": "shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MJ-YYHC-WXTD": {
+      "hasErrors": false,
+      "productId": 76,
+      "variantId": "46",
+      "productName": "shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V2": {
+      "hasErrors": false,
+      "productId": 77,
+      "variantId": "49",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V1": {
+      "hasErrors": false,
+      "productId": 77,
+      "variantId": "48",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V3": {
+      "hasErrors": false,
+      "productId": 77,
+      "variantId": "47",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "785241036-V3": {
+      "hasErrors": false,
+      "productId": 78,
+      "variantId": "50",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25895874100-V2": {
+      "hasErrors": false,
+      "productId": 78,
+      "variantId": "51",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25895874100-V1": {
+      "hasErrors": false,
+      "productId": 78,
+      "variantId": "52",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-red": {
+      "hasErrors": false,
+      "productId": 80,
+      "variantId": "56",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-yellow": {
+      "hasErrors": false,
+      "productId": 80,
+      "variantId": "57",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-green": {
+      "hasErrors": false,
+      "productId": 80,
+      "variantId": "58",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V1": {
+      "hasErrors": false,
+      "productId": 81,
+      "variantId": "59",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V2": {
+      "hasErrors": false,
+      "productId": 81,
+      "variantId": "60",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V3": {
+      "hasErrors": false,
+      "productId": 81,
+      "variantId": "61",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V2": {
+      "hasErrors": false,
+      "productId": 82,
+      "variantId": "62",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V1": {
+      "hasErrors": false,
+      "productId": 82,
+      "variantId": "63",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V3": {
+      "hasErrors": false,
+      "productId": 82,
+      "variantId": "64",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V1": {
+      "hasErrors": false,
+      "productId": 83,
+      "variantId": "65",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V2": {
+      "hasErrors": false,
+      "productId": 83,
+      "variantId": "66",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V4": {
+      "hasErrors": false,
+      "productId": 83,
+      "variantId": "67",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "55252223219787294959": {
+      "hasErrors": false,
+      "productId": 79,
+      "variantId": "55",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "889652036985": {
+      "hasErrors": false,
+      "productId": 79,
+      "variantId": "53",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26014986315503632044": {
+      "hasErrors": false,
+      "productId": 79,
+      "variantId": "54",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "TD-MW8F-T718": {
+      "hasErrors": false,
+      "productId": 84,
+      "variantId": "69",
+      "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4B-D0D5-RPTL": {
+      "hasErrors": false,
+      "productId": 84,
+      "variantId": "68",
+      "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "IX-AF6R-F1TL": {
+      "hasErrors": false,
+      "productId": 84,
+      "variantId": "70",
+      "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "28864020670788674751": {
+      "hasErrors": false,
+      "productId": 85,
+      "variantId": "71",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67762835364228201899": {
+      "hasErrors": false,
+      "productId": 85,
+      "variantId": "73",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17413368743738459909": {
+      "hasErrors": false,
+      "productId": 85,
+      "variantId": "72",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26485797266076578247": {
+      "hasErrors": false,
+      "productId": 85,
+      "variantId": "74",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V3": {
+      "hasErrors": false,
+      "productId": 86,
+      "variantId": "75",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V4": {
+      "hasErrors": false,
+      "productId": 86,
+      "variantId": "76",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V1": {
+      "hasErrors": false,
+      "productId": 86,
+      "variantId": "77",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V2": {
+      "hasErrors": false,
+      "productId": 86,
+      "variantId": "78",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V4": {
+      "hasErrors": false,
+      "productId": 87,
+      "variantId": "79",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V1": {
+      "hasErrors": false,
+      "productId": 87,
+      "variantId": "80",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V3": {
+      "hasErrors": false,
+      "productId": 87,
+      "variantId": "81",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V2": {
+      "hasErrors": false,
+      "productId": 87,
+      "variantId": "82",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V1": {
+      "hasErrors": false,
+      "productId": 88,
+      "variantId": "83",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V3": {
+      "hasErrors": false,
+      "productId": 88,
+      "variantId": "84",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V5": {
+      "hasErrors": false,
+      "productId": 88,
+      "variantId": "85",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V2": {
+      "hasErrors": false,
+      "productId": 88,
+      "variantId": "86",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V3": {
+      "hasErrors": false,
+      "productId": 89,
+      "variantId": "87",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V5": {
+      "hasErrors": false,
+      "productId": 89,
+      "variantId": "88",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V4": {
+      "hasErrors": false,
+      "productId": 89,
+      "variantId": "89",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V1": {
+      "hasErrors": false,
+      "productId": 89,
+      "variantId": "90",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V2": {
+      "hasErrors": false,
+      "productId": 89,
+      "variantId": "91",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V3": {
+      "hasErrors": false,
+      "productId": 90,
+      "variantId": "92",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V2": {
+      "hasErrors": false,
+      "productId": 90,
+      "variantId": "93",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V1": {
+      "hasErrors": false,
+      "productId": 90,
+      "variantId": "94",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V4": {
+      "hasErrors": false,
+      "productId": 90,
+      "variantId": "95",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V5": {
+      "hasErrors": false,
+      "productId": 90,
+      "variantId": "96",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16882243971564917605": {
+      "hasErrors": false,
+      "productId": 91,
+      "variantId": "97",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11282025598934436185": {
+      "hasErrors": false,
+      "productId": 91,
+      "variantId": "98",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11564966521275931191": {
+      "hasErrors": false,
+      "productId": 91,
+      "variantId": "99",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17639620771608013832": {
+      "hasErrors": false,
+      "productId": 91,
+      "variantId": "100",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25265057986674927056": {
+      "hasErrors": false,
+      "productId": 91,
+      "variantId": "101",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "59577357725225979542": {
+      "hasErrors": false,
+      "productId": 91,
+      "variantId": "102",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V15": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "103",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V12": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "104",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V13": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "105",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V10": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "106",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V11": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "107",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V9": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "108",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V4": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "109",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V3": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "110",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V1": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "111",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V2": {
+      "hasErrors": false,
+      "productId": 92,
+      "variantId": "112",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20274609654073601324": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "114",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20189624940225035247": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "115",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21016692564692526584": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "116",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "23313714049244420750": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "117",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20184699460263983544": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "118",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18210270667532577864": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "119",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26787049011141050616": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "120",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18838576561447351297": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "121",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17321890570654532224": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "122",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30396340252525416989": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "113",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11584613081427148258": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "124",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "82290431363794330833": {
+      "hasErrors": false,
+      "productId": 93,
+      "variantId": "123",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25097994841815565102": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "125",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "12807143591028729740": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "126",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26579877305424590073": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "127",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30366969356370446492": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "128",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "12096201412803655612": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "129",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32546307359318603982": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "130",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "42741322129000004924": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "131",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "24591406395137562223": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "132",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "39966659054258193988": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "133",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25747656856860977137": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "134",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26332062757315414125": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "135",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10544520859559770735": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "136",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "76853120834457364302": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "137",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16410027131999954160": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "138",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99471520249339163797": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "139",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7859632058741": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "140",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "789585203698521": {
+      "hasErrors": false,
+      "productId": 94,
+      "variantId": "141",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30998485442649934631": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "144",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25177364740690934737": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "147",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16468744415217458502": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "142",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99451503756354788199": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "143",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "19388522960674321166": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "151",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "19333170031854605557": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "145",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "83648586322348792963": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "148",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69179694310442227567": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "149",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "62079621522358053181": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "146",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20940442817819554402": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "150",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "78261493858680421007": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "161",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25995102369191911086": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "154",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22599648081092112053": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "155",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "79665215069886379495": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "160",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "86530328495791226114": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "152",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "61860379700742041582": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "156",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16955872944899074503": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "157",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21168948484341913451": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "153",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "13853933658176115455": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "158",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25597953737895459336": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "159",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "92873890943974939295": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "167",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22342964600336344410": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "162",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11370874124342047010": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "164",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "13842494438154148667": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "163",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14971932535736024326": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "169",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "27128204504863174973": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "165",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "19924501761712385481": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "166",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25209482530180584258": {
+      "hasErrors": false,
+      "productId": 95,
+      "variantId": "168",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10752893983735778675": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "170",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11079114747137074983": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "171",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18096400472574687762": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "172",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "29424677971374122606": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "173",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17734215422993736719": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "174",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "33184385977297111407": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "175",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22835228269543406484": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "176",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30770721029614952662": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "177",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16702153611110114041": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "178",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14652829334545027831": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "179",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14980004219074673074": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "180",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "68376407584288524028": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "181",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26403175767038607190": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "182",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69389426633785779033": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "183",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21237769773152584890": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "184",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14859850936527898192": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "185",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26753764337932834996": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "186",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "57206344152936434471": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "187",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14321526149781212657": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "188",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "31419598242800472950": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "189",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25057032182485556744": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "190",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "13072442334663065043": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "191",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26193824479544158718": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "192",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "37006353054909044247": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "193",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21956766161877309781": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "194",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "23363395862711132669": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "195",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14158075494946220987": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "196",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "15498878320169836620": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "197",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "23817933804582271796": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "198",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22012909837452623407": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "199",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20330020755471436562": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "200",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "48235122685572485564": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "201",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "23639175155790291363": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "202",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "29671778344646712082": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "203",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32350124230980182484": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "204",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26827894592865363751": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "205",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11704940555213803921": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "206",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14062982205446094506": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "207",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "44513264186146307774": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "208",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "54399797911927749853": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "209",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26793593016512976324": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "210",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "15638254520707673038": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "211",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21449797498431859771": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "212",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22900300817675990682": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "213",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20818806249968966766": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "214",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30215503152835767595": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "215",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "19635483040272300833": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "216",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "15857609157042274194": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "217",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "19753609880837769539": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "218",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30896511841940636854": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "219",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "12257475772158912326": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "221",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "15719517332205678427": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "222",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10636969189818354395": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "223",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "13707622677237303259": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "224",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "52315162540743320584": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "225",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "63826463851345053167": {
+      "hasErrors": false,
+      "productId": 96,
+      "variantId": "220",
+      "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-variant-schema-handler": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  },
+  "sync-amazon-process-media": {
+    "status": "SUCCESS",
+    "batchSize": 5,
+    "currentBatchIndex": 20
+  },
+  "amazon-sync-orders": {
+    "status": "SUCCESS",
+    "currentBatchIndex": 2,
+    "batchSize": 5
+  },
+  "sync-amazon-variant-schema-handler": {
+    "currentBatchIndex": 96,
+    "status": "SUCCESS",
+    "batchSize": 1
+  },
+  "sync-amazon-translation": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 7
+  }
+}

@@ -1,0 +1,4117 @@
+[
+  {
+    "sku": null,
+    "asin": "B0F58R74B1",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      },
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": false
+      },
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": false
+      },
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": false
+      },
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": false
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": false
+      },
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": false
+      },
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": false
+      },
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": false
+      },
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": false
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": false
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": false
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": false
+      },
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": false
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": false
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": false
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": false
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": false
+      },
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": false
+      },
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": false
+      },
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": false
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": false
+      },
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": false
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": false
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": false
+      },
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": false
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": false
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": false
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": false
+      },
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": false
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": false
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": false
+      },
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": false
+      },
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": false
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": false
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": false
+      },
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": false
+      },
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": false
+      },
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": false
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": false
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": false
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": false
+      },
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": false
+      },
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "67cead0132fb796da203ce18",
+    "asin": "B0DZXJ3PRT",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "10752893983735778675",
+        "asin": "B0DZXJ7F44",
+        "isNotActive": false
+      },
+      {
+        "sku": "11079114747137074983",
+        "asin": "B0DZXLSRXN",
+        "isNotActive": false
+      },
+      {
+        "sku": "18096400472574687762",
+        "asin": "B0DZXHRN11",
+        "isNotActive": false
+      },
+      {
+        "sku": "29424677971374122606",
+        "asin": "B0DZXHVNX2",
+        "isNotActive": false
+      },
+      {
+        "sku": "17734215422993736719",
+        "asin": "B0DZXNVBH7",
+        "isNotActive": false
+      },
+      {
+        "sku": "33184385977297111407",
+        "asin": "B0DZXJCZM5",
+        "isNotActive": false
+      },
+      {
+        "sku": "22835228269543406484",
+        "asin": "B0DZXLHYG1",
+        "isNotActive": false
+      },
+      {
+        "sku": "30770721029614952662",
+        "asin": "B0DZXKHKSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "16702153611110114041",
+        "asin": "B0DZXQ5MQK",
+        "isNotActive": false
+      },
+      {
+        "sku": "14652829334545027831",
+        "asin": "B0DZXGY7Z3",
+        "isNotActive": false
+      },
+      {
+        "sku": "14980004219074673074",
+        "asin": "B0DZXLTZGQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "68376407584288524028",
+        "asin": "B0DZXKWV3T",
+        "isNotActive": false
+      },
+      {
+        "sku": "26403175767038607190",
+        "asin": "B0DZXJCF5M",
+        "isNotActive": false
+      },
+      {
+        "sku": "69389426633785779033",
+        "asin": "B0DZXLQ93T",
+        "isNotActive": false
+      },
+      {
+        "sku": "21237769773152584890",
+        "asin": "B0DZXLB6WS",
+        "isNotActive": false
+      },
+      {
+        "sku": "14859850936527898192",
+        "asin": "B0DZXJG9P7",
+        "isNotActive": false
+      },
+      {
+        "sku": "26753764337932834996",
+        "asin": "B0DZXKTW1K",
+        "isNotActive": false
+      },
+      {
+        "sku": "57206344152936434471",
+        "asin": "B0DZXJRC8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "14321526149781212657",
+        "asin": "B0DZXR1DBF",
+        "isNotActive": false
+      },
+      {
+        "sku": "31419598242800472950",
+        "asin": "B0DZXHFLMQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "25057032182485556744",
+        "asin": "B0DZXLM9GX",
+        "isNotActive": false
+      },
+      {
+        "sku": "13072442334663065043",
+        "asin": "B0DZXKCRTS",
+        "isNotActive": false
+      },
+      {
+        "sku": "26193824479544158718",
+        "asin": "B0DZXMGKVV",
+        "isNotActive": false
+      },
+      {
+        "sku": "37006353054909044247",
+        "asin": "B0DZXQTHRR",
+        "isNotActive": false
+      },
+      {
+        "sku": "21956766161877309781",
+        "asin": "B0DZXN37RT",
+        "isNotActive": false
+      },
+      {
+        "sku": "23363395862711132669",
+        "asin": "B0DZXNS9G4",
+        "isNotActive": false
+      },
+      {
+        "sku": "14158075494946220987",
+        "asin": "B0DZXMLCL3",
+        "isNotActive": false
+      },
+      {
+        "sku": "15498878320169836620",
+        "asin": "B0DZXGX7SQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "23817933804582271796",
+        "asin": "B0DZXQVWC8",
+        "isNotActive": false
+      },
+      {
+        "sku": "22012909837452623407",
+        "asin": "B0DZXNCW6Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "20330020755471436562",
+        "asin": "B0DZXR86DY",
+        "isNotActive": false
+      },
+      {
+        "sku": "48235122685572485564",
+        "asin": "B0DZXMQ7LT",
+        "isNotActive": false
+      },
+      {
+        "sku": "23639175155790291363",
+        "asin": "B0DZXLL817",
+        "isNotActive": false
+      },
+      {
+        "sku": "29671778344646712082",
+        "asin": "B0DZXJ84ZJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "32350124230980182484",
+        "asin": "B0DZXH9T8F",
+        "isNotActive": false
+      },
+      {
+        "sku": "26827894592865363751",
+        "asin": "B0DZXJR57F",
+        "isNotActive": false
+      },
+      {
+        "sku": "11704940555213803921",
+        "asin": "B0DZXLQXL4",
+        "isNotActive": false
+      },
+      {
+        "sku": "14062982205446094506",
+        "asin": "B0DZXJLH53",
+        "isNotActive": false
+      },
+      {
+        "sku": "44513264186146307774",
+        "asin": "B0DZXK637D",
+        "isNotActive": false
+      },
+      {
+        "sku": "54399797911927749853",
+        "asin": "B0DZXL7W8C",
+        "isNotActive": false
+      },
+      {
+        "sku": "26793593016512976324",
+        "asin": "B0DZXG7HC4",
+        "isNotActive": false
+      },
+      {
+        "sku": "15638254520707673038",
+        "asin": "B0DZXFDDWK",
+        "isNotActive": false
+      },
+      {
+        "sku": "21449797498431859771",
+        "asin": "B0DZXDL4P1",
+        "isNotActive": false
+      },
+      {
+        "sku": "22900300817675990682",
+        "asin": "B0DZXH1YLJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "20818806249968966766",
+        "asin": "B0DZXHWDC5",
+        "isNotActive": false
+      },
+      {
+        "sku": "30215503152835767595",
+        "asin": "B0DZXJ4BSR",
+        "isNotActive": false
+      },
+      {
+        "sku": "19635483040272300833",
+        "asin": "B0DZXK77MX",
+        "isNotActive": false
+      },
+      {
+        "sku": "15857609157042274194",
+        "asin": "B0DZXJDH7Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "19753609880837769539",
+        "asin": "B0DZXHFFKW",
+        "isNotActive": false
+      },
+      {
+        "sku": "30896511841940636854",
+        "asin": "B0DZXK1K48",
+        "isNotActive": false
+      },
+      {
+        "sku": "12257475772158912326",
+        "asin": "B0DZXKZ4SM",
+        "isNotActive": false
+      },
+      {
+        "sku": "15719517332205678427",
+        "asin": "B0DZXJKT7T",
+        "isNotActive": false
+      },
+      {
+        "sku": "10636969189818354395",
+        "asin": "B0DZXLQ6TF",
+        "isNotActive": false
+      },
+      {
+        "sku": "13707622677237303259",
+        "asin": "B0DZXL8YR2",
+        "isNotActive": false
+      },
+      {
+        "sku": "52315162540743320584",
+        "asin": "B0DZXPQMXQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Cyclist Crewneck Sweatshirt - Perfect Gift for Bikers, Sports Lovers, and Active Lifestyle, Gym Wear, Outdoor Adventures",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN24ST45",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30998485442649934631",
+        "asin": "B0DJC9Z74G",
+        "isNotActive": false
+      },
+      {
+        "sku": "25177364740690934737",
+        "asin": "B0DJC8KG1C",
+        "isNotActive": false
+      },
+      {
+        "sku": "16468744415217458502",
+        "asin": "B0DJC8NGPK",
+        "isNotActive": false
+      },
+      {
+        "sku": "99451503756354788199",
+        "asin": "B0DJCB42V3",
+        "isNotActive": false
+      },
+      {
+        "sku": "19388522960674321166",
+        "asin": "B0DJC84MNZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "19333170031854605557",
+        "asin": "B0DJC9HJFR",
+        "isNotActive": false
+      },
+      {
+        "sku": "83648586322348792963",
+        "asin": "B0DJC8H4YT",
+        "isNotActive": false
+      },
+      {
+        "sku": "69179694310442227567",
+        "asin": "B0DJC87S2L",
+        "isNotActive": false
+      },
+      {
+        "sku": "62079621522358053181",
+        "asin": "B0DJC85ZDC",
+        "isNotActive": false
+      },
+      {
+        "sku": "20940442817819554402",
+        "asin": "B0DJC8N2C9",
+        "isNotActive": false
+      },
+      {
+        "sku": "78261493858680421007",
+        "asin": "B0DJC8B932",
+        "isNotActive": false
+      },
+      {
+        "sku": "25995102369191911086",
+        "asin": "B0DJC8QGJ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "22599648081092112053",
+        "asin": "B0DJC96ZGM",
+        "isNotActive": false
+      },
+      {
+        "sku": "79665215069886379495",
+        "asin": "B0DJC99J2M",
+        "isNotActive": false
+      },
+      {
+        "sku": "86530328495791226114",
+        "asin": "B0DJC8NC5G",
+        "isNotActive": false
+      },
+      {
+        "sku": "61860379700742041582",
+        "asin": "B0DJC9BHRC",
+        "isNotActive": false
+      },
+      {
+        "sku": "16955872944899074503",
+        "asin": "B0DJC82JM8",
+        "isNotActive": false
+      },
+      {
+        "sku": "21168948484341913451",
+        "asin": "B0DJC8KND5",
+        "isNotActive": false
+      },
+      {
+        "sku": "13853933658176115455",
+        "asin": "B0DJC976MP",
+        "isNotActive": false
+      },
+      {
+        "sku": "25597953737895459336",
+        "asin": "B0DJC9SVLZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "92873890943974939295",
+        "asin": "B0DJC99YGR",
+        "isNotActive": false
+      },
+      {
+        "sku": "22342964600336344410",
+        "asin": "B0DJC96WMN",
+        "isNotActive": false
+      },
+      {
+        "sku": "11370874124342047010",
+        "asin": "B0DJC9BP56",
+        "isNotActive": false
+      },
+      {
+        "sku": "13842494438154148667",
+        "asin": "B0DJC986JC",
+        "isNotActive": false
+      },
+      {
+        "sku": "14971932535736024326",
+        "asin": "B0DJC6TB67",
+        "isNotActive": false
+      },
+      {
+        "sku": "27128204504863174973",
+        "asin": "B0DJC916X7",
+        "isNotActive": false
+      },
+      {
+        "sku": "19924501761712385481",
+        "asin": "B0DJC75QSM",
+        "isNotActive": false
+      },
+      {
+        "sku": "25209482530180584258",
+        "asin": "B0DJC76WQK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "68d24843576c0d2d8e0b0ce0",
+    "asin": null,
+    "marketplaces": ["A2EUQ1WTGCTBG2", "A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "25097994841815565102",
+        "asin": "B0FS717T2H",
+        "isNotActive": false
+      },
+      {
+        "sku": "12807143591028729740",
+        "asin": "B0FS73RK5V",
+        "isNotActive": false
+      },
+      {
+        "sku": "26579877305424590073",
+        "asin": "B0FS71GX9Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "30366969356370446492",
+        "asin": "B0FS6WQNVK",
+        "isNotActive": false
+      },
+      {
+        "sku": "12096201412803655612",
+        "asin": "B0FS71G98L",
+        "isNotActive": false
+      },
+      {
+        "sku": "32546307359318603982",
+        "asin": "B0FS71TWRV",
+        "isNotActive": false
+      },
+      {
+        "sku": "42741322129000004924",
+        "asin": "B0FS72XJBB",
+        "isNotActive": false
+      },
+      {
+        "sku": "24591406395137562223",
+        "asin": "B0FS725XHC",
+        "isNotActive": false
+      },
+      {
+        "sku": "39966659054258193988",
+        "asin": "B0FS72QT58",
+        "isNotActive": false
+      },
+      {
+        "sku": "25747656856860977137",
+        "asin": "B0FS71N5X5",
+        "isNotActive": false
+      },
+      {
+        "sku": "26332062757315414125",
+        "asin": "B0FS6WTZJB",
+        "isNotActive": false
+      },
+      {
+        "sku": "10544520859559770735",
+        "asin": "B0FS6ZSQ1N",
+        "isNotActive": false
+      },
+      {
+        "sku": "76853120834457364302",
+        "asin": "B0FS728PLG",
+        "isNotActive": false
+      },
+      {
+        "sku": "16410027131999954160",
+        "asin": "B0FS731NBK",
+        "isNotActive": false
+      },
+      {
+        "sku": "99471520249339163797",
+        "asin": "B0FS71BPWZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "7859632058741",
+        "asin": "B0FYY2XFNS",
+        "isNotActive": false
+      },
+      {
+        "sku": "789585203698521",
+        "asin": "B0FZJ3NJ84",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "68d24843576c0d2d8e0b0ce0",
+    "asin": "B0FS71ZCPT",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "25097994841815565102",
+        "asin": "B0FS717T2H",
+        "isNotActive": false
+      },
+      {
+        "sku": "12807143591028729740",
+        "asin": "B0FS73RK5V",
+        "isNotActive": false
+      },
+      {
+        "sku": "99471520249339163797",
+        "asin": "B0FS71BPWZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "16410027131999954160",
+        "asin": "B0FS731NBK",
+        "isNotActive": false
+      },
+      {
+        "sku": "26332062757315414125",
+        "asin": "B0FS6WTZJB",
+        "isNotActive": false
+      },
+      {
+        "sku": "10544520859559770735",
+        "asin": "B0FS6ZSQ1N",
+        "isNotActive": false
+      },
+      {
+        "sku": "76853120834457364302",
+        "asin": "B0FS728PLG",
+        "isNotActive": false
+      },
+      {
+        "sku": "25747656856860977137",
+        "asin": "B0FS71N5X5",
+        "isNotActive": false
+      },
+      {
+        "sku": "24591406395137562223",
+        "asin": "B0FS725XHC",
+        "isNotActive": false
+      },
+      {
+        "sku": "39966659054258193988",
+        "asin": "B0FS72QT58",
+        "isNotActive": false
+      },
+      {
+        "sku": "42741322129000004924",
+        "asin": "B0FS72XJBB",
+        "isNotActive": false
+      },
+      {
+        "sku": "32546307359318603982",
+        "asin": "B0FS71TWRV",
+        "isNotActive": false
+      },
+      {
+        "sku": "12096201412803655612",
+        "asin": "B0FS71G98L",
+        "isNotActive": false
+      },
+      {
+        "sku": "30366969356370446492",
+        "asin": "B0FS6WQNVK",
+        "isNotActive": false
+      },
+      {
+        "sku": "26579877305424590073",
+        "asin": "B0FS71GX9Z",
+        "isNotActive": false
+      },
+      {
+        "sku": "789585203698521",
+        "asin": "B0FZJ3NJ84",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Whimsical Owl Tote Bag, Cute Owl Design, Book Lover Gift, Eco-Friendly Bag, Everyday Use, Unique Gift Idea",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN232FPB",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20274609654073601324",
+        "asin": "B0DJQXL6DC",
+        "isNotActive": false
+      },
+      {
+        "sku": "20189624940225035247",
+        "asin": "B0DJQYS14X",
+        "isNotActive": false
+      },
+      {
+        "sku": "21016692564692526584",
+        "asin": "B0DJQYFLCH",
+        "isNotActive": false
+      },
+      {
+        "sku": "23313714049244420750",
+        "asin": "B0DJQZYFB2",
+        "isNotActive": false
+      },
+      {
+        "sku": "20184699460263983544",
+        "asin": "B0DJQXHB6N",
+        "isNotActive": false
+      },
+      {
+        "sku": "18210270667532577864",
+        "asin": "B0DJQYDYQ5",
+        "isNotActive": false
+      },
+      {
+        "sku": "26787049011141050616",
+        "asin": "B0DJQZFLSC",
+        "isNotActive": false
+      },
+      {
+        "sku": "18838576561447351297",
+        "asin": "B0DJQYQQKG",
+        "isNotActive": false
+      },
+      {
+        "sku": "17321890570654532224",
+        "asin": "B0DJQYFVM3",
+        "isNotActive": false
+      },
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      },
+      {
+        "sku": "11584613081427148258",
+        "asin": "B0DJQYFYJT",
+        "isNotActive": false
+      },
+      {
+        "sku": "82290431363794330833",
+        "asin": "B0DJR14GXY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "874521036",
+    "asin": "B0B1JC6Y1G",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME/SIZE_NAME",
+    "variants": [
+      {
+        "sku": "874521036-V15",
+        "asin": "B0B1JFNJ1V",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V12",
+        "asin": "B0B1JDF6RM",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V13",
+        "asin": "B09TT9QYJK",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V10",
+        "asin": "B0B1JCDQ8W",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V11",
+        "asin": "B0B1JFKBKV",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V9",
+        "asin": "B09TTBQ1QV",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V4",
+        "asin": "B09TTBZD33",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V3",
+        "asin": "B0B1JB9L36",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V1",
+        "asin": "B09TTC52YC",
+        "isNotActive": false
+      },
+      {
+        "sku": "874521036-V2",
+        "asin": "B0B1JFK3J6",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "VASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "68d246221863513a9c09d2d6",
+    "asin": "B0FS6X4CVW",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16882243971564917605",
+        "asin": "B0FS71C31J",
+        "isNotActive": false
+      },
+      {
+        "sku": "11282025598934436185",
+        "asin": "B0FS6XXC6B",
+        "isNotActive": false
+      },
+      {
+        "sku": "11564966521275931191",
+        "asin": "B0FS72CV1H",
+        "isNotActive": false
+      },
+      {
+        "sku": "17639620771608013832",
+        "asin": "B0FS75Y82W",
+        "isNotActive": false
+      },
+      {
+        "sku": "25265057986674927056",
+        "asin": "B0FS715ZDH",
+        "isNotActive": false
+      },
+      {
+        "sku": "59577357725225979542",
+        "asin": "B0FS6YGPQY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0FS7FR69T",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25265057986674927056",
+        "asin": "B0FS715ZDH",
+        "isNotActive": false
+      },
+      {
+        "sku": "11282025598934436185",
+        "asin": "B0FS6XXC6B",
+        "isNotActive": false
+      },
+      {
+        "sku": "16882243971564917605",
+        "asin": "B0FS71C31J",
+        "isNotActive": false
+      },
+      {
+        "sku": "11564966521275931191",
+        "asin": "B0FS72CV1H",
+        "isNotActive": false
+      },
+      {
+        "sku": "17639620771608013832",
+        "asin": "B0FS75Y82W",
+        "isNotActive": false
+      },
+      {
+        "sku": "59577357725225979542",
+        "asin": "B0FS6YGPQY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "225680023652",
+    "asin": "B0G1TC1KFH",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "225680023652-V3",
+        "asin": "B0G1T4QT6X",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V2",
+        "asin": "B0G1T38W1N",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V1",
+        "asin": "B0G1T9QL85",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V4",
+        "asin": "B0G1T4Q97H",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V5",
+        "asin": "B0G1T4XNH8",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "KEYCHAIN",
+    "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "8852036985201452",
+    "asin": "B0FVSFNJJM",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "8852036985201452-V3",
+        "asin": "B0FP2TQSRF",
+        "isNotActive": false
+      },
+      {
+        "sku": "8852036985201452-V5",
+        "asin": "B0FS7VZLDF",
+        "isNotActive": false
+      },
+      {
+        "sku": "8852036985201452-V4",
+        "asin": "B0FP2TV373",
+        "isNotActive": false
+      },
+      {
+        "sku": "8852036985201452-V1",
+        "asin": "B0FP2VSM6H",
+        "isNotActive": false
+      },
+      {
+        "sku": "8852036985201452-V2",
+        "asin": "B0FS7TR9ZQ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FIGURINE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "225680023652",
+    "asin": "B0G1TFRD7P",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "225680023652-V3",
+        "asin": "B0G1T4QT6X",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V2",
+        "asin": "B0G1T38W1N",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V5",
+        "asin": "B0G1T4XNH8",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V4",
+        "asin": "B0G1T4Q97H",
+        "isNotActive": false
+      },
+      {
+        "sku": "225680023652-V1",
+        "asin": "B0G1T9QL85",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "KEYCHAIN",
+    "productName": "Engraved Metal Keychain - Personalized Keyring",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "SN-TP-01",
+    "asin": "B0G1SHR9K6",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "SN-TP-01-V1",
+        "asin": "B0FDWK4RW9",
+        "isNotActive": false
+      },
+      {
+        "sku": "SN-TP-01-V3",
+        "asin": "B0FDWQWR19",
+        "isNotActive": false
+      },
+      {
+        "sku": "SN-TP-01-V5",
+        "asin": "B0FX22DN2M",
+        "isNotActive": false
+      },
+      {
+        "sku": "SN-TP-01-V2",
+        "asin": "B0FDVNJPK1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SUNGLASSES",
+    "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "ST-CL-HT",
+    "asin": "B0G1Y44Q86",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "ST-CL-HT-V4",
+        "asin": "B0G1YF9NZ8",
+        "isNotActive": false
+      },
+      {
+        "sku": "ST-CL-HT-V1",
+        "asin": "B0G1Y7BSQS",
+        "isNotActive": false
+      },
+      {
+        "sku": "ST-CL-HT-V3",
+        "asin": "B0G1YB39NQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "ST-CL-HT-V2",
+        "asin": "B0G1Y8FP7H",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "GARMENT_STEAMER",
+    "productName": "Travel steamer",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "7895203685985203",
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "7895203685985203-V3",
+        "asin": "B0FHTKKM9Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "7895203685985203-V4",
+        "asin": "B0FHVJB9LQ",
+        "isNotActive": false
+      },
+      {
+        "sku": "7895203685985203-V1",
+        "asin": "B0FHVZ667H",
+        "isNotActive": false
+      },
+      {
+        "sku": "7895203685985203-V2",
+        "asin": "B0FHVJ4Z68",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "LAMP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN23LBQM",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "28864020670788674751",
+        "asin": "B0DJRC2WRS",
+        "isNotActive": false
+      },
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      },
+      {
+        "sku": "67762835364228201899",
+        "asin": "B0DJQYRVS9",
+        "isNotActive": false
+      },
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0GS5N22KH",
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "COLOR/NUMBER_OF_ITEMS",
+    "variants": [
+      {
+        "sku": "4B-D0D5-RPTL",
+        "asin": "B0GS2VWV62",
+        "isNotActive": false
+      },
+      {
+        "sku": "TD-MW8F-T718",
+        "asin": "B0GS2ZBH1J",
+        "isNotActive": false
+      },
+      {
+        "sku": "IX-AF6R-F1TL",
+        "asin": "B0GS2XCTMX",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "THERMOS",
+    "productName": "Botella de agua con tapa y popote, vaso de acero inoxidable de 1,2 l con doble aislamiento para bebidas frías y calientes",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "67cea95dcebc58e9ee0871a9",
+    "asin": "B0DZXHZ9RX",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      },
+      {
+        "sku": "889652036985",
+        "asin": "B0G1CHM78G",
+        "isNotActive": false
+      },
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "DM-RG-1",
+    "asin": "B0G1YJJBCQ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "STYLE",
+    "variants": [
+      {
+        "sku": "DM-RG-1-V1",
+        "asin": "B0G1THDTG8",
+        "isNotActive": false
+      },
+      {
+        "sku": "DM-RG-1-V2",
+        "asin": "B0G1T93CPK",
+        "isNotActive": false
+      },
+      {
+        "sku": "DM-RG-1-V4",
+        "asin": "B0G1TQ2438",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "RING",
+    "productName": "Elegant Diamond Solitaire Ring",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "PT-TY-01",
+    "asin": "B0BLBHH55H",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "PT-TY-01-V2",
+        "asin": "B087JSWDZT",
+        "isNotActive": false
+      },
+      {
+        "sku": "PT-TY-01-V1",
+        "asin": "B0CD1QF387",
+        "isNotActive": false
+      },
+      {
+        "sku": "PT-TY-01-V3",
+        "asin": "B0839HPCST",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "ARTIFICIAL_PLANT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "1J-9GKO-IVVA",
+    "asin": "B0GS2NFC1S",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/NUMBER_OF_ITEMS",
+    "variants": [
+      {
+        "sku": "TD-MW8F-T718",
+        "asin": "B0GS2ZBH1J",
+        "isNotActive": false
+      },
+      {
+        "sku": "4B-D0D5-RPTL",
+        "asin": "B0GS2VWV62",
+        "isNotActive": false
+      },
+      {
+        "sku": "IX-AF6R-F1TL",
+        "asin": "B0GS2XCTMX",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "THERMOS",
+    "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "mini-claw-clips",
+    "asin": "B0GKC7ZNZR",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE_NAME",
+    "variants": [
+      {
+        "sku": "mini-claw-clips-V1",
+        "asin": "B08PF9C53R",
+        "isNotActive": false
+      },
+      {
+        "sku": "mini-claw-clips-V2",
+        "asin": "B09GYNVRG6",
+        "isNotActive": false
+      },
+      {
+        "sku": "mini-claw-clips-V3",
+        "asin": "B09GYPGLZZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAIR_CLIP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "UQ-DAJN-5111",
+    "asin": "B0G38Y4L8C",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SPECIAL_SIZE_TYPE/SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "kid-hat-red",
+        "asin": "B0G6Z8FHG9",
+        "isNotActive": false
+      },
+      {
+        "sku": "kid-hat-yellow",
+        "asin": "B0G38T5VL1",
+        "isNotActive": false
+      },
+      {
+        "sku": "kid-hat-green",
+        "asin": "B0G391QYFZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAT",
+    "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "25895874100",
+    "asin": "B0G1TCTST1",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "STYLE_NAME",
+    "variants": [
+      {
+        "sku": "785241036-V3",
+        "asin": "B0G1TNGPPR",
+        "isNotActive": false
+      },
+      {
+        "sku": "25895874100-V2",
+        "asin": "B0G1T7M89Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "25895874100-V1",
+        "asin": "B0G1TGBVVF",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "EARRING",
+    "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "69520145236",
+    "asin": "B0FMQK864B",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "69520145236-V2",
+        "asin": "B0F8QPS9SJ",
+        "isNotActive": false
+      },
+      {
+        "sku": "69520145236-V1",
+        "asin": "B0F8QQZSD3",
+        "isNotActive": false
+      },
+      {
+        "sku": "69520145236-V3",
+        "asin": "B0F8QTHGX1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "GARLAND",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "67cea95dcebc58e9ee0871a9",
+    "asin": "B0F585Q26L",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "26014986315503632044",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      },
+      {
+        "sku": "889652036985",
+        "asin": "B0G1CHM78G",
+        "isNotActive": false
+      },
+      {
+        "sku": "55252223219787294959",
+        "asin": "B0DZXGNKR7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor, Jungle-Themed Drinkware",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0GRVZW6MT",
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "6X-QO92-SR01",
+        "asin": "B0GRVP3WD5",
+        "isNotActive": false
+      },
+      {
+        "sku": "PU-LPQ9-PORQ",
+        "asin": "B0GRVSX584",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Camisa",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "MR-WH-97",
+    "asin": "B0DT6Q2R57",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "MR-WH-97-V2",
+        "asin": "B0D3FD7WW6",
+        "isNotActive": false
+      },
+      {
+        "sku": "MR-WH-97-V1",
+        "asin": "B0B527J8WC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HOME_MIRROR",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "tool-box-pencil-pen",
+    "asin": "B0GW8X3M7V",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "tool-box-pencil-pen white",
+        "asin": "B0GW8VQKB1",
+        "isNotActive": false
+      },
+      {
+        "sku": "tool-box-pencil-pen Black",
+        "asin": "B0GW92S1QL",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "PORTABLE_TOOL_BOX",
+    "productName": "Desk Organizer Tool Box for Pens, Pencils, and Stationery",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "DM-RG-54",
+    "asin": "B0FZBYJHPX",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "RING_SIZE",
+    "variants": [
+      {
+        "sku": "VR-NE-6",
+        "asin": "B0G1C3KCGZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "DM-RG-54 5 White Gold",
+        "asin": "B0FZBVP3MP",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "RING",
+    "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "EN-UAVG-CEFP",
+    "asin": "B0GRVLRSS3",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "6X-QO92-SR01",
+        "asin": "B0GRVP3WD5",
+        "isNotActive": false
+      },
+      {
+        "sku": "PU-LPQ9-PORQ",
+        "asin": "B0GRVSX584",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "shirt",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "truck-toy-for-kid",
+    "asin": "B0G2WSLBCX",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "truck-toy-for-kid black",
+        "asin": "B0G341LKZL",
+        "isNotActive": false
+      },
+      {
+        "sku": "truck-toy-for-kid Yellow",
+        "asin": "B0G2XMZXTK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "NON_RIDING_TOY_VEHICLE",
+    "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Love phone case",
+    "asin": "B0G2R1XGS8",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "Love phone case black",
+        "asin": "B0G2SLWD9Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "Love phone case Pink",
+        "asin": "B0G2R5LJ1K",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Heart Phone Case - Protective & Stylish",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "CND-WRM",
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "CND-WRM-V1",
+        "asin": "B0G2GMPC11",
+        "isNotActive": false
+      },
+      {
+        "sku": "CND-WRM-V2",
+        "asin": "B0G2GLH53J",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FOOD_STORAGE_CONTAINER",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "22598520147852",
+    "asin": "B0G1215KJ4",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "STYLE_NAME",
+    "variants": [
+      {
+        "sku": "22598520147852-V2",
+        "asin": "B000QTUJXS",
+        "isNotActive": false
+      },
+      {
+        "sku": "22598520147852-V1",
+        "asin": "B0DPLLT16Z",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FOUNTAIN",
+    "productName": "Homedics Tabletop Water Fountain",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fbbd0c92ead167af014c68",
+    "asin": "B0DJBRYTPZ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "28864020670788674751",
+        "asin": "B0DJRC2WRS",
+        "isNotActive": false
+      },
+      {
+        "sku": "67762835364228201899",
+        "asin": "B0DJQYRVS9",
+        "isNotActive": false
+      },
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      },
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Tough Love Phone Cases for iPhone15",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fbb74763321bc65908b63d",
+    "asin": "B0DJBQG2HJ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": false
+      },
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "car Vinil Decal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "88520025",
+    "asin": "B0G2GFZFKL",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE_NAME/STYLE_NAME",
+    "variants": [
+      {
+        "sku": "88520025-V2",
+        "asin": "B0CL5DMMM3",
+        "isNotActive": false
+      },
+      {
+        "sku": "88520025-V1",
+        "asin": "B0CM25NLN8",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAIR_IRON",
+    "productName": "Miracurl Professional Curl Machine",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0GSH9YR1J",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "6X-QO92-SR01",
+        "asin": "B0GRVP3WD5",
+        "isNotActive": false
+      },
+      {
+        "sku": "MJ-YYHC-WXTD",
+        "asin": "B0GRVSX584",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Shirt",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "DM-RG-54",
+    "asin": "B0G1BZWMXR",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "RING_SIZE",
+    "variants": [
+      {
+        "sku": "VR-NE-6",
+        "asin": "B0G1C3KCGZ",
+        "isNotActive": false
+      },
+      {
+        "sku": "DM-RG-54 5 White Gold",
+        "asin": "B0FZBVP3MP",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "RING",
+    "productName": "IGI Certified Lab Grown Diamond Floral Engagement Ring",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Love phone case",
+    "asin": "B0G2SD5239",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "Love phone case black",
+        "asin": "B0G2SLWD9Q",
+        "isNotActive": false
+      },
+      {
+        "sku": "Love phone case Pink",
+        "asin": "B0G2R5LJ1K",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Heart Phone Case - Protective & Stylish",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0G2JD5HW2",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "STYLE",
+    "variants": [
+      {
+        "sku": "DM-RG-1-V4",
+        "asin": "B0G1TQ2438",
+        "isNotActive": false
+      },
+      {
+        "sku": "DM-RG-1-V1",
+        "asin": "B0G1THDTG8",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "RING",
+    "productName": "Elegant Diamond Solitaire Ring",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "B0-8YOH-L1HX",
+    "asin": "B0DN24P37J",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "10284470610055147746",
+        "asin": "B0DJQX5HQ1",
+        "isNotActive": false
+      },
+      {
+        "sku": "25688997547984720320",
+        "asin": "B0DJQY7S3B",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "VEHICLE_WRAP",
+    "productName": "car Vinil decal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F9WQ8LT9",
+    "marketplaces": ["A1AM78C64UM0Y8"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Camiseta unisex de peso medio, fabricada en EE. UU",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "ABCD",
+    "asin": "B0DZXJ3PRT",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "63826463851345053167",
+        "asin": "B0DZXH5LK6",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0GRVLRSS3",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "MJ-YYHC-WXTD",
+        "asin": "B0GRVSX584",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Shirt",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0GNC8Q26B",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "wooden-bench",
+        "asin": "B09Q4NHDWW",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BENCH",
+    "productName": "Vintage Noodle Bench",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "disney-necklace",
+        "asin": "B09XC9S9Y2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "NECKLACE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0BWJR4MHH",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "ITEM_SHAPE",
+    "variants": [
+      {
+        "sku": "duck-night-lamp",
+        "asin": "B09YRR2LS5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "LAMP",
+    "productName": "MUID Original Authentic Silicone Night Light, Nursery Squishy Lamp, Silicone Night Light for Breastfeeding, Cute Animal Bedside Lamp for Baby Kids Teens, Soft Nightlight with Touch Sensor for Bedroom",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "shirt for women",
+        "asin": "B0G2S4NXCV",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRESS",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0G3YJJGKQ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "PLATFORM_FOR_DISPLAY/EDITION",
+    "variants": [
+      {
+        "sku": "5524103",
+        "asin": "B0FY9GMJ95",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CONSOLE_VIDEO_GAMES",
+    "productName": "Resident Evil Requiem",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "VD-GM-CNL",
+    "asin": "B0G1MNCNT5",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "VD-GM-CNL-V2",
+        "asin": "B0F8R1QP51",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "VIDEO_GAME_CONSOLE",
+    "productName": "RMOKA Retro Gaming Game Green",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "784585741201",
+    "asin": "B0FZCG9L68",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "784585741201 Black",
+        "asin": "B0FZCC88H7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "VASE",
+    "productName": "Modern Matte Black Ceramic Vase - Large Decorative Flower Vase",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "2105236520",
+    "asin": "B0G5N4CMJX",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "2105236520-V1",
+        "asin": "B0FWR6KCYR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "PLACEMAT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "7898520",
+        "asin": "B00284ADAI",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "66fbb09992ead167af0148a3",
+        "asin": "B0DJBNCW5H",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20274609654073601324",
+        "asin": "B0DJQXL6DC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "82290431363794330833",
+        "asin": "B0DJR14GXY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11584613081427148258",
+        "asin": "B0DJQYFYJT",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20189624940225035247",
+        "asin": "B0DJQYS14X",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "21016692564692526584",
+        "asin": "B0DJQYFLCH",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "23313714049244420750",
+        "asin": "B0DJQZYFB2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20184699460263983544",
+        "asin": "B0DJQXHB6N",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "67cec2c032fb796da203d29f",
+        "asin": "B0DZXMVRN1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "18210270667532577864",
+        "asin": "B0DJQYDYQ5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "26787049011141050616",
+        "asin": "B0DJQZFLSC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "18838576561447351297",
+        "asin": "B0DJQYQQKG",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "17321890570654532224",
+        "asin": "B0DJQYFVM3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30396340252525416989",
+        "asin": "B0DJQYJZV3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "17413368743738459909",
+        "asin": "B0DJRC1NLR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "26485797266076578247",
+        "asin": "B0DJR7D5DK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30979367391677307111",
+        "asin": "B0FR5CRBCF",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86116983703179682472",
+        "asin": "B0DJC7VLSY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78030572374848186482",
+        "asin": "B0DJCB3SJ7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20005483504707723209",
+        "asin": "B0DJCB1LGZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16468744415217458502",
+        "asin": "B0DJC8NGPK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "22039449774746896506",
+        "asin": "B0DZXT2N2S",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "94292994261163396712",
+        "asin": "B0DZXP6S9C",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "fsdfdsghjjjjjjjjgh current",
+        "asin": "B0F28Y4QT2",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "123123",
+        "asin": "B0F1FG4WQ4",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "MOBILE_APPLICATION",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "16661825059693052327",
+        "asin": "B0DZXNK447",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "74599968013643921960",
+        "asin": "B0DZXR3XZD",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "32242345023357025715",
+        "asin": "B0DZXQGK76",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "14444053310336374819",
+        "asin": "B0DZXNS6LM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "99451503756354788199",
+        "asin": "B0DJCB42V3",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86530328495791226114",
+        "asin": "B0DJC8NC5G",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30998485442649934631",
+        "asin": "B0DJC9Z74G",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "21168948484341913451",
+        "asin": "B0DJC8KND5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25995102369191911086",
+        "asin": "B0DJC8QGJ5",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22342964600336344410",
+        "asin": "B0DJC96WMN",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "22599648081092112053",
+        "asin": "B0DJC96ZGM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "61860379700742041582",
+        "asin": "B0DJC9BHRC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "13842494438154148667",
+        "asin": "B0DJC986JC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "16955872944899074503",
+        "asin": "B0DJC82JM8",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "11370874124342047010",
+        "asin": "B0DJC9BP56",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "13853933658176115455",
+        "asin": "B0DJC976MP",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25597953737895459336",
+        "asin": "B0DJC9SVLZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "79665215069886379495",
+        "asin": "B0DJC99J2M",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "19333170031854605557",
+        "asin": "B0DJC9HJFR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "62079621522358053181",
+        "asin": "B0DJC85ZDC",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25177364740690934737",
+        "asin": "B0DJC8KG1C",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "83648586322348792963",
+        "asin": "B0DJC8H4YT",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "27128204504863174973",
+        "asin": "B0DJC916X7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "69179694310442227567",
+        "asin": "B0DJC87S2L",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20940442817819554402",
+        "asin": "B0DJC8N2C9",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "19924501761712385481",
+        "asin": "B0DJC75QSM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78261493858680421007",
+        "asin": "B0DJC8B932",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "92873890943974939295",
+        "asin": "B0DJC99YGR",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "19388522960674321166",
+        "asin": "B0DJC84MNZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "25209482530180584258",
+        "asin": "B0DJC76WQK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "14971932535736024326",
+        "asin": "B0DJC6TB67",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20950906538424039047",
+        "asin": "B0DJQXHYC1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "6S-HK5J-OSOU",
+    "asin": "B0FL7G8HXC",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "78030572374848186482",
+        "asin": "B0DJCB3SJ7",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Generic Love Phone Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0F58R5XFR",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "COLOR/SIZE",
+    "variants": [
+      {
+        "sku": "14444053310336374819",
+        "asin": "B0DZXNS6LM",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "25895874100",
+    "asin": "B0G2GKQNP9",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "STYLE",
+    "variants": [
+      {
+        "sku": "25895874100-V2",
+        "asin": "B0G1T7M89Q",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "EARRING",
+    "productName": "Elegant Dangle Earrings",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "men's-shirt",
+        "asin": "B0G4BB2K2R",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "truck-toy-for-kid",
+    "asin": "B0G2WW4S5Z",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "truck-toy-for-kid Yellow",
+        "asin": "B0G2XMZXTK",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "NON_RIDING_TOY_VEHICLE",
+    "productName": "Kids' Adventure Truck Toy - Durable and Safe",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "30979367391677307111",
+        "asin": "B0FR5CRBCF",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "C1-AER7-EAN1",
+    "asin": "B0DN24ST45",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20005483504707723209",
+        "asin": "B0DJCB1LGZ",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "66fc183eeff5272f490c2278",
+    "asin": "B0DN24ST45",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "86116983703179682472",
+        "asin": "B0DJC7VLSY",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CELLULAR_PHONE_CASE",
+    "productName": "Love Phone Protective Cases",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": "B0DN24YLFZ",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE/COLOR",
+    "variants": [
+      {
+        "sku": "20950906538424039047",
+        "asin": "B0DJQXHYC1",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "The Giant Leap Unisex Heavy Cotton Tee",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": null,
+    "asin": null,
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variationTheme": "SIZE",
+    "variants": [
+      {
+        "sku": "wooden-bench",
+        "asin": "B09Q4NHDWW",
+        "isNotActive": false
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BENCH",
+    "productName": "Artissance Home Vintage Noodle Bench, Weathered Natural Wood Finish (Size & Color Vary)",
+    "isEnriched": true,
+    "isProcessed": true
+  },
+  {
+    "sku": "Eyelashes",
+    "asin": "B0G49YWB5P",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FALSE_EYELASH",
+    "productName": "Premium False Eyelashes - Natural Look",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "nail-extension",
+    "asin": "B0G49KLLGC",
+    "marketplaces": ["ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "COSMETIC_NAIL_SET",
+    "productName": "Professional Nail Extension Kit",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "1234567890123456789012345678901234567890",
+    "asin": "B0G46Z7XRH",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "mojito-glass",
+    "asin": "B0G46Z7XRH",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "dark-chocolate",
+    "asin": "B0G357978B",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "CHOCOLATE_CANDY",
+    "productName": "Premium Dark Chocolate Bar",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Ice-Cream-Maker",
+    "asin": "B0G359M8J3",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "ICE_CREAM_MAKER",
+    "productName": "Premium Electric Ice Cream Maker",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "PG-LTKX-94L9",
+    "asin": "B0DSJNCPJL",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "My Super Shirt Beige Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "EA-AS-01",
+    "asin": "B0FYNST4B6",
+    "marketplaces": ["ATVPDKIKX0DER", "A1AM78C64UM0Y8"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "EARRING",
+    "productName": "Handcrafted Traditional Dangle Earrings for Women",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "99652036985",
+    "asin": "B0CC31XP2D",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Hlukana Vintage Hobnail Drinking Glasses Set of 8, 12 oz Highball Glasses & 10 oz Cocktail Glasses Set, Kitchen Water Glasses Cup, Bar Tumbler Glassware Set for Beer, Juice, Cocktail, Whiskey, Milk",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "brown-hoodie-for-men",
+    "asin": "B0G2MC84P5",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATSHIRT",
+    "productName": "Men's Brown Fleece Pullover Hoodie",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Men's Short Sleeve Summer Shirt",
+    "asin": "B0GWHHC2WN",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Men's Short Sleeve Summer Shirt",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Portable Air Conditioner",
+    "asin": "B0GWH7CKPT",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "AIR_CONDITIONER",
+    "productName": "Portable Air Conditioner - Efficient Cooling Solution",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "eco-friendly-carry-beg",
+    "asin": "B0GW8FD7RZ",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "TOTE_BAG",
+    "productName": "Eco-Friendly Reusable Shopping Bag",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "MA-G9XT-DUQU",
+    "asin": "B0FMFMGBYC",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BOTTLE",
+    "productName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Classic White Ceramic Coffee Mug",
+    "asin": "B0GQMTS1Z2",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DRINKING_CUP",
+    "productName": "Classic White Ceramic Coffee Mug",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "watch",
+    "asin": "B0G47463NB",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Elegant Men's Luxury Automatic Watch - Stainless Steel, Sapphire Crystal",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "lunch-box",
+    "asin": "B0G3TRXMHL",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "PRODUCT",
+    "productName": "Insulated Lunch Box for Kids and Adults",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "electirc-toy-scooter",
+    "asin": "B0G39GBGDS",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "PRODUCT",
+    "productName": "G2 Electric Kick Scooter",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "child-party-suit",
+    "asin": "B0G2SSXJW5",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "COSTUME_OUTFIT",
+    "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Premium White Eraser",
+    "asin": "B0G356T71R",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "MARKING_PEN",
+    "productName": "Premium White Eraser for Pencils and Markers",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "party suit",
+    "asin": "B0G34R8H71",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SUIT",
+    "productName": "2 piece party suit for men",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Highlighter Marker Pen",
+    "asin": "B0G348C45Q",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "MARKING_PEN",
+    "productName": "Highlighter Marker Pen",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "donut-pan",
+    "asin": "B0DQTF9X1Y",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BAKING_PAN",
+    "productName": "GEEOOLLAH Nonstick Donut Pan Set – 2-Piece Bakeware with 6-Cavity Mini and 12-Cavity Standard Molds, Durable Carbon Steel, Scratch-Resistant, Even Heating",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "GL-SK-LM",
+    "asin": "B0F6B2HGP6",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SKIN_SERUM",
+    "productName": "Bean Essence Serum – Snail Mucin Alternative for Glass Skin – Hydrating Glow Boost – Deeper Moisture Than Hyaluronic – Flawless Primer – Strengthens Skin Barrier – 1.01 fl.oz",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "4C-SWI8-MG3Y",
+    "asin": "B0FMFM9592",
+    "marketplaces": ["A2EUQ1WTGCTBG2", "ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SWEATER",
+    "productName": "Classic Cotton T-Shirt, Crew Neck, Short Sleeve, Relaxed Fit, Machine Washable",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "7896521",
+    "asin": "B0B9177YKG",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "WATCH",
+    "productName": "Citizen Men's Eco-Drive Weekender Avion Field Watch in Stainless Steel with Khaki Nylon Strap, Black Dial (Model: BM7550-01E)",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "SW-HB-001",
+    "asin": "B0FYPRG9NR",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAIR_BRUSH",
+    "productName": "Professional Hair Brush for All Hair Types",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "shirt",
+    "asin": "B0DT6SZ744",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee Duplic Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "CLIP-CL-01",
+    "asin": "B0FYMXF8SP",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HAIR_CLIP",
+    "productName": "Elegant Hair Clip for Women - Secure Hold Fashion Accessory",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "GLS-01",
+    "asin": "B0FYG8HH94",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SUNGLASSES",
+    "productName": "Classic Unisex Sunglasses - UV400 Protection",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "RB-ECO-001",
+    "asin": "B0FY6MCWJV",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "BOTTLE",
+    "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "2J-BYFP-C4KH",
+    "asin": "B0DT9KW4F8",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHOES",
+    "productName": "White Snickers Without Any Stripes or Model",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "sku-t-shirt-b-1",
+    "asin": "B0DRD931QR",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "T-Shirt-b Blue",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "JX-8ODT-WYWA",
+    "asin": "B0DT6PYS6Z",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "STICKER_DECAL",
+    "productName": "Car Vinyl Decal Yellow",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "4V-TQBK-5JI3",
+    "asin": "B0DT6SZ744",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SHIRT",
+    "productName": "Unisex Heavy Cotton Tee Duplic Black",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "B0-8YOH-L1ED",
+    "asin": "B0F2SYK7XG",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "DOWNLOADABLE_TV_SERIES",
+    "productName": "dunia",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "SKU-Cowboy-cap-with-images",
+    "asin": "B0DSHVWHXL",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "MOBILE_APPLICATION",
+    "productName": "Cowboy Cap",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "glue-gun-final-try-inport-sku",
+    "asin": "B087418ZDN",
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "HOT_GLUE_GUN",
+    "productName": "Gorilla Hot Glue Gun (Pack of 1) - Dual Temp Full Size Hot Glue Gun with Precision Nozzle, Easy Squeeze Trigger, and Enhanced Safety Features for DIY, Craft, Repairs, and More",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "child-party-suit-2",
+    "asin": "B0G2Y2B7C9",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "COSTUME_OUTFIT",
+    "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "Dangle Earrings for Women",
+    "asin": "B0FYNH2TLM",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "EARRING",
+    "productName": "Dangle Golden Earrings for Classic Women",
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "skin-serum",
+    "asin": "B0DG1DQ2S7",
+    "marketplaces": ["A2EUQ1WTGCTBG2"],
+    "variants": [],
+    "isStandaloneProduct": true,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "SKIN_SERUM",
+    "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+    "isEnriched": false,
+    "isProcessed": true
+  }
+]

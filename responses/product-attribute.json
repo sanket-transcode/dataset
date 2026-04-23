@@ -1,0 +1,73 @@
+{
+  "id": "485466",
+  "attributeId": "11770",
+  "productAttributeGroupId": "429",
+  "variantId": null,
+  "languageCode": "es_MX",
+  "channelId": null,
+  "valueGroupId": null,
+  "isInherited": true,
+  "sequence": "8",
+  "createdAt": "2026-04-23T02:49:04.199Z",
+  "updatedAt": "2026-04-23T02:49:04.199Z",
+  "valueVarchar": null,
+  "valueText": null,
+  "valueInt": null,
+  "valueDecimal": null,
+  "valueDecimal2": null,
+  "valueBoolean": null,
+  "valueDate": null,
+  "valueTime": null,
+  "valueDateAndTime": null,
+  "valueArray": null,
+  "unitOfMeasure": null,
+  "displayLabel": "Stock",
+  "attribute": {
+    "id": 11770,
+    "name": "Stock",
+    "label": "Stock",
+    "displayLabel": "Stock",
+    "isVariantKey": false,
+    "attributeType": "text",
+    "isPrimaryAttribute": true,
+    "attributeTranslations": [
+      {
+        "key": "label",
+        "translation": "Stock",
+        "languageCode": "en_US"
+      }
+    ],
+    "attributeConfiguration": {
+      "maxLength": "255",
+      "isMandatory": "mandatory"
+    }
+  },
+  "productGroupsAndAttributesSequence": {
+    "id": 485466,
+    "sequence": 8
+  },
+  "baseValues": {
+    "valueVarchar": null,
+    "valueText": null,
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null
+  },
+  "parentBaseValues": {
+    "valueVarchar": null,
+    "valueText": null,
+    "valueInt": null,
+    "valueDecimal": null,
+    "valueDecimal2": null,
+    "valueBoolean": null,
+    "valueDate": null,
+    "valueTime": null,
+    "valueDateAndTime": null,
+    "valueArray": null
+  }
+}

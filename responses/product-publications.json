@@ -1,0 +1,87 @@
+{
+  "4494": {
+    "isPublished": true,
+    "channels": {
+      "124": {
+        "channelType": "AMAZON",
+        "isActive": true,
+        "isPublished": true,
+        "marketplaces": {
+          "1": {
+            "languageCode": "en_CA",
+            "isActive": true,
+            "isPublished": true
+          },
+          "2": {
+            "languageCode": "en_US",
+            "isActive": true,
+            "isPublished": true
+          }
+        }
+      }
+    },
+    "variants": {
+      "17711": {
+        "isPublished": true,
+        "channels": {
+          "124": {
+            "channelType": "AMAZON",
+            "isActive": true,
+            "isPublished": true,
+            "marketplaces": {
+              "1": {
+                "languageCode": "en_CA",
+                "isActive": true,
+                "isPublished": true
+              },
+              "2": {
+                "languageCode": "en_US",
+                "isActive": true,
+                "isPublished": true
+              }
+            }
+          }
+        }
+      },
+      "17712": {
+        "isPublished": true,
+        "channels": {
+          "124": {
+            "channelType": "AMAZON",
+            "isActive": true,
+            "isPublished": true,
+            "marketplaces": {
+              "1": {
+                "languageCode": "en_CA",
+                "isActive": true,
+                "isPublished": true
+              },
+              "2": {
+                "languageCode": "en_US",
+                "isActive": true,
+                "isPublished": true
+              }
+            }
+          }
+        }
+      },
+      "17713": {
+        "isPublished": true,
+        "channels": {
+          "124": {
+            "channelType": "AMAZON",
+            "isActive": true,
+            "isPublished": true,
+            "marketplaces": {
+              "2": {
+                "languageCode": "en_US",
+                "isActive": true,
+                "isPublished": true
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
