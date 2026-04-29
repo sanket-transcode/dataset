@@ -1,0 +1,1507 @@
+{
+  "images": [
+    {
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/51IoerHucBL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51IoerHucBL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81zb2R+tx4L.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51Qk7TGuVeL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51Qk7TGuVeL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81bYp4fRMrL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51IFReUEm8L.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51IFReUEm8L._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/91Nj+LMRjbL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/511TLuoGAhL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/511TLuoGAhL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81yA-naIPJL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/5117VIlFWNL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/5117VIlFWNL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81f4gSkPJjL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51RqAiT3dcL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51RqAiT3dcL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81bQcUqR1nL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT05"
+        }
+      ],
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "issues": [
+    {
+      "code": "18448",
+      "message": "Your submission is missing few key attributes: item_weight. Missing these attributes do not block your product from being displayed on Amazon. However it impacts the overall quality of your listing.",
+      "severity": "WARNING",
+      "categories": ["MISSING_ATTRIBUTE"],
+      "attributeNames": ["item_weight"]
+    }
+  ],
+  "offers": [
+    {
+      "price": {
+        "amount": "19.95",
+        "currency": "USD",
+        "currencyCode": "USD"
+      },
+      "audience": {
+        "value": "ALL",
+        "displayName": "Sell on Amazon"
+      },
+      "offerType": "B2C",
+      "marketplaceId": "ATVPDKIKX0DER"
+    },
+    {
+      "price": {
+        "amount": "24.95",
+        "currency": "USD",
+        "currencyCode": "USD"
+      },
+      "audience": {
+        "value": "B2B",
+        "displayName": "Amazon Business (B2B)"
+      },
+      "offerType": "B2B",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "summaries": [
+    {
+      "asin": "B0D1Y86RJP",
+      "fnSku": "X0047HW39T",
+      "status": ["DISCOVERABLE"],
+      "itemName": "Mind-Glowing Galaxy Moon Lamp with Multi Colors, Touch/Remote, Pink Stand - Teen Girl Room Decor, Trendy Stuff - Birthday Gift for 6-12 Year Old Teenage Girl - Cool Night Light for Kids (4.7 inch)",
+      "mainImage": {
+        "link": "https://m.media-amazon.com/images/I/51IoerHucBL.jpg",
+        "width": 500,
+        "height": 500
+      },
+      "createdDate": "2024-04-17T09:15:07.165Z",
+      "productType": "LAMP",
+      "conditionType": "new_new",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "lastUpdatedDate": "2025-11-24T22:23:08.853Z"
+    }
+  ],
+  "attributes": {
+    "ghs": [
+      {
+        "classification": [
+          {
+            "class": "amzn_specific_no_label_with_warning"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "base": [
+      {
+        "material": [
+          {
+            "value": "Beech Wood",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bulb": [
+      {
+        "base": [
+          {
+            "value": "e26_medium"
+          }
+        ],
+        "shape_size": [
+          {
+            "value": "a19"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "size": [
+      {
+        "value": "Standard, 4.7 inch",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "cable": [
+      {
+        "length": [
+          {
+            "unit": "inches",
+            "decimal_value": 4.7
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "color": [
+      {
+        "value": "Rose Pink Stand",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER",
+        "standardized_values": ["Multi"]
+      }
+    ],
+    "shade": [
+      {
+        "color": [
+          {
+            "value": "Multicolor",
+            "language_tag": "en_US"
+          }
+        ],
+        "material": [
+          {
+            "value": "Plastic",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Modern",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "theme": [
+      {
+        "value": "Teen",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "hazmat": [
+      {
+        "value": "UN38.3",
+        "aspect": "united_nations_regulatory_id",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "battery": [
+      {
+        "weight": [
+          {
+            "unit": "grams",
+            "value": 15.6
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER",
+        "cell_composition": [
+          {
+            "value": "lithium_ion"
+          }
+        ]
+      }
+    ],
+    "pattern": [
+      {
+        "value": "Galaxy Lamp",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "voltage": [
+      {
+        "unit": "volts",
+        "value": 5,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "wattage": [
+      {
+        "unit": "watts",
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "material": [
+      {
+        "value": "Plastic",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Mind-Glowing Galaxy Moon Lamp with Multi Colors, Touch/Remote, Pink Stand - Teen Girl Room Decor, Trendy Stuff - Birthday Gift for 6-12 Year Old Teenage Girl - Cool Night Light for Kids (4.7 inch)",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "lamp_type": [
+      {
+        "value": "Kids Night Light, Mood Light, Desk Lamp, Table Lamp",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "room_type": [
+      {
+        "value": "Teen Girls Room",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Girls Bedroom",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "efficiency": [
+      {
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_shape": [
+      {
+        "value": "Circular",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "list_price": [
+      {
+        "value": 24.95,
+        "currency": "USD",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "unit_count": [
+      {
+        "type": {
+          "value": "Count",
+          "language_tag": "en_US"
+        },
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "finish_type": [
+      {
+        "value": "Moon Craters",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "is_cordless": [
+      {
+        "value": true,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "part_number": [
+      {
+        "value": "ML 12 RC",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "switch_type": [
+      {
+        "value": "Touch",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "unspsc_code": [
+      {
+        "value": "39111500",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bullet_point": [
+      {
+        "value": "Experience Cosmic Magic at Home: Transform any room into a starlit galaxy with our Galaxy Lamp, creating an immersive, celestial ambiance that sparks the imagination. Available in sizes from 4.7\" to 8.0\", find the perfect fit for your space and control it your way—touch or remote.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Illuminate Your Adventures: Light up the fun with our Galaxy Lamp—perfect for reading, relaxing, or just dreaming. The vibrant, customizable colors set the scene for any adventure, turning every moment into a celestial experience. Comfort in the Dark: Help your child feel secure at night with the Galaxy Lamp's soothing light.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Equipped with a multi-stage dimmer and auto-off timer, it ensures a peaceful sleep, easing the fear of the dark with its gentle, calming presence.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Perfect Gift for Dreamy Nights: Delight any girl with the Galaxy Lamp, an enchanting gift that turns bedrooms into cosmic retreats. Designed with care, it features cool-to-the-touch LEDs and a splinter-free wood stand available in honey brown or playful pink.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Superior Safety and Quality: Mind-Glowing stands out with safer, superior materials. Our lamps are BPA-free, feature long-lasting batteries, and come with a 4-year extended warranty, unlike others that may offer shorter life spans and less reliability.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "gift_options": [
+      {
+        "can_be_wrapped": true,
+        "marketplace_id": "ATVPDKIKX0DER",
+        "can_be_messaged": true
+      }
+    ],
+    "light_source": [
+      {
+        "type": [
+          {
+            "value": "LED",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "manufacturer": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "model_number": [
+      {
+        "value": "MG GL02 4.7in",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "is_waterproof": [
+      {
+        "value": "False",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "mounting_type": [
+      {
+        "value": "Tabletop",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "num_batteries": [
+      {
+        "type": "lithium_ion",
+        "quantity": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "control_method": [
+      {
+        "value": "remote",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "value": "pink desk accessories things for teen girls stuff moonlight space decor cute room essentials teenage girl room decor must haves tween girl room decor",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_dimensions": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "height": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "length": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "lighting_method": [
+      {
+        "value": "LED",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "lithium_battery": [
+      {
+        "weight": [
+          {
+            "unit": "grams",
+            "value": 0.24
+          }
+        ],
+        "packaging": [
+          {
+            "value": "batteries_contained_in_equipment"
+          }
+        ],
+        "energy_content": [
+          {
+            "unit": "watt_hours",
+            "value": 2.96
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_items": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "special_feature": [
+      {
+        "value": "Dimmable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Color Changing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Touch & Remote Control",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Rechargeable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Timer",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_pieces": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "installation_type": [
+      {
+        "value": "Nightstand, Tabletop",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "night-lights",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "power_source_type": [
+      {
+        "value": "Battery Powered",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "purchasable_offer": [
+      {
+        "end_at": {
+          "value": null
+        },
+        "audience": "ALL",
+        "currency": "USD",
+        "start_at": {
+          "value": "2024-04-17T09:02:44.594Z"
+        },
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 19.95
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER",
+        "minimum_seller_allowed_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 19.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "audience": "B2B",
+        "currency": "USD",
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 24.95
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER",
+        "quantity_discount_plan": [
+          {
+            "schedule": [
+              {
+                "levels": [
+                  {
+                    "value": 5,
+                    "lower_bound": 5
+                  },
+                  {
+                    "value": 10,
+                    "lower_bound": 10
+                  }
+                ],
+                "discount_type": "percent"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "batteries_included": [
+      {
+        "value": true,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "batteries_required": [
+      {
+        "value": true,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "max_order_quantity": [
+      {
+        "value": 50,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "included_components": [
+      {
+        "value": "Wooden Stand, Remote",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_weight": [
+      {
+        "unit": "pounds",
+        "value": 0.71,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "product_description": [
+      {
+        "value": "<p>Experience the universe from the comfort of your home with the Galaxy Moon Lamp, a unique night light that brings the cosmos to your bedside. This enchanting lamp is perfect for anyone looking to add a touch of celestial magic to their room.</p><p><b>Benefits:</b></p><p>Creates a soothing atmosphere, perfect for relaxation or bedtime.</p><p>Offers customizable mood settings with various light modes.</p><p>Enhances any room with beautiful, vibrant colors.<br></p><p><b>Features:</b></p><p><b>16 different color options</b> for personalized light settings.</p><p><b>Remote contro</b>l for easy adjustments from anywhere in the room.</p><p><b>Improved battery life</b> for extended enjoyment without frequent recharges.</p><p><b>Designed with safety in mind</b> to ensure peaceful nights without concerns.</p><p><b>Available in multiple sizes and two stylish stand colors:</b> chic light brown and playful pink.<br></p><p>This lamp isn't just a light; it's an experience, ideal for gifting or personalizing your bedroom, study, or living space. Explore the possibilities and let your space shine with personality and light. Discover more and let your imagination soar with the Galaxy Moon Lamp.</p>",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "indoor_outdoor_usage": [
+      {
+        "value": "indoor",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "warranty_description": [
+      {
+        "value": "1 + 3 Years Extended",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "safety_data_sheet_url": [
+      {
+        "value": "https://drive.google.com/file/d/1i6XOrt9VK8gC36MVqsCq2yvNs-tumJqS/view?usp=sharing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "water_resistance_level": [
+      {
+        "value": "not_water_resistant",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_depth_width_height": [
+      {
+        "depth": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "width": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "height": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_dimensions": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": 5.3
+        },
+        "height": {
+          "unit": "inches",
+          "value": 5.61
+        },
+        "length": {
+          "unit": "inches",
+          "value": 5.27
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "merchant_shipping_group": [
+      {
+        "value": "legacy-template-id",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_light_sources": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "fulfillment_availability": [
+      {
+        "fulfillment_channel_code": "AMAZON_NA"
+      }
+    ],
+    "product_site_launch_date": [
+      {
+        "value": "2024-04-17T09:15:07.160Z",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81zb2R+tx4L.jpg"
+      }
+    ],
+    "number_of_lithium_ion_cells": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "recommended_uses_for_product": [
+      {
+        "value": "Decoration",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "swatch_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/31YCWeQi8gL.jpg"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81bYp4fRMrL.jpg"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/91Nj+LMRjbL.jpg"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81yA-naIPJL.jpg"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81f4gSkPJjL.jpg"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81bQcUqR1nL.jpg"
+      }
+    ],
+    "supplier_declared_dg_hz_regulation": [
+      {
+        "value": "transportation",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "storage",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "waste",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "externally_assigned_product_identifier": [
+      {
+        "type": "upc",
+        "value": "198168943236",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ]
+  },
+  "productTypes": [
+    {
+      "productType": "LAMP",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "catalogSummary": [
+    {
+      "size": "Standard, 4.7 inch",
+      "brand": "Mind-Glowing",
+      "color": "Rose Pink Stand",
+      "style": "Modern",
+      "itemName": "Mind-Glowing Galaxy Moon Lamp with Multi Colors, Touch/Remote, Pink Stand - Teen Girl Room Decor, Trendy Stuff - Birthday Gift for 6-12 Year Old Teenage Girl - Cool Night Light for Kids (4.7 inch)",
+      "partNumber": "MG GL02 4.7in",
+      "autographed": false,
+      "memorabilia": false,
+      "modelNumber": "MG GL02 4.7in",
+      "adultProduct": false,
+      "manufacturer": "Mind-Glowing",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "tradeInEligible": false,
+      "itemClassification": "BASE_PRODUCT",
+      "websiteDisplayGroup": "lighting_display_on_website",
+      "browseClassification": {
+        "displayName": "Night Lights",
+        "classificationId": "3736651"
+      },
+      "websiteDisplayGroupName": "Lighting"
+    }
+  ],
+  "listingAttributes": {
+    "ghs": [
+      {
+        "classification": [
+          {
+            "class": "amzn_specific_no_label_with_warning"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "base": [
+      {
+        "material": [
+          {
+            "value": "Beech Wood",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "size": [
+      {
+        "value": "Standard, 4.7 inch",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "color": [
+      {
+        "value": "Rose Pink Stand",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER",
+        "standardized_values": ["Multi"]
+      }
+    ],
+    "shade": [
+      {
+        "color": [
+          {
+            "value": "Multicolor",
+            "language_tag": "en_US"
+          }
+        ],
+        "material": [
+          {
+            "value": "Plastic",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Modern",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "hazmat": [
+      {
+        "value": "UN38.3",
+        "aspect": "united_nations_regulatory_id",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "battery": [
+      {
+        "weight": [
+          {
+            "unit": "grams",
+            "value": 15.6
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER",
+        "cell_composition": [
+          {
+            "value": "lithium_ion"
+          }
+        ]
+      }
+    ],
+    "pattern": [
+      {
+        "value": "Galaxy Lamp",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "voltage": [
+      {
+        "unit": "volts",
+        "value": 5,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "wattage": [
+      {
+        "unit": "watts",
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "material": [
+      {
+        "value": "Plastic",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Mind-Glowing Galaxy Moon Lamp with Multi Colors, Touch/Remote, Pink Stand - Teen Girl Room Decor, Trendy Stuff - Birthday Gift for 6-12 Year Old Teenage Girl - Cool Night Light for Kids (4.7 inch)",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "lamp_type": [
+      {
+        "value": "Kids Night Light, Mood Light, Desk Lamp, Table Lamp",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "room_type": [
+      {
+        "value": "Teen Girls Room",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Girls Bedroom",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_shape": [
+      {
+        "value": "Circular",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "list_price": [
+      {
+        "value": 24.95,
+        "currency": "USD",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "finish_type": [
+      {
+        "value": "Moon Craters",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "part_number": [
+      {
+        "value": "ML 12 RC",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "switch_type": [
+      {
+        "value": "Touch",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bullet_point": [
+      {
+        "value": "Experience Cosmic Magic at Home: Transform any room into a starlit galaxy with our Galaxy Lamp, creating an immersive, celestial ambiance that sparks the imagination. Available in sizes from 4.7\" to 8.0\", find the perfect fit for your space and control it your way—touch or remote.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Illuminate Your Adventures: Light up the fun with our Galaxy Lamp—perfect for reading, relaxing, or just dreaming. The vibrant, customizable colors set the scene for any adventure, turning every moment into a celestial experience. Comfort in the Dark: Help your child feel secure at night with the Galaxy Lamp's soothing light.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Equipped with a multi-stage dimmer and auto-off timer, it ensures a peaceful sleep, easing the fear of the dark with its gentle, calming presence.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Perfect Gift for Dreamy Nights: Delight any girl with the Galaxy Lamp, an enchanting gift that turns bedrooms into cosmic retreats. Designed with care, it features cool-to-the-touch LEDs and a splinter-free wood stand available in honey brown or playful pink.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Superior Safety and Quality: Mind-Glowing stands out with safer, superior materials. Our lamps are BPA-free, feature long-lasting batteries, and come with a 4-year extended warranty, unlike others that may offer shorter life spans and less reliability.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "gift_options": [
+      {
+        "can_be_wrapped": true,
+        "marketplace_id": "ATVPDKIKX0DER",
+        "can_be_messaged": true
+      }
+    ],
+    "light_source": [
+      {
+        "type": [
+          {
+            "value": "LED",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "manufacturer": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "model_number": [
+      {
+        "value": "MG GL02 4.7in",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "num_batteries": [
+      {
+        "type": "lithium_ion",
+        "quantity": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "control_method": [
+      {
+        "value": "remote",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "value": "pink desk accessories things for teen girls stuff moonlight space decor cute room essentials teenage girl room decor must haves tween girl room decor",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "lithium_battery": [
+      {
+        "weight": [
+          {
+            "unit": "grams",
+            "value": 0.24
+          }
+        ],
+        "packaging": [
+          {
+            "value": "batteries_contained_in_equipment"
+          }
+        ],
+        "energy_content": [
+          {
+            "unit": "watt_hours",
+            "value": 2.96
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "special_feature": [
+      {
+        "value": "Dimmable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Color Changing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Touch & Remote Control",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Rechargeable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Timer",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "installation_type": [
+      {
+        "value": "Nightstand, Tabletop",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "night-lights",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "power_source_type": [
+      {
+        "value": "Battery Powered",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "purchasable_offer": [
+      {
+        "end_at": {
+          "value": null
+        },
+        "audience": "ALL",
+        "currency": "USD",
+        "start_at": {
+          "value": "2024-04-17T09:02:44.594Z"
+        },
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 19.95
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER",
+        "minimum_seller_allowed_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 19.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "audience": "B2B",
+        "currency": "USD",
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 24.95
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER",
+        "quantity_discount_plan": [
+          {
+            "schedule": [
+              {
+                "levels": [
+                  {
+                    "value": 5,
+                    "lower_bound": 5
+                  },
+                  {
+                    "value": 10,
+                    "lower_bound": 10
+                  }
+                ],
+                "discount_type": "percent"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "batteries_included": [
+      {
+        "value": true,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "batteries_required": [
+      {
+        "value": true,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "max_order_quantity": [
+      {
+        "value": 50,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "included_components": [
+      {
+        "value": "Wooden Stand, Remote",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_weight": [
+      {
+        "unit": "pounds",
+        "value": 0.71,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "product_description": [
+      {
+        "value": "<p>Experience the universe from the comfort of your home with the Galaxy Moon Lamp, a unique night light that brings the cosmos to your bedside. This enchanting lamp is perfect for anyone looking to add a touch of celestial magic to their room.</p><p><b>Benefits:</b></p><p>Creates a soothing atmosphere, perfect for relaxation or bedtime.</p><p>Offers customizable mood settings with various light modes.</p><p>Enhances any room with beautiful, vibrant colors.<br></p><p><b>Features:</b></p><p><b>16 different color options</b> for personalized light settings.</p><p><b>Remote contro</b>l for easy adjustments from anywhere in the room.</p><p><b>Improved battery life</b> for extended enjoyment without frequent recharges.</p><p><b>Designed with safety in mind</b> to ensure peaceful nights without concerns.</p><p><b>Available in multiple sizes and two stylish stand colors:</b> chic light brown and playful pink.<br></p><p>This lamp isn't just a light; it's an experience, ideal for gifting or personalizing your bedroom, study, or living space. Explore the possibilities and let your space shine with personality and light. Discover more and let your imagination soar with the Galaxy Moon Lamp.</p>",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "warranty_description": [
+      {
+        "value": "1 + 3 Years Extended",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "safety_data_sheet_url": [
+      {
+        "value": "https://drive.google.com/file/d/1i6XOrt9VK8gC36MVqsCq2yvNs-tumJqS/view?usp=sharing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_depth_width_height": [
+      {
+        "depth": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "width": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "height": {
+          "unit": "inches",
+          "value": 4.7
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_dimensions": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": 5.3
+        },
+        "height": {
+          "unit": "inches",
+          "value": 5.61
+        },
+        "length": {
+          "unit": "inches",
+          "value": 5.27
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "merchant_shipping_group": [
+      {
+        "value": "legacy-template-id",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "fulfillment_availability": [
+      {
+        "fulfillment_channel_code": "AMAZON_NA"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81zb2R+tx4L.jpg"
+      }
+    ],
+    "number_of_lithium_ion_cells": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "swatch_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/31YCWeQi8gL.jpg"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81bYp4fRMrL.jpg"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/91Nj+LMRjbL.jpg"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81yA-naIPJL.jpg"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81f4gSkPJjL.jpg"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81bQcUqR1nL.jpg"
+      }
+    ],
+    "supplier_declared_dg_hz_regulation": [
+      {
+        "value": "transportation",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "storage",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "waste",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "externally_assigned_product_identifier": [
+      {
+        "type": "upc",
+        "value": "198168943236",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ]
+  },
+  "catalogRelationships": [
+    {
+      "marketplaceId": "ATVPDKIKX0DER",
+      "relationships": []
+    }
+  ],
+  "listingRelationships": [],
+  "fulfillmentAvailability": [
+    {
+      "fulfillmentChannelCode": "AMAZON_NA"
+    }
+  ],
+  "amazonChannelMarketplace": {
+    "id": "27",
+    "status": true,
+    "language": "en_US",
+    "userCurrency": {
+      "id": "13"
+    },
+    "amazonMarketplace": {
+      "id": 2,
+      "region": {
+        "id": 1,
+        "name": "North America",
+        "region": "na",
+        "endPoint": "https://sellingpartnerapi-na.amazon.com",
+        "createdAt": "2026-03-11T11:11:28.270Z",
+        "updatedAt": "2026-03-11T11:11:28.270Z"
+      },
+      "country": "United States of America",
+      "regionId": 1,
+      "countryCode": "US",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "images": [
+    {
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/4186X6PR3hL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/4186X6PR3hL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71vvVHHctVL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51MJkPtgYxL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51MJkPtgYxL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81Etty5wj9L.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51U0RiDHXrL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51U0RiDHXrL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81n70fkCENL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51lyxWqzgHL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51lyxWqzgHL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81ziBADwGhL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51dob3rQhKL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51dob3rQhKL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61YeqCn2JgL.jpg",
+          "width": 1000,
+          "height": 1000,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51PKRMjAtlL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51PKRMjAtlL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61OAG5NO4qL.jpg",
+          "width": 1000,
+          "height": 1000,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51kUf2TYCOL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51kUf2TYCOL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71FXaMXw4nL.jpg",
+          "width": 1000,
+          "height": 1000,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51xPatNmaSL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT07"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51xPatNmaSL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT07"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61mbTh-rI-L.jpg",
+          "width": 1000,
+          "height": 1000,
+          "variant": "PT07"
+        }
+      ],
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "issues": [
+    {
+      "code": "18448",
+      "message": "Your submission is missing few key attributes: special_feature, power_source_type. Missing these attributes do not block your product from being displayed on Amazon. However it impacts the overall quality of your listing.",
+      "severity": "WARNING",
+      "categories": ["MISSING_ATTRIBUTE"],
+      "attributeNames": ["power_source_type", "special_feature"]
+    }
+  ],
+  "offers": [
+    {
+      "price": {
+        "amount": "39.95",
+        "currency": "USD",
+        "currencyCode": "USD"
+      },
+      "audience": {
+        "value": "ALL",
+        "displayName": "Sell on Amazon"
+      },
+      "offerType": "B2C",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "summaries": [
+    {
+      "asin": "B0DJD6HY7V",
+      "status": ["DISCOVERABLE"],
+      "itemName": "Mind-Glowing Viral Vibes Room Set: Photo Clip String Lights & Astronaut Galaxy Projector",
+      "mainImage": {
+        "link": "https://m.media-amazon.com/images/I/4186X6PR3hL.jpg",
+        "width": 500,
+        "height": 500
+      },
+      "createdDate": "2024-10-02T09:29:16.738Z",
+      "productType": "STRING_LIGHT",
+      "conditionType": "new_new",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "lastUpdatedDate": "2024-10-03T07:10:07.055Z"
+    }
+  ],
+  "attributes": {
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Viral Vibes Room Set",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "theme": [
+      {
+        "value": "Space",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "binding": [
+      {
+        "value": "bundle",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Viral Vibes Room Set: Photo Clip String Lights & Astronaut Galaxy Projector",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "light_color": [
+      {
+        "value": "White",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "unspsc_code": [
+      {
+        "value": "39112000",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bullet_point": [
+      {
+        "value": "Personalized Display: Clip on warm white Photo Clip String Lights to showcase your favorite memories, artwork, or inspiring quotes, adding a personalized touch to your space.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Social Media Ready: Set the stage for your next viral post with the Astronaut Galaxy Projector, creating mesmerizing celestial patterns that are perfect for videos and photos.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Create Your Own Aesthetic: Mix and match the galaxy vibes with warm, cozy lights to design a bedroom that’s uniquely yours, making it a hit among friends.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "gift_options": [
+      {
+        "can_be_wrapped": false,
+        "marketplace_id": "ATVPDKIKX0DER",
+        "can_be_messaged": false
+      }
+    ],
+    "light_source": [
+      {
+        "type": [
+          {
+            "value": "LED",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "value": "gifts for teen girls 10 year old girl gifts for 10 year old girl birthday gifts for teenage girls 12 year old girl gifts for 12 year old girl 13 year old girl gifts for 13 year old girl gifts for 11 year old girls teenager girl gift ideas gifts for 8",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "string-lights",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "included_components": [
+      {
+        "value": "50 Warm White String Lights",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "product_description": [
+      {
+        "value": "Elevate your room’s cool factor with the Viral Vibes Room Set, designed for the trendsetting teen. This kit combines the visual spectacle of the Mind-Glowing Astronaut Galaxy Projector with the intimate glow of warm white Photo Clip String Lights, perfect for crafting a space that’s both Instagram-worthy and personally inspiring. Ideal for anyone looking to create a viral-worthy bedroom makeover.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "indoor_outdoor_usage": [
+      {
+        "value": "indoor",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "product_site_launch_date": [
+      {
+        "value": "2024-10-02T09:29:16.712Z",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71vvVHHctVL.jpg"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81Etty5wj9L.jpg"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81n70fkCENL.jpg"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81ziBADwGhL.jpg"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61YeqCn2JgL.jpg"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61OAG5NO4qL.jpg"
+      }
+    ],
+    "other_product_image_locator_6": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71FXaMXw4nL.jpg"
+      }
+    ],
+    "other_product_image_locator_7": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61mbTh-rI-L.jpg"
+      }
+    ]
+  },
+  "productTypes": [
+    {
+      "productType": "STRING_LIGHT",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "catalogSummary": [
+    {
+      "brand": "Mind-Glowing",
+      "style": "Viral Vibes Room Set",
+      "itemName": "Mind-Glowing Viral Vibes Room Set: Photo Clip String Lights & Astronaut Galaxy Projector",
+      "autographed": false,
+      "memorabilia": false,
+      "adultProduct": false,
+      "marketplaceId": "ATVPDKIKX0DER",
+      "tradeInEligible": false,
+      "itemClassification": "PRODUCT_BUNDLE",
+      "websiteDisplayGroup": "home_improvement_display_on_website",
+      "browseClassification": {
+        "displayName": "Indoor String Lights",
+        "classificationId": "15704871"
+      },
+      "websiteDisplayGroupName": "Home Improvement"
+    }
+  ],
+  "listingAttributes": {
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Viral Vibes Room Set",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "binding": [
+      {
+        "value": "bundle",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Viral Vibes Room Set: Photo Clip String Lights & Astronaut Galaxy Projector",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bullet_point": [
+      {
+        "value": "Personalized Display: Clip on warm white Photo Clip String Lights to showcase your favorite memories, artwork, or inspiring quotes, adding a personalized touch to your space.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Social Media Ready: Set the stage for your next viral post with the Astronaut Galaxy Projector, creating mesmerizing celestial patterns that are perfect for videos and photos.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Create Your Own Aesthetic: Mix and match the galaxy vibes with warm, cozy lights to design a bedroom that’s uniquely yours, making it a hit among friends.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "gift_options": [
+      {
+        "can_be_wrapped": false,
+        "marketplace_id": "ATVPDKIKX0DER",
+        "can_be_messaged": false
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "value": "gifts for teen girls 10 year old girl gifts for 10 year old girl birthday gifts for teenage girls 12 year old girl gifts for 12 year old girl 13 year old girl gifts for 13 year old girl gifts for 11 year old girls teenager girl gift ideas gifts for 8",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "string-lights",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "product_description": [
+      {
+        "value": "Elevate your room’s cool factor with the Viral Vibes Room Set, designed for the trendsetting teen. This kit combines the visual spectacle of the Mind-Glowing Astronaut Galaxy Projector with the intimate glow of warm white Photo Clip String Lights, perfect for crafting a space that’s both Instagram-worthy and personally inspiring. Ideal for anyone looking to create a viral-worthy bedroom makeover.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71vvVHHctVL.jpg"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81Etty5wj9L.jpg"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81n70fkCENL.jpg"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81ziBADwGhL.jpg"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61YeqCn2JgL.jpg"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61OAG5NO4qL.jpg"
+      }
+    ],
+    "other_product_image_locator_6": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71FXaMXw4nL.jpg"
+      }
+    ],
+    "other_product_image_locator_7": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61mbTh-rI-L.jpg"
+      }
+    ]
+  },
+  "catalogRelationships": [
+    {
+      "marketplaceId": "ATVPDKIKX0DER",
+      "relationships": []
+    }
+  ],
+  "listingRelationships": [],
+  "fulfillmentAvailability": [],
+  "amazonChannelMarketplace": {
+    "id": "27",
+    "status": true,
+    "language": "en_US",
+    "userCurrency": {
+      "id": "13"
+    },
+    "amazonMarketplace": {
+      "id": 2,
+      "region": {
+        "id": 1,
+        "name": "North America",
+        "region": "na",
+        "endPoint": "https://sellingpartnerapi-na.amazon.com",
+        "createdAt": "2026-03-11T11:11:28.270Z",
+        "updatedAt": "2026-03-11T11:11:28.270Z"
+      },
+      "country": "United States of America",
+      "regionId": 1,
+      "countryCode": "US",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  }
+}

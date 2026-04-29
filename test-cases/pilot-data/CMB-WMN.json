@@ -1,0 +1,965 @@
+{
+  "images": [
+    {
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/41IklfpSAGL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41IklfpSAGL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/717naDnz1ZL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/515VOcw8wkL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/515VOcw8wkL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/716LQ-NwRnL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41wUuU79U1L.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41wUuU79U1L._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71zGbesnLsL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51XqG9J91EL.jpg",
+          "width": 500,
+          "height": 434,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51XqG9J91EL._SL75_.jpg",
+          "width": 75,
+          "height": 65,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71ITJvjHxUL.jpg",
+          "width": 1440,
+          "height": 1249,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41V1Gb-Gq-L.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41V1Gb-Gq-L._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81mZbgsfU9L.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51F1Wdl99HL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51F1Wdl99HL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81-XA45Q6+L.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41EwTXUf7fL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41EwTXUf7fL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61-gKWTXm6L.jpg",
+          "width": 1080,
+          "height": 1080,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41aO1jXK2tL.jpg",
+          "width": 500,
+          "height": 333,
+          "variant": "PT07"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41aO1jXK2tL._SL75_.jpg",
+          "width": 75,
+          "height": 50,
+          "variant": "PT07"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61xZdPfuODL.jpg",
+          "width": 2000,
+          "height": 1333,
+          "variant": "PT07"
+        }
+      ],
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "issues": [
+    {
+      "code": "18448",
+      "message": "Your submission is missing few key attributes: frame.material. Missing these attributes do not block your product from being displayed on Amazon. However it impacts the overall quality of your listing.",
+      "severity": "WARNING",
+      "categories": ["MISSING_ATTRIBUTE"],
+      "attributeNames": ["frame"]
+    }
+  ],
+  "offers": [
+    {
+      "price": {
+        "amount": "14.95",
+        "currency": "USD",
+        "currencyCode": "USD"
+      },
+      "audience": {
+        "value": "ALL",
+        "displayName": "Sell on Amazon"
+      },
+      "offerType": "B2C",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "summaries": [
+    {
+      "asin": "B09C5KHCBB",
+      "fnSku": "B09C5KHCBB",
+      "status": ["DISCOVERABLE"],
+      "itemName": "Compact Pocket Mirror Positive Quote & String Bracelet for Women, Birthday Gifts for Mom, Daughter, Wife, Sister - Small Personalized Gift Idea for Mother",
+      "mainImage": {
+        "link": "https://m.media-amazon.com/images/I/41IklfpSAGL.jpg",
+        "width": 500,
+        "height": 500
+      },
+      "createdDate": "2021-08-09T05:20:53.703Z",
+      "productType": "HOME_MIRROR",
+      "conditionType": "new_new",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "lastUpdatedDate": "2024-11-08T21:39:31.533Z"
+    }
+  ],
+  "attributes": {
+    "size": [
+      {
+        "value": "2.8\"L x 2.6\"W",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "color": [
+      {
+        "value": "Rose Gold",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Classic, Modern, Chic",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Compact Pocket Mirror Positive Quote & String Bracelet - Best Friend Gifts for Women, Birthday Gifts for Mom, Daughter, Wife, Sister - Small Personalized Gift Idea for Mother",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "room_type": [
+      {
+        "value": "Living Room",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_shape": [
+      {
+        "value": "Round",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "list_price": [
+      {
+        "value": "19.99",
+        "currency": "USD",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "Metal",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "finish_type": [
+      {
+        "value": "Polished",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_weight": [
+      {
+        "unit": "pounds",
+        "value": 0.02,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "part_number": [
+      {
+        "value": "CMB-1",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "unspsc_code": [
+      {
+        "value": "53131600",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bullet_point": [
+      {
+        "value": "💝 DAILY SELF-LOVE REMINDER - Channel her inner goddess with a unique gift set she can use everyday! The empowering quote \"Happiness looks gorgeous on you\" on our elegant compact mirror will spark her confidence & positivity. And because sometimes we all forget to believe, this pretty Wish bracelet on her wrist will remind her to dream big & make it happen.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "👑 DESIGNED FOR WOMEN, DESIGNED BY WOMEN - The set contains a gold-rose pocket mirror & a handmade Make A Wish Bracelet, wrapped in a pink marbled, birthday box. Credits go to Julia, our Co-founder! *Upcycling tip: The beautiful box can be used as a small jewelry box!",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "🎁 INSPIRATIONAL & USEFUL - Even a woman who has everything needs some positive self care motivation! An ideal present stuffer for your best friend, mom, sister, coworker, girlfriend, aunt or any female friend. Bridal shower, birthdays Valentine's Day, you name it! Check \"Contains a gift\" when adding to your cart for a personalized touch!",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "💕 \"MY BESTIE LOVED THE DESIGN!\" - The pocket mirror (6x7cm) features 1 magnifying & 1 regular mirror, has a classy rose gold finish, & a feel-good quote engraving. Each Wish bracelet is made of a fine one-size-fits-all string, a lucky heart charm & comes on a thoughtfully designed confetti-printed card. The extra-special packaging is ready for any occasion gifting.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "💯 ACTIONS OVER WORDS - We offer 24/7 superstar customer support. If you have a question or an issue, we will go miles to make it right. *Gift recipients can also contact us for help.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "gift_options": [
+      {
+        "can_be_wrapped": "true",
+        "marketplace_id": "ATVPDKIKX0DER",
+        "can_be_messaged": "true"
+      }
+    ],
+    "manufacturer": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "model_number": [
+      {
+        "value": "CWB-1",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "mounting_type": [
+      {
+        "value": "Wall Mount",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "value": "ideas gifts set under dollars woman who has everything anniversary gift for her mother present mini items for purse womens bestfriend valentine's day sister in law son regalos para mujer xmas secret santa female 50 25 20 cheap women's cool camping",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_dimensions": [
+      {
+        "width": {
+          "unit": "centimeters",
+          "value": 6
+        },
+        "height": {
+          "unit": "centimeters",
+          "value": 0.01
+        },
+        "length": {
+          "unit": "centimeters",
+          "value": 7
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_boxes": [
+      {
+        "value": "1",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_items": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "special_feature": [
+      {
+        "value": "Magnifying",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Portable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Foldable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Inspirational",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Gift Packaging",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_pieces": [
+      {
+        "value": 1,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "country_of_origin": [
+      {
+        "value": "CN",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_length_width": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": "2.56"
+        },
+        "length": {
+          "unit": "inches",
+          "value": "2.76"
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "personal-compact-and-travel-mirrors",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "purchasable_offer": [
+      {
+        "audience": "ALL",
+        "currency": "USD",
+        "start_at": {
+          "value": "2021-08-09T05:20:47.146Z"
+        },
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 14.95
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "batteries_included": [
+      {
+        "value": false,
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "batteries_required": [
+      {
+        "value": "false",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_weight": [
+      {
+        "unit": "pounds",
+        "value": "0.25",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "is_assembly_required": [
+      {
+        "value": "false",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_dimensions": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": "3.20"
+        },
+        "height": {
+          "unit": "inches",
+          "value": "0.90"
+        },
+        "length": {
+          "unit": "inches",
+          "value": "3.00"
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "merchant_shipping_group": [
+      {
+        "value": "legacy-template-id",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "fulfillment_availability": [
+      {
+        "fulfillment_channel_code": "AMAZON_NA"
+      }
+    ],
+    "product_site_launch_date": [
+      {
+        "value": "2021-08-09T05:20:47.146Z",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "cpsia_cautionary_statement": [
+      {
+        "value": "no_warning_applicable",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/717naDnz1ZL.jpg"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/716LQ-NwRnL.jpg"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71zGbesnLsL.jpg"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71ITJvjHxUL.jpg"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81mZbgsfU9L.jpg"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81-XA45Q6+L.jpg"
+      }
+    ],
+    "other_product_image_locator_6": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61-gKWTXm6L.jpg"
+      }
+    ],
+    "other_product_image_locator_7": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61xZdPfuODL.jpg"
+      }
+    ],
+    "supplier_declared_dg_hz_regulation": [
+      {
+        "value": "not_applicable",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "externally_assigned_product_identifier": [
+      {
+        "type": "upc",
+        "value": "041898976862",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ]
+  },
+  "productTypes": [
+    {
+      "productType": "HOME_MIRROR",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "catalogSummary": [
+    {
+      "size": "2.8\"L x 2.6\"W",
+      "brand": "Mind-Glowing",
+      "color": "Rose Gold",
+      "style": "Classic, Modern, Chic",
+      "itemName": "Compact Pocket Mirror Positive Quote & String Bracelet for Women, Birthday Gifts for Mom, Daughter, Wife, Sister - Small Personalized Gift Idea for Mother",
+      "partNumber": "CMB-1",
+      "autographed": false,
+      "memorabilia": false,
+      "modelNumber": "CWB-1",
+      "adultProduct": false,
+      "manufacturer": "Mind-Glowing",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "tradeInEligible": false,
+      "itemClassification": "BASE_PRODUCT",
+      "websiteDisplayGroup": "kitchen_display_on_website",
+      "browseClassification": {
+        "displayName": "Compact & Travel Mirrors",
+        "classificationId": "17738944011"
+      },
+      "websiteDisplayGroupName": "Kitchen"
+    }
+  ],
+  "listingAttributes": {
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "color": [
+      {
+        "value": "Rose Gold",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Classic, Modern, Chic",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Compact Pocket Mirror Positive Quote & String Bracelet - Best Friend Gifts for Women, Birthday Gifts for Mom, Daughter, Wife, Sister - Small Personalized Gift Idea for Mother",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_shape": [
+      {
+        "value": "Round",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "list_price": [
+      {
+        "value": "19.99",
+        "currency": "USD",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "Metal",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "finish_type": [
+      {
+        "value": "Polished",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "part_number": [
+      {
+        "value": "CMB-1",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "bullet_point": [
+      {
+        "value": "💝 DAILY SELF-LOVE REMINDER - Channel her inner goddess with a unique gift set she can use everyday! The empowering quote \"Happiness looks gorgeous on you\" on our elegant compact mirror will spark her confidence & positivity. And because sometimes we all forget to believe, this pretty Wish bracelet on her wrist will remind her to dream big & make it happen.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "👑 DESIGNED FOR WOMEN, DESIGNED BY WOMEN - The set contains a gold-rose pocket mirror & a handmade Make A Wish Bracelet, wrapped in a pink marbled, birthday box. Credits go to Julia, our Co-founder! *Upcycling tip: The beautiful box can be used as a small jewelry box!",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "🎁 INSPIRATIONAL & USEFUL - Even a woman who has everything needs some positive self care motivation! An ideal present stuffer for your best friend, mom, sister, coworker, girlfriend, aunt or any female friend. Bridal shower, birthdays Valentine's Day, you name it! Check \"Contains a gift\" when adding to your cart for a personalized touch!",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "💕 \"MY BESTIE LOVED THE DESIGN!\" - The pocket mirror (6x7cm) features 1 magnifying & 1 regular mirror, has a classy rose gold finish, & a feel-good quote engraving. Each Wish bracelet is made of a fine one-size-fits-all string, a lucky heart charm & comes on a thoughtfully designed confetti-printed card. The extra-special packaging is ready for any occasion gifting.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "💯 ACTIONS OVER WORDS - We offer 24/7 superstar customer support. If you have a question or an issue, we will go miles to make it right. *Gift recipients can also contact us for help.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "gift_options": [
+      {
+        "can_be_wrapped": "true",
+        "marketplace_id": "ATVPDKIKX0DER",
+        "can_be_messaged": "true"
+      }
+    ],
+    "manufacturer": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "value": "ideas gifts set under dollars woman who has everything anniversary gift for her mother present mini items for purse womens bestfriend valentine's day sister in law son regalos para mujer xmas secret santa female 50 25 20 cheap women's cool camping",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "number_of_boxes": [
+      {
+        "value": "1",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "special_feature": [
+      {
+        "value": "Magnifying",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Portable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Foldable",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Inspirational",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "Gift Packaging",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "country_of_origin": [
+      {
+        "value": "CN",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_length_width": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": "2.56"
+        },
+        "length": {
+          "unit": "inches",
+          "value": "2.76"
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "personal-compact-and-travel-mirrors",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "purchasable_offer": [
+      {
+        "audience": "ALL",
+        "currency": "USD",
+        "start_at": {
+          "value": "2021-08-09T05:20:47.146Z"
+        },
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 14.95
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "batteries_required": [
+      {
+        "value": "false",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_weight": [
+      {
+        "unit": "pounds",
+        "value": "0.25",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "is_assembly_required": [
+      {
+        "value": "false",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_package_dimensions": [
+      {
+        "width": {
+          "unit": "inches",
+          "value": "3.20"
+        },
+        "height": {
+          "unit": "inches",
+          "value": "0.90"
+        },
+        "length": {
+          "unit": "inches",
+          "value": "3.00"
+        },
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "merchant_shipping_group": [
+      {
+        "value": "legacy-template-id",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "fulfillment_availability": [
+      {
+        "fulfillment_channel_code": "AMAZON_NA"
+      }
+    ],
+    "product_site_launch_date": [
+      {
+        "value": "2021-08-09T05:20:47.146Z",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "cpsia_cautionary_statement": [
+      {
+        "value": "no_warning_applicable",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/717naDnz1ZL.jpg"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/716LQ-NwRnL.jpg"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71zGbesnLsL.jpg"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/71ITJvjHxUL.jpg"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81mZbgsfU9L.jpg"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/81-XA45Q6+L.jpg"
+      }
+    ],
+    "other_product_image_locator_6": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61-gKWTXm6L.jpg"
+      }
+    ],
+    "other_product_image_locator_7": [
+      {
+        "marketplace_id": "ATVPDKIKX0DER",
+        "media_location": "https://m.media-amazon.com/images/I/61xZdPfuODL.jpg"
+      }
+    ],
+    "supplier_declared_dg_hz_regulation": [
+      {
+        "value": "not_applicable",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "externally_assigned_product_identifier": [
+      {
+        "type": "upc",
+        "value": "041898976862",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ]
+  },
+  "catalogRelationships": [
+    {
+      "marketplaceId": "ATVPDKIKX0DER",
+      "relationships": []
+    }
+  ],
+  "listingRelationships": [],
+  "fulfillmentAvailability": [
+    {
+      "fulfillmentChannelCode": "AMAZON_NA"
+    }
+  ],
+  "amazonChannelMarketplace": {
+    "id": "27",
+    "status": true,
+    "language": "en_US",
+    "userCurrency": {
+      "id": "13"
+    },
+    "amazonMarketplace": {
+      "id": 2,
+      "region": {
+        "id": 1,
+        "name": "North America",
+        "region": "na",
+        "endPoint": "https://sellingpartnerapi-na.amazon.com",
+        "createdAt": "2026-03-11T11:11:28.270Z",
+        "updatedAt": "2026-03-11T11:11:28.270Z"
+      },
+      "country": "United States of America",
+      "regionId": 1,
+      "countryCode": "US",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  }
+}

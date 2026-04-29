@@ -1,0 +1,341 @@
+{
+  "images": [
+    {
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/513Wn3gzYDL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/513Wn3gzYDL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81aZThmjiOL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51MJkPtgYxL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51MJkPtgYxL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81Etty5wj9L.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51U0RiDHXrL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51U0RiDHXrL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81n70fkCENL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51lyxWqzgHL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51lyxWqzgHL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81ziBADwGhL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51XfxYqTfUL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51XfxYqTfUL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/815puRgUvsL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51HWryTcg1L.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51HWryTcg1L._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81JP+ATA0PL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51mLmMs7LnL.jpg",
+          "width": 500,
+          "height": 500,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51mLmMs7LnL._SL75_.jpg",
+          "width": 75,
+          "height": 75,
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81Wr8VbCCpL.jpg",
+          "width": 2000,
+          "height": 2000,
+          "variant": "PT06"
+        }
+      ],
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "issues": [],
+  "offers": [],
+  "summaries": [
+    {
+      "brand": "Mind-Glowing",
+      "style": "Modern",
+      "itemName": "Mind-Glowing Photo Clip String Lights",
+      "autographed": false,
+      "memorabilia": false,
+      "adultProduct": false,
+      "manufacturer": "Mind-Glowing",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "tradeInEligible": false,
+      "itemClassification": "VARIATION_PARENT",
+      "websiteDisplayGroup": "lighting_display_on_website",
+      "browseClassification": {
+        "displayName": "Indoor String Lights",
+        "classificationId": "15704871"
+      },
+      "websiteDisplayGroupName": "Lighting"
+    }
+  ],
+  "attributes": {
+    "brand": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "style": [
+      {
+        "value": "Modern",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "theme": [
+      {
+        "value": "Fairy Lights",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "material": [
+      {
+        "value": "Copper",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Mind-Glowing Photo Clip String Lights",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "light_source": [
+      {
+        "type": [
+          {
+            "value": "LED",
+            "language_tag": "en_US"
+          }
+        ],
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "manufacturer": [
+      {
+        "value": "Mind-Glowing",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "occasion_type": [
+      {
+        "value": "Back To School, Christmas, Easter, Birthday",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "control_method": [
+      {
+        "value": "remote",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "special_feature": [
+      {
+        "value": "Timer",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      },
+      {
+        "value": "8 Twinkle Modes",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "variation_theme": [
+      {
+        "name": "COLOR/SIZE",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "item_type_keyword": [
+      {
+        "value": "string-lights",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "indoor_outdoor_usage": [
+      {
+        "value": "indoor",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "warranty_description": [
+      {
+        "value": "1 + 3 years extended.",
+        "language_tag": "en_US",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ],
+    "product_site_launch_date": [
+      {
+        "value": "2024-06-21T17:15:37.499Z",
+        "marketplace_id": "ATVPDKIKX0DER"
+      }
+    ]
+  },
+  "productTypes": [
+    {
+      "productType": "STRING_LIGHT",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  ],
+  "catalogSummary": [
+    {
+      "brand": "Mind-Glowing",
+      "style": "Modern",
+      "itemName": "Mind-Glowing Photo Clip String Lights",
+      "autographed": false,
+      "memorabilia": false,
+      "adultProduct": false,
+      "manufacturer": "Mind-Glowing",
+      "marketplaceId": "ATVPDKIKX0DER",
+      "tradeInEligible": false,
+      "itemClassification": "VARIATION_PARENT",
+      "websiteDisplayGroup": "lighting_display_on_website",
+      "browseClassification": {
+        "displayName": "Indoor String Lights",
+        "classificationId": "15704871"
+      },
+      "websiteDisplayGroupName": "Lighting"
+    }
+  ],
+  "listingAttributes": {},
+  "catalogRelationships": [
+    {
+      "marketplaceId": "ATVPDKIKX0DER",
+      "relationships": [
+        {
+          "type": "VARIATION",
+          "childAsins": [
+            "B07GXTRFQ9",
+            "B08JZ5QN78",
+            "B0D1YG4Y72",
+            "B0BYKFG773",
+            "B0D1YDL15R"
+          ],
+          "variationTheme": {
+            "theme": "COLOR_NAME/SIZE_NAME",
+            "attributes": ["color", "size"]
+          }
+        }
+      ]
+    }
+  ],
+  "listingRelationships": [],
+  "fulfillmentAvailability": [],
+  "amazonChannelMarketplace": {
+    "id": "27",
+    "status": true,
+    "language": "en_US",
+    "userCurrency": {
+      "id": "13"
+    },
+    "amazonMarketplace": {
+      "id": 2,
+      "region": {
+        "id": 1,
+        "name": "North America",
+        "region": "na",
+        "endPoint": "https://sellingpartnerapi-na.amazon.com",
+        "createdAt": "2026-03-11T11:11:28.270Z",
+        "updatedAt": "2026-03-11T11:11:28.270Z"
+      },
+      "country": "United States of America",
+      "regionId": 1,
+      "countryCode": "US",
+      "marketplaceId": "ATVPDKIKX0DER"
+    }
+  }
+}
