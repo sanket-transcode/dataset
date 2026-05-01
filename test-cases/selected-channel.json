@@ -1,0 +1,28 @@
+{
+  "channelData": {
+    "icon": "icon-1",
+    "label": "Master Catalog",
+    "value": "all",
+    "channelType": "MASTER"
+  },
+  "activeChannel": {
+    "label": "Master Channel",
+    "value": "all",
+    "icon": "icon-1",
+    "channelType": "MASTER"
+  },
+  "channelData1": {
+    "icon": "07",
+    "label": "EU - UK & DE",
+    "value": "316",
+    "channelType": "AMAZON",
+    "connectionStatus": "CONNECTED"
+  },
+  "activeChannel1": {
+    "label": "EU - UK & DE",
+    "value": "316",
+    "icon": "07",
+    "channelType": "AMAZON",
+    "connectionStatus": "CONNECTED"
+  }
+}

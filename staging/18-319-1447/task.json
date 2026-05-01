@@ -1,0 +1,2580 @@
+{
+  "channelId": "319",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-05-01T09:48:40.912Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 267,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 95
+  },
+  "productTracker": {
+    "123123": {
+      "hasErrors": false,
+      "productId": "10491",
+      "variantId": "35213",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "5524103": {
+      "hasErrors": false,
+      "productId": "10505",
+      "variantId": "35227",
+      "productName": "Resident Evil Requiem",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7896521": {
+      "hasErrors": false,
+      "productId": "10459",
+      "variantId": null,
+      "productName": "Citizen Men's Eco-Drive Weekender Avion Field Watch in Stainless Steel with Khaki Nylon Strap, Black Dial (Model: BM7550-01E)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7898520": {
+      "hasErrors": false,
+      "productId": "10501",
+      "variantId": "35223",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "skin-serum": {
+      "hasErrors": false,
+      "productId": "10443",
+      "variantId": null,
+      "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": false,
+      "productId": "10444",
+      "variantId": null,
+      "productName": "Dangle Golden Earrings for Classic Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit-2": {
+      "hasErrors": false,
+      "productId": "10445",
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "glue-gun-final-try-inport-sku": {
+      "hasErrors": false,
+      "productId": "10446",
+      "variantId": null,
+      "productName": "Gorilla Hot Glue Gun (Pack of 1) - Dual Temp Full Size Hot Glue Gun with Precision Nozzle, Easy Squeeze Trigger, and Enhanced Safety Features for DIY, Craft, Repairs, and More",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SKU-Cowboy-cap-with-images": {
+      "hasErrors": false,
+      "productId": "10447",
+      "variantId": null,
+      "productName": "Cowboy Cap",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "B0-8YOH-L1ED": {
+      "hasErrors": false,
+      "productId": "10448",
+      "variantId": null,
+      "productName": "dunia",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4V-TQBK-5JI3": {
+      "hasErrors": false,
+      "productId": "10449",
+      "variantId": null,
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "JX-8ODT-WYWA": {
+      "hasErrors": false,
+      "productId": "10450",
+      "variantId": null,
+      "productName": "Car Vinyl Decal Yellow",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "sku-t-shirt-b-1": {
+      "hasErrors": false,
+      "productId": "10451",
+      "variantId": null,
+      "productName": "T-Shirt-b Blue",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2J-BYFP-C4KH": {
+      "hasErrors": false,
+      "productId": "10452",
+      "variantId": null,
+      "productName": "White Snickers Without Any Stripes or Model",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RB-ECO-001": {
+      "hasErrors": false,
+      "productId": "10453",
+      "variantId": null,
+      "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GLS-01": {
+      "hasErrors": false,
+      "productId": "10454",
+      "variantId": null,
+      "productName": "Classic Unisex Sunglasses - UV400 Protection",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CLIP-CL-01": {
+      "hasErrors": false,
+      "productId": "10455",
+      "variantId": null,
+      "productName": "Elegant Hair Clip for Women - Secure Hold Fashion Accessory",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt": {
+      "hasErrors": false,
+      "productId": "10456",
+      "variantId": null,
+      "productName": "Unisex Heavy Cotton Tee Duplic Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SW-HB-001": {
+      "hasErrors": false,
+      "productId": "10457",
+      "variantId": null,
+      "productName": "Professional Hair Brush for All Hair Types",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EA-AS-01": {
+      "hasErrors": false,
+      "productId": "10458",
+      "variantId": null,
+      "productName": "Aretes colgantes tradicionales hechos a mano para mujeres",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4C-SWI8-MG3Y": {
+      "hasErrors": false,
+      "productId": "10460",
+      "variantId": null,
+      "productName": "Classic Cotton T-Shirt, Crew Neck, Short Sleeve, Relaxed Fit, Machine Washable",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": "10461",
+      "variantId": null,
+      "productName": "Bean Essence Serum – Snail Mucin Alternative for Glass Skin – Hydrating Glow Boost – Deeper Moisture Than Hyaluronic – Flawless Primer – Strengthens Skin Barrier – 1.01 fl.oz",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PG-LTKX-94L9": {
+      "hasErrors": false,
+      "productId": "10462",
+      "variantId": null,
+      "productName": "My Super Shirt Beige Black",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "donut-pan": {
+      "hasErrors": false,
+      "productId": "10463",
+      "variantId": null,
+      "productName": "GEEOOLLAH Nonstick Donut Pan Set – 2-Piece Bakeware with 6-Cavity Mini and 12-Cavity Standard Molds, Durable Carbon Steel, Scratch-Resistant, Even Heating",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": "10464",
+      "variantId": null,
+      "productName": "Highlighter Marker Pen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "party suit": {
+      "hasErrors": false,
+      "productId": "10465",
+      "variantId": null,
+      "productName": "2 piece party suit for men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "dark-chocolate": {
+      "hasErrors": false,
+      "productId": "10466",
+      "variantId": null,
+      "productName": "Premium Dark Chocolate Bar",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Premium White Eraser": {
+      "hasErrors": false,
+      "productId": "10467",
+      "variantId": null,
+      "productName": "Premium White Eraser for Pencils and Markers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": "10468",
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "electirc-toy-scooter": {
+      "hasErrors": false,
+      "productId": "10469",
+      "variantId": null,
+      "productName": "G2 Electric Kick Scooter",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "lunch-box": {
+      "hasErrors": false,
+      "productId": "10470",
+      "variantId": null,
+      "productName": "Insulated Lunch Box for Kids and Adults",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Ice-Cream-Maker": {
+      "hasErrors": false,
+      "productId": "10471",
+      "variantId": null,
+      "productName": "Premium Electric Ice Cream Maker",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "watch": {
+      "hasErrors": false,
+      "productId": "10472",
+      "variantId": null,
+      "productName": "Elegant Men's Luxury Automatic Watch - Stainless Steel, Sapphire Crystal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "nail-extension": {
+      "hasErrors": false,
+      "productId": "10473",
+      "variantId": null,
+      "productName": "Kit profesional de extensión de uñas",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mojito-glass": {
+      "hasErrors": false,
+      "productId": "10474",
+      "variantId": null,
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "1234567890123456789012345678901234567890": {
+      "hasErrors": false,
+      "productId": "10475",
+      "variantId": null,
+      "productName": "Melbify Leafy Mojito Glasses - Set of 4",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Classic White Ceramic Coffee Mug": {
+      "hasErrors": false,
+      "productId": "10476",
+      "variantId": null,
+      "productName": "Classic White Ceramic Coffee Mug",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": "10477",
+      "variantId": null,
+      "productName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Eyelashes": {
+      "hasErrors": false,
+      "productId": "10478",
+      "variantId": null,
+      "productName": "Premium False Eyelashes - Natural Look",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "eco-friendly-carry-beg": {
+      "hasErrors": false,
+      "productId": "10479",
+      "variantId": null,
+      "productName": "Eco-Friendly Reusable Shopping Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Portable Air Conditioner": {
+      "hasErrors": false,
+      "productId": "10480",
+      "variantId": null,
+      "productName": "Portable Air Conditioner - Efficient Cooling Solution",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Men's Short Sleeve Summer Shirt": {
+      "hasErrors": false,
+      "productId": "10481",
+      "variantId": null,
+      "productName": "Men's Short Sleeve Summer Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "brown-hoodie-for-men": {
+      "hasErrors": false,
+      "productId": "10482",
+      "variantId": null,
+      "productName": "Men's Brown Fleece Pullover Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99652036985": {
+      "hasErrors": false,
+      "productId": "10483",
+      "variantId": null,
+      "productName": "Hlukana Vintage Hobnail Drinking Glasses Set of 8, 12 oz Highball Glasses & 10 oz Cocktail Glasses Set, Kitchen Water Glasses Cup, Bar Tumbler Glassware Set for Beer, Juice, Cocktail, Whiskey, Milk",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "laptopstand-01": {
+      "hasErrors": false,
+      "productId": "10484",
+      "variantId": null,
+      "productName": "FlexiRise Laptop Stand",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "men's-shirt": {
+      "hasErrors": false,
+      "productId": "10485",
+      "variantId": "35207",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20950906538424039047": {
+      "hasErrors": false,
+      "productId": "10486",
+      "variantId": "35208",
+      "productName": "The Giant Leap Unisex Heavy Cotton Tee",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "14444053310336374819": {
+      "hasErrors": false,
+      "productId": "10487",
+      "variantId": "35209",
+      "productName": "Cute Owl Insulated Travel Mug, 40oz, Coffee Cup, Gift for Her, Travel Tumbler, Back to School, Owl Lover",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32242345023357025715": {
+      "hasErrors": false,
+      "productId": "10488",
+      "variantId": "35210",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "74599968013643921960": {
+      "hasErrors": false,
+      "productId": "10489",
+      "variantId": "35211",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16661825059693052327": {
+      "hasErrors": false,
+      "productId": "10490",
+      "variantId": "35212",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "fsdfdsghjjjjjjjjgh current": {
+      "hasErrors": false,
+      "productId": "10492",
+      "variantId": "35214",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "94292994261163396712": {
+      "hasErrors": false,
+      "productId": "10493",
+      "variantId": "35215",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22039449774746896506": {
+      "hasErrors": false,
+      "productId": "10494",
+      "variantId": "35216",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20005483504707723209": {
+      "hasErrors": false,
+      "productId": "10495",
+      "variantId": "35217",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "78030572374848186482": {
+      "hasErrors": false,
+      "productId": "10496",
+      "variantId": "35218",
+      "productName": "Generic Love Phone Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "86116983703179682472": {
+      "hasErrors": false,
+      "productId": "10497",
+      "variantId": "35219",
+      "productName": "Love Phone Protective Cases",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30979367391677307111": {
+      "hasErrors": false,
+      "productId": "10498",
+      "variantId": "35220",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67cec2c032fb796da203d29f": {
+      "hasErrors": false,
+      "productId": "10499",
+      "variantId": "35221",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "66fbb09992ead167af0148a3": {
+      "hasErrors": false,
+      "productId": "10500",
+      "variantId": "35222",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "2105236520-V1": {
+      "hasErrors": false,
+      "productId": "10502",
+      "variantId": "35224",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "784585741201 Black": {
+      "hasErrors": false,
+      "productId": "10503",
+      "variantId": "35225",
+      "productName": "Modern Matte Black Ceramic Vase - Large Decorative Flower Vase",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "VD-GM-CNL-V2": {
+      "hasErrors": false,
+      "productId": "10504",
+      "variantId": "35226",
+      "productName": "RMOKA Retro Gaming Game Green",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "shirt for women": {
+      "hasErrors": false,
+      "productId": "10506",
+      "variantId": "35228",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "duck-night-lamp": {
+      "hasErrors": false,
+      "productId": "10507",
+      "variantId": "35229",
+      "productName": "MUID Original Authentic Silicone Night Light, Nursery Squishy Lamp, Silicone Night Light for Breastfeeding, Cute Animal Bedside Lamp for Baby Kids Teens, Soft Nightlight with Touch Sensor for Bedroom",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "disney-necklace": {
+      "hasErrors": false,
+      "productId": "10508",
+      "variantId": "35230",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "wooden-bench": {
+      "hasErrors": false,
+      "productId": "10509",
+      "variantId": "35231",
+      "productName": "Vintage Noodle Bench",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "88520025-V2": {
+      "hasErrors": false,
+      "productId": "10510",
+      "variantId": "35232",
+      "productName": "Miracurl Professional Curl Machine",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "88520025-V1": {
+      "hasErrors": false,
+      "productId": "10510",
+      "variantId": "35233",
+      "productName": "Miracurl Professional Curl Machine",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25688997547984720320": {
+      "hasErrors": false,
+      "productId": "10511",
+      "variantId": "35234",
+      "productName": "car Vinil Decal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10284470610055147746": {
+      "hasErrors": false,
+      "productId": "10511",
+      "variantId": "35235",
+      "productName": "car Vinil Decal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CND-WRM-V1": {
+      "hasErrors": false,
+      "productId": "10512",
+      "variantId": "35236",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CND-WRM-V2": {
+      "hasErrors": false,
+      "productId": "10512",
+      "variantId": "35237",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case black": {
+      "hasErrors": false,
+      "productId": "10513",
+      "variantId": "35238",
+      "productName": "Love Heart Phone Case - Protective & Stylish",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Love phone case Pink": {
+      "hasErrors": false,
+      "productId": "10513",
+      "variantId": "35239",
+      "productName": "Love Heart Phone Case - Protective & Stylish",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "truck-toy-for-kid black": {
+      "hasErrors": false,
+      "productId": "10514",
+      "variantId": "35240",
+      "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "truck-toy-for-kid Yellow": {
+      "hasErrors": false,
+      "productId": "10514",
+      "variantId": "35241",
+      "productName": "Kids' Adventure Truck Toy - Durable and Safe for Toddlers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "6X-QO92-SR01": {
+      "hasErrors": false,
+      "productId": "10515",
+      "variantId": "35242",
+      "productName": "shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PU-LPQ9-PORQ": {
+      "hasErrors": false,
+      "productId": "10515",
+      "variantId": "35244",
+      "productName": "shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MJ-YYHC-WXTD": {
+      "hasErrors": false,
+      "productId": "10515",
+      "variantId": "35243",
+      "productName": "shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "VR-NE-6": {
+      "hasErrors": false,
+      "productId": "10516",
+      "variantId": "35245",
+      "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-54 5 White Gold": {
+      "hasErrors": false,
+      "productId": "10516",
+      "variantId": "35246",
+      "productName": "IGI Certified Lab Grown Diamond Engagement Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "tool-box-pencil-pen white": {
+      "hasErrors": false,
+      "productId": "10517",
+      "variantId": "35247",
+      "productName": "Desk Organizer Tool Box for Pens, Pencils, and Stationery",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "tool-box-pencil-pen Black": {
+      "hasErrors": false,
+      "productId": "10517",
+      "variantId": "35248",
+      "productName": "Desk Organizer Tool Box for Pens, Pencils, and Stationery",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MR-WH-97-V2": {
+      "hasErrors": false,
+      "productId": "10518",
+      "variantId": "35249",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MR-WH-97-V1": {
+      "hasErrors": false,
+      "productId": "10518",
+      "variantId": "35250",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22598520147852-V2": {
+      "hasErrors": false,
+      "productId": "10519",
+      "variantId": "35251",
+      "productName": "Homedics Tabletop Water Fountain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "22598520147852-V1": {
+      "hasErrors": false,
+      "productId": "10519",
+      "variantId": "35252",
+      "productName": "Homedics Tabletop Water Fountain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V2": {
+      "hasErrors": false,
+      "productId": "10520",
+      "variantId": "35253",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V1": {
+      "hasErrors": false,
+      "productId": "10520",
+      "variantId": "35254",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "69520145236-V3": {
+      "hasErrors": false,
+      "productId": "10520",
+      "variantId": "35255",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "785241036-V3": {
+      "hasErrors": false,
+      "productId": "10521",
+      "variantId": "35256",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25895874100-V2": {
+      "hasErrors": false,
+      "productId": "10521",
+      "variantId": "35257",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25895874100-V1": {
+      "hasErrors": false,
+      "productId": "10521",
+      "variantId": "35258",
+      "productName": "shinelab Circle Drop Dangle Earrings for Women Double Hoop Two-Tones Summer Earrings Geometric Statement Studs Hypoallergenic Fashion Jewelry",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-red": {
+      "hasErrors": false,
+      "productId": "10522",
+      "variantId": "35259",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-yellow": {
+      "hasErrors": false,
+      "productId": "10522",
+      "variantId": "35260",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "kid-hat-green": {
+      "hasErrors": false,
+      "productId": "10522",
+      "variantId": "35261",
+      "productName": "Classic Kids Hat, Adjustable Casual Headwear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "TD-MW8F-T718": {
+      "hasErrors": false,
+      "productId": "10523",
+      "variantId": "35262",
+      "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4B-D0D5-RPTL": {
+      "hasErrors": false,
+      "productId": "10523",
+      "variantId": "35263",
+      "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "IX-AF6R-F1TL": {
+      "hasErrors": false,
+      "productId": "10523",
+      "variantId": "35264",
+      "productName": "Water Bottle with Lid and Straw, 1.2L Stainless Steel Double Insulated Tumbler for Hot & Cold Drink",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V1": {
+      "hasErrors": false,
+      "productId": "10524",
+      "variantId": "35265",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V2": {
+      "hasErrors": false,
+      "productId": "10524",
+      "variantId": "35266",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "DM-RG-1-V4": {
+      "hasErrors": false,
+      "productId": "10524",
+      "variantId": "35267",
+      "productName": "Elegant Diamond Solitaire Ring",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V1": {
+      "hasErrors": false,
+      "productId": "10525",
+      "variantId": "35268",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V2": {
+      "hasErrors": false,
+      "productId": "10525",
+      "variantId": "35269",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "mini-claw-clips-V3": {
+      "hasErrors": false,
+      "productId": "10525",
+      "variantId": "35270",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26014986315503632044": {
+      "hasErrors": false,
+      "productId": "10526",
+      "variantId": "35271",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "889652036985": {
+      "hasErrors": false,
+      "productId": "10526",
+      "variantId": "35272",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "55252223219787294959": {
+      "hasErrors": false,
+      "productId": "10526",
+      "variantId": "35273",
+      "productName": "Whimsical Monkey Ceramic Mug, Colorful Animal Coffee Cup, Fun Gift for Kids, Playful Kitchen Decor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V2": {
+      "hasErrors": false,
+      "productId": "10527",
+      "variantId": "35274",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V1": {
+      "hasErrors": false,
+      "productId": "10527",
+      "variantId": "35275",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "PT-TY-01-V3": {
+      "hasErrors": false,
+      "productId": "10527",
+      "variantId": "35276",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "28864020670788674751": {
+      "hasErrors": false,
+      "productId": "10528",
+      "variantId": "35277",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "67762835364228201899": {
+      "hasErrors": false,
+      "productId": "10528",
+      "variantId": "35279",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17413368743738459909": {
+      "hasErrors": false,
+      "productId": "10528",
+      "variantId": "35278",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26485797266076578247": {
+      "hasErrors": false,
+      "productId": "10528",
+      "variantId": "35280",
+      "productName": "Tough Love Phone Cases for iPhone15",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V3": {
+      "hasErrors": false,
+      "productId": "10529",
+      "variantId": "35281",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V4": {
+      "hasErrors": false,
+      "productId": "10529",
+      "variantId": "35282",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V1": {
+      "hasErrors": false,
+      "productId": "10529",
+      "variantId": "35283",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7895203685985203-V2": {
+      "hasErrors": false,
+      "productId": "10529",
+      "variantId": "35284",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V1": {
+      "hasErrors": false,
+      "productId": "10530",
+      "variantId": "35285",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V3": {
+      "hasErrors": false,
+      "productId": "10530",
+      "variantId": "35286",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V5": {
+      "hasErrors": false,
+      "productId": "10530",
+      "variantId": "35287",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SN-TP-01-V2": {
+      "hasErrors": false,
+      "productId": "10530",
+      "variantId": "35288",
+      "productName": "Appassal Retro Skinny Rectangle Sunglasses for Men Women 90s Narrow Sunnies Vintage Thin Frame AP3740",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V4": {
+      "hasErrors": false,
+      "productId": "10531",
+      "variantId": "35289",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V1": {
+      "hasErrors": false,
+      "productId": "10531",
+      "variantId": "35290",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V3": {
+      "hasErrors": false,
+      "productId": "10531",
+      "variantId": "35291",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ST-CL-HT-V2": {
+      "hasErrors": false,
+      "productId": "10531",
+      "variantId": "35292",
+      "productName": "Travel steamer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V3": {
+      "hasErrors": false,
+      "productId": "10532",
+      "variantId": "35293",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V5": {
+      "hasErrors": false,
+      "productId": "10532",
+      "variantId": "35294",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V4": {
+      "hasErrors": false,
+      "productId": "10532",
+      "variantId": "35295",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V1": {
+      "hasErrors": false,
+      "productId": "10532",
+      "variantId": "35296",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8852036985201452-V2": {
+      "hasErrors": false,
+      "productId": "10532",
+      "variantId": "35297",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V3": {
+      "hasErrors": false,
+      "productId": "10533",
+      "variantId": "35298",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V2": {
+      "hasErrors": false,
+      "productId": "10533",
+      "variantId": "35299",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V1": {
+      "hasErrors": false,
+      "productId": "10533",
+      "variantId": "35300",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V4": {
+      "hasErrors": false,
+      "productId": "10533",
+      "variantId": "35301",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "225680023652-V5": {
+      "hasErrors": false,
+      "productId": "10533",
+      "variantId": "35302",
+      "productName": "Embroidered Fabric Wristlet Keychain, Wrist Key Chain Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16882243971564917605": {
+      "hasErrors": false,
+      "productId": "10534",
+      "variantId": "35303",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11282025598934436185": {
+      "hasErrors": false,
+      "productId": "10534",
+      "variantId": "35304",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11564966521275931191": {
+      "hasErrors": false,
+      "productId": "10534",
+      "variantId": "35305",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17639620771608013832": {
+      "hasErrors": false,
+      "productId": "10534",
+      "variantId": "35306",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25265057986674927056": {
+      "hasErrors": false,
+      "productId": "10534",
+      "variantId": "35307",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "59577357725225979542": {
+      "hasErrors": false,
+      "productId": "10534",
+      "variantId": "35308",
+      "productName": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V15": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35309",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V12": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35310",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V13": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35311",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V10": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35312",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V11": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35313",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V9": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35314",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V4": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35315",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V3": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35316",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V1": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35317",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "874521036-V2": {
+      "hasErrors": false,
+      "productId": "10535",
+      "variantId": "35318",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20274609654073601324": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35319",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20189624940225035247": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35320",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "21016692564692526584": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35321",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "23313714049244420750": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35322",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "20184699460263983544": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35323",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18210270667532577864": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35324",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26787049011141050616": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35325",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "18838576561447351297": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35326",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "17321890570654532224": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35327",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30396340252525416989": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35328",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "11584613081427148258": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35330",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "82290431363794330833": {
+      "hasErrors": false,
+      "productId": "10536",
+      "variantId": "35329",
+      "productName": "Biking Unisex Midweight T-Shirt, Made in US",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25097994841815565102": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35331",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "12807143591028729740": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35332",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26579877305424590073": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35340",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "30366969356370446492": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35339",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "12096201412803655612": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35338",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "32546307359318603982": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35337",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "42741322129000004924": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35336",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "24591406395137562223": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35334",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "39966659054258193988": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35335",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "25747656856860977137": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35333",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "26332062757315414125": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35343",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "10544520859559770735": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35344",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "76853120834457364302": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35345",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "16410027131999954160": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35342",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "99471520249339163797": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35341",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7859632058741": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35347",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "789585203698521": {
+      "hasErrors": false,
+      "productId": "10537",
+      "variantId": "35346",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}
