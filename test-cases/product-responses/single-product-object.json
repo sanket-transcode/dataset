@@ -1,0 +1,116 @@
+{
+  "product_id": "10443",
+  "internal_id": "PRD-210-10443",
+  "is_loading": true,
+  "score": "0",
+  "sync_in_progress": false,
+  "allow_stock_tracking": true,
+  "sku": "skin-serum",
+  "product_name": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+  "tags": [],
+  "variants": "0",
+  "product_variants": null,
+  "categories": null,
+  "readiness_value": "40.00",
+  "product_readiness_values": [
+    {
+      "languageCode": "en_CA",
+      "readinessValue": 40
+    }
+  ],
+  "primary_media": [
+    {
+      "fileName": "2d61fab0-4542-11f1-afc2-dfa1afbc67ef.jpg",
+      "filePath": "uploads/210/product/10443/",
+      "fileType": "JPG",
+      "sequence": 1,
+      "isMainImage": true,
+      "fileUniqueName": "2d61fab0-4542-11f1-afc2-dfa1afbc67ef.jpg"
+    },
+    {
+      "fileName": "19f33290-4543-11f1-afc2-dfa1afbc67ef.jpg",
+      "filePath": "uploads/210/product/10443/",
+      "fileType": "JPG",
+      "sequence": 3,
+      "isMainImage": false,
+      "fileUniqueName": "19f33290-4543-11f1-afc2-dfa1afbc67ef.jpg"
+    }
+  ],
+  "channels": [
+    {
+      "icon": "07",
+      "category": null,
+      "isLoading": false,
+      "channel_id": 319,
+      "sync_status": "SUCCESS",
+      "channel_name": "NA - ALL",
+      "channel_type": "AMAZON",
+      "marketplaces": [
+        {
+          "country": "Canada",
+          "syncStatus": "SUCCESS",
+          "countryCode": "CA",
+          "amazonMarketplaceId": 1
+        }
+      ],
+      "external_status": "Draft",
+      "sync_in_progress": false
+    }
+  ],
+  "external_status": "Draft",
+  "category": null,
+  "marketplaces": [
+    {
+      "asin": "B0DG1DQ2S7",
+      "isFba": false,
+      "price": null,
+      "country": "Canada",
+      "category": "Serums",
+      "condition": "New",
+      "isLoading": false,
+      "sale_price": null,
+      "searchable": ["DISCOVERABLE"],
+      "syncStatus": "SUCCESS",
+      "amazonStock": "0",
+      "countryCode": "CA",
+      "languageCode": "en_CA",
+      "variantCount": 0,
+      "sellableStatus": {
+        "subStatus": "",
+        "mainStatus": "MISSING_OFFER"
+      },
+      "syncInProgress": false,
+      "shippingTemplate": "Migrated Template",
+      "amazonMarketplaceId": 1,
+      "variantMarketplaces": [],
+      "channelMarketplaceId": 849,
+      "updatingMarketplaceData": false
+    }
+  ],
+  "sync_status": ["SUCCESS"],
+  "warningCount": "0",
+  "errorCount": "6",
+  "stock": "0",
+  "external_stock": "0",
+  "price": "51.13",
+  "sale_price": null,
+  "price_currency": null,
+  "media_attributes": null,
+  "sellable_status": {
+    "subStatus": "",
+    "mainStatus": "OUT_OF_STOCK"
+  },
+  "created_by": {
+    "lastName": "Nakrani",
+    "firstName": "Arpit",
+    "attachment": null
+  },
+  "updated_by": {
+    "lastName": "Nakrani",
+    "firstName": "Arpit",
+    "attachment": null
+  },
+  "created_at": "2026-05-01T09:43:15.283Z",
+  "updated_at": "2026-05-01T09:43:15.551Z",
+  "total_records": "97"
+}
