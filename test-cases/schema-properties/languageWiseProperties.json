@@ -1,0 +1,130 @@
+{
+  "en_US": [
+    {
+      "title": "Parentage Level",
+      "description": "Specify whether a SKU is a parent or child",
+      "examples": ["Parent"],
+      "type": "array",
+      "minItems": 1,
+      "minUniqueItems": 1,
+      "maxUniqueItems": 1,
+      "selectors": ["marketplace_id"],
+      "items": {
+        "type": "object",
+        "required": ["value"],
+        "properties": {
+          "value": {
+            "title": "Parentage Level",
+            "description": "Specify whether a SKU is a parent or child",
+            "editable": true,
+            "hidden": false,
+            "examples": ["Parent"],
+            "type": "string",
+            "enum": ["child", "parent"],
+            "enumNames": ["Child", "Parent"]
+          },
+          "marketplace_id": {
+            "$ref": "#/$defs/marketplace_id"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  ],
+  "fr_FR": [
+    {
+      "title": "Niveau de relation",
+      "description": "Précisez si un est parent ou enfant",
+      "examples": ["Parent"],
+      "type": "array",
+      "minItems": 1,
+      "minUniqueItems": 1,
+      "maxUniqueItems": 1,
+      "selectors": ["marketplace_id"],
+      "items": {
+        "type": "object",
+        "required": ["value"],
+        "properties": {
+          "marketplace_id": {
+            "$ref": "#/$defs/marketplace_id"
+          },
+          "value": {
+            "title": "Niveau de relation",
+            "description": "Précisez si un est parent ou enfant",
+            "editable": true,
+            "hidden": false,
+            "examples": ["Parent"],
+            "type": "string",
+            "enum": ["child", "parent"],
+            "enumNames": ["Enfant", "Parent"]
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  ],
+  "de_DE": [
+    {
+      "title": "Abstammungsgrad",
+      "description": "Spezifizieren Sie, ob es sich bei einer SKU um ein Elternteil oder ein Kind handelt",
+      "examples": ["Eltern"],
+      "type": "array",
+      "minItems": 1,
+      "minUniqueItems": 1,
+      "maxUniqueItems": 1,
+      "selectors": ["marketplace_id"],
+      "items": {
+        "type": "object",
+        "required": ["value"],
+        "properties": {
+          "marketplace_id": {
+            "$ref": "#/$defs/marketplace_id"
+          },
+          "value": {
+            "title": "Abstammungsgrad",
+            "description": "Spezifizieren Sie, ob es sich bei einer SKU um ein Elternteil oder ein Kind handelt",
+            "editable": true,
+            "hidden": false,
+            "examples": ["Eltern"],
+            "type": "string",
+            "enum": ["parent", "child"],
+            "enumNames": ["Eltern", "Kind"]
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  ],
+  "es_ES": [
+    {
+      "title": "Nivel de relación",
+      "description": "Especifique si un SKU es principal o secundario.",
+      "examples": ["Principal."],
+      "type": "array",
+      "minItems": 1,
+      "minUniqueItems": 1,
+      "maxUniqueItems": 1,
+      "selectors": ["marketplace_id"],
+      "items": {
+        "type": "object",
+        "required": ["value"],
+        "properties": {
+          "marketplace_id": {
+            "$ref": "#/$defs/marketplace_id"
+          },
+          "value": {
+            "title": "Nivel de relación",
+            "description": "Especifique si un SKU es principal o secundario.",
+            "editable": true,
+            "hidden": false,
+            "examples": ["Principal."],
+            "type": "string",
+            "enum": ["child", "parent"],
+            "enumNames": ["Niños", "Principal."]
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  ]
+}
