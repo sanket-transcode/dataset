@@ -1,0 +1,85 @@
+{
+  "input": {
+    "descriptionHtml": "<your-descriptionHtml>",
+    "handle": "<your-handle>",
+    "seo": {
+      "title": "<your-title>",
+      "description": "<your-description>"
+    },
+    "productType": "<your-productType>",
+    "category": "gid://shopify/<objectName>/10079785100",
+    "tags": ["<your-tags>"],
+    "templateSuffix": "<your-templateSuffix>",
+    "giftCardTemplateSuffix": "<your-giftCardTemplateSuffix>",
+    "title": "<your-title>",
+    "vendor": "<your-vendor>",
+    "giftCard": true,
+    "redirectNewHandle": true,
+    "collections": ["gid://shopify/<objectName>/10079785100"],
+    "metafields": [
+      {
+        "id": "gid://shopify/<objectName>/10079785100",
+        "namespace": "<your-namespace>",
+        "key": "<your-key>",
+        "value": "<your-value>",
+        "type": "<your-type>"
+      }
+    ],
+    "variants": [
+      {
+        "requiresComponents": true,
+        "barcode": "<your-barcode>",
+        "compareAtPrice": "100.57",
+        "id": "gid://shopify/<objectName>/10079785100",
+        "file": {},
+        "inventoryPolicy": "DENY",
+        "inventoryQuantities": [{}],
+        "inventoryItem": {},
+        "metafields": [{}],
+        "optionValues": [{}],
+        "position": 1,
+        "price": "100.57",
+        "sku": "<your-sku>",
+        "taxable": true,
+        "taxCode": "<your-taxCode>",
+        "unitPriceMeasurement": {},
+        "showUnitPrice": true
+      }
+    ],
+    "files": [
+      {
+        "filename": "<your-filename>",
+        "contentType": "IMAGE",
+        "alt": "<your-alt>",
+        "duplicateResolutionMode": "APPEND_UUID",
+        "id": "gid://shopify/<objectName>/10079785100",
+        "originalSource": "<your-originalSource>"
+      }
+    ],
+    "status": "ACTIVE",
+    "requiresSellingPlan": true,
+    "productOptions": [
+      {
+        "id": "gid://shopify/<objectName>/10079785100",
+        "name": "<your-name>",
+        "position": 1,
+        "values": [{}],
+        "linkedMetafield": {}
+      }
+    ],
+    "claimOwnership": {
+      "bundles": true
+    },
+    "combinedListingRole": "PARENT"
+  },
+  "synchronous": true,
+  "identifier": {
+    "id": "gid://shopify/<objectName>/10079785100",
+    "handle": "<your-handle>",
+    "customId": {
+      "namespace": "<your-namespace>",
+      "key": "<your-key>",
+      "value": "<your-value>"
+    }
+  }
+}
