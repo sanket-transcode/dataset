@@ -1,0 +1,163 @@
+[
+  {
+    "product_id": "12958",
+    "internal_id": "PRD-265-12958",
+    "is_loading": true,
+    "score": "0",
+    "sync_in_progress": false,
+    "allow_stock_tracking": false,
+    "sku": "68d246221863513a9c09d2d6",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "tags": [],
+    "variants": "6",
+    "product_variants": "43952,43953,43954,43955,43956,43957",
+    "categories": null,
+    "readiness_value": "77.78",
+    "product_readiness_values": [
+      {
+        "languageCode": "de_DE",
+        "readinessValue": 100
+      },
+      {
+        "languageCode": "en_CA",
+        "readinessValue": 66.67
+      },
+      {
+        "languageCode": "en_GB",
+        "readinessValue": 66.67
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 100
+      },
+      {
+        "languageCode": "es_MX",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 100
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "12f7bb70-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "12f7bb70-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "1768bf40-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "1768bf40-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "19537840-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "19537840-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "184cb6a0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "184cb6a0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "category": null,
+        "channel_id": 447,
+        "is_closing": false,
+        "is_loading": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "syncStatus": "SUCCESS",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "syncStatus": "SUCCESS",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ],
+        "external_status": null,
+        "connection_status": "CONNECTED"
+      },
+      {
+        "icon": "04",
+        "category": null,
+        "channel_id": 448,
+        "is_closing": false,
+        "is_loading": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "EU - 3 Markets",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "United Kingdom",
+            "syncStatus": "SUCCESS",
+            "countryCode": "GB",
+            "amazonMarketplaceId": 6
+          },
+          {
+            "country": "France",
+            "syncStatus": "SUCCESS",
+            "countryCode": "FR",
+            "amazonMarketplaceId": 7
+          },
+          {
+            "country": "Germany",
+            "syncStatus": "SUCCESS",
+            "countryCode": "DE",
+            "amazonMarketplaceId": 9
+          }
+        ],
+        "external_status": null,
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": null,
+    "category": null,
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "73",
+    "errorCount": "37",
+    "stock": "0",
+    "external_stock": "0",
+    "price": "2 - 33.47",
+    "sale_price": null,
+    "price_currency": null,
+    "media_attributes": null,
+    "sellable_status": null,
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2025-07-09T11:19:38.785Z",
+    "updated_at": "2026-07-15T14:03:06.577Z",
+    "total_records": "1"
+  }
+]

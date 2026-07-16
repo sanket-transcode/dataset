@@ -1,0 +1,320 @@
+[
+  {
+    "product_id": "12958",
+    "internal_id": "PRD-265-12958",
+    "is_loading": true,
+    "score": "0",
+    "sync_in_progress": false,
+    "allow_stock_tracking": false,
+    "sku": "68d246221863513a9c09d2d6",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "tags": [],
+    "variants": "6",
+    "product_variants": "43952,43953,43954,43955,43956,43957",
+    "categories": null,
+    "readiness_value": "66.67",
+    "product_readiness_values": [
+      {
+        "languageCode": "en_CA",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 100
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "12f7bb70-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "12f7bb70-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "1768bf40-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "1768bf40-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "17d7adb0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "17d7adb0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "19df3d80-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "19df3d80-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "category": null,
+        "isLoading": false,
+        "channel_id": 447,
+        "is_closing": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "syncStatus": "SUCCESS",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "syncStatus": "SUCCESS",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ],
+        "external_status": "Draft",
+        "sync_in_progress": false,
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "Draft",
+    "category": null,
+    "marketplaces": [
+      {
+        "asin": null,
+        "isFba": false,
+        "price": "2.85 - 47.65",
+        "country": "Canada",
+        "category": null,
+        "condition": null,
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": null,
+        "syncStatus": "SUCCESS",
+        "amazonStock": "0 - 5",
+        "countryCode": "CA",
+        "languageCode": "en_CA",
+        "variantCount": 6,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1,
+        "variantMarketplaces": [
+          {
+            "asin": "B0FS71C31J",
+            "price": 47.65,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43952,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 5,
+            "listingErrors": [],
+            "externalStatus": ["BUYABLE", "DISCOVERABLE"],
+            "sellableStatus": "ACTIVE"
+          },
+          {
+            "asin": "B0FS715ZDH",
+            "price": 47.65,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43953,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS6XXC6B",
+            "price": 2.85,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43954,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS72CV1H",
+            "price": 47.65,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43955,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS75Y82W",
+            "price": 47.65,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43956,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS6YGPQY",
+            "price": 47.65,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43957,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          }
+        ],
+        "channelMarketplaceId": 975,
+        "updatingMarketplaceData": false
+      },
+      {
+        "asin": "B0FS6X4CVW",
+        "isFba": false,
+        "price": "2 - 33.47",
+        "country": "United States of America",
+        "category": "hats",
+        "condition": null,
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE", "BUYABLE"],
+        "syncStatus": "SUCCESS",
+        "amazonStock": "0 - 5",
+        "countryCode": "US",
+        "languageCode": "en_US",
+        "variantCount": 6,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 2,
+        "variantMarketplaces": [
+          {
+            "asin": "B0FS71C31J",
+            "price": 33.47,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43952,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 5,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE", "BUYABLE"],
+            "sellableStatus": "ACTIVE"
+          },
+          {
+            "asin": "B0FS715ZDH",
+            "price": 33.47,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43953,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS6XXC6B",
+            "price": 2,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43954,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS72CV1H",
+            "price": 33.47,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43955,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS75Y82W",
+            "price": 33.47,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43956,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          },
+          {
+            "asin": "B0FS6YGPQY",
+            "price": 33.47,
+            "status": "SUCCESS",
+            "subStatus": "",
+            "variantId": 43957,
+            "syncStatus": "SUCCESS",
+            "amazonStock": 0,
+            "listingErrors": [],
+            "externalStatus": ["DISCOVERABLE"],
+            "sellableStatus": "OUT_OF_STOCK"
+          }
+        ],
+        "channelMarketplaceId": 976,
+        "updatingMarketplaceData": false
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "22",
+    "errorCount": "26",
+    "stock": "0 - 10",
+    "external_stock": "0",
+    "price": "2 - 33.47",
+    "sale_price": null,
+    "price_currency": null,
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2025-07-09T11:19:38.785Z",
+    "updated_at": "2026-07-15T14:03:06.577Z",
+    "total_records": "1"
+  }
+]

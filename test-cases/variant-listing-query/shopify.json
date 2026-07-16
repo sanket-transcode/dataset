@@ -1,0 +1,185 @@
+[
+  {
+    "variant_id": "43866",
+    "internal_id": "PRV-259-43866",
+    "sku": "MUG_A",
+    "product_name": "Classic Coffee Mug - Beige / Ceramic",
+    "variant_attributes_values": [
+      {
+        "name": "SP_QUICK-TEST-CATEGRA_color-pattern",
+        "label": "Color",
+        "value": ["Beige"]
+      },
+      {
+        "name": "SP_QUICK-TEST-CATEGRA_drinkware-material",
+        "label": "Drinkware material",
+        "value": ["Ceramic"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "channel_id": 445,
+        "is_closing": false,
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": []
+      }
+    ],
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "external_status": "ACTIVE",
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "variant_images": null,
+    "stock": null,
+    "external_stock": "0",
+    "price": "50",
+    "sale_price": null,
+    "readiness_value": "20.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 20
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:25.725Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-08T11:36:25.740Z"
+  },
+  {
+    "variant_id": "43867",
+    "internal_id": "PRV-259-43867",
+    "sku": "MUG_B",
+    "product_name": "Classic Coffee Mug - Beige / Glass",
+    "variant_attributes_values": [
+      {
+        "name": "SP_QUICK-TEST-CATEGRA_color-pattern",
+        "label": "Color",
+        "value": ["Beige"]
+      },
+      {
+        "name": "SP_QUICK-TEST-CATEGRA_drinkware-material",
+        "label": "Drinkware material",
+        "value": ["Glass"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "channel_id": 445,
+        "is_closing": false,
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": []
+      }
+    ],
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "external_status": "ACTIVE",
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "variant_images": null,
+    "stock": null,
+    "external_stock": "0",
+    "price": "11",
+    "sale_price": null,
+    "readiness_value": "20.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 20
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:25.744Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-08T11:36:25.751Z"
+  },
+  {
+    "variant_id": "43868",
+    "internal_id": "PRV-259-43868",
+    "sku": "MUG_C",
+    "product_name": "Classic Coffee Mug - Green / Glass",
+    "variant_attributes_values": [
+      {
+        "name": "SP_QUICK-TEST-CATEGRA_color-pattern",
+        "label": "Color",
+        "value": ["Green"]
+      },
+      {
+        "name": "SP_QUICK-TEST-CATEGRA_drinkware-material",
+        "label": "Drinkware material",
+        "value": ["Glass"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "channel_id": 445,
+        "is_closing": false,
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": []
+      }
+    ],
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "external_status": "ACTIVE",
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "variant_images": null,
+    "stock": null,
+    "external_stock": "0",
+    "price": "11",
+    "sale_price": null,
+    "readiness_value": "20.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 20
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:25.754Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-08T11:36:25.760Z"
+  }
+]

@@ -1,0 +1,1160 @@
+[
+  {
+    "variant_id": "43952",
+    "internal_id": "PRV-265-43952",
+    "sku": "16882243971564917605",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "variant_attributes_values": [
+      {
+        "name": "AM_HAT_color_standardized_values",
+        "label": "Color Map",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": ["One Size"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": ["Alpha"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": ["US"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_to",
+        "label": "Headwear Size To Range",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": ["Khaki"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "channel_id": 447,
+        "is_closing": false,
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ]
+      }
+    ],
+    "marketplaces": [
+      {
+        "asin": "B0FS71C31J",
+        "isFba": false,
+        "price": 47.65,
+        "status": true,
+        "country": "Canada",
+        "category": null,
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["BUYABLE", "DISCOVERABLE"],
+        "amazonStock": 5,
+        "countryCode": "CA",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_CA",
+        "listingErrors": [],
+        "marketplaceId": 975,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "ACTIVE"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1
+      },
+      {
+        "asin": "B0FS71C31J",
+        "isFba": false,
+        "price": 33.47,
+        "status": true,
+        "country": "United States of America",
+        "category": "hats",
+        "condition": "New",
+        "isLoading": true,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE", "BUYABLE"],
+        "amazonStock": 5,
+        "countryCode": "US",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_US",
+        "listingErrors": [],
+        "marketplaceId": 976,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "ACTIVE"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": "EU Template",
+        "amazonMarketplaceId": 2
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "5",
+    "variant_images": [
+      {
+        "fileName": "13f8d7c0-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "13f8d7c0-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "24133d60-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "24133d60-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "249c1c70-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "249c1c70-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "25475090-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "25475090-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "stock": "10",
+    "external_stock": "0",
+    "price": "33.47",
+    "sale_price": null,
+    "readiness_value": "100.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 100
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T11:19:40.488Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-09T11:19:40.496Z"
+  },
+  {
+    "variant_id": "43953",
+    "internal_id": "PRV-265-43953",
+    "sku": "25265057986674927056",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "variant_attributes_values": [
+      {
+        "name": "AM_HAT_color_standardized_values",
+        "label": "Color Map",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": ["One Size"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": ["Alpha"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": ["US"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_to",
+        "label": "Headwear Size To Range",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": ["Stone"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "channel_id": 447,
+        "is_closing": false,
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ]
+      }
+    ],
+    "marketplaces": [
+      {
+        "asin": "B0FS715ZDH",
+        "isFba": false,
+        "price": 47.65,
+        "status": true,
+        "country": "Canada",
+        "category": null,
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "CA",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_CA",
+        "listingErrors": [],
+        "marketplaceId": 975,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1
+      },
+      {
+        "asin": "B0FS715ZDH",
+        "isFba": false,
+        "price": 33.47,
+        "status": true,
+        "country": "United States of America",
+        "category": "hats",
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "US",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_US",
+        "listingErrors": [],
+        "marketplaceId": 976,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": "EU Template",
+        "amazonMarketplaceId": 2
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "4",
+    "errorCount": "2",
+    "variant_images": [
+      {
+        "fileName": "14f36460-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "14f36460-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "338a9720-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "338a9720-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "34296f30-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "34296f30-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "34af4100-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "34af4100-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "stock": "30",
+    "external_stock": "0",
+    "price": "33.47",
+    "sale_price": null,
+    "readiness_value": "80.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 80
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T11:19:40.488Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-09T11:19:40.502Z"
+  },
+  {
+    "variant_id": "43954",
+    "internal_id": "PRV-265-43954",
+    "sku": "11282025598934436185",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "variant_attributes_values": [
+      {
+        "name": "AM_HAT_color_standardized_values",
+        "label": "Color Map",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": ["One Size"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": ["Alpha"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": ["US"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_to",
+        "label": "Headwear Size To Range",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": ["Pink"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "channel_id": 447,
+        "is_closing": false,
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ]
+      }
+    ],
+    "marketplaces": [
+      {
+        "asin": "B0FS6XXC6B",
+        "isFba": false,
+        "price": 2.85,
+        "status": true,
+        "country": "Canada",
+        "category": null,
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "CA",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_CA",
+        "listingErrors": [],
+        "marketplaceId": 975,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1
+      },
+      {
+        "asin": "B0FS6XXC6B",
+        "isFba": false,
+        "price": 2,
+        "status": true,
+        "country": "United States of America",
+        "category": "hats",
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "US",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_US",
+        "listingErrors": [],
+        "marketplaceId": 976,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": "EU Template",
+        "amazonMarketplaceId": 2
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "4",
+    "errorCount": "5",
+    "variant_images": [
+      {
+        "fileName": "15570830-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "15570830-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "354873c0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "354873c0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "35c91570-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "35c91570-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "36554fe0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "36554fe0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "stock": "0",
+    "external_stock": "0",
+    "price": "2",
+    "sale_price": null,
+    "readiness_value": "80.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 80
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T11:19:40.488Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-09T11:19:40.499Z"
+  },
+  {
+    "variant_id": "43955",
+    "internal_id": "PRV-265-43955",
+    "sku": "11564966521275931191",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "variant_attributes_values": [
+      {
+        "name": "AM_HAT_color_standardized_values",
+        "label": "Color Map",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": ["One Size"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": ["Alpha"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": ["US"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_to",
+        "label": "Headwear Size To Range",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": ["Green Camo"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "channel_id": 447,
+        "is_closing": false,
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ]
+      }
+    ],
+    "marketplaces": [
+      {
+        "asin": "B0FS72CV1H",
+        "isFba": false,
+        "price": 47.65,
+        "status": true,
+        "country": "Canada",
+        "category": null,
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "CA",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_CA",
+        "listingErrors": [],
+        "marketplaceId": 975,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1
+      },
+      {
+        "asin": "B0FS72CV1H",
+        "isFba": false,
+        "price": 33.47,
+        "status": true,
+        "country": "United States of America",
+        "category": "hats",
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "US",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_US",
+        "listingErrors": [],
+        "marketplaceId": 976,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": "EU Template",
+        "amazonMarketplaceId": 2
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "6",
+    "errorCount": "5",
+    "variant_images": [
+      {
+        "fileName": "15c162c0-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "15c162c0-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "18c6c8a0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "18c6c8a0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "19537840-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "19537840-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "19df3d80-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "19df3d80-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "stock": "0",
+    "external_stock": "0",
+    "price": "33.47",
+    "sale_price": null,
+    "readiness_value": "80.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 80
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T11:19:40.488Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-09T11:19:40.499Z"
+  },
+  {
+    "variant_id": "43956",
+    "internal_id": "PRV-265-43956",
+    "sku": "17639620771608013832",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "variant_attributes_values": [
+      {
+        "name": "AM_HAT_color_standardized_values",
+        "label": "Color Map",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": ["One Size"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": ["Alpha"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": ["US"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_to",
+        "label": "Headwear Size To Range",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": ["Light Blue"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "channel_id": 447,
+        "is_closing": false,
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ]
+      }
+    ],
+    "marketplaces": [
+      {
+        "asin": "B0FS75Y82W",
+        "isFba": false,
+        "price": 47.65,
+        "status": true,
+        "country": "Canada",
+        "category": null,
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "CA",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_CA",
+        "listingErrors": [],
+        "marketplaceId": 975,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1
+      },
+      {
+        "asin": "B0FS75Y82W",
+        "isFba": false,
+        "price": 33.47,
+        "status": true,
+        "country": "United States of America",
+        "category": "hats",
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "US",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_US",
+        "listingErrors": [],
+        "marketplaceId": 976,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": "EU Template",
+        "amazonMarketplaceId": 2
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "4",
+    "errorCount": "5",
+    "variant_images": [
+      {
+        "fileName": "162358e0-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "162358e0-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "37087340-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "37087340-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "378e6c20-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "378e6c20-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "3821f990-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "3821f990-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "stock": "0",
+    "external_stock": "0",
+    "price": "33.47",
+    "sale_price": null,
+    "readiness_value": "80.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 80
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T11:19:40.488Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-09T11:19:40.498Z"
+  },
+  {
+    "variant_id": "43957",
+    "internal_id": "PRV-265-43957",
+    "sku": "59577357725225979542",
+    "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
+    "variant_attributes_values": [
+      {
+        "name": "AM_HAT_color_standardized_values",
+        "label": "Color Map",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size",
+        "label": "Headwear Size Value",
+        "value": ["One Size"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_class",
+        "label": "Headwear Size Class",
+        "value": ["Alpha"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": null
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_system",
+        "label": "Headwear Size System",
+        "value": ["US"]
+      },
+      {
+        "name": "AM_HAT_headwear_size_size_to",
+        "label": "Headwear Size To Range",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": null
+      },
+      {
+        "name": "AMV_HAT_color_value",
+        "label": "Color",
+        "value": ["White"]
+      }
+    ],
+    "channels": [
+      {
+        "icon": "07",
+        "channel_id": 447,
+        "is_closing": false,
+        "channel_name": "NA - ALL",
+        "channel_type": "AMAZON",
+        "marketplaces": [
+          {
+            "country": "Canada",
+            "countryCode": "CA",
+            "amazonMarketplaceId": 1
+          },
+          {
+            "country": "United States of America",
+            "countryCode": "US",
+            "amazonMarketplaceId": 2
+          }
+        ]
+      }
+    ],
+    "marketplaces": [
+      {
+        "asin": "B0FS6YGPQY",
+        "isFba": false,
+        "price": 47.65,
+        "status": true,
+        "country": "Canada",
+        "category": null,
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "CA",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_CA",
+        "listingErrors": [],
+        "marketplaceId": 975,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": null,
+        "amazonMarketplaceId": 1
+      },
+      {
+        "asin": "B0FS6YGPQY",
+        "isFba": false,
+        "price": 33.47,
+        "status": true,
+        "country": "United States of America",
+        "category": "hats",
+        "condition": "New",
+        "isLoading": false,
+        "is_closing": false,
+        "sale_price": null,
+        "searchable": ["DISCOVERABLE"],
+        "amazonStock": 0,
+        "countryCode": "US",
+        "sync_status": "SUCCESS",
+        "languageCode": "en_US",
+        "listingErrors": [],
+        "marketplaceId": 976,
+        "sellableStatus": {
+          "subStatus": "",
+          "mainStatus": "OUT_OF_STOCK"
+        },
+        "syncInProgress": false,
+        "shippingTemplate": "EU Template",
+        "amazonMarketplaceId": 2
+      }
+    ],
+    "sync_status": ["SUCCESS"],
+    "warningCount": "4",
+    "errorCount": "3",
+    "variant_images": [
+      {
+        "fileName": "12f7bb70-7b88-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "12f7bb70-7b88-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "38c8e7f0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "38c8e7f0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "3969e2e0-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "3969e2e0-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      },
+      {
+        "fileName": "39f88e50-7b8a-11f1-a50c-47ccdd714a27.jpg",
+        "filePath": "uploads/265/product/12958/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "39f88e50-7b8a-11f1-a50c-47ccdd714a27.jpg"
+      }
+    ],
+    "stock": "0",
+    "external_stock": "0",
+    "price": "33.47",
+    "sale_price": null,
+    "readiness_value": "80.00",
+    "variant_readiness": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 80
+      }
+    ],
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T11:19:40.488Z",
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_at": "2026-07-09T11:19:40.500Z"
+  }
+]
