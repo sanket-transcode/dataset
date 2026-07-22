@@ -2,9 +2,9 @@
   {
     "product_id": "12958",
     "internal_id": "PRD-265-12958",
-    "is_loading": true,
+    "isLoading": true,
     "score": "0",
-    "sync_in_progress": false,
+    "syncInProgress": false,
     "allow_stock_tracking": false,
     "sku": "68d246221863513a9c09d2d6",
     "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
@@ -81,8 +81,8 @@
             "amazonMarketplaceId": 2
           }
         ],
+        "syncInProgress": false,
         "external_status": "Draft",
-        "sync_in_progress": false,
         "connection_status": "CONNECTED"
       }
     ],
@@ -117,73 +117,85 @@
             "asin": "B0FS71C31J",
             "price": 47.65,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43952,
             "syncStatus": "SUCCESS",
             "amazonStock": 5,
             "listingErrors": [],
             "externalStatus": ["BUYABLE", "DISCOVERABLE"],
-            "sellableStatus": "ACTIVE"
+            "sellableStatus": "ACTIVE",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS715ZDH",
             "price": 47.65,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43953,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS6XXC6B",
             "price": 2.85,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43954,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS72CV1H",
             "price": 47.65,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43955,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS75Y82W",
             "price": 47.65,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43956,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS6YGPQY",
             "price": 47.65,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43957,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           }
         ],
         "channelMarketplaceId": 975,
@@ -217,73 +229,85 @@
             "asin": "B0FS71C31J",
             "price": 33.47,
             "status": "SUCCESS",
+            "isLoading": true,
             "subStatus": "",
             "variantId": 43952,
             "syncStatus": "SUCCESS",
             "amazonStock": 5,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE", "BUYABLE"],
-            "sellableStatus": "ACTIVE"
+            "sellableStatus": "ACTIVE",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS715ZDH",
             "price": 33.47,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43953,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS6XXC6B",
             "price": 2,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43954,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS72CV1H",
             "price": 33.47,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43955,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS75Y82W",
             "price": 33.47,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43956,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           },
           {
             "asin": "B0FS6YGPQY",
             "price": 33.47,
             "status": "SUCCESS",
+            "isLoading": false,
             "subStatus": "",
             "variantId": 43957,
             "syncStatus": "SUCCESS",
             "amazonStock": 0,
             "listingErrors": [],
             "externalStatus": ["DISCOVERABLE"],
-            "sellableStatus": "OUT_OF_STOCK"
+            "sellableStatus": "OUT_OF_STOCK",
+            "syncInProgress": false
           }
         ],
         "channelMarketplaceId": 976,

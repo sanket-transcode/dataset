@@ -1,10 +1,902 @@
 [
   {
+    "product_id": "13142",
+    "internal_id": "PRD-259-13142",
+    "isLoading": false,
+    "score": null,
+    "syncInProgress": false,
+    "allow_stock_tracking": true,
+    "sku": "Elegant Diamond Solitaire Ring",
+    "product_name": "Elegant Diamond Solitaire Ring",
+    "tags": [],
+    "variants": "0",
+    "product_variants": null,
+    "categories": null,
+    "readiness_value": "0",
+    "product_readiness_values": null,
+    "primary_media": [
+      {
+        "fileName": "rin1.jpg",
+        "filePath": "uploads/259/product/13142/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "40b1fe70-7c2f-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "FRONTT_e1cf59bb-6d0a-40f6-ac5e-533977d0ae3b.jpg?v=1743233858",
+        "filePath": "uploads/259/product/13142/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "62c48730-7c2f-11f1-a9bd-ad05c7a4b978.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": null,
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "NOT_PUBLISHED",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "Draft",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "Draft",
+    "category": null,
+    "marketplaces": null,
+    "sync_status": ["NOT_PUBLISHED"],
+    "warningCount": "0",
+    "errorCount": "2",
+    "stock": "0",
+    "external_stock": "0",
+    "price": "20",
+    "sale_price": "18",
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-10T07:17:22.131Z",
+    "updated_at": "2026-07-11T09:28:49.307Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "13027",
+    "internal_id": "PRD-259-13027",
+    "isLoading": true,
+    "score": "0",
+    "syncInProgress": false,
+    "allow_stock_tracking": true,
+    "sku": "Ergonomic Wireless Keyboard",
+    "product_name": "Ergonomic Wireless Keyboard",
+    "tags": [],
+    "variants": "0",
+    "product_variants": null,
+    "categories": null,
+    "readiness_value": "0.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 0
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 0
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 0
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 0
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "c6fd2f10-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "c6fd2f10-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "d0615bd0-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "d0615bd0-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "d0cffc20-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "d0cffc20-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "d13a7dc0-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "d13a7dc0-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "d1b0e640-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 5,
+        "isMainImage": false,
+        "fileUniqueName": "d1b0e640-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "d22f6510-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 6,
+        "isMainImage": false,
+        "fileUniqueName": "d22f6510-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      },
+      {
+        "fileName": "d296d970-7c2d-11f1-a9bd-ad05c7a4b978.jpg",
+        "filePath": "uploads/259/product/13027/",
+        "fileType": "JPG",
+        "sequence": 7,
+        "isMainImage": false,
+        "fileUniqueName": "d296d970-7c2d-11f1-a9bd-ad05c7a4b978.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": null,
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "NOT_PUBLISHED",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "DRAFT",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "DRAFT",
+    "category": null,
+    "marketplaces": null,
+    "sync_status": ["NOT_PUBLISHED"],
+    "warningCount": "0",
+    "errorCount": "0",
+    "stock": "0",
+    "external_stock": "0",
+    "price": null,
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": null,
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-10T04:37:51.632Z",
+    "updated_at": "2026-07-11T10:06:28.415Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "13026",
+    "internal_id": "PRD-259-13026",
+    "isLoading": false,
+    "score": null,
+    "syncInProgress": false,
+    "allow_stock_tracking": true,
+    "sku": "bottle-01",
+    "product_name": "Reusable Hydration Water Bottle",
+    "tags": [],
+    "variants": "0",
+    "product_variants": null,
+    "categories": [
+      {
+        "id": 5,
+        "name": "sweatshirt"
+      }
+    ],
+    "readiness_value": "0.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 0
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 0
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 0
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 0
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "blue3.jpg",
+        "filePath": "uploads/259/product/13026/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "dc5ad0e0-7c16-11f1-a9bd-ad05c7a4b978.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": null,
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "NOT_PUBLISHED",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "DRAFT",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "DRAFT",
+    "category": null,
+    "marketplaces": null,
+    "sync_status": ["NOT_PUBLISHED"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "stock": "0",
+    "external_stock": "0",
+    "price": null,
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": null,
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-10T04:21:55.778Z",
+    "updated_at": "2026-07-16T05:11:13.453Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "12899",
+    "internal_id": "PRD-259-12899",
+    "isLoading": false,
+    "score": null,
+    "syncInProgress": false,
+    "allow_stock_tracking": true,
+    "sku": "shirt-01",
+    "product_name": "Men's Casual Button-Down Shirt",
+    "tags": [],
+    "variants": "1",
+    "product_variants": "43887",
+    "categories": [
+      {
+        "id": 4,
+        "name": "shirt"
+      },
+      {
+        "id": 9,
+        "name": "shirt-2"
+      }
+    ],
+    "readiness_value": "33.33",
+    "product_readiness_values": [
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 33.33
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "iceCreame-1.jpg",
+        "filePath": "uploads/259/products/12899/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "e6118dd0-7c3f-11f1-ab78-9bea2c5a4a9e.jpg"
+      },
+      {
+        "fileName": "iceCream-2.jpg",
+        "filePath": "uploads/259/products/12899/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "fb763d10-7c3f-11f1-ab78-9bea2c5a4a9e.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": null,
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "NOT_PUBLISHED",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "DRAFT",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "DRAFT",
+    "category": null,
+    "marketplaces": null,
+    "sync_status": ["NOT_PUBLISHED"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "stock": "0",
+    "external_stock": "0",
+    "price": "20",
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-09T05:20:51.153Z",
+    "updated_at": "2026-07-11T05:14:52.200Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "12892",
+    "internal_id": "PRD-259-12892",
+    "isLoading": true,
+    "score": "0",
+    "syncInProgress": false,
+    "allow_stock_tracking": false,
+    "sku": "moonlit-horizon-ceramic-coffee-mug",
+    "product_name": "Moonlit Horizon Ceramic Coffee Mug",
+    "tags": ["categra tag"],
+    "variants": "2",
+    "product_variants": "43874,43875",
+    "categories": null,
+    "readiness_value": "30.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 20
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 33.33
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "595bc7e0-7ac1-11f1-954e-1b1b6ece10cd.jpg",
+        "filePath": "uploads/259/product/12892/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "595bc7e0-7ac1-11f1-954e-1b1b6ece10cd.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": "Mugs",
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "ACTIVE",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "ACTIVE",
+    "category": "Mugs",
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "2",
+    "stock": "0",
+    "external_stock": "25 - 62",
+    "price": "10 - 20",
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "ACTIVE"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:55.569Z",
+    "updated_at": "2026-07-08T11:38:46.145Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "12891",
+    "internal_id": "PRD-259-12891",
+    "isLoading": true,
+    "score": "0",
+    "syncInProgress": false,
+    "allow_stock_tracking": true,
+    "sku": "long-sleeve-t-shirt",
+    "product_name": "Long sleeve T-shirt",
+    "tags": ["categra tag", "tag1"],
+    "variants": "3",
+    "product_variants": "43871,43872,43873",
+    "categories": null,
+    "readiness_value": "35.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "gu",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 40
+      },
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 33.33
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "55de8800-7ac1-11f1-954e-1b1b6ece10cd.jpg",
+        "filePath": "uploads/259/product/12891/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "55de8800-7ac1-11f1-954e-1b1b6ece10cd.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": "T-Shirts",
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "OUT_OF_SYNC",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "DRAFT",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "DRAFT",
+    "category": "T-Shirts",
+    "marketplaces": null,
+    "sync_status": ["OUT_OF_SYNC"],
+    "warningCount": "0",
+    "errorCount": "5",
+    "stock": "0",
+    "external_stock": "0 - 10",
+    "price": "3 - 20",
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:55.569Z",
+    "updated_at": "2026-07-11T12:00:28.011Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "12890",
+    "internal_id": "PRD-259-12890",
+    "isLoading": true,
+    "score": "0",
+    "syncInProgress": false,
+    "allow_stock_tracking": false,
+    "sku": "LONG_SLEEVE_2",
+    "product_name": "Sweat Tshirt",
+    "tags": ["categra tag", "cool", "new", "tag1", "todo"],
+    "variants": "0",
+    "product_variants": null,
+    "categories": null,
+    "readiness_value": "40.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "en_US",
+        "readinessValue": 60
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "5085f870-7ac1-11f1-954e-1b1b6ece10cd.mp4",
+        "filePath": "uploads/259/product/12890/",
+        "fileType": "MP4",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "5085f870-7ac1-11f1-954e-1b1b6ece10cd.mp4"
+      },
+      {
+        "fileName": "55de8800-7ac1-11f1-954e-1b1b6ece10cd.jpg",
+        "filePath": "uploads/259/product/12891/",
+        "fileType": "JPG",
+        "sequence": 2,
+        "isMainImage": false,
+        "fileUniqueName": "55de8800-7ac1-11f1-954e-1b1b6ece10cd.jpg"
+      },
+      {
+        "fileName": "604b7230-7ac1-11f1-954e-1b1b6ece10cd.jpg",
+        "filePath": "uploads/259/product/12890/",
+        "fileType": "JPG",
+        "sequence": 3,
+        "isMainImage": false,
+        "fileUniqueName": "604b7230-7ac1-11f1-954e-1b1b6ece10cd.jpg"
+      },
+      {
+        "fileName": "60abe1b0-7ac1-11f1-954e-1b1b6ece10cd.svg",
+        "filePath": "uploads/259/product/12890/",
+        "fileType": "SVG",
+        "sequence": 4,
+        "isMainImage": false,
+        "fileUniqueName": "60abe1b0-7ac1-11f1-954e-1b1b6ece10cd.svg"
+      },
+      {
+        "fileName": "60e78b20-7ac1-11f1-954e-1b1b6ece10cd.glb",
+        "filePath": "uploads/259/product/12890/",
+        "fileType": "GLB",
+        "sequence": 5,
+        "isMainImage": false,
+        "fileUniqueName": "60e78b20-7ac1-11f1-954e-1b1b6ece10cd.glb"
+      },
+      {
+        "fileName": "6167deb0-7ac1-11f1-954e-1b1b6ece10cd.mp4",
+        "filePath": "uploads/259/product/12890/",
+        "fileType": "MP4",
+        "sequence": 6,
+        "isMainImage": false,
+        "fileUniqueName": "6167deb0-7ac1-11f1-954e-1b1b6ece10cd.mp4"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": "T-Shirts",
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "ACTIVE",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "ACTIVE",
+    "category": "T-Shirts",
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "stock": "0",
+    "external_stock": "300",
+    "price": "5",
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "ACTIVE"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:42.878Z",
+    "updated_at": "2026-07-08T11:38:46.145Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "12889",
+    "internal_id": "PRD-259-12889",
+    "isLoading": true,
+    "score": "0",
+    "syncInProgress": false,
+    "allow_stock_tracking": false,
+    "sku": "WATCH",
+    "product_name": "Digital Men Watch",
+    "tags": ["categra tag", "cool", "new", "tag1", "todo"],
+    "variants": "0",
+    "product_variants": null,
+    "categories": [
+      {
+        "id": 8,
+        "name": "shirt-1"
+      }
+    ],
+    "readiness_value": "40.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 60
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 33.33
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "4e154690-7ac1-11f1-954e-1b1b6ece10cd.jpg",
+        "filePath": "uploads/259/product/12889/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "4e154690-7ac1-11f1-954e-1b1b6ece10cd.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": "Watch Bands",
+        "isLoading": true,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "ACTIVE",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "ACTIVE",
+    "category": "Watch Bands",
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "1",
+    "stock": "0",
+    "external_stock": "158",
+    "price": "10",
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "ACTIVE"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:42.878Z",
+    "updated_at": "2026-07-08T11:38:46.145Z",
+    "total_records": "10"
+  },
+  {
+    "product_id": "12888",
+    "internal_id": "PRD-259-12888",
+    "isLoading": true,
+    "score": "0",
+    "syncInProgress": false,
+    "allow_stock_tracking": false,
+    "sku": "antique-coffee-mug",
+    "product_name": "Antique Coffee mug",
+    "tags": ["categra tag", "tag1"],
+    "variants": "2",
+    "product_variants": "43869,43870",
+    "categories": null,
+    "readiness_value": "30.00",
+    "product_readiness_values": [
+      {
+        "languageCode": "en_US",
+        "readinessValue": 20
+      },
+      {
+        "languageCode": "hi",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "gu",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "fr_FR",
+        "readinessValue": 33.33
+      }
+    ],
+    "primary_media": [
+      {
+        "fileName": "479240c0-7ac1-11f1-954e-1b1b6ece10cd.jpg",
+        "filePath": "uploads/259/product/12888/",
+        "fileType": "JPG",
+        "sequence": 1,
+        "isMainImage": true,
+        "fileUniqueName": "479240c0-7ac1-11f1-954e-1b1b6ece10cd.jpg"
+      }
+    ],
+    "channels": [
+      {
+        "icon": "06",
+        "category": "Mugs",
+        "isLoading": false,
+        "channel_id": 445,
+        "is_closing": false,
+        "sync_status": "SUCCESS",
+        "channel_name": "Shopify",
+        "channel_type": "SHOPIFY",
+        "marketplaces": [],
+        "syncInProgress": false,
+        "external_status": "ACTIVE",
+        "connection_status": "CONNECTED"
+      }
+    ],
+    "external_status": "ACTIVE",
+    "category": "Mugs",
+    "marketplaces": null,
+    "sync_status": ["SUCCESS"],
+    "warningCount": "0",
+    "errorCount": "3",
+    "stock": "0",
+    "external_stock": "0 - 2",
+    "price": "9",
+    "sale_price": null,
+    "price_currency": "USD",
+    "media_attributes": null,
+    "sellable_status": {
+      "subStatus": "",
+      "mainStatus": "OUT_OF_STOCK"
+    },
+    "created_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "updated_by": {
+      "lastName": "Nakrani",
+      "firstName": "Arpit",
+      "attachment": null
+    },
+    "created_at": "2026-07-08T11:36:25.457Z",
+    "updated_at": "2026-07-08T11:38:46.145Z",
+    "total_records": "10"
+  },
+  {
     "product_id": "12887",
     "internal_id": "PRD-259-12887",
-    "is_loading": true,
+    "isLoading": true,
     "score": "0",
-    "sync_in_progress": false,
+    "syncInProgress": false,
     "allow_stock_tracking": false,
     "sku": "classic-coffee-mug",
     "product_name": "Classic Coffee Mug",
@@ -19,15 +911,15 @@
         "readinessValue": 20
       },
       {
-        "languageCode": "fr_FR",
-        "readinessValue": 33.33
-      },
-      {
         "languageCode": "gu",
         "readinessValue": 33.33
       },
       {
         "languageCode": "hi",
+        "readinessValue": 33.33
+      },
+      {
+        "languageCode": "fr_FR",
         "readinessValue": 33.33
       }
     ],
@@ -60,8 +952,8 @@
         "channel_name": "Shopify",
         "channel_type": "SHOPIFY",
         "marketplaces": [],
+        "syncInProgress": false,
         "external_status": "ACTIVE",
-        "sync_in_progress": false,
         "connection_status": "CONNECTED"
       }
     ],
@@ -93,6 +985,6 @@
     },
     "created_at": "2026-07-08T11:36:25.457Z",
     "updated_at": "2026-07-13T06:25:37.343Z",
-    "total_records": "1"
+    "total_records": "10"
   }
 ]

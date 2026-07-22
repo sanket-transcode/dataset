@@ -39,43 +39,57 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": true,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
       },
       {
         "icon": "04",
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "countryCode": "GB",
+            "syncInProgress": false,
             "amazonMarketplaceId": 6
           },
           {
             "country": "France",
+            "isLoading": false,
             "countryCode": "FR",
+            "syncInProgress": false,
             "amazonMarketplaceId": 7
           },
           {
             "country": "Germany",
+            "isLoading": false,
             "countryCode": "DE",
+            "syncInProgress": false,
             "amazonMarketplaceId": 9
           }
         ]
@@ -333,43 +347,57 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
       },
       {
         "icon": "04",
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "countryCode": "GB",
+            "syncInProgress": false,
             "amazonMarketplaceId": 6
           },
           {
             "country": "France",
+            "isLoading": false,
             "countryCode": "FR",
+            "syncInProgress": false,
             "amazonMarketplaceId": 7
           },
           {
             "country": "Germany",
+            "isLoading": false,
             "countryCode": "DE",
+            "syncInProgress": false,
             "amazonMarketplaceId": 9
           }
         ]
@@ -627,43 +655,57 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
       },
       {
         "icon": "04",
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "countryCode": "GB",
+            "syncInProgress": false,
             "amazonMarketplaceId": 6
           },
           {
             "country": "France",
+            "isLoading": false,
             "countryCode": "FR",
+            "syncInProgress": false,
             "amazonMarketplaceId": 7
           },
           {
             "country": "Germany",
+            "isLoading": false,
             "countryCode": "DE",
+            "syncInProgress": false,
             "amazonMarketplaceId": 9
           }
         ]
@@ -921,43 +963,57 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
       },
       {
         "icon": "04",
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "countryCode": "GB",
+            "syncInProgress": false,
             "amazonMarketplaceId": 6
           },
           {
             "country": "France",
+            "isLoading": false,
             "countryCode": "FR",
+            "syncInProgress": false,
             "amazonMarketplaceId": 7
           },
           {
             "country": "Germany",
+            "isLoading": false,
             "countryCode": "DE",
+            "syncInProgress": false,
             "amazonMarketplaceId": 9
           }
         ]
@@ -1215,43 +1271,57 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
       },
       {
         "icon": "04",
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "countryCode": "GB",
+            "syncInProgress": false,
             "amazonMarketplaceId": 6
           },
           {
             "country": "France",
+            "isLoading": false,
             "countryCode": "FR",
+            "syncInProgress": false,
             "amazonMarketplaceId": 7
           },
           {
             "country": "Germany",
+            "isLoading": false,
             "countryCode": "DE",
+            "syncInProgress": false,
             "amazonMarketplaceId": 9
           }
         ]
@@ -1509,43 +1579,57 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
       },
       {
         "icon": "04",
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "countryCode": "GB",
+            "syncInProgress": false,
             "amazonMarketplaceId": 6
           },
           {
             "country": "France",
+            "isLoading": null,
             "countryCode": "FR",
+            "syncInProgress": null,
             "amazonMarketplaceId": 7
           },
           {
             "country": "Germany",
+            "isLoading": null,
             "countryCode": "DE",
+            "syncInProgress": null,
             "amazonMarketplaceId": 9
           }
         ]

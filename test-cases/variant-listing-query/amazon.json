@@ -59,19 +59,25 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": true,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
@@ -252,19 +258,25 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
@@ -445,19 +457,25 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
@@ -638,19 +656,25 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
@@ -831,19 +855,25 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]
@@ -1024,19 +1054,25 @@
     "channels": [
       {
         "icon": "07",
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
+        "syncStatus": null,
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "countryCode": "CA",
+            "syncInProgress": false,
             "amazonMarketplaceId": 1
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "countryCode": "US",
+            "syncInProgress": false,
             "amazonMarketplaceId": 2
           }
         ]

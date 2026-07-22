@@ -2,9 +2,9 @@
   {
     "product_id": "12958",
     "internal_id": "PRD-265-12958",
-    "is_loading": true,
+    "isLoading": true,
     "score": "0",
-    "sync_in_progress": false,
+    "syncInProgress": false,
     "allow_stock_tracking": false,
     "sku": "68d246221863513a9c09d2d6",
     "product_name": "Classic Dad Cap - Relaxed Style, Everyday Wear, Great Gift for Fathers, Summer Accessory, Casual Fashion",
@@ -77,24 +77,104 @@
       {
         "icon": "07",
         "category": null,
+        "isLoading": false,
         "channel_id": 447,
         "is_closing": false,
-        "is_loading": false,
         "sync_status": "SUCCESS",
         "channel_name": "NA - ALL",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "Canada",
+            "isLoading": false,
             "syncStatus": "SUCCESS",
             "countryCode": "CA",
-            "amazonMarketplaceId": 1
+            "syncInProgress": false,
+            "amazonMarketplaceId": 1,
+            "variantMarketplaces": [
+              {
+                "isLoading": false,
+                "variantId": 43952,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43953,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43954,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43955,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43956,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43957,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              }
+            ]
           },
           {
             "country": "United States of America",
+            "isLoading": false,
             "syncStatus": "SUCCESS",
             "countryCode": "US",
-            "amazonMarketplaceId": 2
+            "syncInProgress": false,
+            "amazonMarketplaceId": 2,
+            "variantMarketplaces": [
+              {
+                "isLoading": true,
+                "variantId": 43952,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43953,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43954,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43955,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43956,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43957,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              }
+            ]
           }
         ],
         "external_status": null,
@@ -103,30 +183,138 @@
       {
         "icon": "04",
         "category": null,
+        "isLoading": false,
         "channel_id": 448,
         "is_closing": false,
-        "is_loading": false,
         "sync_status": "SUCCESS",
         "channel_name": "EU - 3 Markets",
         "channel_type": "AMAZON",
         "marketplaces": [
           {
             "country": "United Kingdom",
+            "isLoading": false,
             "syncStatus": "SUCCESS",
             "countryCode": "GB",
-            "amazonMarketplaceId": 6
+            "syncInProgress": false,
+            "amazonMarketplaceId": 6,
+            "variantMarketplaces": [
+              {
+                "isLoading": false,
+                "variantId": 43952,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43953,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43954,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43955,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43956,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43957,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              }
+            ]
           },
           {
             "country": "France",
+            "isLoading": false,
             "syncStatus": "SUCCESS",
             "countryCode": "FR",
-            "amazonMarketplaceId": 7
+            "syncInProgress": false,
+            "amazonMarketplaceId": 7,
+            "variantMarketplaces": [
+              {
+                "isLoading": false,
+                "variantId": 43952,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43953,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43954,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43955,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43956,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              }
+            ]
           },
           {
             "country": "Germany",
+            "isLoading": false,
             "syncStatus": "SUCCESS",
             "countryCode": "DE",
-            "amazonMarketplaceId": 9
+            "syncInProgress": false,
+            "amazonMarketplaceId": 9,
+            "variantMarketplaces": [
+              {
+                "isLoading": false,
+                "variantId": 43952,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43953,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43954,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43955,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              },
+              {
+                "isLoading": false,
+                "variantId": 43956,
+                "syncStatus": "SUCCESS",
+                "syncInProgress": false
+              }
+            ]
           }
         ],
         "external_status": null,
