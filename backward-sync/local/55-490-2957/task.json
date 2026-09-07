@@ -1,0 +1,221 @@
+{
+  "channelId": "490",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-08-10T11:42:28.262Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 170,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 16
+  },
+  "productTracker": {
+    "4C-SWI8-MG3Y": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Classic Cotton T-Shirt, Crew Neck, Short Sleeve, Relaxed Fit, Machine Washable",
+      "metadata": {}
+    },
+    "PG-LTKX-94L9": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "My Super Shirt Beige Black",
+      "metadata": {}
+    },
+    "skin-serum": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30ml/ 1.01 fl oz.)",
+      "metadata": {}
+    },
+    "party suit": {
+      "hasErrors": false,
+      "productId": 13895,
+      "variantId": null,
+      "productName": "2 piece party suit for men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Premium White Eraser": {
+      "hasErrors": false,
+      "productId": 13896,
+      "variantId": null,
+      "productName": "Premium White Eraser for Pencils and Markers",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Highlighter Marker Pen": {
+      "hasErrors": false,
+      "productId": 13897,
+      "variantId": null,
+      "productName": "Highlighter Marker Pen",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "dark-chocolate": {
+      "hasErrors": false,
+      "productId": 13898,
+      "variantId": null,
+      "productName": "Premium Dark Chocolate Bar",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Ice-Cream-Maker": {
+      "hasErrors": false,
+      "productId": 13899,
+      "variantId": null,
+      "productName": "Premium Electric Ice Cream Maker",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "watch": {
+      "hasErrors": false,
+      "productId": 13900,
+      "variantId": null,
+      "productName": "Elegant Men's Luxury Automatic Watch - Stainless Steel, Sapphire Crystal",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "MA-G9XT-DUQU": {
+      "hasErrors": false,
+      "productId": 13901,
+      "variantId": null,
+      "productName": "Premium Reusable Water Bottle, BPA-Free, Leak-Proof Sports Design, 750ml Capacity, Wide-Mouth Opening, Lightweight for Gym, Hiking, Office",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": false,
+      "productId": 13902,
+      "variantId": null,
+      "productName": "Dangle Golden Earrings for Classic Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit-2": {
+      "hasErrors": false,
+      "productId": 13903,
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "brown-hoodie-for-men": {
+      "hasErrors": false,
+      "productId": 13904,
+      "variantId": null,
+      "productName": "Men's Brown Fleece Pullover Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "child-party-suit": {
+      "hasErrors": false,
+      "productId": 13905,
+      "variantId": null,
+      "productName": "Deluxe Kids Party Suit - Formal Attire for Boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GL-SK-LM": {
+      "hasErrors": false,
+      "productId": 13906,
+      "variantId": null,
+      "productName": "Bean Essence Serum – Snail Mucin Alternative for Glass Skin – Hydrating Glow Boost – Deeper Moisture Than Hyaluronic – Flawless Primer – Strengthens Skin Barrier – 1.01 fl.oz",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Eyelashes": {
+      "hasErrors": false,
+      "productId": 13908,
+      "variantId": null,
+      "productName": "Premium False Eyelashes - Natural Look",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  }
+}
