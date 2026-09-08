@@ -1,0 +1,1561 @@
+{
+  "channelId": "401",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-06-13T09:27:07.743Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 90,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "SUCCESS",
+    "batchSize": 1,
+    "currentBatchIndex": 50
+  },
+  "productTracker": {
+    "cd18": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Diollo Intelligent smartwatch Smart Bracelet Sport Fitness Watch with Pedometer Monitor",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd29": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Men Digital Hand Watch Business Leather Digital Men Watch (Black)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd30": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Men Digital Wrist Watch Business Mesh Stainless Steel Strap Digital Men Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd9": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Megir Creative Chronograph Men's Clock Leather Quartz Time Hour Army Military Analog Sport Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd12": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO Blue Design with White dial Reward Sport Brand Luxury Quartz Analog Casual Steel Men's Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd4": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "CIVO Fashion Brand Watches for Men Black Waterproof Genuine Leather Quartz Wristwatches Sport Calendar Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd7": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO Black DialLuxury Moon face and Attractive dial Wrist Watch for Man",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd17": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO-Reward Business White dial Watch Men Fashion Casual Blue Leather Strap Mens Watches Top Luxury Unique Quartz Wristwatch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd11": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "MEGIR Creative White Dial with Blue Ring Chronograph Sport Watch Men Clock Leather Quartz Men Wrist Watches Time Hour Army Military Wristwatches",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd2": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Bagari High Class Stainless Steel Watch 3ATM Water Resistance Functional Watch for Men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd14": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Black Male Watches Military Stainless Steel Men Quartz Sport Fashion Wristwatch Watch for Man",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd3": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Bagari High Class Stainless Steel Watch 3ATM Water Resistance Functional Watch for Men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd15": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Men Digital Quartz Watch Leather Multifunction Back Light Men's Chronograph Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd28": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Shenhua Shenhua vintage affordable skeleton Analog Watch - For Men Automatic watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd16": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO-Reward Business Watch Men Fashion Casual Brown Leather Strap Mens Watches Top Brand Luxury Unique Quartz Wristwatch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd25": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Men Digital Quartz Wrist Watches Day Date Black Leather Watch(Black)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd27": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Watch Genuine Leather LED Digital & Analog Watches Men Multifunction LCD Display Watch RISTOS",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd8": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO White Dial Luxury Men Stainless Steel Mesh Band with Day/Date,Moon Face, Seprate Minute and Second Dial and Attractive Round Dial Wrist Watch for Man",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd21": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Fngeen Belt Male Automatic Transparent Luminous Diamond Hollow Tourbillon Mechanical Watch Steel",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd10": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "MEGIR Mens Watches Top Luxury Quartz Watch Waterproof Leather Military Date Chronograph Sport Wrist Watch Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd20": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "FNGEEN Fashion Mechanical Watch Men Skeleton Design Luxury Golden Mesh Strap Waterproof Male Automatic Clock",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd22": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "FNGEEN Black Stainless Steel Luxury Waterproof Quartz Hands Wristwatches for Mens",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd1": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "RISTOS Mens Quartz Digital Sport Watches Fashion Waterproof Men Wrist Watch Man Watch(Gold)",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd5": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO Attractive Blue Dial Stainless Steel Mesh Belt with Hardlex Glass Waterproof Watch for Man",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd6": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "DIOLLO Attractive White Dial Stainless Steel Mesh Belt with Hardlex Glass Waterproof Wrist Watch for Man",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "TY-GBRU-U05L": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Shinchan Collectible Cartoon Keychain",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "A5-8Y77-J848": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Shinchan Chibi Charm",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RU-QDVG-P0OV": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "CookNique Sauce Pot",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "QW-0O78-K20H": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Ceramic Coffee Mug new",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Clear Glass Drinking Cup": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Clear Glass Drinking Cup",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GR-F98J-X85R": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "VictoryCore Training Ball for boys",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "LST-SILVER-101": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Adjustable Laptop Stand gen for desk",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EA-AS-01": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "NAITRI | Handcrafted Traditional Earrings for Women and GirlEthnic Lightweight Designer Jewelry for Festive and Casual Wear",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Dangle Earrings for Women": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Gargi by P.N. Gadgil and Sons | 925 Sterling Silver | Forma Earrings | Gift for Rakhi, Rakshabandhan Gift for Sister, Gifts Women & Girls | With Hallmark & 925 Stamp",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "RB-ECO-001": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Reusable Water Bottle - Eco-Friendly & Leakproof",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "R9-8ZXZ-MZ5C": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Shinchan Chibi Charm keychain Red",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "GLS-01": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Classic Unisex Sunglasses - UV400 Protection",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "wallet-for-men-01": {
+      "hasErrors": true,
+      "productId": null,
+      "variantId": null,
+      "productName": "Everyday Essentials Wallet for Men",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd19": {
+      "hasErrors": false,
+      "productId": 11488,
+      "variantId": "37519",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd13": {
+      "hasErrors": false,
+      "productId": 11489,
+      "variantId": "37520",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd26": {
+      "hasErrors": false,
+      "productId": 11490,
+      "variantId": "37521",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd23": {
+      "hasErrors": false,
+      "productId": 11491,
+      "variantId": "37522",
+      "productName": null,
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "cd24": {
+      "hasErrors": false,
+      "productId": 11492,
+      "variantId": "37523",
+      "productName": "diollo Analog Mechanical Movement Luxury Automatic Men's Watch",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "CT-EHEN-IR8J": {
+      "hasErrors": false,
+      "productId": 11493,
+      "variantId": "37524",
+      "productName": "Classic Black Genuine Leather Purse – Elegant Everyday Handbag for Women",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "1T-KAIP-MTWU": {
+      "hasErrors": false,
+      "productId": 11494,
+      "variantId": "37525",
+      "productName": "Elista Vogue Fit Blazer",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "OJ-1XPR-59WL": {
+      "hasErrors": false,
+      "productId": 11495,
+      "variantId": "37526",
+      "productName": "Everyday Comfort T-Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "LM-IAA2-7V01": {
+      "hasErrors": false,
+      "productId": 11495,
+      "variantId": "37527",
+      "productName": "Everyday Comfort T-Shirt",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "BO-KOS4-B03O": {
+      "hasErrors": false,
+      "productId": 11496,
+      "variantId": "37528",
+      "productName": "VivaSteel Insulated Flask",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "WN-3A11-JJZS": {
+      "hasErrors": false,
+      "productId": 11496,
+      "variantId": "37529",
+      "productName": "VivaSteel Insulated Flask",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "Q7-G0Y3-4JGQ": {
+      "hasErrors": false,
+      "productId": 11497,
+      "variantId": "37530",
+      "productName": "FunSpark Play Set",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "31-RYQ6-C7YG": {
+      "hasErrors": false,
+      "productId": 11497,
+      "variantId": "37531",
+      "productName": "FunSpark Play Set",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "ZI-4Y3D-JSY6": {
+      "hasErrors": false,
+      "productId": 11497,
+      "variantId": "37532",
+      "productName": "FunSpark Play Set",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "OR-YPZK-8CK5": {
+      "hasErrors": false,
+      "productId": 11497,
+      "variantId": "37533",
+      "productName": "FunSpark Play Set",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "M4-HYHU-1XC4": {
+      "hasErrors": false,
+      "productId": 11498,
+      "variantId": "37534",
+      "productName": "ModeMate Everyday Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "HA-YD2I-ZOXZ": {
+      "hasErrors": false,
+      "productId": 11498,
+      "variantId": "37535",
+      "productName": "ModeMate Everyday Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "5T-YSK1-T28R": {
+      "hasErrors": false,
+      "productId": 11498,
+      "variantId": "37536",
+      "productName": "ModeMate Everyday Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "3J-K8KJ-J2NX": {
+      "hasErrors": false,
+      "productId": 11498,
+      "variantId": "37537",
+      "productName": "ModeMate Everyday Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "I2-EUWN-8CSF": {
+      "hasErrors": false,
+      "productId": 11498,
+      "variantId": "37538",
+      "productName": "ModeMate Everyday Bag",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "WW-XWD9-PSWQ": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37539",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "LG-0UR2-PWUD": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37540",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "06-DSP7-XK29": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37541",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "EN-P90T-WWUT": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37542",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "J8-7LZT-Y3DC": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37543",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "W8-KWAR-8APO": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37544",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "LZ-5DLS-U3RN": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37545",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "NE-CMYU-GVQL": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37546",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8T-264N-QBUR": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37547",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "H7-8JGZ-XO0W": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37548",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "FS-731V-8IAU": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37549",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "E0-2UUC-38DL": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37550",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8W-K3JO-855S": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37551",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "0A-8OQU-6AQG": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37552",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "KM-8YJ4-NIXB": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37553",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "WG-ZY7K-MEFZ": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37554",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "HH-LR7R-DDR9": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37555",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "9S-I111-68TT": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37556",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "49-WRAS-J9Z4": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37557",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "HW-MCQP-ZLBX": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37558",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "5C-HWTG-RCNG": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37559",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "8G-1U6V-552I": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37560",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "7D-7OC8-66V8": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37561",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "U0-UUA9-6B42": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37562",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "UL-JJX0-3GZL": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37563",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "6C-3JZM-DM3D": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37564",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "42-4BNO-3PBM": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37565",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "SP-01A3-PHO0": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37566",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "K3-MC7N-VOMH": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37567",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "LX-7Q2L-9ENP": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37568",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "K6-1U3Y-T3FL": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37569",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    },
+    "4L-P1GW-K84M": {
+      "hasErrors": false,
+      "productId": 11499,
+      "variantId": "37570",
+      "productName": "ComfyCore Hoodie",
+      "metadata": {
+        "sync-amazon-fetch-products": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-create-base-product": {
+          "status": "FINISHED"
+        },
+        "sync-amazon-process-media": {
+          "status": "FINISHED"
+        }
+      }
+    }
+  },
+  "sync-amazon-variant-schema-handler": {
+    "status": "PROCESSING"
+  },
+  "sync-amazon-process-media": {
+    "status": "SUCCESS",
+    "batchSize": 5,
+    "currentBatchIndex": 10
+  },
+  "amazon-sync-orders": {
+    "status": "SUCCESS",
+    "currentBatchIndex": 2,
+    "batchSize": 5
+  }
+}
