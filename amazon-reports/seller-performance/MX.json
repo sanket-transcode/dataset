@@ -1,0 +1,258 @@
+{
+  "accountStatuses": [
+    { "marketplaceId": "A1AM78C64UM0Y8", "status": "NORMAL" }
+  ],
+  "performanceMetrics": [
+    {
+      "lateShipmentRate": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-09-09T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0.04,
+        "targetCondition": "LESS_THAN",
+        "orderCount": 0,
+        "lateShipmentCount": 0,
+        "rate": 0
+      },
+      "lateShipmentRateList": [
+        {
+          "reportingDateRange": {
+            "reportingDateFrom": "2026-09-29T00:00:00Z",
+            "reportingDateTo": "2026-10-08T23:59:59Z"
+          },
+          "status": "GOOD",
+          "targetValue": 0.04,
+          "targetCondition": "LESS_THAN",
+          "orderCount": 0,
+          "lateShipmentCount": 0,
+          "rate": 0
+        },
+        {
+          "reportingDateRange": {
+            "reportingDateFrom": "2026-09-09T00:00:00Z",
+            "reportingDateTo": "2026-10-08T23:59:59Z"
+          },
+          "status": "GOOD",
+          "targetValue": 0.04,
+          "targetCondition": "LESS_THAN",
+          "orderCount": 0,
+          "lateShipmentCount": 0,
+          "rate": 0
+        }
+      ],
+      "invoiceDefectRate": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-09-25T00:00:00Z",
+          "reportingDateTo": "2026-10-01T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0.05,
+        "targetCondition": "LESS_THAN",
+        "invoiceDefect": { "status": "GOOD", "count": 0 },
+        "missingInvoice": { "status": "NONE", "count": 0 },
+        "lateInvoice": { "status": "NONE", "count": 0 },
+        "orderCount": 0,
+        "rate": 0
+      },
+      "orderDefectRate": {
+        "afn": {
+          "reportingDateRange": {
+            "reportingDateFrom": "2026-07-26T00:00:00Z",
+            "reportingDateTo": "2026-09-23T23:59:59Z"
+          },
+          "status": "GOOD",
+          "targetValue": 0.01,
+          "targetCondition": "LESS_THAN",
+          "orderWithDefects": { "status": "GOOD", "count": 0 },
+          "claims": { "status": "NONE", "count": 0 },
+          "chargebacks": { "status": "NONE", "count": 0 },
+          "negativeFeedback": { "status": "NONE", "count": 0 },
+          "orderCount": 0,
+          "rate": 0,
+          "fulfillmentType": "AFN"
+        },
+        "mfn": {
+          "reportingDateRange": {
+            "reportingDateFrom": "2026-07-26T00:00:00Z",
+            "reportingDateTo": "2026-09-23T23:59:59Z"
+          },
+          "status": "GOOD",
+          "targetValue": 0.01,
+          "targetCondition": "LESS_THAN",
+          "orderWithDefects": { "status": "GOOD", "count": 0 },
+          "claims": { "status": "NONE", "count": 0 },
+          "chargebacks": { "status": "NONE", "count": 0 },
+          "negativeFeedback": { "status": "NONE", "count": 0 },
+          "orderCount": 0,
+          "rate": 0,
+          "fulfillmentType": "MFN"
+        }
+      },
+      "onTimeDeliveryRate": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-08-30T00:00:00Z",
+          "reportingDateTo": "2026-09-28T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0.97,
+        "targetCondition": "GREATER_THAN",
+        "shipmentCountWithValidTracking": 0,
+        "onTimeDeliveryCount": 0,
+        "rate": 0
+      },
+      "validTrackingRate": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-08-30T00:00:00Z",
+          "reportingDateTo": "2026-09-28T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0.95,
+        "targetCondition": "GREATER_THAN",
+        "shipmentCount": 0,
+        "validTrackingCount": 0,
+        "rate": 0
+      },
+      "preFulfillmentCancellationRate": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-10-01T00:00:00Z",
+          "reportingDateTo": "2026-10-07T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0.025,
+        "targetCondition": "LESS_THAN",
+        "orderCount": 0,
+        "cancellationCount": 0,
+        "rate": 0
+      },
+      "warningStates": [],
+      "accountHealthRating": {
+        "ahrStatus": "GREAT",
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-11T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "ahrScore": 200.0
+      },
+      "listingPolicyViolations": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "productAuthenticityCustomerComplaints": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "productConditionCustomerComplaints": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "productSafetyCustomerComplaints": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "receivedIntellectualPropertyComplaints": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "restrictedProductPolicyViolations": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "suspectedIntellectualPropertyViolations": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "foodAndProductSafetyIssues": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "customerProductReviewsPolicyViolations": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "otherPolicyViolations": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "documentRequests": {
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-12T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        },
+        "status": "GOOD",
+        "targetValue": 0,
+        "targetCondition": "EQUALS",
+        "defectsCount": 0
+      },
+      "policyViolationWarnings": {
+        "warningsCount": 0,
+        "reportingDateRange": {
+          "reportingDateFrom": "2026-04-11T00:00:00Z",
+          "reportingDateTo": "2026-10-08T23:59:59Z"
+        }
+      },
+      "marketplaceId": "A1AM78C64UM0Y8"
+    }
+  ]
+}
