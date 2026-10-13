@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-13T09:25:40.780Z",
+    "scope": {
+      "channelId": null,
+      "marketplaceId": null
+    }
+  },
+  "items": [
+    {
+      "id": "connection",
+      "family": "CONNECTION",
+      "severity": "red",
+      "affectedCount": 1,
+      "scopeCount": 1,
+      "channelCount": 1,
+      "marketplaceCount": 0,
+      "chips": [
+        {
+          "channelId": 519,
+          "channelName": "Quick-test-categra",
+          "channelType": "SHOPIFY",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 1
+        }
+      ],
+      "detailsKind": null,
+      "details": [],
+      "redirect": {
+        "issueType": "CHANNEL_NOT_CONNECTED",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": null
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "account_health",
+      "family": "ACCOUNT_HEALTH",
+      "severity": "red",
+      "affectedCount": 1,
+      "scopeCount": 1,
+      "channelCount": 1,
+      "marketplaceCount": 0,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 1
+        }
+      ],
+      "detailsKind": null,
+      "details": [],
+      "redirect": {
+        "issueType": "CHANNEL_CONNECTION_ERROR",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": null
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "marketplace_health",
+      "family": "MARKETPLACE_HEALTH",
+      "severity": "red",
+      "affectedCount": 2,
+      "scopeCount": 2,
+      "channelCount": 1,
+      "marketplaceCount": 2,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 1,
+          "marketplaceCode": "CA",
+          "reason": "MARKETPLACE_DEACTIVATED",
+          "count": 1
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 2,
+          "marketplaceCode": "US",
+          "reason": "MARKETPLACE_AT_RISK",
+          "count": 1
+        }
+      ],
+      "detailsKind": "REASON",
+      "details": [
+        {
+          "code": "MARKETPLACE_AT_RISK",
+          "count": 1
+        },
+        {
+          "code": "MARKETPLACE_DEACTIVATED",
+          "count": 1
+        }
+      ],
+      "redirect": {
+        "issueType": "CHANNEL_CONNECTION_ERROR",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": null
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "missing_price",
+      "family": "MISSING_PRICE",
+      "severity": "red",
+      "affectedCount": 35,
+      "scopeCount": 4,
+      "channelCount": 2,
+      "marketplaceCount": 3,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 2,
+          "marketplaceCode": "US",
+          "reason": null,
+          "count": 15
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 1,
+          "marketplaceCode": "CA",
+          "reason": null,
+          "count": 11
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 3,
+          "marketplaceCode": "MX",
+          "reason": null,
+          "count": 6
+        },
+        {
+          "channelId": 519,
+          "channelName": "Quick-test-categra",
+          "channelType": "SHOPIFY",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 3
+        }
+      ],
+      "detailsKind": null,
+      "details": [],
+      "redirect": {
+        "issueType": "MISSING_PRICE",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": "OPEN"
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "out_of_stock",
+      "family": "OUT_OF_STOCK",
+      "severity": "red",
+      "affectedCount": 282,
+      "scopeCount": 4,
+      "channelCount": 2,
+      "marketplaceCount": 3,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 2,
+          "marketplaceCode": "US",
+          "reason": null,
+          "count": 132
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 1,
+          "marketplaceCode": "CA",
+          "reason": null,
+          "count": 123
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 3,
+          "marketplaceCode": "MX",
+          "reason": null,
+          "count": 18
+        },
+        {
+          "channelId": 519,
+          "channelName": "Quick-test-categra",
+          "channelType": "SHOPIFY",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 9
+        }
+      ],
+      "detailsKind": null,
+      "details": [],
+      "redirect": {
+        "issueType": "OUT_OF_STOCK",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": "OPEN"
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "amazon_listing_blocker",
+      "family": "AMAZON_LISTING_BLOCKER",
+      "severity": "red",
+      "affectedCount": 332,
+      "scopeCount": 3,
+      "channelCount": 1,
+      "marketplaceCount": 3,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 2,
+          "marketplaceCode": "US",
+          "reason": null,
+          "count": 158
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 1,
+          "marketplaceCode": "CA",
+          "reason": null,
+          "count": 153
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 3,
+          "marketplaceCode": "MX",
+          "reason": null,
+          "count": 21
+        }
+      ],
+      "detailsKind": "BUCKET",
+      "details": [
+        {
+          "code": "MEDIA",
+          "count": 280
+        },
+        {
+          "code": "ATTRIBUTES_CONTENT",
+          "count": 46
+        },
+        {
+          "code": "SUPPRESSION_VISIBILITY",
+          "count": 3
+        },
+        {
+          "code": "OTHER_VALIDATION",
+          "count": 2
+        },
+        {
+          "code": "COMPLIANCE",
+          "count": 1
+        }
+      ],
+      "redirect": {
+        "issueType": "AMAZON_ERROR",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": "OPEN"
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "amazon_not_searchable",
+      "family": "AMAZON_NOT_SEARCHABLE",
+      "severity": "red",
+      "affectedCount": 17,
+      "scopeCount": 3,
+      "channelCount": 1,
+      "marketplaceCount": 3,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 1,
+          "marketplaceCode": "CA",
+          "reason": null,
+          "count": 9
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 2,
+          "marketplaceCode": "US",
+          "reason": null,
+          "count": 7
+        },
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": 3,
+          "marketplaceCode": "MX",
+          "reason": null,
+          "count": 1
+        }
+      ],
+      "detailsKind": null,
+      "details": [],
+      "redirect": {
+        "issueType": "AMAZON_NOT_SEARCHABLE",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": "OPEN"
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "shopify_not_active",
+      "family": "SHOPIFY_NOT_ACTIVE",
+      "severity": "red",
+      "affectedCount": 3,
+      "scopeCount": 1,
+      "channelCount": 1,
+      "marketplaceCount": 0,
+      "chips": [
+        {
+          "channelId": 519,
+          "channelName": "Quick-test-categra",
+          "channelType": "SHOPIFY",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 3
+        }
+      ],
+      "detailsKind": null,
+      "details": [],
+      "redirect": {
+        "issueType": "SHOPIFY_UNPUBLISHED",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": "OPEN"
+      },
+      "priorityScore": 0
+    },
+    {
+      "id": "main_image",
+      "family": "MAIN_IMAGE",
+      "severity": "black",
+      "affectedCount": 24,
+      "scopeCount": 2,
+      "channelCount": 2,
+      "marketplaceCount": 0,
+      "chips": [
+        {
+          "channelId": 518,
+          "channelName": "NA - ALL",
+          "channelType": "AMAZON",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 13
+        },
+        {
+          "channelId": 519,
+          "channelName": "Quick-test-categra",
+          "channelType": "SHOPIFY",
+          "marketplaceId": null,
+          "marketplaceCode": null,
+          "reason": null,
+          "count": 11
+        }
+      ],
+      "detailsKind": "MEDIA",
+      "details": [
+        {
+          "code": "MISSING",
+          "count": 23
+        },
+        {
+          "code": "UNSUPPORTED",
+          "count": 1
+        }
+      ],
+      "redirect": {
+        "issueType": "MISSING_MEDIA",
+        "issueGroupKey": null,
+        "channelId": null,
+        "marketplaceId": null,
+        "workflowStatus": "OPEN"
+      },
+      "priorityScore": 0
+    }
+  ],
+  "actions": [
+    {
+      "id": "restore-access",
+      "families": [
+        "CONNECTION",
+        "ACCOUNT_HEALTH",
+        "MARKETPLACE_HEALTH",
+        "PERMISSION_REQUIRED",
+        "DATA_TRUST"
+      ],
+      "familyCounts": [
+        {
+          "family": "CONNECTION",
+          "count": 1
+        },
+        {
+          "family": "ACCOUNT_HEALTH",
+          "count": 1
+        },
+        {
+          "family": "MARKETPLACE_HEALTH",
+          "count": 2
+        }
+      ],
+      "impact": "high",
+      "rank": 1,
+      "affectedCount": 4
+    },
+    {
+      "id": "restore-sellability",
+      "families": ["MISSING_PRICE", "OUT_OF_STOCK"],
+      "familyCounts": [
+        {
+          "family": "MISSING_PRICE",
+          "count": 35
+        },
+        {
+          "family": "OUT_OF_STOCK",
+          "count": 282
+        }
+      ],
+      "impact": "high",
+      "rank": 2,
+      "affectedCount": 317
+    },
+    {
+      "id": "fix-listings",
+      "families": [
+        "AMAZON_LISTING_BLOCKER",
+        "AMAZON_NOT_SEARCHABLE",
+        "SHOPIFY_NOT_ACTIVE"
+      ],
+      "familyCounts": [
+        {
+          "family": "AMAZON_LISTING_BLOCKER",
+          "count": 332
+        },
+        {
+          "family": "AMAZON_NOT_SEARCHABLE",
+          "count": 17
+        },
+        {
+          "family": "SHOPIFY_NOT_ACTIVE",
+          "count": 3
+        }
+      ],
+      "impact": "high",
+      "rank": 3,
+      "affectedCount": 352
+    },
+    {
+      "id": "improve-catalog",
+      "families": [
+        "AMAZON_LISTING_WARNING",
+        "LOW_STOCK",
+        "STOCK_SYNC",
+        "MAIN_IMAGE",
+        "PRODUCT_TYPE_CHANGED"
+      ],
+      "familyCounts": [
+        {
+          "family": "MAIN_IMAGE",
+          "count": 24
+        }
+      ],
+      "impact": "low",
+      "rank": 4,
+      "affectedCount": 24
+    }
+  ]
+}

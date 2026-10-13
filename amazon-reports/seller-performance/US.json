@@ -6,8 +6,8 @@
     {
       "lateShipmentRate": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-09-09T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-09-14T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0.04,
@@ -19,8 +19,8 @@
       "lateShipmentRateList": [
         {
           "reportingDateRange": {
-            "reportingDateFrom": "2026-09-29T00:00:00Z",
-            "reportingDateTo": "2026-10-08T23:59:59Z"
+            "reportingDateFrom": "2026-10-04T00:00:00Z",
+            "reportingDateTo": "2026-10-13T23:59:59Z"
           },
           "status": "GOOD",
           "targetValue": 0.04,
@@ -31,8 +31,8 @@
         },
         {
           "reportingDateRange": {
-            "reportingDateFrom": "2026-09-09T00:00:00Z",
-            "reportingDateTo": "2026-10-08T23:59:59Z"
+            "reportingDateFrom": "2026-09-14T00:00:00Z",
+            "reportingDateTo": "2026-10-13T23:59:59Z"
           },
           "status": "GOOD",
           "targetValue": 0.04,
@@ -44,8 +44,8 @@
       ],
       "invoiceDefectRate": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-09-25T00:00:00Z",
-          "reportingDateTo": "2026-10-01T23:59:59Z"
+          "reportingDateFrom": "2026-09-30T00:00:00Z",
+          "reportingDateTo": "2026-10-06T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0.05,
@@ -59,8 +59,8 @@
       "orderDefectRate": {
         "afn": {
           "reportingDateRange": {
-            "reportingDateFrom": "2026-07-26T00:00:00Z",
-            "reportingDateTo": "2026-09-23T23:59:59Z"
+            "reportingDateFrom": "2026-07-31T00:00:00Z",
+            "reportingDateTo": "2026-09-28T23:59:59Z"
           },
           "status": "GOOD",
           "targetValue": 0.01,
@@ -75,8 +75,8 @@
         },
         "mfn": {
           "reportingDateRange": {
-            "reportingDateFrom": "2026-07-26T00:00:00Z",
-            "reportingDateTo": "2026-09-23T23:59:59Z"
+            "reportingDateFrom": "2026-07-31T00:00:00Z",
+            "reportingDateTo": "2026-09-28T23:59:59Z"
           },
           "status": "GOOD",
           "targetValue": 0.01,
@@ -92,8 +92,8 @@
       },
       "onTimeDeliveryRate": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-08-30T00:00:00Z",
-          "reportingDateTo": "2026-09-28T23:59:59Z"
+          "reportingDateFrom": "2026-09-04T00:00:00Z",
+          "reportingDateTo": "2026-10-03T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0.97,
@@ -104,8 +104,8 @@
       },
       "unitOnTimeDeliveryRate": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-09-18T00:00:00Z",
-          "reportingDateTo": "2026-10-01T23:59:59Z"
+          "reportingDateFrom": "2026-09-23T00:00:00Z",
+          "reportingDateTo": "2026-10-06T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0.9,
@@ -116,8 +116,8 @@
       },
       "validTrackingRate": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-08-30T00:00:00Z",
-          "reportingDateTo": "2026-09-28T23:59:59Z"
+          "reportingDateFrom": "2026-09-04T00:00:00Z",
+          "reportingDateTo": "2026-10-03T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0.95,
@@ -128,8 +128,8 @@
       },
       "preFulfillmentCancellationRate": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-10-01T00:00:00Z",
-          "reportingDateTo": "2026-10-07T23:59:59Z"
+          "reportingDateFrom": "2026-10-06T00:00:00Z",
+          "reportingDateTo": "2026-10-12T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0.025,
@@ -142,15 +142,15 @@
       "accountHealthRating": {
         "ahrStatus": "WARNED",
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-11T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-16T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "ahrScore": 192.0
       },
       "listingPolicyViolations": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -159,8 +159,8 @@
       },
       "productAuthenticityCustomerComplaints": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -169,8 +169,8 @@
       },
       "productConditionCustomerComplaints": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -179,8 +179,8 @@
       },
       "productSafetyCustomerComplaints": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -189,8 +189,8 @@
       },
       "receivedIntellectualPropertyComplaints": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -199,8 +199,8 @@
       },
       "restrictedProductPolicyViolations": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -209,8 +209,8 @@
       },
       "suspectedIntellectualPropertyViolations": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "BAD",
         "targetValue": 0,
@@ -219,8 +219,8 @@
       },
       "foodAndProductSafetyIssues": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -229,8 +229,8 @@
       },
       "customerProductReviewsPolicyViolations": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -239,8 +239,8 @@
       },
       "otherPolicyViolations": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "BAD",
         "targetValue": 0,
@@ -249,8 +249,8 @@
       },
       "documentRequests": {
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-12T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-17T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         },
         "status": "GOOD",
         "targetValue": 0,
@@ -260,8 +260,8 @@
       "policyViolationWarnings": {
         "warningsCount": 0,
         "reportingDateRange": {
-          "reportingDateFrom": "2026-04-11T00:00:00Z",
-          "reportingDateTo": "2026-10-08T23:59:59Z"
+          "reportingDateFrom": "2026-04-16T00:00:00Z",
+          "reportingDateTo": "2026-10-13T23:59:59Z"
         }
       },
       "marketplaceId": "ATVPDKIKX0DER"
