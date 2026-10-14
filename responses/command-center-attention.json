@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-13T09:25:40.780Z",
+    "generatedAt": "2026-10-14T07:05:55.596Z",
     "scope": {
       "channelId": null,
       "marketplaceId": null
@@ -10,7 +10,7 @@
     {
       "id": "connection",
       "family": "CONNECTION",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 1,
       "scopeCount": 1,
       "channelCount": 1,
@@ -40,7 +40,7 @@
     {
       "id": "account_health",
       "family": "ACCOUNT_HEALTH",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 1,
       "scopeCount": 1,
       "channelCount": 1,
@@ -70,7 +70,7 @@
     {
       "id": "marketplace_health",
       "family": "MARKETPLACE_HEALTH",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 2,
       "scopeCount": 2,
       "channelCount": 1,
@@ -118,7 +118,7 @@
     {
       "id": "missing_price",
       "family": "MISSING_PRICE",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 35,
       "scopeCount": 4,
       "channelCount": 2,
@@ -175,7 +175,7 @@
     {
       "id": "out_of_stock",
       "family": "OUT_OF_STOCK",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 282,
       "scopeCount": 4,
       "channelCount": 2,
@@ -232,8 +232,8 @@
     {
       "id": "amazon_listing_blocker",
       "family": "AMAZON_LISTING_BLOCKER",
-      "severity": "red",
-      "affectedCount": 332,
+      "severity": "critical",
+      "affectedCount": 334,
       "scopeCount": 3,
       "channelCount": 1,
       "marketplaceCount": 3,
@@ -245,7 +245,7 @@
           "marketplaceId": 2,
           "marketplaceCode": "US",
           "reason": null,
-          "count": 158
+          "count": 159
         },
         {
           "channelId": 518,
@@ -254,7 +254,7 @@
           "marketplaceId": 1,
           "marketplaceCode": "CA",
           "reason": null,
-          "count": 153
+          "count": 154
         },
         {
           "channelId": 518,
@@ -270,11 +270,11 @@
       "details": [
         {
           "code": "MEDIA",
-          "count": 280
+          "count": 261
         },
         {
           "code": "ATTRIBUTES_CONTENT",
-          "count": 46
+          "count": 67
         },
         {
           "code": "SUPPRESSION_VISIBILITY",
@@ -301,7 +301,7 @@
     {
       "id": "amazon_not_searchable",
       "family": "AMAZON_NOT_SEARCHABLE",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 17,
       "scopeCount": 3,
       "channelCount": 1,
@@ -349,7 +349,7 @@
     {
       "id": "shopify_not_active",
       "family": "SHOPIFY_NOT_ACTIVE",
-      "severity": "red",
+      "severity": "critical",
       "affectedCount": 3,
       "scopeCount": 1,
       "channelCount": 1,
@@ -379,10 +379,10 @@
     {
       "id": "main_image",
       "family": "MAIN_IMAGE",
-      "severity": "black",
-      "affectedCount": 24,
-      "scopeCount": 2,
-      "channelCount": 2,
+      "severity": "critical",
+      "affectedCount": 13,
+      "scopeCount": 1,
+      "channelCount": 1,
       "marketplaceCount": 0,
       "chips": [
         {
@@ -393,32 +393,19 @@
           "marketplaceCode": null,
           "reason": null,
           "count": 13
-        },
-        {
-          "channelId": 519,
-          "channelName": "Quick-test-categra",
-          "channelType": "SHOPIFY",
-          "marketplaceId": null,
-          "marketplaceCode": null,
-          "reason": null,
-          "count": 11
         }
       ],
       "detailsKind": "MEDIA",
       "details": [
         {
           "code": "MISSING",
-          "count": 23
-        },
-        {
-          "code": "UNSUPPORTED",
-          "count": 1
+          "count": 13
         }
       ],
       "redirect": {
         "issueType": "MISSING_MEDIA",
         "issueGroupKey": null,
-        "channelId": null,
+        "channelId": 518,
         "marketplaceId": null,
         "workflowStatus": "OPEN"
       },
@@ -475,12 +462,13 @@
       "families": [
         "AMAZON_LISTING_BLOCKER",
         "AMAZON_NOT_SEARCHABLE",
-        "SHOPIFY_NOT_ACTIVE"
+        "SHOPIFY_NOT_ACTIVE",
+        "MAIN_IMAGE"
       ],
       "familyCounts": [
         {
           "family": "AMAZON_LISTING_BLOCKER",
-          "count": 332
+          "count": 334
         },
         {
           "family": "AMAZON_NOT_SEARCHABLE",
@@ -489,30 +477,15 @@
         {
           "family": "SHOPIFY_NOT_ACTIVE",
           "count": 3
+        },
+        {
+          "family": "MAIN_IMAGE",
+          "count": 13
         }
       ],
       "impact": "high",
       "rank": 3,
-      "affectedCount": 352
-    },
-    {
-      "id": "improve-catalog",
-      "families": [
-        "AMAZON_LISTING_WARNING",
-        "LOW_STOCK",
-        "STOCK_SYNC",
-        "MAIN_IMAGE",
-        "PRODUCT_TYPE_CHANGED"
-      ],
-      "familyCounts": [
-        {
-          "family": "MAIN_IMAGE",
-          "count": 24
-        }
-      ],
-      "impact": "low",
-      "rank": 4,
-      "affectedCount": 24
+      "affectedCount": 367
     }
   ]
 }
