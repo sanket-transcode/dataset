@@ -1,0 +1,715 @@
+{
+  "responses": [
+    {
+      "headers": {
+        "x-amzn-RequestId": "c62a8ee7-1dfc-4e42-b004-3e5654e6854c",
+        "Date": "Wed, 14 Oct 2026 11:28:41 GMT"
+      },
+      "status": {
+        "statusCode": 200,
+        "reasonPhrase": "OK"
+      },
+      "body": {
+        "payload": {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "Identifier": {
+            "SellerSKU": "skin-serum",
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ItemCondition": "New"
+          },
+          "Summary": {
+            "BuyBoxEligibleOffers": [
+              {
+                "condition": "new",
+                "fulfillmentChannel": "Amazon"
+              },
+              {
+                "condition": "new",
+                "fulfillmentChannel": "Merchant"
+              }
+            ],
+            "LowestPrices": [
+              {
+                "condition": "new",
+                "fulfillmentChannel": "Amazon",
+                "LandedPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 27.85
+                },
+                "Shipping": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 0.0
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 27.85
+                }
+              },
+              {
+                "condition": "new",
+                "fulfillmentChannel": "Merchant",
+                "LandedPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.85
+                },
+                "Shipping": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 0.0
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.85
+                }
+              }
+            ],
+            "BuyBoxPrices": [
+              {
+                "condition": "New",
+                "LandedPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.99
+                },
+                "Shipping": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 0.0
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.99
+                }
+              }
+            ],
+            "CompetitivePriceThreshold": {
+              "CurrencyCode": "CAD",
+              "Amount": 31.0
+            },
+            "NumberOfOffers": [
+              {
+                "condition": "new",
+                "fulfillmentChannel": "Amazon",
+                "OfferCount": 8
+              },
+              {
+                "condition": "new",
+                "fulfillmentChannel": "Merchant",
+                "OfferCount": 9
+              }
+            ],
+            "ListPrice": {
+              "CurrencyCode": "USD",
+              "Amount": 28.84
+            },
+            "TotalOfferCount": 17,
+            "SalesRankings": [
+              {
+                "Rank": 61,
+                "ProductCategoryId": "beauty_display_on_website"
+              },
+              {
+                "Rank": 32,
+                "ProductCategoryId": "6344740011"
+              }
+            ]
+          },
+          "Offers": [
+            {
+              "ShippingTime": {
+                "maximumHours": 0,
+                "availableDate": "2026-10-21T17:25:00Z",
+                "availabilityType": "FUTURE_WITH_DATE",
+                "minimumHours": 0
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 27.85
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A1BLU1BTAJYGPE",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 241,
+                "SellerPositiveFeedbackRating": 100.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 24,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 30.85
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A1LXA5TUTN7HC",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "ShipsFrom": {
+                "Country": "KR"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 49,
+                "SellerPositiveFeedbackRating": 45.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "maximumHours": 95,
+                "availableDate": "2026-10-26T06:10:00Z",
+                "availabilityType": "FUTURE_WITH_DATE",
+                "minimumHours": 0
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 30.9
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "AOGE5RP2A735N",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 689,
+                "SellerPositiveFeedbackRating": 100.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 0,
+                "maximumHours": 0,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 30.99
+              },
+              "IsBuyBoxWinner": true,
+              "SellerId": "A37JMMPXZ49F7M",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 928,
+                "SellerPositiveFeedbackRating": 98.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "maximumHours": 0,
+                "availableDate": "2026-10-18T20:15:00Z",
+                "availabilityType": "FUTURE_WITH_DATE",
+                "minimumHours": 0
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 30.99
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A30IBCUHTCYY3A",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 97,
+                "SellerPositiveFeedbackRating": 97.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 0,
+                "maximumHours": 0,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 31.93
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A2DRNRSQTYCOYY",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 57064,
+                "SellerPositiveFeedbackRating": 96.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 0,
+                "maximumHours": 0,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 33.99
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A3BBUVR4T67GMR",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 168,
+                "SellerPositiveFeedbackRating": 97.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 0,
+                "maximumHours": 0,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 35.0
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "AMLZI45Q47NBA",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 1130,
+                "SellerPositiveFeedbackRating": 100.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 48,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 37.93
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A2DRNRSQTYCOYY",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "AB"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 57064,
+                "SellerPositiveFeedbackRating": 96.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 0,
+                "maximumHours": 0,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 41.45
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A2Q0PMZVE610S5",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "ON"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 46,
+                "SellerPositiveFeedbackRating": 48.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 0,
+                "maximumHours": 0,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": true,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 44.99
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A25CL37TXCTG8J",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 528,
+                "SellerPositiveFeedbackRating": 100.0
+              },
+              "PrimeInformation": {
+                "IsPrime": true,
+                "IsNationalPrime": true
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 24,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 45.0
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A30R1DDXV5VUEV",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "AB"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 5370,
+                "SellerPositiveFeedbackRating": 57.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 24,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 39.99
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A269SX5YITDJGZ",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 5.98
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "ON"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 8,
+                "SellerPositiveFeedbackRating": 100.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 48,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 32.99
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A2D7A7BV6MP4XG",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 18.54
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "ON"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 1503,
+                "SellerPositiveFeedbackRating": 50.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 24,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 48.9
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "ADPXN28401QIM",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 5.54
+              },
+              "ShipsFrom": {
+                "Country": "US",
+                "State": "IL"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 7,
+                "SellerPositiveFeedbackRating": 86.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 24,
+                "maximumHours": 24,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 60.0
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A3GWKSKDZ450XJ",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "ON"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 23,
+                "SellerPositiveFeedbackRating": 100.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            },
+            {
+              "ShippingTime": {
+                "minimumHours": 144,
+                "maximumHours": 168,
+                "availabilityType": "NOW"
+              },
+              "MyOffer": false,
+              "IsFulfilledByAmazon": false,
+              "ListingPrice": {
+                "CurrencyCode": "CAD",
+                "Amount": 80.0
+              },
+              "IsBuyBoxWinner": false,
+              "SellerId": "A3RW8PY7JA8PU0",
+              "Shipping": {
+                "CurrencyCode": "CAD",
+                "Amount": 0.0
+              },
+              "ShipsFrom": {
+                "Country": "CA",
+                "State": "ON"
+              },
+              "SubCondition": "new",
+              "IsFeaturedMerchant": true,
+              "SellerFeedbackRating": {
+                "FeedbackCount": 52,
+                "SellerPositiveFeedbackRating": 50.0
+              },
+              "PrimeInformation": {
+                "IsPrime": false,
+                "IsNationalPrime": false
+              }
+            }
+          ],
+          "SKU": "skin-serum",
+          "status": "Success",
+          "ItemCondition": "New"
+        }
+      },
+      "request": {
+        "MarketplaceId": "A2EUQ1WTGCTBG2",
+        "ItemCondition": "New",
+        "SellerSKU": "skin-serum"
+      }
+    },
+    {
+      "headers": {
+        "x-amzn-RequestId": "65d224c7-cec8-4439-ae3e-17401336a1f1",
+        "Date": "Wed, 14 Oct 2026 11:28:41 GMT"
+      },
+      "status": {
+        "statusCode": 200,
+        "reasonPhrase": "OK"
+      },
+      "body": {
+        "payload": {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "Identifier": {
+            "SellerSKU": "30366969356370446492",
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ItemCondition": "New"
+          },
+          "Summary": {
+            "TotalOfferCount": 0
+          },
+          "Offers": [],
+          "SKU": "30366969356370446492",
+          "status": "NoBuyableOffers",
+          "ItemCondition": "New"
+        }
+      },
+      "request": {
+        "MarketplaceId": "A2EUQ1WTGCTBG2",
+        "ItemCondition": "New",
+        "SellerSKU": "30366969356370446492"
+      }
+    },
+    {
+      "headers": {
+        "x-amzn-RequestId": "855e5353-ea8c-48b4-9239-5a0046a106bc",
+        "Date": "Wed, 14 Oct 2026 11:28:40 GMT"
+      },
+      "status": {
+        "statusCode": 400,
+        "reasonPhrase": "Bad Request"
+      },
+      "body": {
+        "errors": [
+          {
+            "message": "25895874100-V1 is an invalid SKU for marketplace A2EUQ1WTGCTBG2",
+            "details": "",
+            "code": "InvalidInput"
+          }
+        ]
+      },
+      "request": {
+        "MarketplaceId": "A2EUQ1WTGCTBG2",
+        "ItemCondition": "New",
+        "SellerSKU": "25895874100-V1"
+      }
+    }
+  ]
+}

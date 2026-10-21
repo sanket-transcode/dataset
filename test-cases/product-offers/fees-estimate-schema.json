@@ -1,0 +1,95 @@
+{
+  "payload": {
+    "FeesEstimateResult": {
+      "Status": "string",
+      "FeesEstimateIdentifier": {
+        "MarketplaceId": "string",
+        "SellerId": "string",
+        "IdType": "ASIN",
+        "IdValue": "string",
+        "IsAmazonFulfilled": true,
+        "PriceToEstimateFees": {
+          "ListingPrice": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "Shipping": {
+            "CurrencyCode": "string",
+            "Amount": 0
+          },
+          "Points": {
+            "PointsNumber": 0,
+            "PointsMonetaryValue": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            }
+          }
+        },
+        "SellerInputIdentifier": "string",
+        "OptionalFulfillmentProgram": "FBA_CORE"
+      },
+      "FeesEstimate": {
+        "TimeOfFeesEstimation": "2026-10-15T09:10:44.600Z",
+        "TotalFeesEstimate": {
+          "CurrencyCode": "string",
+          "Amount": 0
+        },
+        "FeeDetailList": [
+          {
+            "FeeType": "string",
+            "FeeAmount": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            },
+            "FeePromotion": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            },
+            "TaxAmount": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            },
+            "FinalFee": {
+              "CurrencyCode": "string",
+              "Amount": 0
+            },
+            "IncludedFeeDetailList": [
+              {
+                "FeeType": "string",
+                "FeeAmount": {
+                  "CurrencyCode": "string",
+                  "Amount": 0
+                },
+                "FeePromotion": {
+                  "CurrencyCode": "string",
+                  "Amount": 0
+                },
+                "TaxAmount": {
+                  "CurrencyCode": "string",
+                  "Amount": 0
+                },
+                "FinalFee": {
+                  "CurrencyCode": "string",
+                  "Amount": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "Error": {
+        "Type": "string",
+        "Code": "string",
+        "Message": "string",
+        "Detail": [{}]
+      }
+    }
+  },
+  "errors": [
+    {
+      "code": "string",
+      "message": "string",
+      "details": "string"
+    }
+  ]
+}

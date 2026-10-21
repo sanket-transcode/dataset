@@ -1,0 +1,874 @@
+{
+  "responses": [
+    {
+      "body": {
+        "asin": "B0DG1DQ2S7",
+        "featuredBuyingOptions": [
+          {
+            "buyingOptionType": "New",
+            "segmentedFeaturedOffers": [
+              {
+                "condition": "New",
+                "featuredOfferSegments": [
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.05,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "V2C"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.22,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "S0J"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.27,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "T5H"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.38,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "V3M"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.7,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "M5M"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 2.04,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "P3E"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 8.93,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "L5A"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 42.39,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "L9E"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.05,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "M4G"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.11,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "P7E"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.11,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "V3T"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.38,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "P7B"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.43,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "M9V"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 1.29,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "M4R"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 2.31,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "M5V"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "NON_PRIME",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 10.49,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "J7C"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.05,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "N9V"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.11,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "V2R"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.16,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "K2P"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.27,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "L0K"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.43,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "N0R"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 0.81,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "M5A"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 1.29,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "A1A"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 1.78,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "V6B"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 11.89,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "K1V"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "customerMembership": "DEFAULT",
+                    "segmentDetails": {
+                      "glanceViewWeightPercentage": 13.07,
+                      "sampleLocation": {
+                        "postalCode": {
+                          "countryCode": "CA",
+                          "value": "T4B"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 30.99,
+                  "currencyCode": "CAD"
+                },
+                "promotions": [
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 6.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 10
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 5.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 5
+                        }
+                      }
+                    }
+                  }
+                ],
+                "sellerId": "A37JMMPXZ49F7M",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "lowestPricedOffers": [
+          {
+            "lowestPricedOffersInput": {
+              "itemCondition": "New",
+              "offerType": "Consumer"
+            },
+            "offers": [
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 27.85,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A1BLU1BTAJYGPE",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 30.85,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A1LXA5TUTN7HC",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 30.9,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "sellerId": "AOGE5RP2A735N",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 30.99,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "promotions": [
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 6.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 10
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 5.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 5
+                        }
+                      }
+                    }
+                  }
+                ],
+                "sellerId": "A37JMMPXZ49F7M",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 30.99,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "promotions": [
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 5.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 6.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 10
+                        }
+                      }
+                    }
+                  }
+                ],
+                "sellerId": "A30IBCUHTCYY3A",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 31.93,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "sellerId": "A2DRNRSQTYCOYY",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 33.99,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "sellerId": "A3BBUVR4T67GMR",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 35.0,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "promotions": [
+                  {
+                    "promotionSavings": {
+                      "discount": {
+                        "percentOff": 5.0,
+                        "type": "PERCENTAGE_OFF"
+                      }
+                    },
+                    "promotionType": "BASKET_BUILDING",
+                    "purchaseRequirements": {
+                      "condition": {
+                        "quantityThreshold": {
+                          "quantity": 5
+                        }
+                      }
+                    }
+                  }
+                ],
+                "sellerId": "AMLZI45Q47NBA",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 37.93,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A2DRNRSQTYCOYY",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 41.45,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A2Q0PMZVE610S5",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "AFN",
+                "listingPrice": {
+                  "amount": 44.99,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NATIONAL"
+                },
+                "sellerId": "A25CL37TXCTG8J",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 45.0,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A30R1DDXV5VUEV",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 39.99,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A269SX5YITDJGZ",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 5.98,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 32.99,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A2D7A7BV6MP4XG",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 18.54,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 48.9,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "ADPXN28401QIM",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 5.54,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 60.0,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A3GWKSKDZ450XJ",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              },
+              {
+                "condition": "New",
+                "fulfillmentType": "MFN",
+                "listingPrice": {
+                  "amount": 80.0,
+                  "currencyCode": "CAD"
+                },
+                "primeDetails": {
+                  "eligibility": "NONE"
+                },
+                "sellerId": "A3RW8PY7JA8PU0",
+                "shippingOptions": [
+                  {
+                    "price": {
+                      "amount": 0.0,
+                      "currencyCode": "CAD"
+                    },
+                    "shippingOptionType": "DEFAULT"
+                  }
+                ],
+                "subCondition": "New"
+              }
+            ]
+          }
+        ],
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "referencePrices": [
+          {
+            "name": "CompetitivePrice",
+            "price": {
+              "amount": 31.0,
+              "currencyCode": "CAD"
+            }
+          },
+          {
+            "name": "WasPrice",
+            "price": {
+              "amount": 28.51,
+              "currencyCode": "CAD"
+            }
+          }
+        ],
+        "similarItems": []
+      },
+      "status": {
+        "reasonPhrase": "Success",
+        "statusCode": 200
+      }
+    }
+  ]
+}

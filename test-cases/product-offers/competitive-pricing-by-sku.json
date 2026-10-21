@@ -1,0 +1,91 @@
+{
+  "payload": [
+    {
+      "SellerSKU": "skin-serum",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [
+            {
+              "belongsToRequester": false,
+              "condition": "New",
+              "subcondition": "New",
+              "Price": {
+                "LandedPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.99
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.99
+                },
+                "Shipping": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 0
+                }
+              },
+              "CompetitivePriceId": "1"
+            }
+          ],
+          "NumberOfOfferListings": [
+            {
+              "condition": "New",
+              "Count": 17
+            },
+            {
+              "condition": "Any",
+              "Count": 17
+            }
+          ]
+        },
+        "Identifiers": {
+          "SKUIdentifier": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "SellerId": "A13EDBEFHU3OJ1",
+            "SellerSKU": "skin-serum"
+          },
+          "MarketplaceASIN": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ASIN": "B0DG1DQ2S7"
+          }
+        },
+        "SalesRankings": [
+          {
+            "ProductCategoryId": "beauty_display_on_website",
+            "Rank": 61
+          },
+          {
+            "ProductCategoryId": "6344740011",
+            "Rank": 32
+          }
+        ]
+      },
+      "status": "Success"
+    },
+    {
+      "SellerSKU": "30366969356370446492",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [],
+          "NumberOfOfferListings": []
+        },
+        "Identifiers": {
+          "SKUIdentifier": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "SellerId": "A13EDBEFHU3OJ1",
+            "SellerSKU": "30366969356370446492"
+          },
+          "MarketplaceASIN": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ASIN": "B0FS6WQNVK"
+          }
+        },
+        "SalesRankings": []
+      },
+      "status": "Success"
+    },
+    {
+      "SellerSKU": "25895874100-V1",
+      "status": "ClientError"
+    }
+  ]
+}

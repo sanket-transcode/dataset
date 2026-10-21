@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "headers": {
+        "x-amzn-RequestId": "40296451-6a6d-4f1f-9c6e-1d278ec9877d",
+        "Date": "Wed, 14 Oct 2026 12:18:00 GMT"
+      },
+      "status": {
+        "statusCode": 200,
+        "reasonPhrase": "OK"
+      },
+      "body": {
+        "featuredOfferExpectedPriceResults": [
+          {
+            "resultStatus": "OFFER_NOT_FOUND",
+            "currentFeaturedOffer": {
+              "condition": "New",
+              "price": {
+                "shippingPrice": {
+                  "currencyCode": "CAD",
+                  "amount": 0.0
+                },
+                "listingPrice": {
+                  "currencyCode": "CAD",
+                  "amount": 30.99
+                }
+              },
+              "offerIdentifier": {
+                "marketplaceId": "A2EUQ1WTGCTBG2",
+                "asin": "B0DG1DQ2S7",
+                "sellerId": "A37JMMPXZ49F7M",
+                "fulfillmentType": "AFN"
+              }
+            }
+          }
+        ],
+        "offerIdentifier": {
+          "marketplaceId": "A2EUQ1WTGCTBG2",
+          "asin": "B0DG1DQ2S7",
+          "sellerId": "A13EDBEFHU3OJ1",
+          "sku": "skin-serum"
+        }
+      },
+      "request": {
+        "marketplaceId": "A2EUQ1WTGCTBG2",
+        "sku": "skin-serum"
+      }
+    }
+  ]
+}

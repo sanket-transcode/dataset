@@ -1,0 +1,94 @@
+{
+  "payload": [
+    {
+      "ASIN": "B0DG1DQ2S7",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [
+            {
+              "belongsToRequester": false,
+              "condition": "New",
+              "subcondition": "New",
+              "Price": {
+                "LandedPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.99
+                },
+                "ListingPrice": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 30.99
+                },
+                "Shipping": {
+                  "CurrencyCode": "CAD",
+                  "Amount": 0
+                }
+              },
+              "CompetitivePriceId": "1"
+            }
+          ],
+          "NumberOfOfferListings": [
+            {
+              "condition": "New",
+              "Count": 17
+            },
+            {
+              "condition": "Any",
+              "Count": 17
+            }
+          ]
+        },
+        "Identifiers": {
+          "MarketplaceASIN": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ASIN": "B0DG1DQ2S7"
+          }
+        },
+        "SalesRankings": [
+          {
+            "ProductCategoryId": "beauty_display_on_website",
+            "Rank": 61
+          },
+          {
+            "ProductCategoryId": "6344740011",
+            "Rank": 32
+          }
+        ]
+      },
+      "status": "Success"
+    },
+    {
+      "ASIN": "B0FS6WQNVK",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [],
+          "NumberOfOfferListings": []
+        },
+        "Identifiers": {
+          "MarketplaceASIN": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ASIN": "B0FS6WQNVK"
+          }
+        },
+        "SalesRankings": []
+      },
+      "status": "Success"
+    },
+    {
+      "ASIN": "B0G1TGBVVF",
+      "Product": {
+        "CompetitivePricing": {
+          "CompetitivePrices": [],
+          "NumberOfOfferListings": []
+        },
+        "Identifiers": {
+          "MarketplaceASIN": {
+            "MarketplaceId": "A2EUQ1WTGCTBG2",
+            "ASIN": "B0G1TGBVVF"
+          }
+        },
+        "SalesRankings": []
+      },
+      "status": "Success"
+    }
+  ]
+}
