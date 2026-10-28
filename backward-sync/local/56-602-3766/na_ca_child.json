@@ -1,0 +1,82 @@
+[
+  {
+    "sku": "helmet for men - v1",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": "B0HP1W4PL8"
+    },
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "AUTOMOTIVE_HELMET",
+    "productName": "helmet for men",
+    "isEnriched": false,
+    "variantId": 56385,
+    "isSellableUncreated": false
+  },
+  {
+    "sku": "helmet for men - v2",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": "B0HP1MZ45V"
+    },
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "AUTOMOTIVE_HELMET",
+    "productName": "helmet for men",
+    "isEnriched": false,
+    "variantId": 56386,
+    "isSellableUncreated": false
+  },
+  {
+    "sku": "8852036985201452-V3",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": "B0FP2TQSRF"
+    },
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FIGURINE",
+    "productName": "MIXFOSAHN Halloween Ghost Finger Statue HIO-Hop Ghost Statue Halloween Decorations Indoor Farmhouse Tiered Tray Decor Spooky Home Decorations Coffee Table Centerpieces Shelf Mantel Display 2 Pcs",
+    "isEnriched": false,
+    "variantId": 56390,
+    "isSellableUncreated": false
+  },
+  {
+    "sku": "8852036985201452-V4",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": "B0FP2TV373"
+    },
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FIGURINE",
+    "productName": "MIXFOSAHN Halloween Ghost Figurine Cartoon Cute Spooky Carrying Pumpkin Basket Cute Halloween Office Desk Decor Display Ornament Tiny Trick or Treat Ghost Resin Statue for Home Supplies",
+    "isEnriched": false,
+    "variantId": 56391,
+    "isSellableUncreated": false
+  },
+  {
+    "sku": "8852036985201452-V1",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": "B0FP2VSM6H"
+    },
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "variationTheme": "COLOR_NAME",
+    "variants": [],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FIGURINE",
+    "productName": "MIXFOSAHN Halloween Ghost Statue Cute Spooky Figurines Desk Decor Cartoon Mini Spooky Decorations Halloween Unique Cat Ghost Figurines for Festive Home and Office Desktop Decor Display Ornaments",
+    "isEnriched": false,
+    "variantId": 56392,
+    "isSellableUncreated": false
+  }
+]

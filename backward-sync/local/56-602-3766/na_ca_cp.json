@@ -1,0 +1,111 @@
+[
+  {
+    "sku": "helmet for men",
+    "asin": null,
+    "winnerSku": "helmet for men",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "AUTOMOTIVE_HELMET",
+    "productName": null,
+    "isProductExist": true,
+    "productId": 17127,
+    "wrappers": [
+      {
+        "sku": "helmet for men",
+        "asin": null,
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {},
+        "variationTheme": "COLOR",
+        "variants": [
+          {
+            "sku": "helmet for men - v1",
+            "asin": "B0HP1W4PL8"
+          },
+          {
+            "sku": "helmet for men - v2",
+            "asin": "B0HP1MZ45V"
+          }
+        ],
+        "score": 34,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "602",
+        "wrapperId": "10715"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-variant-schema-handler",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "isSellableUncreated": false
+  },
+  {
+    "sku": "8852036985201452",
+    "asin": "B0FVSFNJJM",
+    "winnerSku": "8852036985201452",
+    "isStandaloneProduct": false,
+    "marketplaces": ["ATVPDKIKX0DER"],
+    "sourceMarketplace": "ATVPDKIKX0DER",
+    "productType": "FIGURINE",
+    "productName": null,
+    "isProductExist": true,
+    "productId": 17129,
+    "wrappers": [
+      {
+        "sku": "8852036985201452",
+        "asin": "B0FVSFNJJM",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "metaData": {
+          "summaries": [
+            {
+              "marketplaceId": "ATVPDKIKX0DER",
+              "productType": "PRODUCT",
+              "status": [],
+              "createdDate": "2025-11-03T06:21:29.700Z",
+              "lastUpdatedDate": "2026-05-20T08:39:55.466Z"
+            }
+          ],
+          "catalogSummary": [],
+          "attributes": {
+            "fulfillment_availability": [
+              {
+                "fulfillment_channel_code": "DEFAULT",
+                "quantity": 0
+              }
+            ]
+          }
+        },
+        "variationTheme": "COLOR_NAME",
+        "variants": [
+          {
+            "sku": "8852036985201452-V3",
+            "asin": "B0FP2TQSRF"
+          },
+          {
+            "sku": "8852036985201452-V4",
+            "asin": "B0FP2TV373"
+          },
+          {
+            "sku": "8852036985201452-V1",
+            "asin": "B0FP2VSM6H"
+          }
+        ],
+        "score": 39,
+        "shouldProcess": true,
+        "isWinnerWrapper": true,
+        "isActiveWrapper": true,
+        "isPrimaryWrapper": true,
+        "isOldWrapper": false,
+        "channelId": "602",
+        "wrapperId": "10719"
+      }
+    ],
+    "cleanupWrappers": [],
+    "currentQueueStatus": "sync-amazon-process-media",
+    "baseLanguageMarketplaceId": "ATVPDKIKX0DER",
+    "isSellableUncreated": false
+  }
+]

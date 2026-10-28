@@ -1,0 +1,53 @@
+{
+  "channelId": "602",
+  "status": "PROCESSING",
+  "nextToken": null,
+  "updatedAt": "2026-10-27T07:04:32.101Z",
+  "currentQueue": "sync-amazon-fetch-products",
+  "sellableCount": 5,
+  "sync-amazon-fetch-products": {
+    "status": "SUCCESS"
+  },
+  "sync-amazon-create-base-product": {
+    "status": "PROCESSING",
+    "batchSize": 1,
+    "currentBatchIndex": 2
+  },
+  "productTracker": {
+    "helmet for men - v2": {
+      "hasErrors": false,
+      "productId": 17127,
+      "productName": null,
+      "variantId": 56386,
+      "metadata": {}
+    },
+    "8852036985201452-V4": {
+      "hasErrors": false,
+      "productId": 17129,
+      "productName": null,
+      "metadata": {},
+      "variantId": 56391
+    },
+    "helmet for men - v1": {
+      "hasErrors": false,
+      "productId": 17127,
+      "productName": null,
+      "variantId": 56385,
+      "metadata": {}
+    },
+    "8852036985201452-V1": {
+      "hasErrors": false,
+      "productId": 17129,
+      "productName": null,
+      "metadata": {},
+      "variantId": 56392
+    },
+    "8852036985201452-V3": {
+      "hasErrors": false,
+      "productId": 17129,
+      "productName": null,
+      "metadata": {},
+      "variantId": 56390
+    }
+  }
+}

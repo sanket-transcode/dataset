@@ -1,0 +1,68 @@
+[
+  {
+    "sku": "8852036985201452",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": "B0FVSFNJJM"
+    },
+    "marketplaces": [
+      "ATVPDKIKX0DER"
+    ],
+    "variationTheme": "COLOR_NAME",
+    "variants": [
+      {
+        "sku": "8852036985201452-V3",
+        "marketplaces": [
+          "ATVPDKIKX0DER"
+        ]
+      },
+      {
+        "sku": "8852036985201452-V4",
+        "marketplaces": [
+          "ATVPDKIKX0DER"
+        ]
+      },
+      {
+        "sku": "8852036985201452-V1",
+        "marketplaces": [
+          "ATVPDKIKX0DER"
+        ]
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "FIGURINE",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  },
+  {
+    "sku": "helmet for men",
+    "asinByMarketplace": {
+      "ATVPDKIKX0DER": null
+    },
+    "marketplaces": [
+      "ATVPDKIKX0DER"
+    ],
+    "variationTheme": "COLOR",
+    "variants": [
+      {
+        "sku": "helmet for men - v1",
+        "marketplaces": [
+          "ATVPDKIKX0DER"
+        ]
+      },
+      {
+        "sku": "helmet for men - v2",
+        "marketplaces": [
+          "ATVPDKIKX0DER"
+        ]
+      }
+    ],
+    "isStandaloneProduct": false,
+    "currentQueueStatus": "sync-amazon-fetch-products",
+    "productType": "AUTOMOTIVE_HELMET",
+    "productName": null,
+    "isEnriched": false,
+    "isProcessed": true
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1323",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1,
+          "region": {
+            "id": 1,
+            "name": "North America",
+            "region": "na",
+            "endPoint": "https://sellingpartnerapi-na.amazon.com",
+            "createdAt": "2026-02-06T10:25:35.850Z",
+            "updatedAt": "2026-02-06T10:25:35.850Z"
+          }
+        },
+        "userCurrency": {
+          "id": "840"
+        }
+      },
+      "attributes": {},
+      "listingAttributes": {},
+      "catalogAttributes": {},
+      "listingRelationships": [],
+      "catalogRelationships": [],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "PRODUCT",
+          "status": [],
+          "createdDate": "2026-10-23T09:05:10.592Z",
+          "lastUpdatedDate": "2026-10-23T14:45:44.965Z"
+        }
+      ],
+      "catalogSummary": [],
+      "images": [],
+      "fulfillmentAvailability": [],
+      "offers": [],
+      "issues": [
+        {
+          "code": "8007",
+          "message": "We found some issues with your parent SKU [helmet for men] that need to be fixed before you can work on any child SKUs. Please correct the product errors in your parent SKU first. For more details please check https://sellercentral.amazon.com/gp/help/202135320",
+          "severity": "ERROR",
+          "categories": ["MISSING_ATTRIBUTE", "LISTING"],
+          "sku": "helmet for men"
+        }
+      ],
+      "productTypes": []
+    }
+  }
+]

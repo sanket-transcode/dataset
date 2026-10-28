@@ -1,0 +1,753 @@
+[
+  {
+    "marketplaceId": "ATVPDKIKX0DER",
+    "data": {
+      "amazonChannelMarketplace": {
+        "id": "1323",
+        "language": "en_US",
+        "status": true,
+        "amazonMarketplace": {
+          "id": 2,
+          "marketplaceId": "ATVPDKIKX0DER",
+          "country": "United States of America",
+          "countryCode": "US",
+          "regionId": 1,
+          "region": {
+            "id": 1,
+            "name": "North America",
+            "region": "na",
+            "endPoint": "https://sellingpartnerapi-na.amazon.com",
+            "createdAt": "2026-02-06T10:25:35.850Z",
+            "updatedAt": "2026-02-06T10:25:35.850Z"
+          }
+        },
+        "userCurrency": {
+          "id": "840"
+        }
+      },
+      "attributes": {
+        "bullet_point": [
+          {
+            "value": "Full-face helmet with aggressive styling",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Integrated dark smoke visor for sun protection",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Advanced ventilation system for optimal airflow",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Durable construction for maximum safety",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Comfortable interior lining for extended wear",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "department": [
+          {
+            "value": "Men's",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "included_components": [
+          {
+            "value": "Helmet",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Visor",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_weight": [
+          {
+            "unit": "grams",
+            "value": 10,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Experience superior protection and aggressive style with this full-face rally helmet. Designed for men, it features a sleek matte black finish with striking red accents. The integrated dark smoke visor offers excellent sun protection, while the advanced ventilation system ensures optimal airflow to keep you cool and comfortable during long rides. Built with durable materials, this helmet provides maximum safety and peace of mind on the road or track. The comfortable interior lining enhances the overall wearing experience, making it ideal for extended use.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2026-10-23T09:05:10.592Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_name": [
+          {
+            "value": "helmet-01",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "COLOR"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": true,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Rally Helmets",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "list_price": [
+          {
+            "currency": "USD",
+            "value": 0,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "material": [
+          {
+            "value": "Acrylonitrile Butadiene Styrene (ABS)",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Polycarbonate (PC)",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_dimensions": [
+          {
+            "length": {
+              "unit": "inches",
+              "value": 10
+            },
+            "width": {
+              "unit": "inches",
+              "value": 10
+            },
+            "height": {
+              "unit": "inches",
+              "value": 10
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "color": [
+          {
+            "value": "white",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "helmet for men",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "generi",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "Generic",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "import_designation": [
+          {
+            "value": "Imported",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "CA",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "warranty_description": [
+          {
+            "value": "none",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "swatch_product_image_locator": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/61thanBs2-L.jpg",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "child"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation",
+            "parent_sku": "helmet for men"
+          }
+        ]
+      },
+      "listingAttributes": {
+        "color": [
+          {
+            "value": "white",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "COLOR"
+          }
+        ],
+        "included_components": [
+          {
+            "value": "Helmet",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Visor",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_weight": [
+          {
+            "unit": "grams",
+            "value": 10,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "fulfillment_availability": [
+          {
+            "fulfillment_channel_code": "DEFAULT",
+            "quantity": 0
+          }
+        ],
+        "manufacturer": [
+          {
+            "value": "generi",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_name": [
+          {
+            "value": "helmet-01",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "bullet_point": [
+          {
+            "value": "Full-face helmet with aggressive styling",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Integrated dark smoke visor for sun protection",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Advanced ventilation system for optimal airflow",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Durable construction for maximum safety",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Comfortable interior lining for extended wear",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "value": "Experience superior protection and aggressive style with this full-face rally helmet. Designed for men, it features a sleek matte black finish with striking red accents. The integrated dark smoke visor offers excellent sun protection, while the advanced ventilation system ensures optimal airflow to keep you cool and comfortable during long rides. Built with durable materials, this helmet provides maximum safety and peace of mind on the road or track. The comfortable interior lining enhances the overall wearing experience, making it ideal for extended use.",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "department": [
+          {
+            "value": "Men's",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "value": "Generic",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": true,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "import_designation": [
+          {
+            "value": "Imported",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "country_of_origin": [
+          {
+            "value": "CA",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "value": "helmet for men",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "merchant_shipping_group": [
+          {
+            "value": "legacy-template-id",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "list_price": [
+          {
+            "currency": "USD",
+            "value": 0,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Rally Helmets",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "condition_type": [
+          {
+            "value": "new_new",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_dimensions": [
+          {
+            "length": {
+              "unit": "inches",
+              "value": 10
+            },
+            "width": {
+              "unit": "inches",
+              "value": 10
+            },
+            "height": {
+              "unit": "inches",
+              "value": 10
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "material": [
+          {
+            "value": "Acrylonitrile Butadiene Styrene (ABS)",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "value": "Polycarbonate (PC)",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "warranty_description": [
+          {
+            "value": "none",
+            "language_tag": "en_US",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "swatch_product_image_locator": [
+          {
+            "media_location": "https://m.media-amazon.com/images/I/61thanBs2-L.jpg",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "parentage_level": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "value": "child"
+          }
+        ],
+        "child_parent_sku_relationship": [
+          {
+            "marketplace_id": "ATVPDKIKX0DER",
+            "child_relationship_type": "variation",
+            "parent_sku": "helmet for men"
+          }
+        ]
+      },
+      "catalogAttributes": {
+        "bullet_point": [
+          {
+            "language_tag": "en_US",
+            "value": "Full-face helmet with aggressive styling",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "language_tag": "en_US",
+            "value": "Integrated dark smoke visor for sun protection",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "language_tag": "en_US",
+            "value": "Advanced ventilation system for optimal airflow",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "language_tag": "en_US",
+            "value": "Durable construction for maximum safety",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "language_tag": "en_US",
+            "value": "Comfortable interior lining for extended wear",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "department": [
+          {
+            "language_tag": "en_US",
+            "value": "mens",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "included_components": [
+          {
+            "language_tag": "en_US",
+            "value": "Helmet",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "language_tag": "en_US",
+            "value": "Visor",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_weight": [
+          {
+            "unit": "grams",
+            "value": 10,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_description": [
+          {
+            "language_tag": "en_US",
+            "value": "Experience superior protection and aggressive style with this full-face rally helmet. Designed for men, it features a sleek matte black finish with striking red accents. The integrated dark smoke visor offers excellent sun protection, while the advanced ventilation system ensures optimal airflow to keep you cool and comfortable during long rides. Built with durable materials, this helmet provides maximum safety and peace of mind on the road or track. The comfortable interior lining enhances the overall wearing experience, making it ideal for extended use.",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "product_site_launch_date": [
+          {
+            "value": "2026-10-23T09:05:10.592Z",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "model_name": [
+          {
+            "language_tag": "en_US",
+            "value": "helmet-01",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "variation_theme": [
+          {
+            "name": "COLOR",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_dg_hz_regulation": [
+          {
+            "value": "not_applicable",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "supplier_declared_has_product_identifier_exemption": [
+          {
+            "value": true,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_type_keyword": [
+          {
+            "value": "Rally Helmets",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "list_price": [
+          {
+            "currency": "USD",
+            "value": 0,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "material": [
+          {
+            "language_tag": "en_US",
+            "value": "Acrylonitrile Butadiene Styrene (ABS)",
+            "marketplace_id": "ATVPDKIKX0DER"
+          },
+          {
+            "language_tag": "en_US",
+            "value": "Polycarbonate (PC)",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "batteries_required": [
+          {
+            "value": false,
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_package_dimensions": [
+          {
+            "length": {
+              "unit": "inches",
+              "value": 10
+            },
+            "width": {
+              "unit": "inches",
+              "value": 10
+            },
+            "height": {
+              "unit": "inches",
+              "value": 10
+            },
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "color": [
+          {
+            "language_tag": "en_US",
+            "value": "white",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "item_name": [
+          {
+            "language_tag": "en_US",
+            "value": "Helmet for Men",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "manufacturer": [
+          {
+            "language_tag": "en_US",
+            "value": "generi",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "brand": [
+          {
+            "language_tag": "en_US",
+            "value": "Generic",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ],
+        "import_designation": [
+          {
+            "language_tag": "en_US",
+            "value": "Imported",
+            "marketplace_id": "ATVPDKIKX0DER"
+          }
+        ]
+      },
+      "listingRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": [
+            {
+              "parentSkus": ["helmet for men"],
+              "type": "VARIATION",
+              "variationTheme": {
+                "attributes": ["color"],
+                "theme": "COLOR"
+              }
+            }
+          ]
+        }
+      ],
+      "catalogRelationships": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "relationships": []
+        }
+      ],
+      "summaries": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "asin": "B0HP1MZ45V",
+          "productType": "AUTOMOTIVE_HELMET",
+          "conditionType": "new_new",
+          "status": [],
+          "itemName": "Helmet for Men",
+          "createdDate": "2026-10-23T09:06:23.678Z",
+          "lastUpdatedDate": "2026-10-23T09:06:23.678Z"
+        }
+      ],
+      "catalogSummary": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "adultProduct": false,
+          "autographed": false,
+          "brand": "Generic",
+          "browseClassification": {
+            "displayName": "Categories",
+            "classificationId": "10304191"
+          },
+          "color": "white",
+          "itemClassification": "BASE_PRODUCT",
+          "itemName": "Helmet for Men",
+          "manufacturer": "generi",
+          "memorabilia": false,
+          "tradeInEligible": false,
+          "websiteDisplayGroup": "sports_display_on_website",
+          "websiteDisplayGroupName": "Sports"
+        }
+      ],
+      "images": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "images": []
+        }
+      ],
+      "fulfillmentAvailability": [
+        {
+          "fulfillmentChannelCode": "DEFAULT",
+          "quantity": 0
+        }
+      ],
+      "offers": [],
+      "issues": [
+        {
+          "code": "20015",
+          "message": "Your image file type isn't supported. Image must use HTTP or HTTPS protocol (not FTP or \"file\"), and be in JPEG, TIFF, PNG, or non-animated GIF format (JPEG preferred). Use RGB or CMYK color (RGB preferred). Images should be clear, unpixelated, at least 72 dpi, and between 1,000 and 10,000 pixels on the longest side to enable zoom functionality.",
+          "severity": "ERROR",
+          "categories": ["INVALID_ATTRIBUTE", "INVALID_IMAGE", "LISTING"],
+          "sku": "helmet for men - v2"
+        },
+        {
+          "code": "18320",
+          "message": "The main image is missing or incorrect. Please submit a compliant image to lift the suppression. Also refer to Product image requirements.",
+          "severity": "ERROR",
+          "categories": [
+            "MISSING_IMAGE",
+            "MISSING_ATTRIBUTE",
+            "INVALID_ATTRIBUTE",
+            "INVALID_IMAGE",
+            "PRODUCT"
+          ],
+          "enforcements": {
+            "actions": [
+              {
+                "action": "SEARCH_SUPPRESSED"
+              }
+            ],
+            "exemption": {
+              "status": "NOT_EXEMPT"
+            }
+          }
+        }
+      ],
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "AUTOMOTIVE_HELMET"
+        }
+      ]
+    }
+  }
+]
