@@ -1,0 +1,32 @@
+{
+  "missingProducts": {
+    "ATVPDKIKX0DER": {
+      "skus": [
+        {
+          "sku": "Reusable Water Bottle",
+          "asin": null
+        },
+        {
+          "sku": "helmet for men",
+          "asin": null
+        },
+        {
+          "sku": "ABCD",
+          "asin": "B0DZXJ3PRT"
+        },
+        {
+          "sku": "8852036985201452",
+          "asin": "B0FVSFNJJM"
+        }
+      ]
+    },
+    "A2EUQ1WTGCTBG2": {
+      "skus": [
+        {
+          "sku": "TEST-SOCKS",
+          "asin": null
+        }
+      ]
+    }
+  }
+}
